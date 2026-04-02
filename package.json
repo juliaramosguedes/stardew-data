@@ -1,0 +1,28 @@
+{
+  "name": "stardew-data",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "description": "Stardew Valley game data pipeline for AI training and stardew-guide",
+  "scripts": {
+    "parse": "node --env-file=.env --experimental-strip-types scripts/index.ts",
+    "parse:data": "node --env-file=.env --experimental-strip-types scripts/index.ts --only data",
+    "parse:sprites": "node --env-file=.env --experimental-strip-types scripts/index.ts --only sprites",
+    "typecheck": "tsc --noEmit",
+    "test": "node --env-file=.env --experimental-strip-types --test 'tests/**/*.test.ts'",
+    "test:unit": "node --experimental-strip-types --test 'tests/unit/**/*.test.ts'",
+    "test:integration": "node --env-file=.env --experimental-strip-types --test 'tests/integration/**/*.test.ts'",
+    "test:watch": "node --experimental-strip-types --test --watch 'tests/utils/**/*.test.ts' 'tests/parsers/**/*.test.ts'"
+  },
+  "dependencies": {
+    "sharp": "^0.34.5",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^24.12.0",
+    "typescript": "^6.0.2"
+  }
+}

@@ -1,0 +1,1336 @@
+{
+  "_meta": {
+    "source": "Data/Characters.json + Data/NPCGiftTastes.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-02T18:13:02.047Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "npcs": [
+    {
+      "name": "???",
+      "lovedGifts": [],
+      "likedGifts": [],
+      "dislikedGifts": [],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Abigail",
+      "lovedGifts": [
+        "66",
+        "128",
+        "220",
+        "226",
+        "276",
+        "611",
+        "904",
+        "Book_Void"
+      ],
+      "likedGifts": [
+        "119",
+        "109",
+        "SkillBook_4",
+        "BasiliskPaw"
+      ],
+      "dislikedGifts": [
+        "16",
+        "245",
+        "246"
+      ],
+      "hatedGifts": [
+        "330"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Alex",
+      "lovedGifts": [
+        "201",
+        "212",
+        "Book_Defense"
+      ],
+      "likedGifts": [
+        "403",
+        "107",
+        "ParrotEgg"
+      ],
+      "dislikedGifts": [
+        "16",
+        "330",
+        "book_item"
+      ],
+      "hatedGifts": [
+        "80"
+      ],
+      "neutralGifts": [
+        "FrogEgg"
+      ],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Bear",
+      "lovedGifts": [],
+      "likedGifts": [],
+      "dislikedGifts": [],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Birdie",
+      "lovedGifts": [],
+      "likedGifts": [],
+      "dislikedGifts": [],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Bouncer",
+      "lovedGifts": [],
+      "likedGifts": [],
+      "dislikedGifts": [],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Caroline",
+      "lovedGifts": [
+        "213",
+        "614",
+        "593",
+        "907"
+      ],
+      "likedGifts": [
+        "18",
+        "815",
+        "402",
+        "418",
+        "16"
+      ],
+      "dislikedGifts": [
+        "330",
+        "300",
+        "306",
+        "307"
+      ],
+      "hatedGifts": [
+        "80",
+        "296"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Clint",
+      "lovedGifts": [
+        "60",
+        "62",
+        "64",
+        "66",
+        "68",
+        "70",
+        "336",
+        "337",
+        "605",
+        "649",
+        "749"
+      ],
+      "likedGifts": [
+        "334",
+        "335",
+        "SkillBook_3"
+      ],
+      "dislikedGifts": [
+        "16",
+        "80"
+      ],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Demetrius",
+      "lovedGifts": [
+        "207",
+        "232",
+        "233",
+        "400"
+      ],
+      "likedGifts": [
+        "422",
+        "107"
+      ],
+      "dislikedGifts": [
+        "80",
+        "330"
+      ],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Dwarf",
+      "lovedGifts": [
+        "554",
+        "60",
+        "62",
+        "64",
+        "66",
+        "68",
+        "70",
+        "749",
+        "162"
+      ],
+      "likedGifts": [
+        "78",
+        "82",
+        "84",
+        "86",
+        "96",
+        "97",
+        "98",
+        "99",
+        "121",
+        "122"
+      ],
+      "dislikedGifts": [
+        "16",
+        "330"
+      ],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Elliott",
+      "lovedGifts": [
+        "715",
+        "732",
+        "218",
+        "444",
+        "637",
+        "814"
+      ],
+      "likedGifts": [
+        "727",
+        "728",
+        "60",
+        "80",
+        "82",
+        "84",
+        "149",
+        "151",
+        "346",
+        "348",
+        "728",
+        "book_item"
+      ],
+      "dislikedGifts": [
+        "16",
+        "206",
+        "330"
+      ],
+      "hatedGifts": [
+        "80",
+        "154",
+        "300",
+        "296",
+        "155"
+      ],
+      "neutralGifts": [
+        "forage_item_beach"
+      ],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Emily",
+      "lovedGifts": [
+        "60",
+        "62",
+        "64",
+        "66",
+        "68",
+        "70",
+        "241",
+        "428",
+        "440",
+        "ParrotEgg"
+      ],
+      "likedGifts": [
+        "18",
+        "82",
+        "84",
+        "86",
+        "196",
+        "200",
+        "207",
+        "230",
+        "235",
+        "402",
+        "418"
+      ],
+      "dislikedGifts": [
+        "78",
+        "232",
+        "233",
+        "225",
+        "226"
+      ],
+      "hatedGifts": [
+        "212",
+        "213",
+        "227",
+        "228"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Evelyn",
+      "lovedGifts": [
+        "72",
+        "220",
+        "239",
+        "284",
+        "591",
+        "595",
+        "Raisins"
+      ],
+      "likedGifts": [
+        "18",
+        "402",
+        "418",
+        "170",
+        "forage_item_beach"
+      ],
+      "dislikedGifts": [
+        "16",
+        "80"
+      ],
+      "hatedGifts": [
+        "225",
+        "226",
+        "227",
+        "228",
+        "219",
+        "396",
+        "248",
+        "296",
+        "330"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "George",
+      "lovedGifts": [
+        "20",
+        "205"
+      ],
+      "likedGifts": [
+        "18",
+        "195",
+        "199",
+        "200",
+        "214",
+        "219",
+        "223",
+        "231",
+        "233"
+      ],
+      "dislikedGifts": [
+        "16"
+      ],
+      "hatedGifts": [
+        "22",
+        "80",
+        "330"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Gil",
+      "lovedGifts": [],
+      "likedGifts": [],
+      "dislikedGifts": [],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Governor",
+      "lovedGifts": [],
+      "likedGifts": [],
+      "dislikedGifts": [],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Grandpa",
+      "lovedGifts": [],
+      "likedGifts": [],
+      "dislikedGifts": [],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Gunther",
+      "lovedGifts": [],
+      "likedGifts": [],
+      "dislikedGifts": [],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Gus",
+      "lovedGifts": [
+        "72",
+        "213",
+        "635",
+        "729",
+        "907"
+      ],
+      "likedGifts": [
+        "348",
+        "303",
+        "18",
+        "430"
+      ],
+      "dislikedGifts": [
+        "16",
+        "330"
+      ],
+      "hatedGifts": [
+        "80",
+        "167",
+        "648"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Haley",
+      "lovedGifts": [
+        "221",
+        "421",
+        "610",
+        "88"
+      ],
+      "likedGifts": [
+        "18",
+        "60",
+        "62",
+        "64",
+        "70",
+        "88",
+        "222",
+        "223",
+        "232",
+        "233",
+        "234",
+        "402",
+        "418"
+      ],
+      "dislikedGifts": [
+        "80"
+      ],
+      "hatedGifts": [
+        "16",
+        "330",
+        "74"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Harvey",
+      "lovedGifts": [
+        "348",
+        "237",
+        "432",
+        "395",
+        "342"
+      ],
+      "likedGifts": [
+        "402",
+        "614",
+        "418",
+        "422",
+        "436",
+        "438",
+        "442",
+        "444",
+        "422"
+      ],
+      "dislikedGifts": [
+        "424",
+        "426",
+        "330",
+        "233",
+        "232",
+        "238",
+        "234",
+        "223",
+        "222",
+        "221",
+        "220",
+        "216",
+        "211",
+        "210",
+        "208",
+        "206",
+        "205"
+      ],
+      "hatedGifts": [
+        "296",
+        "245",
+        "397",
+        "396",
+        "394",
+        "393",
+        "392"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Henchman",
+      "lovedGifts": [],
+      "likedGifts": [],
+      "dislikedGifts": [],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Jas",
+      "lovedGifts": [
+        "221",
+        "595",
+        "604",
+        "doll_item",
+        "toy_item",
+        "FairyBox"
+      ],
+      "likedGifts": [
+        "18",
+        "60",
+        "64",
+        "70",
+        "88",
+        "232",
+        "233",
+        "234",
+        "222",
+        "223",
+        "340",
+        "344",
+        "402",
+        "418",
+        "903"
+      ],
+      "dislikedGifts": [
+        "80"
+      ],
+      "hatedGifts": [
+        "253",
+        "395",
+        "459",
+        "16",
+        "330",
+        "873"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Jodi",
+      "lovedGifts": [
+        "72",
+        "200",
+        "211",
+        "214",
+        "220",
+        "222",
+        "225",
+        "231"
+      ],
+      "likedGifts": [
+        "18",
+        "402",
+        "418"
+      ],
+      "dislikedGifts": [
+        "80",
+        "248",
+        "330"
+      ],
+      "hatedGifts": [
+        "18",
+        "22",
+        "396"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Kent",
+      "lovedGifts": [
+        "607",
+        "649"
+      ],
+      "likedGifts": [
+        "18",
+        "402",
+        "418",
+        "Book_Bombs"
+      ],
+      "dislikedGifts": [
+        "80",
+        "330",
+        "416",
+        "873"
+      ],
+      "hatedGifts": [
+        "227",
+        "229",
+        "456"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Krobus",
+      "lovedGifts": [
+        "72",
+        "16",
+        "276",
+        "337",
+        "305",
+        "308",
+        "879",
+        "Book_Void"
+      ],
+      "likedGifts": [
+        "66",
+        "265",
+        "336",
+        "340",
+        "203"
+      ],
+      "dislikedGifts": [
+        "330"
+      ],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Leah",
+      "lovedGifts": [
+        "196",
+        "200",
+        "348",
+        "606",
+        "651",
+        "426",
+        "430"
+      ],
+      "likedGifts": [
+        "18",
+        "402",
+        "169",
+        "406",
+        "408",
+        "418",
+        "86"
+      ],
+      "dislikedGifts": [
+        "152",
+        "330",
+        "221",
+        "223",
+        "229",
+        "232",
+        "233",
+        "241",
+        "209",
+        "194"
+      ],
+      "hatedGifts": [
+        "305",
+        "211",
+        "210",
+        "206",
+        "216"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Leo",
+      "lovedGifts": [
+        "444",
+        "289",
+        "834",
+        "906",
+        "ParrotEgg"
+      ],
+      "likedGifts": [
+        "852",
+        "396",
+        "392",
+        "394",
+        "397",
+        "905"
+      ],
+      "dislikedGifts": [
+        "330",
+        "303",
+        "459",
+        "342",
+        "346",
+        "348"
+      ],
+      "hatedGifts": [
+        "257",
+        "253",
+        "247",
+        "271",
+        "283",
+        "304",
+        "303",
+        "346",
+        "873",
+        "348",
+        "459",
+        "167"
+      ],
+      "neutralGifts": [
+        "395"
+      ],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Lewis",
+      "lovedGifts": [
+        "200",
+        "208",
+        "235",
+        "614",
+        "260"
+      ],
+      "likedGifts": [
+        "24",
+        "88",
+        "90",
+        "192",
+        "258",
+        "264",
+        "272",
+        "274",
+        "278",
+        "258"
+      ],
+      "dislikedGifts": [
+        "16",
+        "330"
+      ],
+      "hatedGifts": [
+        "80"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Linus",
+      "lovedGifts": [
+        "88",
+        "90",
+        "234",
+        "242",
+        "280",
+        "Book_Trash"
+      ],
+      "likedGifts": [],
+      "dislikedGifts": [
+        "330",
+        "166"
+      ],
+      "hatedGifts": [],
+      "neutralGifts": [
+        "774",
+        "142"
+      ],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Marlon",
+      "lovedGifts": [],
+      "likedGifts": [],
+      "dislikedGifts": [],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Marnie",
+      "lovedGifts": [
+        "72",
+        "221",
+        "240",
+        "608"
+      ],
+      "likedGifts": [
+        "402",
+        "418",
+        "SkillBook_0"
+      ],
+      "dislikedGifts": [
+        "16",
+        "152"
+      ],
+      "hatedGifts": [
+        "330"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Maru",
+      "lovedGifts": [
+        "72",
+        "197",
+        "190",
+        "215",
+        "222",
+        "243",
+        "336",
+        "337",
+        "400",
+        "787",
+        "910",
+        "122"
+      ],
+      "likedGifts": [
+        "62",
+        "64",
+        "66",
+        "68",
+        "70",
+        "334",
+        "335",
+        "725",
+        "726",
+        "909",
+        "edible_mushroom"
+      ],
+      "dislikedGifts": [
+        "330",
+        "414",
+        "410",
+        "404",
+        "724"
+      ],
+      "hatedGifts": [
+        "340",
+        "342",
+        "430",
+        "416"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Mister Qi",
+      "lovedGifts": [],
+      "likedGifts": [],
+      "dislikedGifts": [],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Morris",
+      "lovedGifts": [],
+      "likedGifts": [],
+      "dislikedGifts": [],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Old Mariner",
+      "lovedGifts": [],
+      "likedGifts": [],
+      "dislikedGifts": [],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Pam",
+      "lovedGifts": [
+        "24",
+        "90",
+        "199",
+        "208",
+        "303",
+        "346",
+        "459",
+        "873"
+      ],
+      "likedGifts": [
+        "18",
+        "227",
+        "228",
+        "231",
+        "232",
+        "233",
+        "234",
+        "235",
+        "236",
+        "238",
+        "402",
+        "418"
+      ],
+      "dislikedGifts": [
+        "16",
+        "80",
+        "330"
+      ],
+      "hatedGifts": [
+        "149",
+        "151"
+      ],
+      "neutralGifts": [
+        "167"
+      ],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Penny",
+      "lovedGifts": [
+        "60",
+        "376",
+        "651",
+        "72",
+        "164",
+        "218",
+        "230",
+        "244",
+        "254",
+        "book_item"
+      ],
+      "likedGifts": [
+        "20",
+        "22",
+        "ancient_item"
+      ],
+      "dislikedGifts": [
+        "80",
+        "330",
+        "456",
+        "457",
+        "444",
+        "440",
+        "422",
+        "420"
+      ],
+      "hatedGifts": [
+        "446",
+        "346",
+        "348",
+        "303",
+        "304",
+        "398",
+        "459",
+        "873"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Pierre",
+      "lovedGifts": [
+        "202",
+        "Book_PriceCatalogue"
+      ],
+      "likedGifts": [
+        "18",
+        "22",
+        "402",
+        "418",
+        "259",
+        "227"
+      ],
+      "dislikedGifts": [
+        "330"
+      ],
+      "hatedGifts": [
+        "167",
+        "199",
+        "270",
+        "229",
+        "248"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Robin",
+      "lovedGifts": [
+        "224",
+        "426",
+        "636",
+        "Book_Woodcutting"
+      ],
+      "likedGifts": [
+        "424",
+        "709",
+        "SkillBook_2"
+      ],
+      "dislikedGifts": [
+        "16",
+        "330"
+      ],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Sam",
+      "lovedGifts": [
+        "90",
+        "206",
+        "562",
+        "731"
+      ],
+      "likedGifts": [
+        "167",
+        "210",
+        "213",
+        "220",
+        "223",
+        "224",
+        "228",
+        "232",
+        "233",
+        "239"
+      ],
+      "dislikedGifts": [
+        "80",
+        "152",
+        "330"
+      ],
+      "hatedGifts": [
+        "306",
+        "307",
+        "342"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Sandy",
+      "lovedGifts": [
+        "18",
+        "402",
+        "418",
+        "905"
+      ],
+      "likedGifts": [
+        "88",
+        "428",
+        "436",
+        "438",
+        "440"
+      ],
+      "dislikedGifts": [
+        "330"
+      ],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Sebastian",
+      "lovedGifts": [
+        "84",
+        "227",
+        "236",
+        "575",
+        "305",
+        "FrogEgg"
+      ],
+      "likedGifts": [
+        "267",
+        "614",
+        "276",
+        "Book_Void",
+        "SkillBook_4"
+      ],
+      "dislikedGifts": [],
+      "hatedGifts": [
+        "459",
+        "195",
+        "201",
+        "240",
+        "330",
+        "873"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Shane",
+      "lovedGifts": [
+        "206",
+        "215",
+        "260",
+        "346"
+      ],
+      "likedGifts": [
+        "303"
+      ],
+      "dislikedGifts": [
+        "152",
+        "330"
+      ],
+      "hatedGifts": [
+        "80",
+        "342"
+      ],
+      "neutralGifts": [
+        "203"
+      ],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Vincent",
+      "lovedGifts": [
+        "221",
+        "398",
+        "612",
+        "721",
+        "903",
+        "FrogEgg"
+      ],
+      "likedGifts": [
+        "18",
+        "60",
+        "64",
+        "70",
+        "88",
+        "232",
+        "233",
+        "234",
+        "222",
+        "223",
+        "340",
+        "344",
+        "402",
+        "418"
+      ],
+      "dislikedGifts": [
+        "80"
+      ],
+      "hatedGifts": [
+        "253",
+        "395",
+        "459",
+        "16",
+        "330",
+        "873"
+      ],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Welwick",
+      "lovedGifts": [],
+      "likedGifts": [],
+      "dislikedGifts": [],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Willy",
+      "lovedGifts": [
+        "72",
+        "143",
+        "149",
+        "154",
+        "276",
+        "337",
+        "698",
+        "459",
+        "336",
+        "Book_Crabbing",
+        "Book_Roe"
+      ],
+      "likedGifts": [
+        "66",
+        "340",
+        "699",
+        "707",
+        "198",
+        "202",
+        "209",
+        "212",
+        "213",
+        "214",
+        "219",
+        "225",
+        "727",
+        "730",
+        "728",
+        "732",
+        "265",
+        "395",
+        "729",
+        "SkillBook_1"
+      ],
+      "dislikedGifts": [
+        "330"
+      ],
+      "hatedGifts": [],
+      "neutralGifts": [
+        "227",
+        "228",
+        "242"
+      ],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    },
+    {
+      "name": "Wizard",
+      "lovedGifts": [
+        "155",
+        "422",
+        "769",
+        "768",
+        "Book_Mystery"
+      ],
+      "likedGifts": [
+        "72",
+        "82",
+        "84",
+        "337",
+        "category_trinket"
+      ],
+      "dislikedGifts": [
+        "16",
+        "330",
+        "766"
+      ],
+      "hatedGifts": [],
+      "neutralGifts": [],
+      "birthday": null,
+      "isMarriageCandidate": false,
+      "portraitSprite": null
+    }
+  ]
+}

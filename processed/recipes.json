@@ -1,0 +1,5313 @@
+{
+  "_meta": {
+    "source": "Data/CookingRecipes.json + Data/CraftingRecipes.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-02T18:13:02.061Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "cooking": [
+    {
+      "id": "Fried Egg",
+      "name": "Fried Egg",
+      "type": "cooking",
+      "outputItemId": "194",
+      "outputItemName": "Fried Egg",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "-5",
+          "name": "-5",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "default"
+    },
+    {
+      "id": "Omelet",
+      "name": "Omelet",
+      "type": "cooking",
+      "outputItemId": "195",
+      "outputItemName": "Omelet",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "-5",
+          "name": "-5",
+          "amount": 1
+        },
+        {
+          "itemId": "-6",
+          "name": "-6",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 10"
+    },
+    {
+      "id": "Salad",
+      "name": "Salad",
+      "type": "cooking",
+      "outputItemId": "196",
+      "outputItemName": "Salad",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "20",
+          "name": "Leek",
+          "amount": 1
+        },
+        {
+          "itemId": "22",
+          "name": "Dandelion",
+          "amount": 1
+        },
+        {
+          "itemId": "419",
+          "name": "Vinegar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Emily 3"
+    },
+    {
+      "id": "Cheese Cauli.",
+      "name": "Cheese Cauli.",
+      "type": "cooking",
+      "outputItemId": "197",
+      "outputItemName": "Cheese Cauliflower",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "190",
+          "name": "Cauliflower",
+          "amount": 1
+        },
+        {
+          "itemId": "424",
+          "name": "Cheese",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Pam 3"
+    },
+    {
+      "id": "Baked Fish",
+      "name": "Baked Fish",
+      "type": "cooking",
+      "outputItemId": "198",
+      "outputItemName": "Baked Fish",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "145",
+          "name": "Sunfish",
+          "amount": 1
+        },
+        {
+          "itemId": "132",
+          "name": "Bream",
+          "amount": 1
+        },
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 12"
+    },
+    {
+      "id": "Parsnip Soup",
+      "name": "Parsnip Soup",
+      "type": "cooking",
+      "outputItemId": "199",
+      "outputItemName": "Parsnip Soup",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "24",
+          "name": "Parsnip",
+          "amount": 1
+        },
+        {
+          "itemId": "-6",
+          "name": "-6",
+          "amount": 1
+        },
+        {
+          "itemId": "419",
+          "name": "Vinegar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Caroline 3"
+    },
+    {
+      "id": "Vegetable Stew",
+      "name": "Vegetable Stew",
+      "type": "cooking",
+      "outputItemId": "200",
+      "outputItemName": "Vegetable Medley",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "256",
+          "name": "Tomato",
+          "amount": 1
+        },
+        {
+          "itemId": "284",
+          "name": "Beet",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Caroline 7"
+    },
+    {
+      "id": "Complete Breakfast",
+      "name": "Complete Breakfast",
+      "type": "cooking",
+      "outputItemId": "201",
+      "outputItemName": "Complete Breakfast",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "194",
+          "name": "Fried Egg",
+          "amount": 1
+        },
+        {
+          "itemId": "-6",
+          "name": "-6",
+          "amount": 1
+        },
+        {
+          "itemId": "210",
+          "name": "Hashbrowns",
+          "amount": 1
+        },
+        {
+          "itemId": "211",
+          "name": "Pancakes",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 26"
+    },
+    {
+      "id": "Fried Calamari",
+      "name": "Fried Calamari",
+      "type": "cooking",
+      "outputItemId": "202",
+      "outputItemName": "Fried Calamari",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "151",
+          "name": "Squid",
+          "amount": 1
+        },
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "247",
+          "name": "Oil",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Jodi 3"
+    },
+    {
+      "id": "Strange Bun",
+      "name": "Strange Bun",
+      "type": "cooking",
+      "outputItemId": "203",
+      "outputItemName": "Strange Bun",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "722",
+          "name": "Periwinkle",
+          "amount": 1
+        },
+        {
+          "itemId": "308",
+          "name": "Void Mayonnaise",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Shane 7"
+    },
+    {
+      "id": "Lucky Lunch",
+      "name": "Lucky Lunch",
+      "type": "cooking",
+      "outputItemId": "204",
+      "outputItemName": "Lucky Lunch",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "154",
+          "name": "Sea Cucumber",
+          "amount": 1
+        },
+        {
+          "itemId": "229",
+          "name": "Tortilla",
+          "amount": 1
+        },
+        {
+          "itemId": "597",
+          "name": "Blue Jazz",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Luck 8"
+    },
+    {
+      "id": "Fried Mushroom",
+      "name": "Fried Mushroom",
+      "type": "cooking",
+      "outputItemId": "205",
+      "outputItemName": "Fried Mushroom",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "404",
+          "name": "Common Mushroom",
+          "amount": 1
+        },
+        {
+          "itemId": "257",
+          "name": "Morel",
+          "amount": 1
+        },
+        {
+          "itemId": "247",
+          "name": "Oil",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Demetrius 3"
+    },
+    {
+      "id": "Pizza",
+      "name": "Pizza",
+      "type": "cooking",
+      "outputItemId": "206",
+      "outputItemName": "Pizza",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "256",
+          "name": "Tomato",
+          "amount": 1
+        },
+        {
+          "itemId": "424",
+          "name": "Cheese",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 20"
+    },
+    {
+      "id": "Bean Hotpot",
+      "name": "Bean Hotpot",
+      "type": "cooking",
+      "outputItemId": "207",
+      "outputItemName": "Bean Hotpot",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "188",
+          "name": "Green Bean",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "f Clint 7"
+    },
+    {
+      "id": "Glazed Yams",
+      "name": "Glazed Yams",
+      "type": "cooking",
+      "outputItemId": "208",
+      "outputItemName": "Glazed Yams",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "280",
+          "name": "Yam",
+          "amount": 1
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 22"
+    },
+    {
+      "id": "Carp Surprise",
+      "name": "Carp Surprise",
+      "type": "cooking",
+      "outputItemId": "209",
+      "outputItemName": "Carp Surprise",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "142",
+          "name": "Carp",
+          "amount": 4
+        }
+      ],
+      "unlockCondition": "l 16"
+    },
+    {
+      "id": "Hashbrowns",
+      "name": "Hashbrowns",
+      "type": "cooking",
+      "outputItemId": "210",
+      "outputItemName": "Hashbrowns",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "192",
+          "name": "Potato",
+          "amount": 1
+        },
+        {
+          "itemId": "247",
+          "name": "Oil",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 14"
+    },
+    {
+      "id": "Pancakes",
+      "name": "Pancakes",
+      "type": "cooking",
+      "outputItemId": "211",
+      "outputItemName": "Pancakes",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "-5",
+          "name": "-5",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 18"
+    },
+    {
+      "id": "Salmon Dinner",
+      "name": "Salmon Dinner",
+      "type": "cooking",
+      "outputItemId": "212",
+      "outputItemName": "Salmon Dinner",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "139",
+          "name": "Salmon",
+          "amount": 1
+        },
+        {
+          "itemId": "300",
+          "name": "Amaranth",
+          "amount": 1
+        },
+        {
+          "itemId": "250",
+          "name": "Kale",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Gus 3"
+    },
+    {
+      "id": "Fish Taco",
+      "name": "Fish Taco",
+      "type": "cooking",
+      "outputItemId": "213",
+      "outputItemName": "Fish Taco",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "130",
+          "name": "Tuna",
+          "amount": 1
+        },
+        {
+          "itemId": "229",
+          "name": "Tortilla",
+          "amount": 1
+        },
+        {
+          "itemId": "266",
+          "name": "Red Cabbage",
+          "amount": 1
+        },
+        {
+          "itemId": "306",
+          "name": "Mayonnaise",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Linus 7"
+    },
+    {
+      "id": "Crispy Bass",
+      "name": "Crispy Bass",
+      "type": "cooking",
+      "outputItemId": "214",
+      "outputItemName": "Crispy Bass",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "136",
+          "name": "Largemouth Bass",
+          "amount": 1
+        },
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "247",
+          "name": "Oil",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Kent 3"
+    },
+    {
+      "id": "Pepper Poppers",
+      "name": "Pepper Poppers",
+      "type": "cooking",
+      "outputItemId": "215",
+      "outputItemName": "Pepper Poppers",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "260",
+          "name": "Hot Pepper",
+          "amount": 1
+        },
+        {
+          "itemId": "424",
+          "name": "Cheese",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Shane 3"
+    },
+    {
+      "id": "Bread",
+      "name": "Bread",
+      "type": "cooking",
+      "outputItemId": "216",
+      "outputItemName": "Bread",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 11"
+    },
+    {
+      "id": "Tom Kha Soup",
+      "name": "Tom Kha Soup",
+      "type": "cooking",
+      "outputItemId": "218",
+      "outputItemName": "Tom Kha Soup",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "88",
+          "name": "Coconut",
+          "amount": 1
+        },
+        {
+          "itemId": "720",
+          "name": "Shrimp",
+          "amount": 1
+        },
+        {
+          "itemId": "404",
+          "name": "Common Mushroom",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Sandy 7"
+    },
+    {
+      "id": "Trout Soup",
+      "name": "Trout Soup",
+      "type": "cooking",
+      "outputItemId": "219",
+      "outputItemName": "Trout Soup",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "138",
+          "name": "Rainbow Trout",
+          "amount": 1
+        },
+        {
+          "itemId": "153",
+          "name": "Green Algae",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 19"
+    },
+    {
+      "id": "Chocolate Cake",
+      "name": "Chocolate Cake",
+      "type": "cooking",
+      "outputItemId": "220",
+      "outputItemName": "Chocolate Cake",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        },
+        {
+          "itemId": "-5",
+          "name": "-5",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 23"
+    },
+    {
+      "id": "Pink Cake",
+      "name": "Pink Cake",
+      "type": "cooking",
+      "outputItemId": "221",
+      "outputItemName": "Pink Cake",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "254",
+          "name": "Melon",
+          "amount": 1
+        },
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        },
+        {
+          "itemId": "-5",
+          "name": "-5",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 25"
+    },
+    {
+      "id": "Rhubarb Pie",
+      "name": "Rhubarb Pie",
+      "type": "cooking",
+      "outputItemId": "222",
+      "outputItemName": "Rhubarb Pie",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "252",
+          "name": "Rhubarb",
+          "amount": 1
+        },
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Marnie 7"
+    },
+    {
+      "id": "Cookies",
+      "name": "Cookies",
+      "type": "cooking",
+      "outputItemId": "223",
+      "outputItemName": "Cookie",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        },
+        {
+          "itemId": "-5",
+          "name": "-5",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Spaghetti",
+      "name": "Spaghetti",
+      "type": "cooking",
+      "outputItemId": "224",
+      "outputItemName": "Spaghetti",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "256",
+          "name": "Tomato",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Lewis 3"
+    },
+    {
+      "id": "Fried Eel",
+      "name": "Fried Eel",
+      "type": "cooking",
+      "outputItemId": "225",
+      "outputItemName": "Fried Eel",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "148",
+          "name": "Eel",
+          "amount": 1
+        },
+        {
+          "itemId": "247",
+          "name": "Oil",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f George 3"
+    },
+    {
+      "id": "Spicy Eel",
+      "name": "Spicy Eel",
+      "type": "cooking",
+      "outputItemId": "226",
+      "outputItemName": "Spicy Eel",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "148",
+          "name": "Eel",
+          "amount": 1
+        },
+        {
+          "itemId": "260",
+          "name": "Hot Pepper",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f George 7"
+    },
+    {
+      "id": "Sashimi",
+      "name": "Sashimi",
+      "type": "cooking",
+      "outputItemId": "227",
+      "outputItemName": "Sashimi",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "-4",
+          "name": "-4",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Linus 3"
+    },
+    {
+      "id": "Maki Roll",
+      "name": "Maki Roll",
+      "type": "cooking",
+      "outputItemId": "228",
+      "outputItemName": "Maki Roll",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "-4",
+          "name": "-4",
+          "amount": 1
+        },
+        {
+          "itemId": "152",
+          "name": "Seaweed",
+          "amount": 1
+        },
+        {
+          "itemId": "423",
+          "name": "Rice",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 15"
+    },
+    {
+      "id": "Tortilla",
+      "name": "Tortilla",
+      "type": "cooking",
+      "outputItemId": "229",
+      "outputItemName": "Tortilla",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "270",
+          "name": "Corn",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 13"
+    },
+    {
+      "id": "Red Plate",
+      "name": "Red Plate",
+      "type": "cooking",
+      "outputItemId": "230",
+      "outputItemName": "Red Plate",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "266",
+          "name": "Red Cabbage",
+          "amount": 1
+        },
+        {
+          "itemId": "264",
+          "name": "Radish",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Emily 7"
+    },
+    {
+      "id": "Eggplant Parm.",
+      "name": "Eggplant Parm.",
+      "type": "cooking",
+      "outputItemId": "231",
+      "outputItemName": "Eggplant Parmesan",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "272",
+          "name": "Eggplant",
+          "amount": 1
+        },
+        {
+          "itemId": "256",
+          "name": "Tomato",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Lewis 7"
+    },
+    {
+      "id": "Rice Pudding",
+      "name": "Rice Pudding",
+      "type": "cooking",
+      "outputItemId": "232",
+      "outputItemName": "Rice Pudding",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "-6",
+          "name": "-6",
+          "amount": 1
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        },
+        {
+          "itemId": "423",
+          "name": "Rice",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Evelyn 7"
+    },
+    {
+      "id": "Ice Cream",
+      "name": "Ice Cream",
+      "type": "cooking",
+      "outputItemId": "233",
+      "outputItemName": "Ice Cream",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "-6",
+          "name": "-6",
+          "amount": 1
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Jodi 7"
+    },
+    {
+      "id": "Blueberry Tart",
+      "name": "Blueberry Tart",
+      "type": "cooking",
+      "outputItemId": "234",
+      "outputItemName": "Blueberry Tart",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "258",
+          "name": "Blueberry",
+          "amount": 1
+        },
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        },
+        {
+          "itemId": "-5",
+          "name": "-5",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Pierre 3"
+    },
+    {
+      "id": "Autumn's Bounty",
+      "name": "Autumn's Bounty",
+      "type": "cooking",
+      "outputItemId": "235",
+      "outputItemName": "Autumn's Bounty",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "280",
+          "name": "Yam",
+          "amount": 1
+        },
+        {
+          "itemId": "276",
+          "name": "Pumpkin",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Demetrius 7"
+    },
+    {
+      "id": "Pumpkin Soup",
+      "name": "Pumpkin Soup",
+      "type": "cooking",
+      "outputItemId": "236",
+      "outputItemName": "Pumpkin Soup",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "276",
+          "name": "Pumpkin",
+          "amount": 1
+        },
+        {
+          "itemId": "-6",
+          "name": "-6",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Robin 7"
+    },
+    {
+      "id": "Super Meal",
+      "name": "Super Meal",
+      "type": "cooking",
+      "outputItemId": "237",
+      "outputItemName": "Super Meal",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "278",
+          "name": "Bok Choy",
+          "amount": 1
+        },
+        {
+          "itemId": "282",
+          "name": "Cranberries",
+          "amount": 1
+        },
+        {
+          "itemId": "274",
+          "name": "Artichoke",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Kent 7"
+    },
+    {
+      "id": "Cran. Sauce",
+      "name": "Cran. Sauce",
+      "type": "cooking",
+      "outputItemId": "238",
+      "outputItemName": "Cranberry Sauce",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "282",
+          "name": "Cranberries",
+          "amount": 1
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Gus 7"
+    },
+    {
+      "id": "Stuffing",
+      "name": "Stuffing",
+      "type": "cooking",
+      "outputItemId": "239",
+      "outputItemName": "Stuffing",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "216",
+          "name": "Bread",
+          "amount": 1
+        },
+        {
+          "itemId": "282",
+          "name": "Cranberries",
+          "amount": 1
+        },
+        {
+          "itemId": "408",
+          "name": "Hazelnut",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Pam 7"
+    },
+    {
+      "id": "Farmer's Lunch",
+      "name": "Farmer's Lunch",
+      "type": "cooking",
+      "outputItemId": "240",
+      "outputItemName": "Farmer's Lunch",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "195",
+          "name": "Omelet",
+          "amount": 1
+        },
+        {
+          "itemId": "24",
+          "name": "Parsnip",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Farming 3"
+    },
+    {
+      "id": "Survival Burger",
+      "name": "Survival Burger",
+      "type": "cooking",
+      "outputItemId": "241",
+      "outputItemName": "Survival Burger",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "216",
+          "name": "Bread",
+          "amount": 1
+        },
+        {
+          "itemId": "78",
+          "name": "Cave Carrot",
+          "amount": 1
+        },
+        {
+          "itemId": "272",
+          "name": "Eggplant",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Foraging 8"
+    },
+    {
+      "id": "Dish o' The Sea",
+      "name": "Dish o' The Sea",
+      "type": "cooking",
+      "outputItemId": "242",
+      "outputItemName": "Dish O' The Sea",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "131",
+          "name": "Sardine",
+          "amount": 2
+        },
+        {
+          "itemId": "210",
+          "name": "Hashbrowns",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Fishing 3"
+    },
+    {
+      "id": "Miner's Treat",
+      "name": "Miner's Treat",
+      "type": "cooking",
+      "outputItemId": "243",
+      "outputItemName": "Miner's Treat",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "78",
+          "name": "Cave Carrot",
+          "amount": 2
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        },
+        {
+          "itemId": "-6",
+          "name": "-6",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Mining 3"
+    },
+    {
+      "id": "Roots Platter",
+      "name": "Roots Platter",
+      "type": "cooking",
+      "outputItemId": "244",
+      "outputItemName": "Roots Platter",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "78",
+          "name": "Cave Carrot",
+          "amount": 1
+        },
+        {
+          "itemId": "412",
+          "name": "Winter Root",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Combat 3"
+    },
+    {
+      "id": "Algae Soup",
+      "name": "Algae Soup",
+      "type": "cooking",
+      "outputItemId": "456",
+      "outputItemName": "Algae Soup",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "153",
+          "name": "Green Algae",
+          "amount": 4
+        }
+      ],
+      "unlockCondition": "f Clint 3"
+    },
+    {
+      "id": "Pale Broth",
+      "name": "Pale Broth",
+      "type": "cooking",
+      "outputItemId": "457",
+      "outputItemName": "Pale Broth",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "157",
+          "name": "White Algae",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "f Marnie 3"
+    },
+    {
+      "id": "Plum Pudding",
+      "name": "Plum Pudding",
+      "type": "cooking",
+      "outputItemId": "604",
+      "outputItemName": "Plum Pudding",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "406",
+          "name": "Wild Plum",
+          "amount": 2
+        },
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Artichoke Dip",
+      "name": "Artichoke Dip",
+      "type": "cooking",
+      "outputItemId": "605",
+      "outputItemName": "Artichoke Dip",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "274",
+          "name": "Artichoke",
+          "amount": 1
+        },
+        {
+          "itemId": "-6",
+          "name": "-6",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Stir Fry",
+      "name": "Stir Fry",
+      "type": "cooking",
+      "outputItemId": "606",
+      "outputItemName": "Stir Fry",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "78",
+          "name": "Cave Carrot",
+          "amount": 1
+        },
+        {
+          "itemId": "404",
+          "name": "Common Mushroom",
+          "amount": 1
+        },
+        {
+          "itemId": "250",
+          "name": "Kale",
+          "amount": 1
+        },
+        {
+          "itemId": "247",
+          "name": "Oil",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Roasted Hazelnuts",
+      "name": "Roasted Hazelnuts",
+      "type": "cooking",
+      "outputItemId": "607",
+      "outputItemName": "Roasted Hazelnuts",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "408",
+          "name": "Hazelnut",
+          "amount": 3
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Pumpkin Pie",
+      "name": "Pumpkin Pie",
+      "type": "cooking",
+      "outputItemId": "608",
+      "outputItemName": "Pumpkin Pie",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "276",
+          "name": "Pumpkin",
+          "amount": 1
+        },
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "-6",
+          "name": "-6",
+          "amount": 1
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Radish Salad",
+      "name": "Radish Salad",
+      "type": "cooking",
+      "outputItemId": "609",
+      "outputItemName": "Radish Salad",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "247",
+          "name": "Oil",
+          "amount": 1
+        },
+        {
+          "itemId": "419",
+          "name": "Vinegar",
+          "amount": 1
+        },
+        {
+          "itemId": "264",
+          "name": "Radish",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Fruit Salad",
+      "name": "Fruit Salad",
+      "type": "cooking",
+      "outputItemId": "610",
+      "outputItemName": "Fruit Salad",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "258",
+          "name": "Blueberry",
+          "amount": 1
+        },
+        {
+          "itemId": "254",
+          "name": "Melon",
+          "amount": 1
+        },
+        {
+          "itemId": "634",
+          "name": "Apricot",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Blackberry Cobbler",
+      "name": "Blackberry Cobbler",
+      "type": "cooking",
+      "outputItemId": "611",
+      "outputItemName": "Blackberry Cobbler",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "410",
+          "name": "Blackberry",
+          "amount": 2
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        },
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Cranberry Candy",
+      "name": "Cranberry Candy",
+      "type": "cooking",
+      "outputItemId": "612",
+      "outputItemName": "Cranberry Candy",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "282",
+          "name": "Cranberries",
+          "amount": 1
+        },
+        {
+          "itemId": "613",
+          "name": "Apple",
+          "amount": 1
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Bruschetta",
+      "name": "Bruschetta",
+      "type": "cooking",
+      "outputItemId": "618",
+      "outputItemName": "Bruschetta",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "216",
+          "name": "Bread",
+          "amount": 1
+        },
+        {
+          "itemId": "247",
+          "name": "Oil",
+          "amount": 1
+        },
+        {
+          "itemId": "256",
+          "name": "Tomato",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Coleslaw",
+      "name": "Coleslaw",
+      "type": "cooking",
+      "outputItemId": "648",
+      "outputItemName": "Coleslaw",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "266",
+          "name": "Red Cabbage",
+          "amount": 1
+        },
+        {
+          "itemId": "419",
+          "name": "Vinegar",
+          "amount": 1
+        },
+        {
+          "itemId": "306",
+          "name": "Mayonnaise",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Fiddlehead Risotto",
+      "name": "Fiddlehead Risotto",
+      "type": "cooking",
+      "outputItemId": "649",
+      "outputItemName": "Fiddlehead Risotto",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "247",
+          "name": "Oil",
+          "amount": 1
+        },
+        {
+          "itemId": "259",
+          "name": "Fiddlehead Fern",
+          "amount": 1
+        },
+        {
+          "itemId": "248",
+          "name": "Garlic",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Poppyseed Muffin",
+      "name": "Poppyseed Muffin",
+      "type": "cooking",
+      "outputItemId": "651",
+      "outputItemName": "Poppyseed Muffin",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "376",
+          "name": "Poppy",
+          "amount": 1
+        },
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Chowder",
+      "name": "Chowder",
+      "type": "cooking",
+      "outputItemId": "727",
+      "outputItemName": "Chowder",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "372",
+          "name": "Clam",
+          "amount": 1
+        },
+        {
+          "itemId": "-6",
+          "name": "-6",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Willy 3"
+    },
+    {
+      "id": "Lobster Bisque",
+      "name": "Lobster Bisque",
+      "type": "cooking",
+      "outputItemId": "730",
+      "outputItemName": "Lobster Bisque",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "715",
+          "name": "Lobster",
+          "amount": 1
+        },
+        {
+          "itemId": "-6",
+          "name": "-6",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Willy 9"
+    },
+    {
+      "id": "Fish Stew",
+      "name": "Fish Stew",
+      "type": "cooking",
+      "outputItemId": "728",
+      "outputItemName": "Fish Stew",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "716",
+          "name": "Crayfish",
+          "amount": 1
+        },
+        {
+          "itemId": "719",
+          "name": "Mussel",
+          "amount": 1
+        },
+        {
+          "itemId": "722",
+          "name": "Periwinkle",
+          "amount": 1
+        },
+        {
+          "itemId": "256",
+          "name": "Tomato",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Willy 7"
+    },
+    {
+      "id": "Escargot",
+      "name": "Escargot",
+      "type": "cooking",
+      "outputItemId": "729",
+      "outputItemName": "Escargot",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "721",
+          "name": "Snail",
+          "amount": 1
+        },
+        {
+          "itemId": "248",
+          "name": "Garlic",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Willy 5"
+    },
+    {
+      "id": "Maple Bar",
+      "name": "Maple Bar",
+      "type": "cooking",
+      "outputItemId": "731",
+      "outputItemName": "Maple Bar",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "724",
+          "name": "Maple Syrup",
+          "amount": 1
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        },
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Crab Cakes",
+      "name": "Crab Cakes",
+      "type": "cooking",
+      "outputItemId": "732",
+      "outputItemName": "Crab Cakes",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "717",
+          "name": "Crab",
+          "amount": 1
+        },
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "-5",
+          "name": "-5",
+          "amount": 1
+        },
+        {
+          "itemId": "247",
+          "name": "Oil",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Triple Shot Espresso",
+      "name": "Triple Shot Espresso",
+      "type": "cooking",
+      "outputItemId": "253",
+      "outputItemName": "Triple Shot Espresso",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "395",
+          "name": "Coffee",
+          "amount": 3
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Shrimp Cocktail",
+      "name": "Shrimp Cocktail",
+      "type": "cooking",
+      "outputItemId": "733",
+      "outputItemName": "Shrimp Cocktail",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "720",
+          "name": "Shrimp",
+          "amount": 1
+        },
+        {
+          "itemId": "256",
+          "name": "Tomato",
+          "amount": 1
+        },
+        {
+          "itemId": "16",
+          "name": "Wild Horseradish",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Seafoam Pudding",
+      "name": "Seafoam Pudding",
+      "type": "cooking",
+      "outputItemId": "265",
+      "outputItemName": "Seafoam Pudding",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "267",
+          "name": "Flounder",
+          "amount": 1
+        },
+        {
+          "itemId": "269",
+          "name": "Midnight Carp",
+          "amount": 1
+        },
+        {
+          "itemId": "814",
+          "name": "Squid Ink",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Fishing 9"
+    },
+    {
+      "id": "Ginger Ale",
+      "name": "Ginger Ale",
+      "type": "cooking",
+      "outputItemId": "903",
+      "outputItemName": "Ginger Ale",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "829",
+          "name": "Ginger",
+          "amount": 3
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Banana Pudding",
+      "name": "Banana Pudding",
+      "type": "cooking",
+      "outputItemId": "904",
+      "outputItemName": "Banana Pudding",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "91",
+          "name": "Banana",
+          "amount": 1
+        },
+        {
+          "itemId": "-6",
+          "name": "-6",
+          "amount": 1
+        },
+        {
+          "itemId": "245",
+          "name": "Sugar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Mango Sticky Rice",
+      "name": "Mango Sticky Rice",
+      "type": "cooking",
+      "outputItemId": "905",
+      "outputItemName": "Mango Sticky Rice",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "834",
+          "name": "Mango",
+          "amount": 1
+        },
+        {
+          "itemId": "88",
+          "name": "Coconut",
+          "amount": 1
+        },
+        {
+          "itemId": "423",
+          "name": "Rice",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "f Leo 7"
+    },
+    {
+      "id": "Poi",
+      "name": "Poi",
+      "type": "cooking",
+      "outputItemId": "906",
+      "outputItemName": "Poi",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "830",
+          "name": "Taro Root",
+          "amount": 4
+        }
+      ],
+      "unlockCondition": "f Leo 3"
+    },
+    {
+      "id": "Tropical Curry",
+      "name": "Tropical Curry",
+      "type": "cooking",
+      "outputItemId": "907",
+      "outputItemName": "Tropical Curry",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "88",
+          "name": "Coconut",
+          "amount": 1
+        },
+        {
+          "itemId": "832",
+          "name": "Pineapple",
+          "amount": 1
+        },
+        {
+          "itemId": "260",
+          "name": "Hot Pepper",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 100"
+    },
+    {
+      "id": "Squid Ink Ravioli",
+      "name": "Squid Ink Ravioli",
+      "type": "cooking",
+      "outputItemId": "921",
+      "outputItemName": "Squid Ink Ravioli",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "814",
+          "name": "Squid Ink",
+          "amount": 1
+        },
+        {
+          "itemId": "246",
+          "name": "Wheat Flour",
+          "amount": 1
+        },
+        {
+          "itemId": "256",
+          "name": "Tomato",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Combat 9"
+    },
+    {
+      "id": "Moss Soup",
+      "name": "Moss Soup",
+      "type": "cooking",
+      "outputItemId": "MossSoup",
+      "outputItemName": "Moss Soup",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "Moss",
+          "name": "Moss",
+          "amount": 20
+        }
+      ],
+      "unlockCondition": "s Foraging 3"
+    }
+  ],
+  "crafting": [
+    {
+      "id": "Wood Fence",
+      "name": "Wood Fence",
+      "type": "crafting",
+      "outputItemId": "322",
+      "outputItemName": "Wood Fence",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "default"
+    },
+    {
+      "id": "Stone Fence",
+      "name": "Stone Fence",
+      "type": "crafting",
+      "outputItemId": "323",
+      "outputItemName": "Stone Fence",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "s Farming 2"
+    },
+    {
+      "id": "Iron Fence",
+      "name": "Iron Fence",
+      "type": "crafting",
+      "outputItemId": "324",
+      "outputItemName": "Iron Fence",
+      "outputStack": 10,
+      "ingredients": [
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Farming 4"
+    },
+    {
+      "id": "Hardwood Fence",
+      "name": "Hardwood Fence",
+      "type": "crafting",
+      "outputItemId": "298",
+      "outputItemName": "Hardwood Fence",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Farming 6"
+    },
+    {
+      "id": "Grass Starter",
+      "name": "Grass Starter",
+      "type": "crafting",
+      "outputItemId": "297",
+      "outputItemName": "Grass Starter",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 10
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Blue Grass Starter",
+      "name": "Blue Grass Starter",
+      "type": "crafting",
+      "outputItemId": "BlueGrassStarter",
+      "outputItemName": "Blue Grass Starter",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 25
+        },
+        {
+          "itemId": "Moss",
+          "name": "Moss",
+          "amount": 10
+        },
+        {
+          "itemId": "MysticSyrup",
+          "name": "Mystic Syrup",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Gate",
+      "name": "Gate",
+      "type": "crafting",
+      "outputItemId": "325",
+      "outputItemName": "Gate",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 10
+        }
+      ],
+      "unlockCondition": "default"
+    },
+    {
+      "id": "Chest",
+      "name": "Chest",
+      "type": "crafting",
+      "outputItemId": "130",
+      "outputItemName": "Tuna",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 50
+        }
+      ],
+      "unlockCondition": "default"
+    },
+    {
+      "id": "Big Chest",
+      "name": "Big Chest",
+      "type": "crafting",
+      "outputItemId": "BigChest",
+      "outputItemName": "BigChest",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 120
+        },
+        {
+          "itemId": "334",
+          "name": "Copper Bar",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Stone Chest",
+      "name": "Stone Chest",
+      "type": "crafting",
+      "outputItemId": "232",
+      "outputItemName": "Rice Pudding",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 50
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Big Stone Chest",
+      "name": "Big Stone Chest",
+      "type": "crafting",
+      "outputItemId": "BigStoneChest",
+      "outputItemName": "BigStoneChest",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 250
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Torch",
+      "name": "Torch",
+      "type": "crafting",
+      "outputItemId": "93",
+      "outputItemName": "Torch",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 1
+        },
+        {
+          "itemId": "92",
+          "name": "Sap",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "default"
+    },
+    {
+      "id": "Scarecrow",
+      "name": "Scarecrow",
+      "type": "crafting",
+      "outputItemId": "8",
+      "outputItemName": "Stone",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 50
+        },
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 1
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 20
+        }
+      ],
+      "unlockCondition": "s Farming 1"
+    },
+    {
+      "id": "Deluxe Scarecrow",
+      "name": "Deluxe Scarecrow",
+      "type": "crafting",
+      "outputItemId": "167",
+      "outputItemName": "Joja Cola",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 50
+        },
+        {
+          "itemId": "386",
+          "name": "Iridium Ore",
+          "amount": 1
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 40
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Bee House",
+      "name": "Bee House",
+      "type": "crafting",
+      "outputItemId": "10",
+      "outputItemName": "Stone",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 40
+        },
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 8
+        },
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "724",
+          "name": "Maple Syrup",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Farming 3"
+    },
+    {
+      "id": "Keg",
+      "name": "Keg",
+      "type": "crafting",
+      "outputItemId": "12",
+      "outputItemName": "Stone",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 30
+        },
+        {
+          "itemId": "334",
+          "name": "Copper Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "725",
+          "name": "Oak Resin",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Farming 8"
+    },
+    {
+      "id": "Cask",
+      "name": "Cask",
+      "type": "crafting",
+      "outputItemId": "163",
+      "outputItemName": "Legend",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 20
+        },
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Dehydrator",
+      "name": "Dehydrator",
+      "type": "crafting",
+      "outputItemId": "Dehydrator",
+      "outputItemName": "Dehydrator",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 30
+        },
+        {
+          "itemId": "330",
+          "name": "Clay",
+          "amount": 2
+        },
+        {
+          "itemId": "82",
+          "name": "Fire Quartz",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Furnace",
+      "name": "Furnace",
+      "type": "crafting",
+      "outputItemId": "13",
+      "outputItemName": "13",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "378",
+          "name": "Copper Ore",
+          "amount": 20
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 25
+        }
+      ],
+      "unlockCondition": "l 2"
+    },
+    {
+      "id": "Heavy Furnace",
+      "name": "Heavy Furnace",
+      "type": "crafting",
+      "outputItemId": "HeavyFurnace",
+      "outputItemName": "HeavyFurnace",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "(BC)13",
+          "name": "(BC)13",
+          "amount": 2
+        },
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 3
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 50
+        }
+      ],
+      "unlockCondition": "l 2"
+    },
+    {
+      "id": "Anvil",
+      "name": "Anvil",
+      "type": "crafting",
+      "outputItemId": "Anvil",
+      "outputItemName": "Anvil",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 50
+        }
+      ],
+      "unlockCondition": "l 2"
+    },
+    {
+      "id": "Mini-Forge",
+      "name": "Mini-Forge",
+      "type": "crafting",
+      "outputItemId": "MiniForge",
+      "outputItemName": "MiniForge",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "852",
+          "name": "Dragon Tooth",
+          "amount": 5
+        },
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 10
+        },
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "amount": 10
+        },
+        {
+          "itemId": "337",
+          "name": "Iridium Bar",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "l 2"
+    },
+    {
+      "id": "Garden Pot",
+      "name": "Garden Pot",
+      "type": "crafting",
+      "outputItemId": "62",
+      "outputItemName": "Aquamarine",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "330",
+          "name": "Clay",
+          "amount": 1
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 10
+        },
+        {
+          "itemId": "338",
+          "name": "Refined Quartz",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Wood Sign",
+      "name": "Wood Sign",
+      "type": "crafting",
+      "outputItemId": "37",
+      "outputItemName": "37",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 25
+        }
+      ],
+      "unlockCondition": "default"
+    },
+    {
+      "id": "Stone Sign",
+      "name": "Stone Sign",
+      "type": "crafting",
+      "outputItemId": "38",
+      "outputItemName": "Stone",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 25
+        }
+      ],
+      "unlockCondition": "default"
+    },
+    {
+      "id": "Dark Sign",
+      "name": "Dark Sign",
+      "type": "crafting",
+      "outputItemId": "39",
+      "outputItemName": "39",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "767",
+          "name": "Bat Wing",
+          "amount": 5
+        },
+        {
+          "itemId": "881",
+          "name": "Bone Fragment",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "f Krobus 3"
+    },
+    {
+      "id": "Text Sign",
+      "name": "Text Sign",
+      "type": "crafting",
+      "outputItemId": "TextSign",
+      "outputItemName": "TextSign",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 25
+        }
+      ],
+      "unlockCondition": "default"
+    },
+    {
+      "id": "Cheese Press",
+      "name": "Cheese Press",
+      "type": "crafting",
+      "outputItemId": "16",
+      "outputItemName": "Wild Horseradish",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 45
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 45
+        },
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 10
+        },
+        {
+          "itemId": "334",
+          "name": "Copper Bar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Farming 6"
+    },
+    {
+      "id": "Mayonnaise Machine",
+      "name": "Mayonnaise Machine",
+      "type": "crafting",
+      "outputItemId": "24",
+      "outputItemName": "Parsnip",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 15
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 15
+        },
+        {
+          "itemId": "86",
+          "name": "Earth Crystal",
+          "amount": 1
+        },
+        {
+          "itemId": "334",
+          "name": "Copper Bar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Farming 2"
+    },
+    {
+      "id": "Seed Maker",
+      "name": "Seed Maker",
+      "type": "crafting",
+      "outputItemId": "25",
+      "outputItemName": "Stone",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 25
+        },
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 10
+        },
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Farming 9"
+    },
+    {
+      "id": "Loom",
+      "name": "Loom",
+      "type": "crafting",
+      "outputItemId": "17",
+      "outputItemName": "17",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 60
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 30
+        },
+        {
+          "itemId": "726",
+          "name": "Pine Tar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Farming 7"
+    },
+    {
+      "id": "Oil Maker",
+      "name": "Oil Maker",
+      "type": "crafting",
+      "outputItemId": "19",
+      "outputItemName": "19",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "766",
+          "name": "Slime",
+          "amount": 50
+        },
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 20
+        },
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Farming 8"
+    },
+    {
+      "id": "Recycling Machine",
+      "name": "Recycling Machine",
+      "type": "crafting",
+      "outputItemId": "20",
+      "outputItemName": "Leek",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 25
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 25
+        },
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Fishing 4"
+    },
+    {
+      "id": "Worm Bin",
+      "name": "Worm Bin",
+      "type": "crafting",
+      "outputItemId": "154",
+      "outputItemName": "Sea Cucumber",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 15
+        },
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 50
+        }
+      ],
+      "unlockCondition": "s Fishing 4"
+    },
+    {
+      "id": "Deluxe Worm Bin",
+      "name": "Deluxe Worm Bin",
+      "type": "crafting",
+      "outputItemId": "DeluxeWormBin",
+      "outputItemName": "DeluxeWormBin",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "(BC)154",
+          "name": "(BC)154",
+          "amount": 1
+        },
+        {
+          "itemId": "Moss",
+          "name": "Moss",
+          "amount": 30
+        }
+      ],
+      "unlockCondition": "s Fishing 8"
+    },
+    {
+      "id": "Bait Maker",
+      "name": "Bait Maker",
+      "type": "crafting",
+      "outputItemId": "BaitMaker",
+      "outputItemName": "BaitMaker",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 3
+        },
+        {
+          "itemId": "393",
+          "name": "Coral",
+          "amount": 3
+        },
+        {
+          "itemId": "397",
+          "name": "Sea Urchin",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Fishing 6"
+    },
+    {
+      "id": "Fish Smoker",
+      "name": "Fish Smoker",
+      "type": "crafting",
+      "outputItemId": "FishSmoker",
+      "outputItemName": "FishSmoker",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 10
+        },
+        {
+          "itemId": "SeaJelly",
+          "name": "Sea Jelly",
+          "amount": 1
+        },
+        {
+          "itemId": "RiverJelly",
+          "name": "River Jelly",
+          "amount": 1
+        },
+        {
+          "itemId": "CaveJelly",
+          "name": "Cave Jelly",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Preserves Jar",
+      "name": "Preserves Jar",
+      "type": "crafting",
+      "outputItemId": "15",
+      "outputItemName": "15",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 50
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 40
+        },
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 8
+        }
+      ],
+      "unlockCondition": "s Farming 4"
+    },
+    {
+      "id": "Charcoal Kiln",
+      "name": "Charcoal Kiln",
+      "type": "crafting",
+      "outputItemId": "114",
+      "outputItemName": "Ancient Seed",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 20
+        },
+        {
+          "itemId": "334",
+          "name": "Copper Bar",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "s Foraging 2"
+    },
+    {
+      "id": "Tapper",
+      "name": "Tapper",
+      "type": "crafting",
+      "outputItemId": "105",
+      "outputItemName": "Chewing Stick",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 40
+        },
+        {
+          "itemId": "334",
+          "name": "Copper Bar",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "s Foraging 4"
+    },
+    {
+      "id": "Mushroom Log",
+      "name": "Mushroom Log",
+      "type": "crafting",
+      "outputItemId": "MushroomLog",
+      "outputItemName": "MushroomLog",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 10
+        },
+        {
+          "itemId": "Moss",
+          "name": "Moss",
+          "amount": 10
+        }
+      ],
+      "unlockCondition": "s Foraging 4"
+    },
+    {
+      "id": "Lightning Rod",
+      "name": "Lightning Rod",
+      "type": "crafting",
+      "outputItemId": "9",
+      "outputItemName": "9",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "338",
+          "name": "Refined Quartz",
+          "amount": 1
+        },
+        {
+          "itemId": "767",
+          "name": "Bat Wing",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "s Foraging 6"
+    },
+    {
+      "id": "Slime Incubator",
+      "name": "Slime Incubator",
+      "type": "crafting",
+      "outputItemId": "156",
+      "outputItemName": "Ghostfish",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "337",
+          "name": "Iridium Bar",
+          "amount": 2
+        },
+        {
+          "itemId": "766",
+          "name": "Slime",
+          "amount": 100
+        }
+      ],
+      "unlockCondition": "s Combat 8"
+    },
+    {
+      "id": "Slime Egg-Press",
+      "name": "Slime Egg-Press",
+      "type": "crafting",
+      "outputItemId": "158",
+      "outputItemName": "Stonefish",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 25
+        },
+        {
+          "itemId": "82",
+          "name": "Fire Quartz",
+          "amount": 1
+        },
+        {
+          "itemId": "787",
+          "name": "Battery Pack",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Combat 6"
+    },
+    {
+      "id": "Crystalarium",
+      "name": "Crystalarium",
+      "type": "crafting",
+      "outputItemId": "21",
+      "outputItemName": "21",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 99
+        },
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "amount": 5
+        },
+        {
+          "itemId": "337",
+          "name": "Iridium Bar",
+          "amount": 2
+        },
+        {
+          "itemId": "787",
+          "name": "Battery Pack",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Mining 9"
+    },
+    {
+      "id": "Mini-Jukebox",
+      "name": "Mini-Jukebox",
+      "type": "crafting",
+      "outputItemId": "209",
+      "outputItemName": "Carp Surprise",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 2
+        },
+        {
+          "itemId": "787",
+          "name": "Battery Pack",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Sprinkler",
+      "name": "Sprinkler",
+      "type": "crafting",
+      "outputItemId": "599",
+      "outputItemName": "Sprinkler",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "334",
+          "name": "Copper Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Farming 2"
+    },
+    {
+      "id": "Quality Sprinkler",
+      "name": "Quality Sprinkler",
+      "type": "crafting",
+      "outputItemId": "621",
+      "outputItemName": "Quality Sprinkler",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "338",
+          "name": "Refined Quartz",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Farming 6"
+    },
+    {
+      "id": "Iridium Sprinkler",
+      "name": "Iridium Sprinkler",
+      "type": "crafting",
+      "outputItemId": "645",
+      "outputItemName": "Iridium Sprinkler",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "337",
+          "name": "Iridium Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "787",
+          "name": "Battery Pack",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Farming 9"
+    },
+    {
+      "id": "Staircase",
+      "name": "Staircase",
+      "type": "crafting",
+      "outputItemId": "71",
+      "outputItemName": "Trimmed Lucky Purple Shorts",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 99
+        }
+      ],
+      "unlockCondition": "s Mining 2"
+    },
+    {
+      "id": "Flute Block",
+      "name": "Flute Block",
+      "type": "crafting",
+      "outputItemId": "464",
+      "outputItemName": "Flute Block",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 10
+        },
+        {
+          "itemId": "378",
+          "name": "Copper Ore",
+          "amount": 2
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 20
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Drum Block",
+      "name": "Drum Block",
+      "type": "crafting",
+      "outputItemId": "463",
+      "outputItemName": "Drum Block",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 10
+        },
+        {
+          "itemId": "378",
+          "name": "Copper Ore",
+          "amount": 2
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 20
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Basic Fertilizer",
+      "name": "Basic Fertilizer",
+      "type": "crafting",
+      "outputItemId": "368",
+      "outputItemName": "Basic Fertilizer",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "92",
+          "name": "Sap",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "s Farming 1"
+    },
+    {
+      "id": "Tree Fertilizer",
+      "name": "Tree Fertilizer",
+      "type": "crafting",
+      "outputItemId": "805",
+      "outputItemName": "Tree Fertilizer",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 5
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "s Foraging 7"
+    },
+    {
+      "id": "Mystic Tree Seed",
+      "name": "Mystic Tree Seed",
+      "type": "crafting",
+      "outputItemId": "MysticTreeSeed",
+      "outputItemName": "Mystic Tree Seed",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "309",
+          "name": "Acorn",
+          "amount": 5
+        },
+        {
+          "itemId": "310",
+          "name": "Maple Seed",
+          "amount": 5
+        },
+        {
+          "itemId": "311",
+          "name": "Pine Cone",
+          "amount": 5
+        },
+        {
+          "itemId": "292",
+          "name": "Mahogany Seed",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Quality Fertilizer",
+      "name": "Quality Fertilizer",
+      "type": "crafting",
+      "outputItemId": "369",
+      "outputItemName": "Quality Fertilizer",
+      "outputStack": 2,
+      "ingredients": [
+        {
+          "itemId": "92",
+          "name": "Sap",
+          "amount": 4
+        },
+        {
+          "itemId": "-4",
+          "name": "-4",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Farming 9"
+    },
+    {
+      "id": "Basic Retaining Soil",
+      "name": "Basic Retaining Soil",
+      "type": "crafting",
+      "outputItemId": "370",
+      "outputItemName": "Basic Retaining Soil",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "s Farming 4"
+    },
+    {
+      "id": "Quality Retaining Soil",
+      "name": "Quality Retaining Soil",
+      "type": "crafting",
+      "outputItemId": "371",
+      "outputItemName": "Quality Retaining Soil",
+      "outputStack": 2,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 3
+        },
+        {
+          "itemId": "330",
+          "name": "Clay",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Farming 7"
+    },
+    {
+      "id": "Speed-Gro",
+      "name": "Speed-Gro",
+      "type": "crafting",
+      "outputItemId": "465",
+      "outputItemName": "Speed-Gro",
+      "outputStack": 5,
+      "ingredients": [
+        {
+          "itemId": "726",
+          "name": "Pine Tar",
+          "amount": 1
+        },
+        {
+          "itemId": "Moss",
+          "name": "Moss",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "s Farming 3"
+    },
+    {
+      "id": "Deluxe Speed-Gro",
+      "name": "Deluxe Speed-Gro",
+      "type": "crafting",
+      "outputItemId": "466",
+      "outputItemName": "Deluxe Speed-Gro",
+      "outputStack": 5,
+      "ingredients": [
+        {
+          "itemId": "725",
+          "name": "Oak Resin",
+          "amount": 1
+        },
+        {
+          "itemId": "881",
+          "name": "Bone Fragment",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "s Farming 8"
+    },
+    {
+      "id": "Hyper Speed-Gro",
+      "name": "Hyper Speed-Gro",
+      "type": "crafting",
+      "outputItemId": "918",
+      "outputItemName": "Hyper Speed-Gro",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "909",
+          "name": "Radioactive Ore",
+          "amount": 1
+        },
+        {
+          "itemId": "881",
+          "name": "Bone Fragment",
+          "amount": 3
+        },
+        {
+          "itemId": "768",
+          "name": "Solar Essence",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Deluxe Fertilizer",
+      "name": "Deluxe Fertilizer",
+      "type": "crafting",
+      "outputItemId": "919",
+      "outputItemName": "Deluxe Fertilizer",
+      "outputStack": 5,
+      "ingredients": [
+        {
+          "itemId": "337",
+          "name": "Iridium Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "92",
+          "name": "Sap",
+          "amount": 40
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Deluxe Retaining Soil",
+      "name": "Deluxe Retaining Soil",
+      "type": "crafting",
+      "outputItemId": "920",
+      "outputItemName": "Deluxe Retaining Soil",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 5
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 3
+        },
+        {
+          "itemId": "330",
+          "name": "Clay",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Cherry Bomb",
+      "name": "Cherry Bomb",
+      "type": "crafting",
+      "outputItemId": "286",
+      "outputItemName": "Cherry Bomb",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "378",
+          "name": "Copper Ore",
+          "amount": 4
+        },
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Mining 1"
+    },
+    {
+      "id": "Bomb",
+      "name": "Bomb",
+      "type": "crafting",
+      "outputItemId": "287",
+      "outputItemName": "Bomb",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "380",
+          "name": "Iron Ore",
+          "amount": 4
+        },
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Mining 6"
+    },
+    {
+      "id": "Mega Bomb",
+      "name": "Mega Bomb",
+      "type": "crafting",
+      "outputItemId": "288",
+      "outputItemName": "Mega Bomb",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "384",
+          "name": "Gold Ore",
+          "amount": 4
+        },
+        {
+          "itemId": "768",
+          "name": "Solar Essence",
+          "amount": 1
+        },
+        {
+          "itemId": "769",
+          "name": "Void Essence",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Mining 8"
+    },
+    {
+      "id": "Explosive Ammo",
+      "name": "Explosive Ammo",
+      "type": "crafting",
+      "outputItemId": "441",
+      "outputItemName": "Explosive Ammo",
+      "outputStack": 5,
+      "ingredients": [
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "s Combat 8"
+    },
+    {
+      "id": "Transmute (Fe)",
+      "name": "Transmute (Fe)",
+      "type": "crafting",
+      "outputItemId": "335",
+      "outputItemName": "Iron Bar",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "334",
+          "name": "Copper Bar",
+          "amount": 3
+        }
+      ],
+      "unlockCondition": "s Mining 4"
+    },
+    {
+      "id": "Transmute (Au)",
+      "name": "Transmute (Au)",
+      "type": "crafting",
+      "outputItemId": "336",
+      "outputItemName": "Gold Bar",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "s Mining 7"
+    },
+    {
+      "id": "Ancient Seeds",
+      "name": "Ancient Seeds",
+      "type": "crafting",
+      "outputItemId": "499",
+      "outputItemName": "Ancient Seeds",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "114",
+          "name": "Ancient Seed",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Wild Seeds (Sp)",
+      "name": "Wild Seeds (Sp)",
+      "type": "crafting",
+      "outputItemId": "495",
+      "outputItemName": "Spring Seeds",
+      "outputStack": 10,
+      "ingredients": [
+        {
+          "itemId": "16",
+          "name": "Wild Horseradish",
+          "amount": 1
+        },
+        {
+          "itemId": "18",
+          "name": "Daffodil",
+          "amount": 1
+        },
+        {
+          "itemId": "20",
+          "name": "Leek",
+          "amount": 1
+        },
+        {
+          "itemId": "22",
+          "name": "Dandelion",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Foraging 1"
+    },
+    {
+      "id": "Wild Seeds (Su)",
+      "name": "Wild Seeds (Su)",
+      "type": "crafting",
+      "outputItemId": "496",
+      "outputItemName": "Summer Seeds",
+      "outputStack": 10,
+      "ingredients": [
+        {
+          "itemId": "396",
+          "name": "Spice Berry",
+          "amount": 1
+        },
+        {
+          "itemId": "398",
+          "name": "Grape",
+          "amount": 1
+        },
+        {
+          "itemId": "402",
+          "name": "Sweet Pea",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Foraging 4"
+    },
+    {
+      "id": "Wild Seeds (Fa)",
+      "name": "Wild Seeds (Fa)",
+      "type": "crafting",
+      "outputItemId": "497",
+      "outputItemName": "Fall Seeds",
+      "outputStack": 10,
+      "ingredients": [
+        {
+          "itemId": "404",
+          "name": "Common Mushroom",
+          "amount": 1
+        },
+        {
+          "itemId": "406",
+          "name": "Wild Plum",
+          "amount": 1
+        },
+        {
+          "itemId": "408",
+          "name": "Hazelnut",
+          "amount": 1
+        },
+        {
+          "itemId": "410",
+          "name": "Blackberry",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Foraging 6"
+    },
+    {
+      "id": "Wild Seeds (Wi)",
+      "name": "Wild Seeds (Wi)",
+      "type": "crafting",
+      "outputItemId": "498",
+      "outputItemName": "Winter Seeds",
+      "outputStack": 10,
+      "ingredients": [
+        {
+          "itemId": "412",
+          "name": "Winter Root",
+          "amount": 1
+        },
+        {
+          "itemId": "414",
+          "name": "Crystal Fruit",
+          "amount": 1
+        },
+        {
+          "itemId": "416",
+          "name": "Snow Yam",
+          "amount": 1
+        },
+        {
+          "itemId": "418",
+          "name": "Crocus",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Foraging 7"
+    },
+    {
+      "id": "Fiber Seeds",
+      "name": "Fiber Seeds",
+      "type": "crafting",
+      "outputItemId": "885",
+      "outputItemName": "Fiber Seeds",
+      "outputStack": 4,
+      "ingredients": [
+        {
+          "itemId": "770",
+          "name": "Mixed Seeds",
+          "amount": 1
+        },
+        {
+          "itemId": "92",
+          "name": "Sap",
+          "amount": 5
+        },
+        {
+          "itemId": "330",
+          "name": "Clay",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Tea Sapling",
+      "name": "Tea Sapling",
+      "type": "crafting",
+      "outputItemId": "251",
+      "outputItemName": "Tea Sapling",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "-777",
+          "name": "-777",
+          "amount": 2
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 5
+        },
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Warp Totem: Farm",
+      "name": "Warp Totem: Farm",
+      "type": "crafting",
+      "outputItemId": "688",
+      "outputItemName": "Warp Totem: Farm",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 1
+        },
+        {
+          "itemId": "340",
+          "name": "Honey",
+          "amount": 1
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 20
+        }
+      ],
+      "unlockCondition": "s Foraging 8"
+    },
+    {
+      "id": "Warp Totem: Mountains",
+      "name": "Warp Totem: Mountains",
+      "type": "crafting",
+      "outputItemId": "689",
+      "outputItemName": "Warp Totem: Mountains",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 1
+        },
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 25
+        }
+      ],
+      "unlockCondition": "s Foraging 7"
+    },
+    {
+      "id": "Warp Totem: Beach",
+      "name": "Warp Totem: Beach",
+      "type": "crafting",
+      "outputItemId": "690",
+      "outputItemName": "Warp Totem: Beach",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 1
+        },
+        {
+          "itemId": "393",
+          "name": "Coral",
+          "amount": 2
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 10
+        }
+      ],
+      "unlockCondition": "s Foraging 6"
+    },
+    {
+      "id": "Warp Totem: Desert",
+      "name": "Warp Totem: Desert",
+      "type": "crafting",
+      "outputItemId": "261",
+      "outputItemName": "Warp Totem: Desert",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 2
+        },
+        {
+          "itemId": "88",
+          "name": "Coconut",
+          "amount": 1
+        },
+        {
+          "itemId": "386",
+          "name": "Iridium Ore",
+          "amount": 4
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Warp Totem: Island",
+      "name": "Warp Totem: Island",
+      "type": "crafting",
+      "outputItemId": "886",
+      "outputItemName": "Warp Totem: Island",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 5
+        },
+        {
+          "itemId": "852",
+          "name": "Dragon Tooth",
+          "amount": 1
+        },
+        {
+          "itemId": "829",
+          "name": "Ginger",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Rain Totem",
+      "name": "Rain Totem",
+      "type": "crafting",
+      "outputItemId": "681",
+      "outputItemName": "Rain Totem",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 1
+        },
+        {
+          "itemId": "432",
+          "name": "Truffle Oil",
+          "amount": 1
+        },
+        {
+          "itemId": "726",
+          "name": "Pine Tar",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "s Foraging 9"
+    },
+    {
+      "id": "Treasure Totem",
+      "name": "Treasure Totem",
+      "type": "crafting",
+      "outputItemId": "TreasureTotem",
+      "outputItemName": "Treasure Totem",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 5
+        },
+        {
+          "itemId": "MysticSyrup",
+          "name": "Mystic Syrup",
+          "amount": 1
+        },
+        {
+          "itemId": "Moss",
+          "name": "Moss",
+          "amount": 10
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Cookout Kit",
+      "name": "Cookout Kit",
+      "type": "crafting",
+      "outputItemId": "926",
+      "outputItemName": "Cookout Kit",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 15
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 10
+        },
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 3
+        }
+      ],
+      "unlockCondition": "s Foraging 3"
+    },
+    {
+      "id": "Tent Kit",
+      "name": "Tent Kit",
+      "type": "crafting",
+      "outputItemId": "TentKit",
+      "outputItemName": "Tent Kit",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 10
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 25
+        },
+        {
+          "itemId": "428",
+          "name": "Cloth",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Foraging 8"
+    },
+    {
+      "id": "Field Snack",
+      "name": "Field Snack",
+      "type": "crafting",
+      "outputItemId": "403",
+      "outputItemName": "Field Snack",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "309",
+          "name": "Acorn",
+          "amount": 1
+        },
+        {
+          "itemId": "310",
+          "name": "Maple Seed",
+          "amount": 1
+        },
+        {
+          "itemId": "311",
+          "name": "Pine Cone",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Foraging 1"
+    },
+    {
+      "id": "Statue Of Blessings",
+      "name": "Statue Of Blessings",
+      "type": "crafting",
+      "outputItemId": "StatueOfBlessings",
+      "outputItemName": "StatueOfBlessings",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 999
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 999
+        },
+        {
+          "itemId": "92",
+          "name": "Sap",
+          "amount": 999
+        },
+        {
+          "itemId": "Moss",
+          "name": "Moss",
+          "amount": 333
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Statue Of The Dwarf King",
+      "name": "Statue Of The Dwarf King",
+      "type": "crafting",
+      "outputItemId": "StatueOfTheDwarfKing",
+      "outputItemName": "StatueOfTheDwarfKing",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "337",
+          "name": "Iridium Bar",
+          "amount": 20
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Jack-O-Lantern",
+      "name": "Jack-O-Lantern",
+      "type": "crafting",
+      "outputItemId": "746",
+      "outputItemName": "Jack-O-Lantern",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "276",
+          "name": "Pumpkin",
+          "amount": 1
+        },
+        {
+          "itemId": "93",
+          "name": "Torch",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Wood Floor",
+      "name": "Wood Floor",
+      "type": "crafting",
+      "outputItemId": "328",
+      "outputItemName": "Wood Floor",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 0"
+    },
+    {
+      "id": "Straw Floor",
+      "name": "Straw Floor",
+      "type": "crafting",
+      "outputItemId": "401",
+      "outputItemName": "Straw Floor",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 1
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 0"
+    },
+    {
+      "id": "Weathered Floor",
+      "name": "Weathered Floor",
+      "type": "crafting",
+      "outputItemId": "331",
+      "outputItemName": "Weathered Floor",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 0"
+    },
+    {
+      "id": "Rustic Plank Floor",
+      "name": "Rustic Plank Floor",
+      "type": "crafting",
+      "outputItemId": "840",
+      "outputItemName": "Rustic Plank Floor",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 0"
+    },
+    {
+      "id": "Crystal Floor",
+      "name": "Crystal Floor",
+      "type": "crafting",
+      "outputItemId": "333",
+      "outputItemName": "Crystal Floor",
+      "outputStack": 5,
+      "ingredients": [
+        {
+          "itemId": "338",
+          "name": "Refined Quartz",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 0"
+    },
+    {
+      "id": "Stone Floor",
+      "name": "Stone Floor",
+      "type": "crafting",
+      "outputItemId": "329",
+      "outputItemName": "Stone Floor",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 0"
+    },
+    {
+      "id": "Stone Walkway Floor",
+      "name": "Stone Walkway Floor",
+      "type": "crafting",
+      "outputItemId": "841",
+      "outputItemName": "Stone Walkway Floor",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 0"
+    },
+    {
+      "id": "Brick Floor",
+      "name": "Brick Floor",
+      "type": "crafting",
+      "outputItemId": "293",
+      "outputItemName": "Brick Floor",
+      "outputStack": 5,
+      "ingredients": [
+        {
+          "itemId": "330",
+          "name": "Clay",
+          "amount": 2
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "l 0"
+    },
+    {
+      "id": "Wood Path",
+      "name": "Wood Path",
+      "type": "crafting",
+      "outputItemId": "405",
+      "outputItemName": "Wood Path",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "default"
+    },
+    {
+      "id": "Gravel Path",
+      "name": "Gravel Path",
+      "type": "crafting",
+      "outputItemId": "407",
+      "outputItemName": "Gravel Path",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "default"
+    },
+    {
+      "id": "Cobblestone Path",
+      "name": "Cobblestone Path",
+      "type": "crafting",
+      "outputItemId": "411",
+      "outputItemName": "Cobblestone Path",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "default"
+    },
+    {
+      "id": "Stepping Stone Path",
+      "name": "Stepping Stone Path",
+      "type": "crafting",
+      "outputItemId": "415",
+      "outputItemName": "Stepping Stone Path",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 0"
+    },
+    {
+      "id": "Crystal Path",
+      "name": "Crystal Path",
+      "type": "crafting",
+      "outputItemId": "409",
+      "outputItemName": "Crystal Path",
+      "outputStack": 5,
+      "ingredients": [
+        {
+          "itemId": "338",
+          "name": "Refined Quartz",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "l 0"
+    },
+    {
+      "id": "Bait",
+      "name": "Bait",
+      "type": "crafting",
+      "outputItemId": "685",
+      "outputItemName": "Bait",
+      "outputStack": 5,
+      "ingredients": [
+        {
+          "itemId": "684",
+          "name": "Bug Meat",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Fishing 2"
+    },
+    {
+      "id": "Deluxe Bait",
+      "name": "Deluxe Bait",
+      "type": "crafting",
+      "outputItemId": "DeluxeBait",
+      "outputItemName": "Deluxe Bait",
+      "outputStack": 5,
+      "ingredients": [
+        {
+          "itemId": "685",
+          "name": "Bait",
+          "amount": 5
+        },
+        {
+          "itemId": "Moss",
+          "name": "Moss",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "s Fishing 4"
+    },
+    {
+      "id": "Wild Bait",
+      "name": "Wild Bait",
+      "type": "crafting",
+      "outputItemId": "774",
+      "outputItemName": "Wild Bait",
+      "outputStack": 5,
+      "ingredients": [
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 10
+        },
+        {
+          "itemId": "684",
+          "name": "Bug Meat",
+          "amount": 5
+        },
+        {
+          "itemId": "766",
+          "name": "Slime",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Challenge Bait",
+      "name": "Challenge Bait",
+      "type": "crafting",
+      "outputItemId": "ChallengeBait",
+      "outputItemName": "Challenge Bait",
+      "outputStack": 5,
+      "ingredients": [
+        {
+          "itemId": "881",
+          "name": "Bone Fragment",
+          "amount": 5
+        },
+        {
+          "itemId": "Moss",
+          "name": "Moss",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Magnet",
+      "name": "Magnet",
+      "type": "crafting",
+      "outputItemId": "703",
+      "outputItemName": "Magnet",
+      "outputStack": 3,
+      "ingredients": [
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Fishing 9"
+    },
+    {
+      "id": "Spinner",
+      "name": "Spinner",
+      "type": "crafting",
+      "outputItemId": "686",
+      "outputItemName": "Spinner",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "s Fishing 6"
+    },
+    {
+      "id": "Dressed Spinner",
+      "name": "Dressed Spinner",
+      "type": "crafting",
+      "outputItemId": "687",
+      "outputItemName": "Dressed Spinner",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 2
+        },
+        {
+          "itemId": "428",
+          "name": "Cloth",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Fishing 8"
+    },
+    {
+      "id": "Trap Bobber",
+      "name": "Trap Bobber",
+      "type": "crafting",
+      "outputItemId": "694",
+      "outputItemName": "Trap Bobber",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "334",
+          "name": "Copper Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "92",
+          "name": "Sap",
+          "amount": 10
+        }
+      ],
+      "unlockCondition": "s Fishing 6"
+    },
+    {
+      "id": "Sonar Bobber",
+      "name": "Sonar Bobber",
+      "type": "crafting",
+      "outputItemId": "SonarBobber",
+      "outputItemName": "Sonar Bobber",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "338",
+          "name": "Refined Quartz",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "s Fishing 6"
+    },
+    {
+      "id": "Cork Bobber",
+      "name": "Cork Bobber",
+      "type": "crafting",
+      "outputItemId": "695",
+      "outputItemName": "Cork Bobber",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 10
+        },
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 5
+        },
+        {
+          "itemId": "766",
+          "name": "Slime",
+          "amount": 10
+        }
+      ],
+      "unlockCondition": "s Fishing 7"
+    },
+    {
+      "id": "Treasure Hunter",
+      "name": "Treasure Hunter",
+      "type": "crafting",
+      "outputItemId": "693",
+      "outputItemName": "Treasure Hunter",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "amount": 2
+        }
+      ],
+      "unlockCondition": "s Fishing 7"
+    },
+    {
+      "id": "Barbed Hook",
+      "name": "Barbed Hook",
+      "type": "crafting",
+      "outputItemId": "691",
+      "outputItemName": "Barbed Hook",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "334",
+          "name": "Copper Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Fishing 8"
+    },
+    {
+      "id": "Oil Of Garlic",
+      "name": "Oil Of Garlic",
+      "type": "crafting",
+      "outputItemId": "772",
+      "outputItemName": "Oil of Garlic",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "248",
+          "name": "Garlic",
+          "amount": 10
+        },
+        {
+          "itemId": "247",
+          "name": "Oil",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Combat 6"
+    },
+    {
+      "id": "Life Elixir",
+      "name": "Life Elixir",
+      "type": "crafting",
+      "outputItemId": "773",
+      "outputItemName": "Life Elixir",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "420",
+          "name": "Red Mushroom",
+          "amount": 1
+        },
+        {
+          "itemId": "422",
+          "name": "Purple Mushroom",
+          "amount": 1
+        },
+        {
+          "itemId": "257",
+          "name": "Morel",
+          "amount": 1
+        },
+        {
+          "itemId": "281",
+          "name": "Chanterelle",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Combat 2"
+    },
+    {
+      "id": "Crab Pot",
+      "name": "Crab Pot",
+      "type": "crafting",
+      "outputItemId": "710",
+      "outputItemName": "Crab Pot",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 40
+        },
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 3
+        }
+      ],
+      "unlockCondition": "s Fishing 3"
+    },
+    {
+      "id": "Iridium Band",
+      "name": "Iridium Band",
+      "type": "crafting",
+      "outputItemId": "527",
+      "outputItemName": "Iridium Band",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "337",
+          "name": "Iridium Bar",
+          "amount": 5
+        },
+        {
+          "itemId": "768",
+          "name": "Solar Essence",
+          "amount": 50
+        },
+        {
+          "itemId": "769",
+          "name": "Void Essence",
+          "amount": 50
+        }
+      ],
+      "unlockCondition": "s Combat 9"
+    },
+    {
+      "id": "Wedding Ring",
+      "name": "Wedding Ring",
+      "type": "crafting",
+      "outputItemId": "801",
+      "outputItemName": "Wedding Ring",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "337",
+          "name": "Iridium Bar",
+          "amount": 5
+        },
+        {
+          "itemId": "74",
+          "name": "Prismatic Shard",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Ring of Yoba",
+      "name": "Ring of Yoba",
+      "type": "crafting",
+      "outputItemId": "524",
+      "outputItemName": "Ring of Yoba",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "amount": 5
+        },
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 5
+        },
+        {
+          "itemId": "72",
+          "name": "Diamond",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Combat 7"
+    },
+    {
+      "id": "Sturdy Ring",
+      "name": "Sturdy Ring",
+      "type": "crafting",
+      "outputItemId": "525",
+      "outputItemName": "Sturdy Ring",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "334",
+          "name": "Copper Bar",
+          "amount": 2
+        },
+        {
+          "itemId": "684",
+          "name": "Bug Meat",
+          "amount": 25
+        },
+        {
+          "itemId": "766",
+          "name": "Slime",
+          "amount": 25
+        }
+      ],
+      "unlockCondition": "s Combat 1"
+    },
+    {
+      "id": "Warrior Ring",
+      "name": "Warrior Ring",
+      "type": "crafting",
+      "outputItemId": "521",
+      "outputItemName": "Warrior Ring",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 10
+        },
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 25
+        },
+        {
+          "itemId": "84",
+          "name": "Frozen Tear",
+          "amount": 10
+        }
+      ],
+      "unlockCondition": "s Combat 4"
+    },
+    {
+      "id": "Tub o' Flowers",
+      "name": "Tub o' Flowers",
+      "type": "crafting",
+      "outputItemId": "108",
+      "outputItemName": "Rare Disc",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 15
+        },
+        {
+          "itemId": "427",
+          "name": "Tulip Bulb",
+          "amount": 1
+        },
+        {
+          "itemId": "429",
+          "name": "Jazz Seeds",
+          "amount": 1
+        },
+        {
+          "itemId": "453",
+          "name": "Poppy Seeds",
+          "amount": 1
+        },
+        {
+          "itemId": "455",
+          "name": "Spangle Seeds",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Wooden Brazier",
+      "name": "Wooden Brazier",
+      "type": "crafting",
+      "outputItemId": "143",
+      "outputItemName": "Catfish",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 10
+        },
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 1
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Wicked Statue",
+      "name": "Wicked Statue",
+      "type": "crafting",
+      "outputItemId": "83",
+      "outputItemName": "83",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 5
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 25
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Stone Brazier",
+      "name": "Stone Brazier",
+      "type": "crafting",
+      "outputItemId": "144",
+      "outputItemName": "Pike",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 10
+        },
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 1
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Gold Brazier",
+      "name": "Gold Brazier",
+      "type": "crafting",
+      "outputItemId": "145",
+      "outputItemName": "Sunfish",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 1
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Campfire",
+      "name": "Campfire",
+      "type": "crafting",
+      "outputItemId": "146",
+      "outputItemName": "Red Mullet",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 10
+        },
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 10
+        },
+        {
+          "itemId": "771",
+          "name": "Fiber",
+          "amount": 10
+        }
+      ],
+      "unlockCondition": "default"
+    },
+    {
+      "id": "Stump Brazier",
+      "name": "Stump Brazier",
+      "type": "crafting",
+      "outputItemId": "147",
+      "outputItemName": "Herring",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 5
+        },
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Carved Brazier",
+      "name": "Carved Brazier",
+      "type": "crafting",
+      "outputItemId": "148",
+      "outputItemName": "Eel",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 10
+        },
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Skull Brazier",
+      "name": "Skull Brazier",
+      "type": "crafting",
+      "outputItemId": "149",
+      "outputItemName": "Octopus",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "881",
+          "name": "Bone Fragment",
+          "amount": 10
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Barrel Brazier",
+      "name": "Barrel Brazier",
+      "type": "crafting",
+      "outputItemId": "150",
+      "outputItemName": "Red Snapper",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 50
+        },
+        {
+          "itemId": "768",
+          "name": "Solar Essence",
+          "amount": 1
+        },
+        {
+          "itemId": "382",
+          "name": "Coal",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Marble Brazier",
+      "name": "Marble Brazier",
+      "type": "crafting",
+      "outputItemId": "151",
+      "outputItemName": "Squid",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "567",
+          "name": "Marble",
+          "amount": 1
+        },
+        {
+          "itemId": "62",
+          "name": "Aquamarine",
+          "amount": 1
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 100
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Wood Lamp-post",
+      "name": "Wood Lamp-post",
+      "type": "crafting",
+      "outputItemId": "152",
+      "outputItemName": "Seaweed",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "amount": 50
+        },
+        {
+          "itemId": "787",
+          "name": "Battery Pack",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Iron Lamp-post",
+      "name": "Iron Lamp-post",
+      "type": "crafting",
+      "outputItemId": "153",
+      "outputItemName": "Green Algae",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "787",
+          "name": "Battery Pack",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Fairy Dust",
+      "name": "Fairy Dust",
+      "type": "crafting",
+      "outputItemId": "872",
+      "outputItemName": "Fairy Dust",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "72",
+          "name": "Diamond",
+          "amount": 1
+        },
+        {
+          "itemId": "595",
+          "name": "Fairy Rose",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Bug Steak",
+      "name": "Bug Steak",
+      "type": "crafting",
+      "outputItemId": "874",
+      "outputItemName": "Bug Steak",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "684",
+          "name": "Bug Meat",
+          "amount": 10
+        }
+      ],
+      "unlockCondition": "s Combat 1"
+    },
+    {
+      "id": "Quality Bobber",
+      "name": "Quality Bobber",
+      "type": "crafting",
+      "outputItemId": "877",
+      "outputItemName": "Quality Bobber",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "334",
+          "name": "Copper Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "92",
+          "name": "Sap",
+          "amount": 20
+        },
+        {
+          "itemId": "768",
+          "name": "Solar Essence",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Monster Musk",
+      "name": "Monster Musk",
+      "type": "crafting",
+      "outputItemId": "879",
+      "outputItemName": "Monster Musk",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "767",
+          "name": "Bat Wing",
+          "amount": 30
+        },
+        {
+          "itemId": "766",
+          "name": "Slime",
+          "amount": 30
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Mini-Obelisk",
+      "name": "Mini-Obelisk",
+      "type": "crafting",
+      "outputItemId": "238",
+      "outputItemName": "Cranberry Sauce",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 30
+        },
+        {
+          "itemId": "768",
+          "name": "Solar Essence",
+          "amount": 20
+        },
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "amount": 3
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Farm Computer",
+      "name": "Farm Computer",
+      "type": "crafting",
+      "outputItemId": "239",
+      "outputItemName": "Stuffing",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "122",
+          "name": "Dwarf Gadget",
+          "amount": 1
+        },
+        {
+          "itemId": "787",
+          "name": "Battery Pack",
+          "amount": 1
+        },
+        {
+          "itemId": "338",
+          "name": "Refined Quartz",
+          "amount": 10
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Ostrich Incubator",
+      "name": "Ostrich Incubator",
+      "type": "crafting",
+      "outputItemId": "254",
+      "outputItemName": "Melon",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "881",
+          "name": "Bone Fragment",
+          "amount": 50
+        },
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 50
+        },
+        {
+          "itemId": "848",
+          "name": "Cinder Shard",
+          "amount": 20
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Geode Crusher",
+      "name": "Geode Crusher",
+      "type": "crafting",
+      "outputItemId": "182",
+      "outputItemName": "Large Egg",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "amount": 2
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 50
+        },
+        {
+          "itemId": "72",
+          "name": "Diamond",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Solar Panel",
+      "name": "Solar Panel",
+      "type": "crafting",
+      "outputItemId": "231",
+      "outputItemName": "Eggplant Parmesan",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "338",
+          "name": "Refined Quartz",
+          "amount": 10
+        },
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 5
+        },
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Bone Mill",
+      "name": "Bone Mill",
+      "type": "crafting",
+      "outputItemId": "90",
+      "outputItemName": "Cactus Fruit",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "881",
+          "name": "Bone Fragment",
+          "amount": 10
+        },
+        {
+          "itemId": "330",
+          "name": "Clay",
+          "amount": 3
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 20
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Thorns Ring",
+      "name": "Thorns Ring",
+      "type": "crafting",
+      "outputItemId": "839",
+      "outputItemName": "Thorns Ring",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "881",
+          "name": "Bone Fragment",
+          "amount": 50
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "amount": 50
+        },
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "s Combat 7"
+    },
+    {
+      "id": "Glowstone Ring",
+      "name": "Glowstone Ring",
+      "type": "crafting",
+      "outputItemId": "888",
+      "outputItemName": "Glowstone Ring",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "768",
+          "name": "Solar Essence",
+          "amount": 5
+        },
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "amount": 5
+        }
+      ],
+      "unlockCondition": "s Mining 4"
+    },
+    {
+      "id": "Heavy Tapper",
+      "name": "Heavy Tapper",
+      "type": "crafting",
+      "outputItemId": "264",
+      "outputItemName": "Radish",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 30
+        },
+        {
+          "itemId": "910",
+          "name": "Radioactive Bar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Hopper",
+      "name": "Hopper",
+      "type": "crafting",
+      "outputItemId": "275",
+      "outputItemName": "Artifact Trove",
+      "outputStack": 1,
+      "ingredients": [
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "amount": 10
+        },
+        {
+          "itemId": "337",
+          "name": "Iridium Bar",
+          "amount": 1
+        },
+        {
+          "itemId": "910",
+          "name": "Radioactive Bar",
+          "amount": 1
+        }
+      ],
+      "unlockCondition": "null"
+    },
+    {
+      "id": "Magic Bait",
+      "name": "Magic Bait",
+      "type": "crafting",
+      "outputItemId": "908",
+      "outputItemName": "Magic Bait",
+      "outputStack": 5,
+      "ingredients": [
+        {
+          "itemId": "909",
+          "name": "Radioactive Ore",
+          "amount": 1
+        },
+        {
+          "itemId": "684",
+          "name": "Bug Meat",
+          "amount": 3
+        }
+      ],
+      "unlockCondition": "null"
+    }
+  ]
+}
