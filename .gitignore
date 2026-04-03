@@ -4,3 +4,4 @@ dist/
 raw/
 **.local.*
 **/tmp
+processed/
