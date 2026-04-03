@@ -1,11 +1,9 @@
 import path from "node:path"
 import fs from "node:fs"
 import sharp from "sharp"
-import { RAW_TILESHEETS, RAW_PORTRAITS, RAW_CHARACTERS, OUT_SPRITES } from "../config.ts"
+import { RAW_DATA, RAW_TILESHEETS, RAW_MAPS, RAW_PORTRAITS, RAW_CHARACTERS, OUT_SPRITES } from "../config.ts"
 import { readJson, log, section } from "../utils.ts"
 import type { RawCrop, RawObject } from "../types.ts"
-
-const RAW_DATA = path.join(path.dirname(RAW_TILESHEETS), "Data")
 
 const CROP_SPRITE_WIDTH = 16
 const CROP_SPRITE_HEIGHT = 32
@@ -69,7 +67,7 @@ export async function extractObjectSprites(): Promise<void> {
     path.join(RAW_DATA, "Objects.json")
   )
 
-  const sheetPath = path.join(RAW_TILESHEETS, "springobjects.png")
+  const sheetPath = path.join(RAW_MAPS, "springobjects.png")
   if (!fs.existsSync(sheetPath)) {
     console.warn("  springobjects.png not found, skipping")
     return
@@ -101,6 +99,11 @@ export async function extractObjectSprites(): Promise<void> {
   log("object sprites", count)
 }
 
+const PORTRAIT_SIZE = 64
+
+const CHARACTER_FRAME_WIDTH = 16
+const CHARACTER_FRAME_HEIGHT = 32
+
 export async function extractPortraitSprites(): Promise<void> {
   section("Extracting NPC portraits")
 
@@ -110,19 +113,38 @@ export async function extractPortraitSprites(): Promise<void> {
   }
 
   const outDir = path.join(OUT_SPRITES, "portraits")
-  fs.mkdirSync(outDir, { recursive: true })
-
   const files = fs.readdirSync(RAW_PORTRAITS).filter(f => f.endsWith(".png"))
   let count = 0
 
   for (const file of files) {
     const src = path.join(RAW_PORTRAITS, file)
-    const dest = path.join(outDir, file.toLowerCase())
-    fs.copyFileSync(src, dest)
-    count++
+    const npcName = path.basename(file, ".png").toLowerCase()
+    const npcDir = path.join(outDir, npcName)
+    fs.mkdirSync(npcDir, { recursive: true })
+
+    const meta = await sharp(src).metadata()
+    if (!meta.width || !meta.height) continue
+
+    const cols = Math.floor(meta.width / PORTRAIT_SIZE)
+    const rows = Math.floor(meta.height / PORTRAIT_SIZE)
+
+    for (let row = 0; row < rows; row++) {
+      for (let col = 0; col < cols; col++) {
+        const x = col * PORTRAIT_SIZE
+        const y = row * PORTRAIT_SIZE
+        const index = row * cols + col
+        const outputPath = path.join(npcDir, `${index}.png`)
+        try {
+          await extractSprite(src, x, y, PORTRAIT_SIZE, PORTRAIT_SIZE, outputPath)
+          count++
+        } catch {
+          // frame out of bounds
+        }
+      }
+    }
   }
 
-  log("NPC portrait sheets", count)
+  log("NPC portrait frames", count)
 }
 
 export async function extractCharacterSprites(): Promise<void> {
@@ -134,17 +156,35 @@ export async function extractCharacterSprites(): Promise<void> {
   }
 
   const outDir = path.join(OUT_SPRITES, "characters")
-  fs.mkdirSync(outDir, { recursive: true })
-
   const files = fs.readdirSync(RAW_CHARACTERS).filter(f => f.endsWith(".png"))
   let count = 0
 
   for (const file of files) {
     const src = path.join(RAW_CHARACTERS, file)
-    const dest = path.join(outDir, file.toLowerCase())
-    fs.copyFileSync(src, dest)
-    count++
+    const npcName = path.basename(file, ".png").toLowerCase()
+    const npcDir = path.join(outDir, npcName)
+    fs.mkdirSync(npcDir, { recursive: true })
+
+    const meta = await sharp(src).metadata()
+    if (!meta.width || !meta.height) continue
+
+    const cols = Math.floor(meta.width / CHARACTER_FRAME_WIDTH)
+    const rows = Math.floor(meta.height / CHARACTER_FRAME_HEIGHT)
+
+    for (let row = 0; row < rows; row++) {
+      for (let col = 0; col < cols; col++) {
+        const x = col * CHARACTER_FRAME_WIDTH
+        const y = row * CHARACTER_FRAME_HEIGHT
+        const outputPath = path.join(npcDir, `${row}_${col}.png`)
+        try {
+          await extractSprite(src, x, y, CHARACTER_FRAME_WIDTH, CHARACTER_FRAME_HEIGHT, outputPath)
+          count++
+        } catch {
+          // frame out of bounds
+        }
+      }
+    }
   }
 
-  log("character sprite sheets", count)
+  log("character frames", count)
 }
