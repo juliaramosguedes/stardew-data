@@ -1,0 +1,46 @@
+{
+  "_meta": {
+    "source": "Data/Mannequins.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:37:44.222Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "mannequins": [
+    {
+      "id": "MannequinMale",
+      "displayName": "[LocalizedText Strings\\1_6_Strings:MannequinMale_Name]",
+      "description": "[LocalizedText Strings\\1_6_Strings:Mannequin_Description]",
+      "texture": "TileSheets\\Mannequins",
+      "sheetIndex": 0,
+      "displaysClothingAsMale": true,
+      "cursed": false
+    },
+    {
+      "id": "MannequinFemale",
+      "displayName": "[LocalizedText Strings\\1_6_Strings:MannequinFemale_Name]",
+      "description": "[LocalizedText Strings\\1_6_Strings:Mannequin_Description]",
+      "texture": "TileSheets\\Mannequins",
+      "sheetIndex": 4,
+      "displaysClothingAsMale": false,
+      "cursed": false
+    },
+    {
+      "id": "CursedMannequinMale",
+      "displayName": "[LocalizedText Strings\\1_6_Strings:CursedMannequinMale_Name]",
+      "description": "[LocalizedText Strings\\1_6_Strings:CursedMannequin_Description]",
+      "texture": "TileSheets\\Mannequins",
+      "sheetIndex": 8,
+      "displaysClothingAsMale": true,
+      "cursed": true
+    },
+    {
+      "id": "CursedMannequinFemale",
+      "displayName": "[LocalizedText Strings\\1_6_Strings:CursedMannequinDemale_Name]",
+      "description": "[LocalizedText Strings\\1_6_Strings:CursedMannequin_Description]",
+      "texture": "TileSheets\\Mannequins",
+      "sheetIndex": 12,
+      "displaysClothingAsMale": false,
+      "cursed": true
+    }
+  ]
+}

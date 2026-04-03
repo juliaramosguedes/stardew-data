@@ -1,0 +1,343 @@
+{
+  "_meta": {
+    "source": "Data/Tools.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.095Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "tools": [
+    {
+      "id": "AdvancedIridiumRod",
+      "name": "Advanced Iridium Rod",
+      "upgradeLevel": 4,
+      "salePrice": 30000,
+      "spriteIndex": 17,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "MilkPail",
+      "name": "Balde de Leite",
+      "upgradeLevel": -1,
+      "salePrice": -1,
+      "spriteIndex": 6,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "BambooPole",
+      "name": "Bamboo Pole",
+      "upgradeLevel": 0,
+      "salePrice": 500,
+      "spriteIndex": 8,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "ReturnScepter",
+      "name": "Cetro do Retorno",
+      "upgradeLevel": -1,
+      "salePrice": -1,
+      "spriteIndex": 2,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "CopperAxe",
+      "name": "Copper Axe",
+      "upgradeLevel": 1,
+      "salePrice": 2000,
+      "spriteIndex": 196,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "Axe"
+    },
+    {
+      "id": "CopperHoe",
+      "name": "Copper Hoe",
+      "upgradeLevel": 1,
+      "salePrice": 2000,
+      "spriteIndex": 28,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "Hoe"
+    },
+    {
+      "id": "CopperPickaxe",
+      "name": "Copper Pickaxe",
+      "upgradeLevel": 1,
+      "salePrice": 2000,
+      "spriteIndex": 112,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "Pickaxe"
+    },
+    {
+      "id": "CopperTrashCan",
+      "name": "Copper Trash Can",
+      "upgradeLevel": 1,
+      "salePrice": 1000,
+      "spriteIndex": 13,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "CopperWateringCan",
+      "name": "Copper Watering Can",
+      "upgradeLevel": 1,
+      "salePrice": 2000,
+      "spriteIndex": 280,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "WateringCan"
+    },
+    {
+      "id": "Hoe",
+      "name": "Enxada",
+      "upgradeLevel": 0,
+      "salePrice": -1,
+      "spriteIndex": 21,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "FiberglassRod",
+      "name": "Fiberglass Rod",
+      "upgradeLevel": 2,
+      "salePrice": 5000,
+      "spriteIndex": 10,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "GoldAxe",
+      "name": "Gold Axe",
+      "upgradeLevel": 3,
+      "salePrice": 10000,
+      "spriteIndex": 231,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "SteelAxe"
+    },
+    {
+      "id": "GoldHoe",
+      "name": "Gold Hoe",
+      "upgradeLevel": 3,
+      "salePrice": 10000,
+      "spriteIndex": 63,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "SteelHoe"
+    },
+    {
+      "id": "GoldPan",
+      "name": "Gold Pan",
+      "upgradeLevel": 3,
+      "salePrice": -1,
+      "spriteIndex": 19,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "SteelPan"
+    },
+    {
+      "id": "GoldPickaxe",
+      "name": "Gold Pickaxe",
+      "upgradeLevel": 3,
+      "salePrice": 10000,
+      "spriteIndex": 147,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "SteelPickaxe"
+    },
+    {
+      "id": "GoldTrashCan",
+      "name": "Gold Trash Can",
+      "upgradeLevel": 3,
+      "salePrice": 5000,
+      "spriteIndex": 15,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "GoldWateringCan",
+      "name": "Gold Watering Can",
+      "upgradeLevel": 3,
+      "salePrice": 10000,
+      "spriteIndex": 315,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "SteelWateringCan"
+    },
+    {
+      "id": "IridiumAxe",
+      "name": "Iridium Axe",
+      "upgradeLevel": 4,
+      "salePrice": 25000,
+      "spriteIndex": 238,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "GoldAxe"
+    },
+    {
+      "id": "IridiumHoe",
+      "name": "Iridium Hoe",
+      "upgradeLevel": 4,
+      "salePrice": 25000,
+      "spriteIndex": 70,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "GoldHoe"
+    },
+    {
+      "id": "IridiumPan",
+      "name": "Iridium Pan",
+      "upgradeLevel": 4,
+      "salePrice": -1,
+      "spriteIndex": 20,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "GoldPan"
+    },
+    {
+      "id": "IridiumPickaxe",
+      "name": "Iridium Pickaxe",
+      "upgradeLevel": 4,
+      "salePrice": 25000,
+      "spriteIndex": 154,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "GoldPickaxe"
+    },
+    {
+      "id": "IridiumRod",
+      "name": "Iridium Rod",
+      "upgradeLevel": 3,
+      "salePrice": 15000,
+      "spriteIndex": 11,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "IridiumTrashCan",
+      "name": "Iridium Trash Can",
+      "upgradeLevel": 4,
+      "salePrice": 12500,
+      "spriteIndex": 16,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "IridiumWateringCan",
+      "name": "Iridium Watering Can",
+      "upgradeLevel": 4,
+      "salePrice": 25000,
+      "spriteIndex": 322,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "GoldWateringCan"
+    },
+    {
+      "id": "Lantern",
+      "name": "Lanterna",
+      "upgradeLevel": -1,
+      "salePrice": -1,
+      "spriteIndex": 74,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "Axe",
+      "name": "Machado",
+      "upgradeLevel": 0,
+      "salePrice": -1,
+      "spriteIndex": 189,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "Pan",
+      "name": "Pan",
+      "upgradeLevel": 1,
+      "salePrice": -1,
+      "spriteIndex": 12,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "Pickaxe",
+      "name": "Picareta",
+      "upgradeLevel": 0,
+      "salePrice": -1,
+      "spriteIndex": 105,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "WateringCan",
+      "name": "Regador",
+      "upgradeLevel": 0,
+      "salePrice": -1,
+      "spriteIndex": 273,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "SteelAxe",
+      "name": "Steel Axe",
+      "upgradeLevel": 2,
+      "salePrice": 5000,
+      "spriteIndex": 203,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "CopperAxe"
+    },
+    {
+      "id": "SteelHoe",
+      "name": "Steel Hoe",
+      "upgradeLevel": 2,
+      "salePrice": 5000,
+      "spriteIndex": 35,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "CopperHoe"
+    },
+    {
+      "id": "SteelPan",
+      "name": "Steel Pan",
+      "upgradeLevel": 2,
+      "salePrice": -1,
+      "spriteIndex": 18,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "Pan"
+    },
+    {
+      "id": "SteelPickaxe",
+      "name": "Steel Pickaxe",
+      "upgradeLevel": 2,
+      "salePrice": 5000,
+      "spriteIndex": 119,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "CopperPickaxe"
+    },
+    {
+      "id": "SteelTrashCan",
+      "name": "Steel Trash Can",
+      "upgradeLevel": 2,
+      "salePrice": 2500,
+      "spriteIndex": 14,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "SteelWateringCan",
+      "name": "Steel Watering Can",
+      "upgradeLevel": 2,
+      "salePrice": 5000,
+      "spriteIndex": 287,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": "CopperWateringCan"
+    },
+    {
+      "id": "Shears",
+      "name": "Tesoura",
+      "upgradeLevel": -1,
+      "salePrice": -1,
+      "spriteIndex": 7,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    },
+    {
+      "id": "TrainingRod",
+      "name": "Training Rod",
+      "upgradeLevel": 1,
+      "salePrice": 2000,
+      "spriteIndex": 9,
+      "texture": "TileSheets\\tools",
+      "upgradeFrom": null
+    }
+  ]
+}

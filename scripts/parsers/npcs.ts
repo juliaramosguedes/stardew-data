@@ -1,13 +1,14 @@
 import path from "node:path"
-import { RAW_DATA, OUT_PROCESSED } from "../config.ts"
+import { RAW, RAW_DATA, LOCALE, OUT_DATA } from "../config.ts"
 import { readJson, writeJson, meta, log } from "../utils.ts"
+import { loadLocaleData } from "../utils/locale.ts"
 import { parseSlashFields } from "../utils/parse.ts"
 import { parseItemIds } from "../utils/game.ts"
 import { NPC_GIFT_TASTE_FIELDS } from "../schemas/strings.ts"
 import { RawCharacterSchema, NpcGiftTastesParsedSchema, validateSample } from "../schemas/raw.ts"
 import type { ProcessedNPC, Season } from "../types.ts"
 
-const OUT_FILE = path.join(OUT_PROCESSED, "npcs.json")
+const OUT_FILE = path.join(OUT_DATA, "npcs.json")
 
 const SEASON_MAP: Record<string, Season> = {
   spring: "Spring",
@@ -61,9 +62,7 @@ export function parseNPCs(): ProcessedNPC[] {
   const rawCharacters = readJson<Record<string, unknown>>(
     path.join(RAW_DATA, "Characters.json")
   )
-  const rawGiftTastes = readJson<Record<string, string>>(
-    path.join(RAW_DATA, "NPCGiftTastes.json")
-  )
+  const rawGiftTastes = loadLocaleData<Record<string, string>>("Data/NPCGiftTastes.json", LOCALE, RAW)
 
   validateSample(rawCharacters, RawCharacterSchema)
 

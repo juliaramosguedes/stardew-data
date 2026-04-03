@@ -1,0 +1,670 @@
+{
+  "_meta": {
+    "source": "Data/Quests.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.102Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "quests": [
+    {
+      "id": "1",
+      "type": "Location",
+      "title": "Encontre o Feiticeiro",
+      "description": "Você recebeu uma carta do feiticeiro. Ele diz ter informações sobre o antigo centro comunitário.",
+      "objective": "Entre na torre do feiticeiro.",
+      "target": "WizardHouse",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "2",
+      "type": "Basic",
+      "title": "O Misterioso Qi",
+      "description": "Em um cofre secreto, você achou um bilhete com instruções curiosas. Está assinado por um tal de \"Sr. Qi\".",
+      "objective": "Deixe uma concha arco-íris no cofre, na plataforma do trem. ",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "3",
+      "type": "Basic",
+      "title": "O Misterioso Qi",
+      "description": "Você achou outro bilhete escrito pelo \"Sr. Qi\". O pedido é ainda mais exótico desta vez.",
+      "objective": "Coloque 10 beterrabas dentro da geladeira do prefeito Lewis.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "4",
+      "type": "Basic",
+      "title": "O Misterioso Qi",
+      "description": "Você achou outro bilhete estranho dentro da geladeira do prefeito. Desta vez, as instruções são ainda mais obscuras.",
+      "objective": "\"Dê ao dragão de areia sua última refeição\".",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "5",
+      "type": "Basic",
+      "title": "O Misterioso Qi",
+      "description": "Você achou outro bilhete no olho do dragão de areia. Parece que a estranha caça ao tesouro do Sr. Qi chegou ao fim.",
+      "objective": "Inspecione a pilha de madeira na frente da sua casa.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "6",
+      "type": "ItemHarvest",
+      "title": "Primeiros Passos",
+      "description": "Se você quiser trabalhar na fazenda, precisa começar com o básico. Utilize sua enxada para arar o solo. Então, utilize um pacote de sementes no solo arado para plantar. Regue todos os dias até que sua colheita esteja pronta.",
+      "objective": "Plante e colha uma chirívia.",
+      "target": "(O)24",
+      "rewardMoney": 100,
+      "nextQuestId": null
+    },
+    {
+      "id": "7",
+      "type": "Building",
+      "title": "Criando Animais",
+      "description": "Robin, a marceneira local, vive ao norte da cidade. Em troca de matéria bruta e dinheiro, ela construirá novas instalações na sua fazenda. Se quiser criar animais, precisará que ela construa um galinheiro ou celeiro.",
+      "objective": "Construa um galinheiro.",
+      "target": "Coop",
+      "rewardMoney": 100,
+      "nextQuestId": null
+    },
+    {
+      "id": "8",
+      "type": "Crafting",
+      "title": "Avanço",
+      "description": "Enquanto você ganha experiência, descobrirá novas receitas de fabricação para aumentar seus lucros e facilitar sua vida. Um espantalho, por exemplo, evitará que corvos ataquem suas preciosas plantações.",
+      "objective": "Alcance o nível 1 de Cultivo e crie um espantalho.",
+      "target": "(BC)8",
+      "rewardMoney": 100,
+      "nextQuestId": null
+    },
+    {
+      "id": "9",
+      "type": "Social",
+      "title": "Apresentações",
+      "description": "Seria um ótimo gesto se apresentar na cidade. Algumas pessoas podem estar ansiosas para conhecer o novo fazendeiro.",
+      "objective": ".",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "10",
+      "type": "Basic",
+      "title": "Mineração de Cobre",
+      "description": "Você achou um minério de cobre. Você não sabe como usá-lo, mas o ferreiro provavelmente sabe.",
+      "objective": "Traga um pouco de minério de cobre para a casa do ferreiro Clint.",
+      "target": ".",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "11",
+      "type": "Crafting",
+      "title": "Forja Antecipada",
+      "description": "Se você planeja continuar minerando recursos, deve construir uma fornalha.",
+      "objective": "Construa uma Fornalha.",
+      "target": "(BC)13",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "12",
+      "type": "ItemHarvest",
+      "title": "Fusão",
+      "description": "Agora que você construiu uma fornalha, pode fundir um pouco de metal. De acordo com as instruções do Clint, se você colocar 5 minérios de cobre e 1 pedaço de carvão na fornalha, ela produzirá uma barra de cobre.",
+      "objective": "Utilize sua fornalha para derreter uma barra de cobre.",
+      "target": "(O)334 1",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "13",
+      "type": "Basic",
+      "title": "À Praia",
+      "description": "Alguém chamado Willy convidou você para visitar a praia ao sul da cidade. Ele disse que tem algo a dar para você.",
+      "objective": "Visite a praia ao sul da cidade antes das 17:00.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "14",
+      "type": "Basic",
+      "title": "Explore a Mina",
+      "description": "Há um poço na mina das montanhas, ao norte da cidade. Pode haver materiais valiosos lá dentro, mas o Marlon disse que pode ser perigoso.",
+      "objective": "Alcance o nível 5 nas minas.",
+      "target": "17",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "15",
+      "type": "Monster",
+      "title": "Iniciação",
+      "description": "Se você puder abater 10 gosmas, vai conquistar seu lugar na Guilda dos Aventureiros.",
+      "objective": "0 de 10 gosmas verdes derrotadas.",
+      "target": "Green_Slime 10 null false",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "16",
+      "type": "Location",
+      "title": "Iniciação",
+      "description": "Você abateu 10 gosmas com sucesso. Agora, poderá entrar na Guilda dos Aventureiros.",
+      "objective": "Entre na Guilda dos Aventureiros",
+      "target": "AdventureGuild",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "17",
+      "type": "Basic",
+      "title": "Mais Fundo na Mina",
+      "description": "Parece que o elevador da mina ainda está funcionando. Ele vai permitir que você retorne rapidamente para todas as portas de elevador descobertas. Pode ser necessária uma expedição mais profunda.",
+      "objective": "Alcance o nível 40 nas minas.",
+      "target": "18",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "18",
+      "type": "Basic",
+      "title": "Até o Fundo?",
+      "description": "Até agora, não há sinal do fundo. Até onde ela vai?",
+      "objective": "Alcance o fundo das minas.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "19",
+      "type": "Basic",
+      "title": "Chave de Caveira",
+      "description": "Você encontrou uma chave estranha no fundo das minas.",
+      "objective": "Descubra o propósito da Chave de Caveira.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "20",
+      "type": "Basic",
+      "title": "Desafio do Qi",
+      "description": "Você recebeu um desafio de chegar ao nível 25 na caverna da caveira. Você recebeu uma promessa de recompensa se for bem-sucedido.",
+      "objective": "Alcance o nível 25 na Caverna da Caveira.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "21",
+      "type": "Basic",
+      "title": "Pedido da Marnie",
+      "description": "A Marnie passou na fazenda e perguntou se você poderia trazer uma cenoura subterrânea. Ela está tentando ensinar suas cabras a falar, e a Cenoura Subterrânea é o lanche favorito delas.",
+      "objective": "Traga uma Cenoura Subterrânea para a loja da Marnie.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "22",
+      "type": "Basic",
+      "title": "Peixada",
+      "description": "Jodi apareceu na fazenda e convidou você para jantar às 19:00. Seu único pedido foi que você trouxesse um achigã para a peixada.",
+      "objective": "Entre na casa da Jodi com um achigã às 19:00.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "23",
+      "type": "Location",
+      "title": "Arqueologia",
+      "description": "Você encontrou uma relíquia antiga. Será que é algum artefato muito antigo? Talvez Gunther, o curador do museu local, tenha a resposta.",
+      "objective": "Visite Gunther no museu.",
+      "target": "ArchaeologyHouse",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "24",
+      "type": "Basic",
+      "title": "Arqueologia",
+      "description": "Gunther perguntou se você poderia doar novos artefatos ou minerais que encontrar ao museu. Ele disse que o compensará ocasionalmente com bens raros.",
+      "objective": "Doe um artefato ou mineral ao museu.",
+      "target": null,
+      "rewardMoney": 250,
+      "nextQuestId": null
+    },
+    {
+      "id": "25",
+      "type": "Basic",
+      "title": "Como Ganhar Amigos",
+      "description": "Dar presentes é uma ótima forma de construir relacionamentos. Aprenda os gostos individuais de cada pessoa e você será popular em pouco tempo.",
+      "objective": "Dê um presente a alguém.",
+      "target": null,
+      "rewardMoney": 100,
+      "nextQuestId": null
+    },
+    {
+      "id": "26",
+      "type": "Basic",
+      "title": "Infestação de \"Ratos\"",
+      "description": "Tem algo estranho acontecendo no Centro Comunitário...",
+      "objective": "Investigue o Centro Comunitário",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "27",
+      "type": "Basic",
+      "title": "Caminho Bloqueado",
+      "description": "Tem um goblin bloqueando o caminho para a Cabana da Bruxa. Deve haver um jeito de fazê-lo se mexer... Talvez eu devesse procurar mais informações sobre os goblins.",
+      "objective": "Consiga acesso à Cabana da Bruxa.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "28",
+      "type": "Basic",
+      "title": "Talismã das Trevas",
+      "description": "O feiticeiro me pediu para obter tinta mágica da sua ex-esposa, a bruxa... mas para entrar, vou precisar de um talismã das trevas.",
+      "objective": "Entre no esgoto e pergunte a Krobus sobre o talismã.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "29",
+      "type": "Basic",
+      "title": "Recado Estranho",
+      "description": "Você encontrou um recado, quase ilegível, pedindo que você leve \"xa róupi di á-cer\" para a \"bosqi cecretu\".",
+      "objective": "Leve \"xa róupi di á-cer\" para a \"bosqi cecretu\"",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "30",
+      "type": "Basic",
+      "title": "Recado Misterioso",
+      "description": "Você encontrou um recado que dizia \"Alguém está esperando por você no nível 100 da Caverna da Caveira\"",
+      "objective": "Atinja o nível 100 da Caverna da Caveira",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "31",
+      "type": "Basic",
+      "title": "Um Mistério do Inverno",
+      "description": "Você encontrou uma pessoa suspeita ao lado da parada de ônibus. Quando ela viu você, fugiu na direção da cidade. Será que existe alguma pista sobre seu paradeiro?",
+      "objective": "Encontre o desconhecido.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "100",
+      "type": "LostItem",
+      "title": "Machado Perdido da Robin",
+      "description": "Robin perdeu seu machado favorito. Da última vez que ela lembra tê-lo usado, estava cortando madeira ao sul do rancho da Marnie.",
+      "objective": "Encontre o machado perdido da Robin.",
+      "target": "Robin (O)788 Forest 110 81",
+      "rewardMoney": 250,
+      "nextQuestId": null
+    },
+    {
+      "id": "101",
+      "type": "ItemDelivery",
+      "title": "Pedido da Jodi",
+      "description": "Jodi precisa de uma couve-flor fresca para uma receita.",
+      "objective": "Traga uma couve-flor para Jodi",
+      "target": "Jodi (O)190",
+      "rewardMoney": 350,
+      "nextQuestId": null
+    },
+    {
+      "id": "102",
+      "type": "LostItem",
+      "title": "O \"Shorts\" do Prefeito",
+      "description": "O prefeito Lewis perdeu seus \"shorts\" roxos. Ele está pedindo que você encontre-os e os devolva... Discretamente",
+      "objective": "Encontre e devolva os shorts roxos do prefeito Lewis.",
+      "target": "Lewis (O)789 AnimalShop 13 7",
+      "rewardMoney": 750,
+      "nextQuestId": null
+    },
+    {
+      "id": "103",
+      "type": "ItemDelivery",
+      "title": "Pam Está com Sede.",
+      "description": "Pam gostaria de beber uma pale ale. Cerveja comum não serve. Você pode criar uma cerveja artesanal se tiver lúpulo e um barril.",
+      "objective": "Traga uma pale ale para a Pam.",
+      "target": "Pam (O)303",
+      "rewardMoney": 350,
+      "nextQuestId": null
+    },
+    {
+      "id": "104",
+      "type": "ItemDelivery",
+      "title": "Pesquisa de Plantações",
+      "description": "Demetrius precisa de um melão fresco para sua pesquisa.",
+      "objective": "Traga um melão para Demetrius.",
+      "target": "Demetrius (O)254",
+      "rewardMoney": 550,
+      "nextQuestId": null
+    },
+    {
+      "id": "105",
+      "type": "ItemDelivery",
+      "title": "Remédio para Joelho",
+      "description": "George precisa de pimenta para amenizar a dor do seu joelho.",
+      "objective": "Traga uma Pimenta para George.",
+      "target": "George (O)260",
+      "rewardMoney": 200,
+      "nextQuestId": null
+    },
+    {
+      "id": "106",
+      "type": "ItemDelivery",
+      "title": "Agrado de Vaca",
+      "description": "Marnie quer dar um agrado para suas vacas. Ela está pedindo por um feixe de amaranto.",
+      "objective": "Traga um feixe de amaranto para a Marnie.",
+      "target": "Marnie (O)300",
+      "rewardMoney": 500,
+      "nextQuestId": null
+    },
+    {
+      "id": "107",
+      "type": "LostItem",
+      "title": "Cesto de Amoras",
+      "description": "É temporada de amoras, mas Linus não consegue achar sua cesta! Ele está pedindo para você ajudá-lo a encontrá-la. Ele não tem ideia de onde ela está.",
+      "objective": "Encontre a cesta do Linus e devolva para ele.",
+      "target": "Linus (O)790 Backwoods 27 27",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "108",
+      "type": "ItemDelivery",
+      "title": "Esculpindo Abóboras",
+      "description": "Caroline quer esculpir uma abóbora com sua filha. Ela pediu que você colha uma da fazenda.",
+      "objective": "Traga uma abóbora para a Caroline.",
+      "target": "Caroline (O)276",
+      "rewardMoney": 500,
+      "nextQuestId": null
+    },
+    {
+      "id": "109",
+      "type": "ItemDelivery",
+      "title": "Caça à Lula",
+      "description": "Willy está desafiando você a pegar uma lula. Ele disse que você pode pescá-las no oceano, nas noites de inverno.",
+      "objective": "Traga uma lula para o Willy.",
+      "target": "Willy (O)151",
+      "rewardMoney": 800,
+      "nextQuestId": null
+    },
+    {
+      "id": "110",
+      "type": "ItemDelivery",
+      "title": "Tentativa do Clint",
+      "description": "Clint quer que você dê uma ametista à Emily. Ele quer que você diga a ela que é um presente dele.",
+      "objective": "Dê uma Ametista para a Emily.",
+      "target": "Emily (O)66",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "111",
+      "type": "ItemDelivery",
+      "title": "Um Reagente Negro",
+      "description": "O feiticeiro quer que você vá às minas e obtenha uma Essência Nula para ele. É para uma espécie de ritual das trevas.",
+      "objective": "Traga uma Essência Nula para o Feiticeiro.",
+      "target": "Wizard (O)769",
+      "rewardMoney": 1000,
+      "nextQuestId": null
+    },
+    {
+      "id": "112",
+      "type": "ItemDelivery",
+      "title": "Um Favor ao Clint",
+      "description": "Clint ganhou um novo martelo e quer testá-lo em vários metais.",
+      "objective": "Traga uma Barra de Ferro para o Clint.",
+      "target": "Clint (O)335",
+      "rewardMoney": 500,
+      "nextQuestId": null
+    },
+    {
+      "id": "113",
+      "type": "ItemDelivery",
+      "title": "Pedido da Robin",
+      "description": "Robin precisa de madeira de lei.",
+      "objective": "Traga a ela 10 pedaços de madeira.",
+      "target": "Robin (O)709 10",
+      "rewardMoney": 500,
+      "nextQuestId": null
+    },
+    {
+      "id": "114",
+      "type": "ItemDelivery",
+      "title": "Guisado de Peixe",
+      "description": "Gus quer fazer um guisado de peixe, mas precisa de uma albacora.",
+      "objective": "Traga uma Albacora para o Gus.",
+      "target": "Gus (O)705",
+      "rewardMoney": 400,
+      "nextQuestId": null
+    },
+    {
+      "id": "115",
+      "type": "ItemDelivery",
+      "title": "Frutas Frescas",
+      "description": "A Emily quer sentir o gosto da primavera. Ela está pedindo por um damasco fresco.",
+      "objective": "Traga um Damasco para a Emily.",
+      "target": "Emily (O)634",
+      "rewardMoney": 600,
+      "nextQuestId": null
+    },
+    {
+      "id": "116",
+      "type": "ItemDelivery",
+      "title": "Presente da Vovó",
+      "description": "Evelyn quer surpreender seu marido com um presente.",
+      "objective": "Traga um alho-poró para Evelyn.",
+      "target": "Evelyn (O)20",
+      "rewardMoney": 500,
+      "nextQuestId": null
+    },
+    {
+      "id": "117",
+      "type": "ItemDelivery",
+      "title": "Pedido do Pierre",
+      "description": "Pierre pagará muito dinheiro para quem trouxer a ele um prato de sashimi. Aparentemente, ele ama isso.",
+      "objective": "Traga um Sashimi para o Pierre.",
+      "target": "Pierre (O)227",
+      "rewardMoney": 1000,
+      "nextQuestId": null
+    },
+    {
+      "id": "118",
+      "type": "ItemDelivery",
+      "title": "Pesquisa Aquática",
+      "description": "Demetrius está estudando o nível de toxinas dos baiacus locais. Ele gostaria que você trouxesse um para ele.",
+      "objective": "Traga um Baiacu para o Demetrius.",
+      "target": "Demetrius (O)128",
+      "rewardMoney": 1000,
+      "nextQuestId": null
+    },
+    {
+      "id": "119",
+      "type": "ItemDelivery",
+      "title": "A Estrela do Soldado",
+      "description": "Kent quer dar uma carambola para sua esposa.",
+      "objective": "Traga uma carambola para o Kent.",
+      "target": "Kent (O)268",
+      "rewardMoney": 500,
+      "nextQuestId": null
+    },
+    {
+      "id": "120",
+      "type": "ItemDelivery",
+      "title": "Pedido do Prefeito",
+      "description": "O prefeito Lewis quer óleo de trufas. Ele não quer explicar o porquê. Talvez não seja da sua conta.",
+      "objective": "Traga uma garrafa de Óleo de Trufa para o prefeito.",
+      "target": "Lewis (O)432",
+      "rewardMoney": 750,
+      "nextQuestId": null
+    },
+    {
+      "id": "121",
+      "type": "ItemDelivery",
+      "title": "Precisa-se: Lagosta",
+      "description": "Gus enviou um comunicado pedindo uma lagosta fresca.",
+      "objective": "Traga uma lagosta para o Gus.",
+      "target": "Gus (O)715",
+      "rewardMoney": 800,
+      "nextQuestId": null
+    },
+    {
+      "id": "122",
+      "type": "ItemDelivery",
+      "title": "Pam Precisa de Energia",
+      "description": "O controle remoto da Pam estragou. Ela está tendo muita dificuldade de levantar do sofá e mudar os canais.",
+      "objective": "Traga um Conjunto de Pilhas para a Pam.",
+      "target": "Pam (O)787",
+      "rewardMoney": 400,
+      "nextQuestId": null
+    },
+    {
+      "id": "123",
+      "type": "ItemDelivery",
+      "title": "Cajado do Poder",
+      "description": "O feiticeiro está criando um cajado de poder fenomenal. Quem sabe para que serve. Ele precisa de uma barra de irídio para terminá-lo.",
+      "objective": "Traga uma Barra de Irídio para o feiticeiro",
+      "target": "Wizard (O)337",
+      "rewardMoney": 5000,
+      "nextQuestId": null
+    },
+    {
+      "id": "124",
+      "type": "ItemDelivery",
+      "title": "Pesque um Ófis",
+      "description": "Willy está desafiando você a pegar um Ófis.",
+      "objective": "Traga um Ófis para o Willy.",
+      "target": "Willy (O)707",
+      "rewardMoney": 550,
+      "nextQuestId": null
+    },
+    {
+      "id": "125",
+      "type": "ItemDelivery",
+      "title": "Bebida Exótica",
+      "description": "Gus quer fazer um Coco-no-no,  mas não tem o ingrediente principal.",
+      "objective": "Traga um coco para o Gus!",
+      "target": "Gus (O)88",
+      "rewardMoney": 600,
+      "nextQuestId": null
+    },
+    {
+      "id": "126",
+      "type": "ItemDelivery",
+      "title": "Tarefa para sua Esposa",
+      "description": "Sua esposa pediu para levá-la 200 pedaços de fibra para um projeto secreto.",
+      "objective": "Leve 200 fibras para Emily.",
+      "target": "Emily (O)771 200",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "127",
+      "type": "Basic",
+      "title": "Jogo do Bolo da Haley",
+      "description": "Sua esposa está organizando um jogo de caridade na praça da cidade. Ela pediu para trazer um bolo de chocolate.",
+      "objective": "Entre na cidade em uma manhã ensolarada com um bolo de chocolate.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "128",
+      "type": "SecretLostItem",
+      "title": "...",
+      "description": "...",
+      "objective": "...",
+      "target": "Abigail (O)191 100 129",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "129",
+      "type": "SecretLostItem",
+      "title": "...",
+      "description": "...",
+      "objective": "...",
+      "target": "Caroline (O)191 50 128",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "130",
+      "type": "Basic",
+      "title": "A Esposa do Pirata",
+      "description": "Uma velha senhora que mora na Ilha Gengibre te pediu para achar uma lembrança do seu marido. Ela te deu uma foto antiga de um soldado na praia, esperando que ajude de alguma forma.",
+      "objective": "Encontre uma lembrança que pertencia ao marido da Passarinha.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "131",
+      "type": "Fishing",
+      "title": "Desafio do Willy",
+      "description": "Willy te desafiou a pescar 3 Areinhas.",
+      "objective": "Pesque 3 Areinhas.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "132",
+      "type": "ItemHarvest",
+      "title": "Começando",
+      "description": "Se você quer se tornar um fazendeiro, tem que começar pelo básico. Alimente suas galinhas uma vez por dia ao deixá-las comerem grama ao ar livre, ou colocando feno nos seus cochos. Quando elas crescerem, colete um ovo!",
+      "objective": "Colete um ovo das suas galinhas.",
+      "target": "-5",
+      "rewardMoney": 100,
+      "nextQuestId": null
+    },
+    {
+      "id": "133",
+      "type": "Building",
+      "title": "Alimentando os Animais",
+      "description": "Robin, a carpinteira da região, mora ao norte da vila. Em troca de materiais brutos e dinheiro, ela pode fazer novas construções na sua fazenda. Se construir um silo, você pode começar a coletar sua própria grama com uma foice, e guardá-la para alimentar os seus animais.",
+      "objective": "Construa um Silo.",
+      "target": "Silo",
+      "rewardMoney": 100,
+      "nextQuestId": null
+    },
+    {
+      "id": "134",
+      "type": "Basic",
+      "title": "O Tronco Gigante",
+      "description": "A árvore grande ao sul da minha fazenda foi derrubada. Com 100 madeiras de lei, eu consigo transformar o tronco em algo interessante...",
+      "objective": "Conserte o tronco gigante.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 import path from "node:path"
-import { RAW_DATA, OUT_PROCESSED } from "../config.ts"
+import { RAW_DATA, OUT_DATA } from "../config.ts"
 import { readJson, writeJson, meta, log } from "../utils.ts"
 import { RawFishSchema, validateSample } from "../schemas/raw.ts"
 import type { RawFish, ProcessedFish } from "../types.ts"
 
-const OUT_FILE = path.join(OUT_PROCESSED, "fish.json")
+const OUT_FILE = path.join(OUT_DATA, "fish.json")
 
 export function parseFishEntry(id: string, obj: RawFish): ProcessedFish {
   const spawnData = obj.SpawnData ?? []

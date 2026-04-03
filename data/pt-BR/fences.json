@@ -1,0 +1,55 @@
+{
+  "_meta": {
+    "source": "Data/Fences.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.143Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "fences": [
+    {
+      "id": "298",
+      "health": 280,
+      "repairHealthMin": -20,
+      "repairHealthMax": 20,
+      "texture": "LooseSprites\\Fence5",
+      "placementSound": "axe",
+      "removalSound": "axchop"
+    },
+    {
+      "id": "322",
+      "health": 28,
+      "repairHealthMin": -5,
+      "repairHealthMax": 5,
+      "texture": "LooseSprites\\Fence1",
+      "placementSound": "axe",
+      "removalSound": "axchop"
+    },
+    {
+      "id": "323",
+      "health": 60,
+      "repairHealthMin": -5,
+      "repairHealthMax": 6,
+      "texture": "LooseSprites\\Fence2",
+      "placementSound": "stoneStep",
+      "removalSound": "hammer"
+    },
+    {
+      "id": "324",
+      "health": 125,
+      "repairHealthMin": -5,
+      "repairHealthMax": 7,
+      "texture": "LooseSprites\\Fence3",
+      "placementSound": "hammer",
+      "removalSound": "hammer"
+    },
+    {
+      "id": "325",
+      "health": 100,
+      "repairHealthMin": 0,
+      "repairHealthMax": 0,
+      "texture": "LooseSprites\\Fence1",
+      "placementSound": "axe",
+      "removalSound": "axchop"
+    }
+  ]
+}

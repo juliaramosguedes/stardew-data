@@ -1,0 +1,263 @@
+{
+  "_meta": {
+    "source": "Data/Objects.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.119Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "books": [
+    {
+      "id": "102",
+      "name": "Lost Book",
+      "sellPrice": 0,
+      "contextTags": [
+        "book_item"
+      ]
+    },
+    {
+      "id": "PurpleBook",
+      "name": "Book Of Stars",
+      "sellPrice": 2500,
+      "contextTags": [
+        "color_iridium",
+        "book_item"
+      ]
+    },
+    {
+      "id": "SkillBook_0",
+      "name": "Stardew Valley Almanac",
+      "sellPrice": 500,
+      "contextTags": [
+        "color_gold",
+        "book_item"
+      ]
+    },
+    {
+      "id": "SkillBook_2",
+      "name": "Woodcutter's Weekly",
+      "sellPrice": 500,
+      "contextTags": [
+        "color_green",
+        "book_item"
+      ]
+    },
+    {
+      "id": "SkillBook_1",
+      "name": "Bait And Bobber",
+      "sellPrice": 500,
+      "contextTags": [
+        "color_blue",
+        "book_item"
+      ]
+    },
+    {
+      "id": "SkillBook_3",
+      "name": "Mining Monthly",
+      "sellPrice": 500,
+      "contextTags": [
+        "color_brown",
+        "book_item"
+      ]
+    },
+    {
+      "id": "SkillBook_4",
+      "name": "Combat Quarterly",
+      "sellPrice": 500,
+      "contextTags": [
+        "color_red",
+        "book_item"
+      ]
+    },
+    {
+      "id": "Book_Trash",
+      "name": "The Alleyway Buffet",
+      "sellPrice": 3000,
+      "contextTags": [
+        "color_dark_gray",
+        "book_item",
+        "book_xp_foraging"
+      ]
+    },
+    {
+      "id": "Book_Crabbing",
+      "name": "The Art O' Crabbing",
+      "sellPrice": 1000,
+      "contextTags": [
+        "color_black",
+        "book_item",
+        "book_xp_fishing"
+      ]
+    },
+    {
+      "id": "Book_Bombs",
+      "name": "Dwarvish Safety Manual",
+      "sellPrice": 1000,
+      "contextTags": [
+        "color_red",
+        "book_item",
+        "book_xp_mining"
+      ]
+    },
+    {
+      "id": "Book_Roe",
+      "name": "Jewels Of The Sea",
+      "sellPrice": 800,
+      "contextTags": [
+        "color_orange",
+        "book_item",
+        "book_xp_fishing",
+        "fish_has_roe"
+      ]
+    },
+    {
+      "id": "Book_WildSeeds",
+      "name": "Ways Of The Wild",
+      "sellPrice": 1000,
+      "contextTags": [
+        "color_green",
+        "book_item",
+        "book_xp_foraging"
+      ]
+    },
+    {
+      "id": "Book_Woodcutting",
+      "name": "Woody's Secret",
+      "sellPrice": 500,
+      "contextTags": [
+        "color_brown",
+        "book_item",
+        "book_xp_foraging"
+      ]
+    },
+    {
+      "id": "Book_Defense",
+      "name": "Jack Be Nimble, Jack Be Thick",
+      "sellPrice": 500,
+      "contextTags": [
+        "color_brown",
+        "book_item",
+        "book_xp_combat"
+      ]
+    },
+    {
+      "id": "Book_Friendship",
+      "name": "Friendship 101",
+      "sellPrice": 3000,
+      "contextTags": [
+        "color_pink",
+        "book_item"
+      ]
+    },
+    {
+      "id": "Book_Void",
+      "name": "Monster Compendium",
+      "sellPrice": 2000,
+      "contextTags": [
+        "color_black",
+        "book_item",
+        "book_xp_combat"
+      ]
+    },
+    {
+      "id": "Book_Speed",
+      "name": "Way Of The Wind pt. 1",
+      "sellPrice": 5000,
+      "contextTags": [
+        "color_iron",
+        "book_item"
+      ]
+    },
+    {
+      "id": "Book_Marlon",
+      "name": "Mapping Cave Systems",
+      "sellPrice": 4000,
+      "contextTags": [
+        "color_dark_gray",
+        "book_item",
+        "book_xp_combat"
+      ]
+    },
+    {
+      "id": "Book_PriceCatalogue",
+      "name": "Price Catalogue",
+      "sellPrice": 1000,
+      "contextTags": [
+        "color_gold",
+        "book_item"
+      ]
+    },
+    {
+      "id": "Book_QueenOfSauce",
+      "name": "Queen Of Sauce Cookbook",
+      "sellPrice": 10000,
+      "contextTags": [
+        "color_blue",
+        "book_item"
+      ]
+    },
+    {
+      "id": "Book_Diamonds",
+      "name": "The Diamond Hunter",
+      "sellPrice": 1000,
+      "contextTags": [
+        "color_cyan",
+        "book_item",
+        "book_xp_mining"
+      ]
+    },
+    {
+      "id": "Book_Mystery",
+      "name": "Book of Mysteries",
+      "sellPrice": 3000,
+      "contextTags": [
+        "color_blue",
+        "book_item"
+      ]
+    },
+    {
+      "id": "Book_AnimalCatalogue",
+      "name": "Animal Catalogue",
+      "sellPrice": 2000,
+      "contextTags": [
+        "color_dark_pink",
+        "book_item"
+      ]
+    },
+    {
+      "id": "Book_Speed2",
+      "name": "Way Of The Wind pt. 2",
+      "sellPrice": 10000,
+      "contextTags": [
+        "color_cyan",
+        "book_item"
+      ]
+    },
+    {
+      "id": "Book_Artifact",
+      "name": "Book_Artifact",
+      "sellPrice": 500,
+      "contextTags": [
+        "color_brown",
+        "book_item"
+      ]
+    },
+    {
+      "id": "Book_Horse",
+      "name": "Book_Horse",
+      "sellPrice": 1000,
+      "contextTags": [
+        "color_brown",
+        "book_item"
+      ]
+    },
+    {
+      "id": "Book_Grass",
+      "name": "Book_Grass",
+      "sellPrice": 1000,
+      "contextTags": [
+        "color_green",
+        "book_item"
+      ]
+    }
+  ]
+}

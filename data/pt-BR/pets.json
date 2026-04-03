@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "source": "Data/Pets.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.141Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "pets": [
+    {
+      "id": "Cat",
+      "displayName": "[LocalizedText Strings\\StringsFromCSFiles:Event.cs.1242]",
+      "barkSound": "cat",
+      "moveSpeed": 2
+    },
+    {
+      "id": "Dog",
+      "displayName": "[LocalizedText Strings\\StringsFromCSFiles:Event.cs.1243]",
+      "barkSound": "dog_bark",
+      "moveSpeed": 2
+    },
+    {
+      "id": "Turtle",
+      "displayName": "Turtle",
+      "barkSound": "",
+      "moveSpeed": 2
+    }
+  ]
+}

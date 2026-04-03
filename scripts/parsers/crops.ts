@@ -1,12 +1,12 @@
 import path from "node:path"
-import { RAW_DATA, OUT_PROCESSED } from "../config.ts"
+import { RAW_DATA, OUT_DATA } from "../config.ts"
 import { readJson, writeJson, sumArray, meta, log } from "../utils.ts"
 import { RawCropSchema, RawObjectSchema, validateSample } from "../schemas/raw.ts"
 import type { RawCrop, RawObject, ProcessedCrop, Season } from "../types.ts"
 
 const CROPS_FILE = path.join(RAW_DATA, "Crops.json")
 const OBJECTS_FILE = path.join(RAW_DATA, "Objects.json")
-const OUT_FILE = path.join(OUT_PROCESSED, "crops.json")
+const OUT_FILE = path.join(OUT_DATA, "crops.json")
 
 const CC_BUNDLE_MAP: Record<string, string> = {
   "24": "Spring Crops Bundle",

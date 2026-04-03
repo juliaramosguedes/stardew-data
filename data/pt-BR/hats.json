@@ -1,0 +1,864 @@
+{
+  "_meta": {
+    "source": "Data/Hats.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.124Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "hats": [
+    {
+      "id": "0",
+      "name": "Cowboy Hat",
+      "description": "O couro está velho e rachado, mas surpreendentemente flexível. Está com cheiro de mofo.",
+      "showRealHair": false,
+      "spriteIndex": 0
+    },
+    {
+      "id": "1",
+      "name": "Bowler Hat",
+      "description": "Feito de feltro macio.",
+      "showRealHair": false,
+      "spriteIndex": 1
+    },
+    {
+      "id": "2",
+      "name": "Top Hat",
+      "description": "Clássico para um cavalheiro.",
+      "showRealHair": false,
+      "spriteIndex": 2
+    },
+    {
+      "id": "3",
+      "name": "Sombrero",
+      "description": "Chapéu com decoração festiva. Tecido com palha.",
+      "showRealHair": false,
+      "spriteIndex": 3
+    },
+    {
+      "id": "4",
+      "name": "Straw Hat",
+      "description": "Leve e fresco. A alegria de um fazendeiro.",
+      "showRealHair": false,
+      "spriteIndex": 4
+    },
+    {
+      "id": "5",
+      "name": "Official Cap",
+      "description": "Parece ter pertencido a um carteiro ou policial. De qualquer forma, ainda está bem macia e cheira bem.",
+      "showRealHair": false,
+      "spriteIndex": 5
+    },
+    {
+      "id": "6",
+      "name": "Blue Bonnet",
+      "description": "Volte aos doces tempos de infância com esta touca.",
+      "showRealHair": false,
+      "spriteIndex": 6
+    },
+    {
+      "id": "7",
+      "name": "Plum Chapeau",
+      "description": "Parece bom.",
+      "showRealHair": false,
+      "spriteIndex": 7
+    },
+    {
+      "id": "8",
+      "name": "Skeleton Mask",
+      "description": "Os olhos vermelhos brilham misteriosamente",
+      "showRealHair": true,
+      "spriteIndex": 8
+    },
+    {
+      "id": "9",
+      "name": "Goblin Mask",
+      "description": "Assuste a vizinhança com esta máscara medonha. Com borrachas nas orelhas para completar.",
+      "showRealHair": true,
+      "spriteIndex": 9
+    },
+    {
+      "id": "10",
+      "name": "Chicken Mask",
+      "description": "Faça todos sorrirem com esta máscara.",
+      "showRealHair": true,
+      "spriteIndex": 10
+    },
+    {
+      "id": "11",
+      "name": "Earmuffs",
+      "description": "Mantenha suas orelhas aquecidas. Feito com veludo artesanal da Vila Castelo.",
+      "showRealHair": true,
+      "spriteIndex": 11
+    },
+    {
+      "id": "12",
+      "name": "Delicate Bow",
+      "description": "Pequenas joias brilham enquanto você o examina.",
+      "showRealHair": true,
+      "spriteIndex": 12
+    },
+    {
+      "id": "13",
+      "name": "Tropiclip",
+      "description": "Possui a forma de uma pequena palmeira.",
+      "showRealHair": true,
+      "spriteIndex": 13
+    },
+    {
+      "id": "14",
+      "name": "Butterfly Bow",
+      "description": "É bem macia.",
+      "showRealHair": true,
+      "spriteIndex": 14
+    },
+    {
+      "id": "15",
+      "name": "Hunter's Cap",
+      "description": "A lã do chapéu continua quente até no meio da floresta.",
+      "showRealHair": false,
+      "spriteIndex": 15
+    },
+    {
+      "id": "16",
+      "name": "Trucker Hat",
+      "description": "Ponha atrás para esfriar a sua cabeça.",
+      "showRealHair": false,
+      "spriteIndex": 16
+    },
+    {
+      "id": "17",
+      "name": "Sailor's Cap",
+      "description": "É fresco e inflexível.",
+      "showRealHair": false,
+      "spriteIndex": 17
+    },
+    {
+      "id": "18",
+      "name": "Good Ol' Cap",
+      "description": "Um boné velho e flexível com a aba amassada. Parece ter passado por muita coisa.",
+      "showRealHair": false,
+      "spriteIndex": 18
+    },
+    {
+      "id": "19",
+      "name": "Fedora",
+      "description": "Essencial para um habitante da cidade.",
+      "showRealHair": false,
+      "spriteIndex": 19
+    },
+    {
+      "id": "20",
+      "name": "Cool Cap",
+      "description": "Está muito desbotado, mas seu azul era bem vivo.",
+      "showRealHair": false,
+      "spriteIndex": 20
+    },
+    {
+      "id": "21",
+      "name": "Lucky Bow",
+      "description": "O meio é feito de ouro maciço.",
+      "showRealHair": true,
+      "spriteIndex": 21
+    },
+    {
+      "id": "22",
+      "name": "Polka Bow",
+      "description": "É de revirar os olhos.",
+      "showRealHair": true,
+      "spriteIndex": 22
+    },
+    {
+      "id": "23",
+      "name": "Gnome's Cap",
+      "description": "Este gnomo era cabeçudo.",
+      "showRealHair": false,
+      "spriteIndex": 23
+    },
+    {
+      "id": "24",
+      "name": "Eye Patch",
+      "description": "Não dá para saber se é de verdade ou de uma loja de fantasias.",
+      "showRealHair": true,
+      "spriteIndex": 24
+    },
+    {
+      "id": "25",
+      "name": "Santa Hat",
+      "description": "Celebre um natal mágico.",
+      "showRealHair": false,
+      "spriteIndex": 25
+    },
+    {
+      "id": "26",
+      "name": "Tiara",
+      "description": "Possui uma grande ametista cercada de ouro.",
+      "showRealHair": true,
+      "spriteIndex": 26
+    },
+    {
+      "id": "27",
+      "name": "Hard Hat",
+      "description": "Para manter a sua cabeça segura.",
+      "showRealHair": false,
+      "spriteIndex": 27
+    },
+    {
+      "id": "28",
+      "name": "Sou'wester",
+      "description": "Seu formato ajuda a manter os marinheiros secos durante tempestades.",
+      "showRealHair": false,
+      "spriteIndex": 28
+    },
+    {
+      "id": "29",
+      "name": "Daisy",
+      "description": "Uma margarida fresca para colocar no cabelo.",
+      "showRealHair": true,
+      "spriteIndex": 29
+    },
+    {
+      "id": "30",
+      "name": "Watermelon Band",
+      "description": "Cores inspiradas pela amada fruta do verão.",
+      "showRealHair": true,
+      "spriteIndex": 30
+    },
+    {
+      "id": "31",
+      "name": "Mouse Ears",
+      "description": "Feitas de fibra sintética.",
+      "showRealHair": true,
+      "spriteIndex": 31
+    },
+    {
+      "id": "32",
+      "name": "Cat Ears",
+      "description": "Bigodes incluídos.",
+      "showRealHair": true,
+      "spriteIndex": 32
+    },
+    {
+      "id": "33",
+      "name": "Cowgal Hat",
+      "description": "O laço está cheio de diamantes falsos.",
+      "showRealHair": false,
+      "spriteIndex": 33
+    },
+    {
+      "id": "34",
+      "name": "Cowpoke Hat",
+      "description": "Para especialistas em laticínios.",
+      "showRealHair": false,
+      "spriteIndex": 34
+    },
+    {
+      "id": "35",
+      "name": "Archer's Cap",
+      "description": "Sempre na moda, goste você de arqueiros ou não.",
+      "showRealHair": false,
+      "spriteIndex": 35
+    },
+    {
+      "id": "36",
+      "name": "Panda Hat",
+      "description": "Um lindo chapéu de panda.",
+      "showRealHair": false,
+      "spriteIndex": 36
+    },
+    {
+      "id": "37",
+      "name": "Blue Cowboy Hat",
+      "description": "Um chapéu de caubói de jeans azul.",
+      "showRealHair": false,
+      "spriteIndex": 37
+    },
+    {
+      "id": "38",
+      "name": "Red Cowboy Hat",
+      "description": "Um chapéu de caubói vermelho chamativo.",
+      "showRealHair": false,
+      "spriteIndex": 38
+    },
+    {
+      "id": "39",
+      "name": "Cone Hat",
+      "description": "Uma raridade, vinda de uma terra distante.",
+      "showRealHair": false,
+      "spriteIndex": 39
+    },
+    {
+      "id": "40",
+      "name": "Living Hat",
+      "description": "Ele absorve humidade do seu escalpo. Sem precisar regar!",
+      "showRealHair": false,
+      "spriteIndex": 40
+    },
+    {
+      "id": "41",
+      "name": "Emily's Magic Hat",
+      "description": "Feito com amor pela Emily. É 100% orgânico!",
+      "showRealHair": false,
+      "spriteIndex": 41
+    },
+    {
+      "id": "42",
+      "name": "Mushroom Cap",
+      "description": "Tem cheiro de terra.",
+      "showRealHair": false,
+      "spriteIndex": 42
+    },
+    {
+      "id": "43",
+      "name": "Dinosaur Hat",
+      "description": "Um chapéu feito para parecer um pequeno dinossauro.",
+      "showRealHair": false,
+      "spriteIndex": 43
+    },
+    {
+      "id": "44",
+      "name": "Totem Mask",
+      "description": "Não se preocupe, ela não vai deformar sua cara...",
+      "showRealHair": true,
+      "spriteIndex": 44
+    },
+    {
+      "id": "45",
+      "name": "Logo Cap",
+      "description": "Um boné vermelho com uma logo na frente.",
+      "showRealHair": false,
+      "spriteIndex": 45
+    },
+    {
+      "id": "46",
+      "name": "Wearable Dwarf Helm",
+      "description": "Uma versão um pouco maior dos capacetes usados pelos anões.",
+      "showRealHair": false,
+      "spriteIndex": 46
+    },
+    {
+      "id": "47",
+      "name": "Fashion Hat",
+      "description": "Um chapéu elegante com uma pena na aba.",
+      "showRealHair": false,
+      "spriteIndex": 47
+    },
+    {
+      "id": "48",
+      "name": "Pumpkin Mask",
+      "description": "Essa deve ter sido uma abóbora muito grande...",
+      "showRealHair": false,
+      "spriteIndex": 48
+    },
+    {
+      "id": "49",
+      "name": "Hair Bone",
+      "description": "Uma versão pré-histórica do arco de cabelo.",
+      "showRealHair": true,
+      "spriteIndex": 49
+    },
+    {
+      "id": "50",
+      "name": "Knight's Helmet",
+      "description": "Parece até que é de verdade!",
+      "showRealHair": false,
+      "spriteIndex": 50
+    },
+    {
+      "id": "51",
+      "name": "Squire's Helmet",
+      "description": "A cara é exposta pra aumentar o fluxo de ar.",
+      "showRealHair": false,
+      "spriteIndex": 51
+    },
+    {
+      "id": "52",
+      "name": "Spotted Headscarf",
+      "description": "Um cachecol vermelho com bolinhas amarrado no pescoço.",
+      "showRealHair": false,
+      "spriteIndex": 52
+    },
+    {
+      "id": "53",
+      "name": "Beanie",
+      "description": "Um chapéu quente e apertado.",
+      "showRealHair": false,
+      "spriteIndex": 53
+    },
+    {
+      "id": "54",
+      "name": "Floppy Beanie",
+      "description": "Um chapéu quente e um pouco largo.",
+      "showRealHair": false,
+      "spriteIndex": 54
+    },
+    {
+      "id": "55",
+      "name": "Fishing Hat",
+      "description": "A aba larga te mantém na sombra enquanto estiver pescando na margem do rio.",
+      "showRealHair": false,
+      "spriteIndex": 55
+    },
+    {
+      "id": "56",
+      "name": "Blobfish Mask",
+      "description": "Tão esponjoso quanto o de verdade!",
+      "showRealHair": true,
+      "spriteIndex": 56
+    },
+    {
+      "id": "57",
+      "name": "Party Hat",
+      "description": "Um chapéu vermelho que faz qualquer celebração mais divertida.",
+      "showRealHair": false,
+      "spriteIndex": 57
+    },
+    {
+      "id": "58",
+      "name": "Party Hat",
+      "description": "Um chapéu azul que faz qualquer celebração mais divertida.",
+      "showRealHair": false,
+      "spriteIndex": 58
+    },
+    {
+      "id": "59",
+      "name": "Party Hat",
+      "description": "Um chapéu verde que faz qualquer celebração mais divertida.",
+      "showRealHair": false,
+      "spriteIndex": 59
+    },
+    {
+      "id": "60",
+      "name": "Arcane Hat",
+      "description": "O tipo de chapéu de vaqueiro que é usado por um mago.",
+      "showRealHair": false,
+      "spriteIndex": 60
+    },
+    {
+      "id": "61",
+      "name": "Chef Hat",
+      "description": "O chapéu tradicional de um chefe de cozinha.",
+      "showRealHair": false,
+      "spriteIndex": 61
+    },
+    {
+      "id": "62",
+      "name": "Pirate Hat",
+      "description": "O chapéu de um capitão com um caveira horrivel na frente.",
+      "showRealHair": false,
+      "spriteIndex": 62
+    },
+    {
+      "id": "63",
+      "name": "Flat Topped Hat",
+      "description": "Um chapéu antigo que já foi considerado muito estiloso.",
+      "showRealHair": false,
+      "spriteIndex": 63
+    },
+    {
+      "id": "64",
+      "name": "Elegant Turban",
+      "description": "Um turbante de tecido preto com detalhes dourados.",
+      "showRealHair": false,
+      "spriteIndex": 64
+    },
+    {
+      "id": "65",
+      "name": "White Turban",
+      "description": "Um turbante de tecido branco com detalhes azuis.",
+      "showRealHair": false,
+      "spriteIndex": 65
+    },
+    {
+      "id": "66",
+      "name": "Garbage Hat",
+      "description": "É uma tampa de lata de lixo 'reciclada' como chapéu...",
+      "showRealHair": true,
+      "spriteIndex": 66
+    },
+    {
+      "id": "67",
+      "name": "Golden Mask",
+      "description": "Uma recriação fiel da relíquia do Deserto Calico!",
+      "showRealHair": true,
+      "spriteIndex": 67
+    },
+    {
+      "id": "68",
+      "name": "Propeller Hat",
+      "description": "Um chapéu bobo com uma hélice em cima.",
+      "showRealHair": false,
+      "spriteIndex": 68
+    },
+    {
+      "id": "69",
+      "name": "Bridal Veil",
+      "description": "O chapéu tradicional de uma noiva.",
+      "showRealHair": false,
+      "spriteIndex": 69
+    },
+    {
+      "id": "70",
+      "name": "Witch Hat",
+      "description": "Um chapéu pontudo popular entre bruxas.",
+      "showRealHair": false,
+      "spriteIndex": 70
+    },
+    {
+      "id": "71",
+      "name": "Copper Pan",
+      "description": "Você coloca a peneira de cobre na sua cabeça...",
+      "showRealHair": false,
+      "spriteIndex": 71
+    },
+    {
+      "id": "72",
+      "name": "Green Turban",
+      "description": "Um turbante verde de seda com um ornamento dourado na frente.",
+      "showRealHair": false,
+      "spriteIndex": 72
+    },
+    {
+      "id": "73",
+      "name": "Magic Cowboy Hat",
+      "description": "Está brilhando com energia prismática",
+      "showRealHair": false,
+      "spriteIndex": 73
+    },
+    {
+      "id": "74",
+      "name": "Magic Turban",
+      "description": "Está brilhando com energia prismática",
+      "showRealHair": false,
+      "spriteIndex": 74
+    },
+    {
+      "id": "75",
+      "name": "Golden Helmet",
+      "description": "É a metade de um coco dourado.",
+      "showRealHair": false,
+      "spriteIndex": 75
+    },
+    {
+      "id": "76",
+      "name": "Deluxe Pirate Hat",
+      "description": "Só o pirata mais infame poderia vestir isso.",
+      "showRealHair": false,
+      "spriteIndex": 76
+    },
+    {
+      "id": "77",
+      "name": "Pink Bow",
+      "description": "Este laço gigante é uma declaração e tanto!",
+      "showRealHair": true,
+      "spriteIndex": 77
+    },
+    {
+      "id": "78",
+      "name": "Frog Hat",
+      "description": "Um amigo pegajoso que vive na sua cabeça.",
+      "showRealHair": false,
+      "spriteIndex": 78
+    },
+    {
+      "id": "79",
+      "name": "Small Cap",
+      "description": "É um estilo de boné mais aerodinâmico.",
+      "showRealHair": false,
+      "spriteIndex": 79
+    },
+    {
+      "id": "80",
+      "name": "Bluebird Mask",
+      "description": "Use isto para ficar igual ao seu comerciante favorito da ilha.",
+      "showRealHair": false,
+      "spriteIndex": 80
+    },
+    {
+      "id": "81",
+      "name": "Deluxe Cowboy Hat",
+      "description": "Um chapéu de caubói com um formato mais extremo.",
+      "showRealHair": false,
+      "spriteIndex": 81
+    },
+    {
+      "id": "82",
+      "name": "Mr. Qi's Hat",
+      "description": "Uma réplica do chapéu icônico do Sr. Qi.",
+      "showRealHair": false,
+      "spriteIndex": 82
+    },
+    {
+      "id": "83",
+      "name": "Dark Cowboy Hat",
+      "description": "Um chapéu de caubói em um clássico preto.",
+      "showRealHair": false,
+      "spriteIndex": 83
+    },
+    {
+      "id": "84",
+      "name": "Radioactive Goggles",
+      "description": "Na verdade não fornece nenhuma proteção contra radiação.",
+      "showRealHair": true,
+      "spriteIndex": 84
+    },
+    {
+      "id": "85",
+      "name": "Swashbuckler Hat",
+      "description": "A clássica vestimenta de um espadachim.",
+      "showRealHair": false,
+      "spriteIndex": 85
+    },
+    {
+      "id": "86",
+      "name": "Qi Mask",
+      "description": "???",
+      "showRealHair": false,
+      "spriteIndex": 86
+    },
+    {
+      "id": "87",
+      "name": "Star Helmet",
+      "description": "Um chapéu vermelho com estrelas.",
+      "showRealHair": false,
+      "spriteIndex": 87
+    },
+    {
+      "id": "88",
+      "name": "Sunglasses",
+      "description": "Eles te dão uma aparência descontraída.",
+      "showRealHair": true,
+      "spriteIndex": 88
+    },
+    {
+      "id": "89",
+      "name": "Goggles",
+      "description": "Você vai se sentir muito mais seguro com isso.",
+      "showRealHair": true,
+      "spriteIndex": 89
+    },
+    {
+      "id": "90",
+      "name": "Forager's Hat",
+      "description": "É o deleite de um coletor.",
+      "showRealHair": false,
+      "spriteIndex": 90
+    },
+    {
+      "id": "91",
+      "name": "Tiger Hat",
+      "description": "Faz você parecer um belíssimo tigre.",
+      "showRealHair": false,
+      "spriteIndex": 91
+    },
+    {
+      "id": "92",
+      "name": "???",
+      "description": "???",
+      "showRealHair": false,
+      "spriteIndex": 92
+    },
+    {
+      "id": "93",
+      "name": "Warrior Helmet",
+      "description": "Uma casca de ovo de avestruz reutilizada como capacete.",
+      "showRealHair": false,
+      "spriteIndex": 93
+    },
+    {
+      "id": "AbigailsBow",
+      "name": "Abigail's Bow",
+      "description": "É igual o da Bibi.",
+      "showRealHair": true,
+      "spriteIndex": 94
+    },
+    {
+      "id": "TricornHat",
+      "name": "Tricorn Hat",
+      "description": "É um chapéu tradicional para oficiais da marinha.",
+      "showRealHair": false,
+      "spriteIndex": 95
+    },
+    {
+      "id": "JojaCap",
+      "name": "Joja Cap",
+      "description": "Um Boné Joja oficial. Feito de 100% poliéster.",
+      "showRealHair": false,
+      "spriteIndex": 96
+    },
+    {
+      "id": "LaurelWreathCrown",
+      "name": "Laurel Wreath Crown",
+      "description": "Uma grinalda de folhas no formato de uma linda coroa.",
+      "showRealHair": true,
+      "spriteIndex": 97
+    },
+    {
+      "id": "GilsHat",
+      "name": "Gil's Hat",
+      "description": "É o mesmo chapéu que o Gil usa.",
+      "showRealHair": false,
+      "spriteIndex": 98
+    },
+    {
+      "id": "BlueBow",
+      "name": "Blue Bow",
+      "description": "Este laço gigante é uma baita demonstração de moda!",
+      "showRealHair": true,
+      "spriteIndex": 99
+    },
+    {
+      "id": "DarkVelvetBow",
+      "name": "Dark Velvet Bow",
+      "description": "Um laço grande e flexível feito de veludo.",
+      "showRealHair": true,
+      "spriteIndex": 100
+    },
+    {
+      "id": "MummyMask",
+      "name": "Mummy Mask",
+      "description": "Uma máscara grande de múmia... que assustador!",
+      "showRealHair": false,
+      "spriteIndex": 101
+    },
+    {
+      "id": "BucketHat",
+      "name": "Bucket Hat",
+      "description": "Um chapéu simples com uma aba curta.",
+      "showRealHair": false,
+      "spriteIndex": 102
+    },
+    {
+      "id": "SquidHat",
+      "name": "Squid Hat",
+      "description": "É a sua chance de usar uma lula na sua cabeça.",
+      "showRealHair": false,
+      "spriteIndex": 103
+    },
+    {
+      "id": "SportsCap",
+      "name": "Sports Cap",
+      "description": "Este boné tem uma logo vintage de time na parte frontal.",
+      "showRealHair": false,
+      "spriteIndex": 104
+    },
+    {
+      "id": "RedFez",
+      "name": "Red Fez",
+      "description": "Um chapéu único popularizado pelo famoso porco mercador.",
+      "showRealHair": false,
+      "spriteIndex": 105
+    },
+    {
+      "id": "RaccoonHat",
+      "name": "Raccoon Hat",
+      "description": "Um clássico chapéu da época das fronteiras.",
+      "showRealHair": false,
+      "spriteIndex": 106
+    },
+    {
+      "id": "SteelPanHat",
+      "name": "Steel Pan",
+      "description": "Você colocou a peneira de aço na sua cabeça...",
+      "showRealHair": false,
+      "spriteIndex": 107
+    },
+    {
+      "id": "GoldPanHat",
+      "name": "Gold Pan",
+      "description": "Você colocou a peneira de ouro na sua cabeça...",
+      "showRealHair": false,
+      "spriteIndex": 108
+    },
+    {
+      "id": "IridiumPanHat",
+      "name": "Iridium Pan",
+      "description": "Você colocou a peneira de irídio na sua cabeça...",
+      "showRealHair": false,
+      "spriteIndex": 109
+    },
+    {
+      "id": "MysteryHat",
+      "name": "Mystery Hat",
+      "description": "Feito com os restos de uma Caixa Misteriosa.",
+      "showRealHair": false,
+      "spriteIndex": 110
+    },
+    {
+      "id": "DarkBallcap",
+      "name": "Dark Ballcap",
+      "description": "Encaixa perfeitamente na sua cabeça.",
+      "showRealHair": false,
+      "spriteIndex": 111
+    },
+    {
+      "id": "LeprechuanHat",
+      "name": "Leprechaun Hat",
+      "description": "O dono anterior deve ter tido uma cabeça bem grande para um duende.",
+      "showRealHair": false,
+      "spriteIndex": 112
+    },
+    {
+      "id": "JunimoHat",
+      "name": "Junimo Hat",
+      "description": "Para honrar os nossos pequenos amigos...",
+      "showRealHair": false,
+      "spriteIndex": 113
+    },
+    {
+      "id": "PaperHat",
+      "name": "Paper Hat",
+      "description": "É feito de um papel especial que não se desfaz com a chuva.",
+      "showRealHair": false,
+      "spriteIndex": 114
+    },
+    {
+      "id": "PageboyCap",
+      "name": "Pageboy Cap",
+      "description": "Por algum motivo você sente uma vontade de entregar jornais.",
+      "showRealHair": false,
+      "spriteIndex": 115
+    },
+    {
+      "id": "JesterHat",
+      "name": "Jester Hat",
+      "description": "Demostre o seu palhaço interior.",
+      "showRealHair": false,
+      "spriteIndex": 116
+    },
+    {
+      "id": "BlueRibbon",
+      "name": "Blue Ribbon",
+      "description": "Uma linda fita colocada atrás da cabeça.",
+      "showRealHair": true,
+      "spriteIndex": 117
+    },
+    {
+      "id": "GovernorsHat",
+      "name": "Governor's Hat",
+      "description": "Uma réplica do chapéu icônico do Governador.",
+      "showRealHair": false,
+      "spriteIndex": 118
+    },
+    {
+      "id": "WhiteBow",
+      "name": "White Bow",
+      "description": "Um laço tão branco como a neve.",
+      "showRealHair": true,
+      "spriteIndex": 119
+    },
+    {
+      "id": "SpaceHelmet",
+      "name": "Space Helmet",
+      "description": "Alerta: Este capacete não foi testado para ser usado no espaço sideral.",
+      "showRealHair": false,
+      "spriteIndex": 120
+    },
+    {
+      "id": "InfinityCrown",
+      "name": "Infinity Crown",
+      "description": "É feita de um material exótico que você nunca viu antes.",
+      "showRealHair": false,
+      "spriteIndex": 121
+    }
+  ]
+}

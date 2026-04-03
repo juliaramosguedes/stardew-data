@@ -1,0 +1,1572 @@
+{
+  "_meta": {
+    "source": "Data/Crops.json + Data/Objects.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.065Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "crops": [
+    {
+      "seedId": "299",
+      "harvestItemId": "300",
+      "name": "Amaranth",
+      "seasons": [
+        "Fall"
+      ],
+      "growthDays": 7,
+      "regrowDays": null,
+      "sellPrice": 150,
+      "edibility": 20,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Scythe",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 39,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_pale_violet_red",
+        "dye_medium",
+        "season_fall"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 3,
+        "estimatedNetProfit28Days": 415,
+        "profitPerDay": 14.8
+      }
+    },
+    {
+      "seedId": "499",
+      "harvestItemId": "454",
+      "name": "Ancient Fruit",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "growthDays": 28,
+      "regrowDays": 7,
+      "sellPrice": 550,
+      "edibility": -300,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 24,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_cyan"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 0,
+        "estimatedNetProfit28Days": -30,
+        "profitPerDay": -1.1
+      }
+    },
+    {
+      "seedId": "489",
+      "harvestItemId": "274",
+      "name": "Artichoke",
+      "seasons": [
+        "Fall"
+      ],
+      "growthDays": 8,
+      "regrowDays": null,
+      "sellPrice": 160,
+      "edibility": 12,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 17,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_green",
+        "crop_year_2",
+        "dye_medium",
+        "season_fall"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 3,
+        "estimatedNetProfit28Days": 465,
+        "profitPerDay": 16.6
+      }
+    },
+    {
+      "seedId": "494",
+      "harvestItemId": "284",
+      "name": "Beet",
+      "seasons": [
+        "Fall"
+      ],
+      "growthDays": 6,
+      "regrowDays": null,
+      "sellPrice": 100,
+      "edibility": 12,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 22,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_dark_purple",
+        "dye_strong",
+        "season_fall"
+      ],
+      "ccBundle": "Fall Crops Bundle",
+      "_calc": {
+        "estimatedHarvests28Days": 4,
+        "estimatedNetProfit28Days": 390,
+        "profitPerDay": 13.9
+      }
+    },
+    {
+      "seedId": "429",
+      "harvestItemId": "597",
+      "name": "Blue Jazz",
+      "seasons": [
+        "Spring"
+      ],
+      "growthDays": 7,
+      "regrowDays": null,
+      "sellPrice": 50,
+      "edibility": 18,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 27,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_blue",
+        "dye_medium",
+        "flower_item",
+        "season_spring"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 3,
+        "estimatedNetProfit28Days": 135,
+        "profitPerDay": 4.8
+      }
+    },
+    {
+      "seedId": "481",
+      "harvestItemId": "258",
+      "name": "Blueberry",
+      "seasons": [
+        "Summer"
+      ],
+      "growthDays": 13,
+      "regrowDays": 4,
+      "sellPrice": 50,
+      "edibility": 10,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 3,
+      "maxHarvest": 3,
+      "extraHarvestChance": 0.02,
+      "spriteIndex": 9,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_blue",
+        "dye_strong",
+        "season_summer"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 4,
+        "estimatedNetProfit28Days": 160,
+        "profitPerDay": 5.7
+      }
+    },
+    {
+      "seedId": "491",
+      "harvestItemId": "278",
+      "name": "Bok Choy",
+      "seasons": [
+        "Fall"
+      ],
+      "growthDays": 4,
+      "regrowDays": null,
+      "sellPrice": 80,
+      "edibility": 10,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 19,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_green",
+        "dye_medium",
+        "season_fall"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 5,
+        "estimatedNetProfit28Days": 375,
+        "profitPerDay": 13.4
+      }
+    },
+    {
+      "seedId": "BroccoliSeeds",
+      "harvestItemId": "Broccoli",
+      "name": "Broccoli",
+      "seasons": [
+        "Fall"
+      ],
+      "growthDays": 8,
+      "regrowDays": 4,
+      "sellPrice": 70,
+      "edibility": 25,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 50,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_green",
+        "dye_medium",
+        "season_fall"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 6,
+        "estimatedNetProfit28Days": 380,
+        "profitPerDay": 13.6
+      }
+    },
+    {
+      "seedId": "802",
+      "harvestItemId": "90",
+      "name": "Cactus Fruit",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "growthDays": 12,
+      "regrowDays": 3,
+      "sellPrice": 75,
+      "edibility": 30,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 41,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_green",
+        "forage_item",
+        "forage_item_desert"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 6,
+        "estimatedNetProfit28Days": 450,
+        "profitPerDay": 16.1
+      }
+    },
+    {
+      "seedId": "CarrotSeeds",
+      "harvestItemId": "Carrot",
+      "name": "Carrot",
+      "seasons": [
+        "Spring"
+      ],
+      "growthDays": 3,
+      "regrowDays": null,
+      "sellPrice": 35,
+      "edibility": 30,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 48,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_orange",
+        "dye_medium",
+        "season_spring"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 7,
+        "estimatedNetProfit28Days": 230,
+        "profitPerDay": 8.2
+      }
+    },
+    {
+      "seedId": "474",
+      "harvestItemId": "190",
+      "name": "Cauliflower",
+      "seasons": [
+        "Spring"
+      ],
+      "growthDays": 12,
+      "regrowDays": null,
+      "sellPrice": 175,
+      "edibility": 30,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 2,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_white",
+        "dye_medium",
+        "season_spring"
+      ],
+      "ccBundle": "Spring Crops Bundle",
+      "_calc": {
+        "estimatedHarvests28Days": 2,
+        "estimatedNetProfit28Days": 310,
+        "profitPerDay": 11.1
+      }
+    },
+    {
+      "seedId": "433",
+      "harvestItemId": "433",
+      "name": "Coffee Bean",
+      "seasons": [
+        "Spring",
+        "Summer"
+      ],
+      "growthDays": 10,
+      "regrowDays": 2,
+      "sellPrice": 15,
+      "edibility": -300,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 4,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0.02,
+      "spriteIndex": 40,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_brown",
+        "seedmaker_banned"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 10,
+        "estimatedNetProfit28Days": 135,
+        "profitPerDay": 4.8
+      }
+    },
+    {
+      "seedId": "497",
+      "harvestItemId": "404",
+      "name": "Common Mushroom",
+      "seasons": [
+        "Fall"
+      ],
+      "growthDays": 7,
+      "regrowDays": null,
+      "sellPrice": 40,
+      "edibility": 15,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 23,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_dark_brown",
+        "edible_mushroom",
+        "forage_item",
+        "season_fall",
+        "season_spring"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 3,
+        "estimatedNetProfit28Days": 75,
+        "profitPerDay": 2.7
+      }
+    },
+    {
+      "seedId": "487",
+      "harvestItemId": "270",
+      "name": "Corn",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "growthDays": 14,
+      "regrowDays": 4,
+      "sellPrice": 50,
+      "edibility": 10,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 15,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_yellow",
+        "dye_medium",
+        "season_fall",
+        "season_summer"
+      ],
+      "ccBundle": "Fall Crops Bundle",
+      "_calc": {
+        "estimatedHarvests28Days": 4,
+        "estimatedNetProfit28Days": 125,
+        "profitPerDay": 4.5
+      }
+    },
+    {
+      "seedId": "493",
+      "harvestItemId": "282",
+      "name": "Cranberries",
+      "seasons": [
+        "Fall"
+      ],
+      "growthDays": 7,
+      "regrowDays": 5,
+      "sellPrice": 75,
+      "edibility": 15,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 2,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0.1,
+      "spriteIndex": 21,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_red",
+        "dye_strong",
+        "season_fall"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 5,
+        "estimatedNetProfit28Days": 255,
+        "profitPerDay": 9.1
+      }
+    },
+    {
+      "seedId": "488",
+      "harvestItemId": "272",
+      "name": "Eggplant",
+      "seasons": [
+        "Fall"
+      ],
+      "growthDays": 5,
+      "regrowDays": 5,
+      "sellPrice": 60,
+      "edibility": 8,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0.002,
+      "spriteIndex": 16,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_purple",
+        "dye_medium",
+        "season_fall"
+      ],
+      "ccBundle": "Fall Crops Bundle",
+      "_calc": {
+        "estimatedHarvests28Days": 5,
+        "estimatedNetProfit28Days": 290,
+        "profitPerDay": 10.4
+      }
+    },
+    {
+      "seedId": "425",
+      "harvestItemId": "595",
+      "name": "Fairy Rose",
+      "seasons": [
+        "Fall"
+      ],
+      "growthDays": 12,
+      "regrowDays": null,
+      "sellPrice": 290,
+      "edibility": 18,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 31,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_pink",
+        "dye_medium",
+        "flower_item",
+        "season_fall"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 2,
+        "estimatedNetProfit28Days": 480,
+        "profitPerDay": 17.1
+      }
+    },
+    {
+      "seedId": "885",
+      "harvestItemId": "771",
+      "name": "Fiber",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "growthDays": 7,
+      "regrowDays": null,
+      "sellPrice": 1,
+      "edibility": -300,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Scythe",
+      "minHarvest": 4,
+      "maxHarvest": 7,
+      "extraHarvestChance": 0.01,
+      "spriteIndex": 44,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_green",
+        "seedmaker_banned"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 3,
+        "estimatedNetProfit28Days": -2,
+        "profitPerDay": -0.1
+      }
+    },
+    {
+      "seedId": "476",
+      "harvestItemId": "248",
+      "name": "Garlic",
+      "seasons": [
+        "Spring"
+      ],
+      "growthDays": 4,
+      "regrowDays": null,
+      "sellPrice": 60,
+      "edibility": 8,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 4,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_white",
+        "crop_year_2",
+        "dye_medium",
+        "season_spring"
+      ],
+      "ccBundle": "Summer Crops Bundle",
+      "_calc": {
+        "estimatedHarvests28Days": 5,
+        "estimatedNetProfit28Days": 280,
+        "profitPerDay": 10
+      }
+    },
+    {
+      "seedId": "301",
+      "harvestItemId": "398",
+      "name": "Grape",
+      "seasons": [
+        "Fall"
+      ],
+      "growthDays": 10,
+      "regrowDays": 3,
+      "sellPrice": 80,
+      "edibility": 15,
+      "isRaised": true,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 38,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_purple",
+        "forage_item",
+        "season_summer"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 7,
+        "estimatedNetProfit28Days": 530,
+        "profitPerDay": 18.9
+      }
+    },
+    {
+      "seedId": "473",
+      "harvestItemId": "188",
+      "name": "Green Bean",
+      "seasons": [
+        "Spring"
+      ],
+      "growthDays": 10,
+      "regrowDays": 3,
+      "sellPrice": 40,
+      "edibility": 10,
+      "isRaised": true,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 1,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_green",
+        "dye_medium",
+        "season_spring"
+      ],
+      "ccBundle": "Spring Crops Bundle",
+      "_calc": {
+        "estimatedHarvests28Days": 7,
+        "estimatedNetProfit28Days": 250,
+        "profitPerDay": 8.9
+      }
+    },
+    {
+      "seedId": "302",
+      "harvestItemId": "304",
+      "name": "Hops",
+      "seasons": [
+        "Summer"
+      ],
+      "growthDays": 11,
+      "regrowDays": 1,
+      "sellPrice": 25,
+      "edibility": 18,
+      "isRaised": true,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 37,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_green"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 18,
+        "estimatedNetProfit28Days": 420,
+        "profitPerDay": 15
+      }
+    },
+    {
+      "seedId": "482",
+      "harvestItemId": "260",
+      "name": "Hot Pepper",
+      "seasons": [
+        "Summer"
+      ],
+      "growthDays": 5,
+      "regrowDays": 3,
+      "sellPrice": 40,
+      "edibility": 5,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0.03,
+      "spriteIndex": 10,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_red",
+        "dye_medium",
+        "season_summer"
+      ],
+      "ccBundle": "Summer Crops Bundle",
+      "_calc": {
+        "estimatedHarvests28Days": 8,
+        "estimatedNetProfit28Days": 300,
+        "profitPerDay": 10.7
+      }
+    },
+    {
+      "seedId": "477",
+      "harvestItemId": "250",
+      "name": "Kale",
+      "seasons": [
+        "Spring"
+      ],
+      "growthDays": 6,
+      "regrowDays": null,
+      "sellPrice": 110,
+      "edibility": 20,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Scythe",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 5,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_green",
+        "dye_strong",
+        "season_spring"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 4,
+        "estimatedNetProfit28Days": 405,
+        "profitPerDay": 14.5
+      }
+    },
+    {
+      "seedId": "479",
+      "harvestItemId": "254",
+      "name": "Melon",
+      "seasons": [
+        "Summer"
+      ],
+      "growthDays": 12,
+      "regrowDays": null,
+      "sellPrice": 250,
+      "edibility": 45,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 7,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_pink",
+        "dye_medium",
+        "season_summer"
+      ],
+      "ccBundle": "Summer Crops Bundle",
+      "_calc": {
+        "estimatedHarvests28Days": 2,
+        "estimatedNetProfit28Days": 460,
+        "profitPerDay": 16.4
+      }
+    },
+    {
+      "seedId": "472",
+      "harvestItemId": "24",
+      "name": "Parsnip",
+      "seasons": [
+        "Spring"
+      ],
+      "growthDays": 4,
+      "regrowDays": null,
+      "sellPrice": 35,
+      "edibility": 10,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 0,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_yellow",
+        "dye_medium",
+        "season_spring"
+      ],
+      "ccBundle": "Spring Crops Bundle",
+      "_calc": {
+        "estimatedHarvests28Days": 5,
+        "estimatedNetProfit28Days": 165,
+        "profitPerDay": 5.9
+      }
+    },
+    {
+      "seedId": "833",
+      "harvestItemId": "832",
+      "name": "Pineapple",
+      "seasons": [
+        "Summer"
+      ],
+      "growthDays": 14,
+      "regrowDays": 7,
+      "sellPrice": 300,
+      "edibility": 55,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 43,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_yellow",
+        "fruit_item"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 3,
+        "estimatedNetProfit28Days": 660,
+        "profitPerDay": 23.6
+      }
+    },
+    {
+      "seedId": "453",
+      "harvestItemId": "376",
+      "name": "Poppy",
+      "seasons": [
+        "Summer"
+      ],
+      "growthDays": 7,
+      "regrowDays": null,
+      "sellPrice": 140,
+      "edibility": 18,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 28,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_orange",
+        "dye_medium",
+        "flower_item",
+        "season_summer"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 3,
+        "estimatedNetProfit28Days": 370,
+        "profitPerDay": 13.2
+      }
+    },
+    {
+      "seedId": "475",
+      "harvestItemId": "192",
+      "name": "Potato",
+      "seasons": [
+        "Spring"
+      ],
+      "growthDays": 6,
+      "regrowDays": null,
+      "sellPrice": 80,
+      "edibility": 10,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0.2,
+      "spriteIndex": 3,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_brown",
+        "dye_medium",
+        "season_spring"
+      ],
+      "ccBundle": "Spring Crops Bundle",
+      "_calc": {
+        "estimatedHarvests28Days": 4,
+        "estimatedNetProfit28Days": 295,
+        "profitPerDay": 10.5
+      }
+    },
+    {
+      "seedId": "PowdermelonSeeds",
+      "harvestItemId": "Powdermelon",
+      "name": "Powdermelon",
+      "seasons": [
+        "Winter"
+      ],
+      "growthDays": 7,
+      "regrowDays": null,
+      "sellPrice": 60,
+      "edibility": 25,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 51,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_white",
+        "dye_medium",
+        "season_winter"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 3,
+        "estimatedNetProfit28Days": 160,
+        "profitPerDay": 5.7
+      }
+    },
+    {
+      "seedId": "490",
+      "harvestItemId": "276",
+      "name": "Pumpkin",
+      "seasons": [
+        "Fall"
+      ],
+      "growthDays": 13,
+      "regrowDays": null,
+      "sellPrice": 320,
+      "edibility": -300,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 18,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_orange",
+        "dye_medium",
+        "season_fall"
+      ],
+      "ccBundle": "Quality Crops Bundle",
+      "_calc": {
+        "estimatedHarvests28Days": 2,
+        "estimatedNetProfit28Days": 590,
+        "profitPerDay": 21.1
+      }
+    },
+    {
+      "seedId": "890",
+      "harvestItemId": "889",
+      "name": "Qi Fruit",
+      "seasons": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "growthDays": 4,
+      "regrowDays": null,
+      "sellPrice": 1,
+      "edibility": 1,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 47,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_blue"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 5,
+        "estimatedNetProfit28Days": 4,
+        "profitPerDay": 0.1
+      }
+    },
+    {
+      "seedId": "484",
+      "harvestItemId": "264",
+      "name": "Radish",
+      "seasons": [
+        "Summer"
+      ],
+      "growthDays": 6,
+      "regrowDays": null,
+      "sellPrice": 90,
+      "edibility": 18,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 12,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_red",
+        "dye_medium",
+        "season_summer"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 4,
+        "estimatedNetProfit28Days": 340,
+        "profitPerDay": 12.1
+      }
+    },
+    {
+      "seedId": "485",
+      "harvestItemId": "266",
+      "name": "Red Cabbage",
+      "seasons": [
+        "Summer"
+      ],
+      "growthDays": 9,
+      "regrowDays": null,
+      "sellPrice": 260,
+      "edibility": 30,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 13,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_purple",
+        "crop_year_2",
+        "dye_medium",
+        "season_summer"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 2,
+        "estimatedNetProfit28Days": 470,
+        "profitPerDay": 16.8
+      }
+    },
+    {
+      "seedId": "478",
+      "harvestItemId": "252",
+      "name": "Rhubarb",
+      "seasons": [
+        "Spring"
+      ],
+      "growthDays": 13,
+      "regrowDays": null,
+      "sellPrice": 220,
+      "edibility": -300,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 6,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_red",
+        "dye_medium",
+        "season_spring"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 2,
+        "estimatedNetProfit28Days": 390,
+        "profitPerDay": 13.9
+      }
+    },
+    {
+      "seedId": "496",
+      "harvestItemId": "396",
+      "name": "Spice Berry",
+      "seasons": [
+        "Summer"
+      ],
+      "growthDays": 7,
+      "regrowDays": null,
+      "sellPrice": 80,
+      "edibility": 10,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 23,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_orange",
+        "forage_item",
+        "season_summer"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 3,
+        "estimatedNetProfit28Days": 185,
+        "profitPerDay": 6.6
+      }
+    },
+    {
+      "seedId": "486",
+      "harvestItemId": "268",
+      "name": "Starfruit",
+      "seasons": [
+        "Summer"
+      ],
+      "growthDays": 13,
+      "regrowDays": null,
+      "sellPrice": 750,
+      "edibility": 50,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 14,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_yellow"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 2,
+        "estimatedNetProfit28Days": 1300,
+        "profitPerDay": 46.4
+      }
+    },
+    {
+      "seedId": "745",
+      "harvestItemId": "400",
+      "name": "Strawberry",
+      "seasons": [
+        "Spring"
+      ],
+      "growthDays": 8,
+      "regrowDays": 4,
+      "sellPrice": 120,
+      "edibility": 20,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0.02,
+      "spriteIndex": 36,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_red",
+        "dye_medium",
+        "season_spring"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 6,
+        "estimatedNetProfit28Days": 720,
+        "profitPerDay": 25.7
+      }
+    },
+    {
+      "seedId": "455",
+      "harvestItemId": "593",
+      "name": "Summer Spangle",
+      "seasons": [
+        "Summer"
+      ],
+      "growthDays": 8,
+      "regrowDays": null,
+      "sellPrice": 90,
+      "edibility": 18,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 29,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_yellow",
+        "dye_medium",
+        "flower_item",
+        "season_summer"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 3,
+        "estimatedNetProfit28Days": 245,
+        "profitPerDay": 8.8
+      }
+    },
+    {
+      "seedId": "SummerSquashSeeds",
+      "harvestItemId": "SummerSquash",
+      "name": "Summer Squash",
+      "seasons": [
+        "Summer"
+      ],
+      "growthDays": 6,
+      "regrowDays": 3,
+      "sellPrice": 45,
+      "edibility": 25,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 49,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_yellow",
+        "dye_medium",
+        "season_summer"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 8,
+        "estimatedNetProfit28Days": 340,
+        "profitPerDay": 12.1
+      }
+    },
+    {
+      "seedId": "431",
+      "harvestItemId": "421",
+      "name": "Sunflower",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "growthDays": 8,
+      "regrowDays": null,
+      "sellPrice": 80,
+      "edibility": 18,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 30,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_yellow",
+        "dye_medium",
+        "flower_item",
+        "season_fall",
+        "season_summer"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 3,
+        "estimatedNetProfit28Days": 220,
+        "profitPerDay": 7.9
+      }
+    },
+    {
+      "seedId": "347",
+      "harvestItemId": "417",
+      "name": "Sweet Gem Berry",
+      "seasons": [
+        "Fall"
+      ],
+      "growthDays": 24,
+      "regrowDays": null,
+      "sellPrice": 3000,
+      "edibility": -300,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 32,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_red"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 1,
+        "estimatedNetProfit28Days": 2800,
+        "profitPerDay": 100
+      }
+    },
+    {
+      "seedId": "831",
+      "harvestItemId": "830",
+      "name": "Taro Root",
+      "seasons": [
+        "Summer"
+      ],
+      "growthDays": 10,
+      "regrowDays": null,
+      "sellPrice": 100,
+      "edibility": 15,
+      "isRaised": false,
+      "isPaddyCrop": true,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 42,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_brown"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 2,
+        "estimatedNetProfit28Days": 180,
+        "profitPerDay": 6.4
+      }
+    },
+    {
+      "seedId": "480",
+      "harvestItemId": "256",
+      "name": "Tomato",
+      "seasons": [
+        "Summer"
+      ],
+      "growthDays": 11,
+      "regrowDays": 4,
+      "sellPrice": 60,
+      "edibility": 8,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0.05,
+      "spriteIndex": 8,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_red",
+        "dye_medium",
+        "season_summer"
+      ],
+      "ccBundle": "Summer Crops Bundle",
+      "_calc": {
+        "estimatedHarvests28Days": 5,
+        "estimatedNetProfit28Days": 275,
+        "profitPerDay": 9.8
+      }
+    },
+    {
+      "seedId": "427",
+      "harvestItemId": "591",
+      "name": "Tulip",
+      "seasons": [
+        "Spring"
+      ],
+      "growthDays": 6,
+      "regrowDays": null,
+      "sellPrice": 30,
+      "edibility": 18,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 26,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_red",
+        "dye_medium",
+        "flower_item",
+        "season_spring"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 4,
+        "estimatedNetProfit28Days": 110,
+        "profitPerDay": 3.9
+      }
+    },
+    {
+      "seedId": "273",
+      "harvestItemId": "271",
+      "name": "Unmilled Rice",
+      "seasons": [
+        "Spring"
+      ],
+      "growthDays": 8,
+      "regrowDays": null,
+      "sellPrice": 30,
+      "edibility": 1,
+      "isRaised": false,
+      "isPaddyCrop": true,
+      "harvestMethod": "Scythe",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0.1,
+      "spriteIndex": 34,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_brown",
+        "crop_year_2",
+        "season_spring"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 3,
+        "estimatedNetProfit28Days": 70,
+        "profitPerDay": 2.5
+      }
+    },
+    {
+      "seedId": "483",
+      "harvestItemId": "262",
+      "name": "Wheat",
+      "seasons": [
+        "Summer",
+        "Fall"
+      ],
+      "growthDays": 4,
+      "regrowDays": null,
+      "sellPrice": 25,
+      "edibility": -300,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Scythe",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 11,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_yellow"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 5,
+        "estimatedNetProfit28Days": 120,
+        "profitPerDay": 4.3
+      }
+    },
+    {
+      "seedId": "495",
+      "harvestItemId": "16",
+      "name": "Wild Horseradish",
+      "seasons": [
+        "Spring"
+      ],
+      "growthDays": 7,
+      "regrowDays": null,
+      "sellPrice": 50,
+      "edibility": 5,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 23,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_brown",
+        "forage_item",
+        "season_spring"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 3,
+        "estimatedNetProfit28Days": 115,
+        "profitPerDay": 4.1
+      }
+    },
+    {
+      "seedId": "498",
+      "harvestItemId": "412",
+      "name": "Winter Root",
+      "seasons": [
+        "Winter"
+      ],
+      "growthDays": 7,
+      "regrowDays": null,
+      "sellPrice": 70,
+      "edibility": 10,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 23,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_orange",
+        "forage_item",
+        "forage_item_mines",
+        "season_winter"
+      ],
+      "ccBundle": null,
+      "_calc": {
+        "estimatedHarvests28Days": 3,
+        "estimatedNetProfit28Days": 180,
+        "profitPerDay": 6.4
+      }
+    },
+    {
+      "seedId": "492",
+      "harvestItemId": "280",
+      "name": "Yam",
+      "seasons": [
+        "Fall"
+      ],
+      "growthDays": 10,
+      "regrowDays": null,
+      "sellPrice": 160,
+      "edibility": 18,
+      "isRaised": false,
+      "isPaddyCrop": false,
+      "harvestMethod": "Grab",
+      "minHarvest": 1,
+      "maxHarvest": 1,
+      "extraHarvestChance": 0,
+      "spriteIndex": 20,
+      "spriteSheet": "TileSheets/crops",
+      "contextTags": [
+        "color_brown",
+        "dye_medium",
+        "season_fall"
+      ],
+      "ccBundle": "Fall Crops Bundle",
+      "_calc": {
+        "estimatedHarvests28Days": 2,
+        "estimatedNetProfit28Days": 290,
+        "profitPerDay": 10.4
+      }
+    }
+  ]
+}

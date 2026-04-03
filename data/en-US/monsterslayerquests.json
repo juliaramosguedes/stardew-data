@@ -1,0 +1,147 @@
+{
+  "_meta": {
+    "source": "Data/MonsterSlayerQuests.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:37:44.214Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "monsterSlayerQuests": [
+    {
+      "id": "Slimes",
+      "targets": [
+        "Green Slime",
+        "Frost Jelly",
+        "Sludge",
+        "Tiger Slime"
+      ],
+      "count": 1000,
+      "rewardItemId": "(O)520",
+      "rewardItemName": "Slime Charmer Ring",
+      "rewardItemPrice": 25000
+    },
+    {
+      "id": "Shadows",
+      "targets": [
+        "Shadow Guy",
+        "Shadow Shaman",
+        "Shadow Brute",
+        "Shadow Sniper"
+      ],
+      "count": 150,
+      "rewardItemId": "(O)523",
+      "rewardItemName": "Savage Ring",
+      "rewardItemPrice": 25000
+    },
+    {
+      "id": "Bats",
+      "targets": [
+        "Bat",
+        "Frost Bat",
+        "Lava Bat",
+        "Iridium Bat"
+      ],
+      "count": 200,
+      "rewardItemId": "(O)522",
+      "rewardItemName": "Vampire Ring",
+      "rewardItemPrice": 15000
+    },
+    {
+      "id": "Skeletons",
+      "targets": [
+        "Skeleton",
+        "Skeleton Mage"
+      ],
+      "count": 50,
+      "rewardItemId": "(H)8",
+      "rewardItemName": "Stone",
+      "rewardItemPrice": 20000
+    },
+    {
+      "id": "Insects",
+      "targets": [
+        "Grub",
+        "Fly",
+        "Bug"
+      ],
+      "count": 80,
+      "rewardItemId": "(W)13",
+      "rewardItemName": "(W)13",
+      "rewardItemPrice": 10000
+    },
+    {
+      "id": "Duggy",
+      "targets": [
+        "Duggy",
+        "Magma Duggy"
+      ],
+      "count": 30,
+      "rewardItemId": "(H)27",
+      "rewardItemName": "(H)27",
+      "rewardItemPrice": 20000
+    },
+    {
+      "id": "DustSpirits",
+      "targets": [
+        "Dust Spirit"
+      ],
+      "count": 500,
+      "rewardItemId": "(O)526",
+      "rewardItemName": "Burglar's Ring",
+      "rewardItemPrice": 20000
+    },
+    {
+      "id": "Crabs",
+      "targets": [
+        "Rock Crab",
+        "Lava Crab",
+        "Iridium Crab"
+      ],
+      "count": 60,
+      "rewardItemId": "(O)810",
+      "rewardItemName": "Crabshell Ring",
+      "rewardItemPrice": 15000
+    },
+    {
+      "id": "Mummies",
+      "targets": [
+        "Mummy"
+      ],
+      "count": 100,
+      "rewardItemId": "(H)60",
+      "rewardItemName": "Emerald",
+      "rewardItemPrice": 20000
+    },
+    {
+      "id": "Dinos",
+      "targets": [
+        "Pepper Rex"
+      ],
+      "count": 50,
+      "rewardItemId": "(H)50",
+      "rewardItemName": "Stone",
+      "rewardItemPrice": 20000
+    },
+    {
+      "id": "Serpents",
+      "targets": [
+        "Serpent",
+        "Royal Serpent"
+      ],
+      "count": 250,
+      "rewardItemId": "(O)811",
+      "rewardItemName": "Napalm Ring",
+      "rewardItemPrice": 30000
+    },
+    {
+      "id": "FlameSpirits",
+      "targets": [
+        "Magma Sprite",
+        "Magma Sparker"
+      ],
+      "count": 150,
+      "rewardItemId": null,
+      "rewardItemName": "",
+      "rewardItemPrice": -1
+    }
+  ]
+}

@@ -1,0 +1,1326 @@
+{
+  "_meta": {
+    "source": "Data/FishPondData.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.130Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "fishPonds": [
+    {
+      "id": "Lionfish",
+      "requiredTags": [
+        "item_lionfish"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)857",
+          "name": "Tiger Slime Egg",
+          "requiredPopulation": 9,
+          "chance": 0.02
+        },
+        {
+          "itemId": "(O)831",
+          "name": "Taro Tuber",
+          "requiredPopulation": 7,
+          "chance": 0.2
+        },
+        {
+          "itemId": "(O)831",
+          "name": "Taro Tuber",
+          "requiredPopulation": 4,
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 1,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "BlueDiscus",
+      "requiredTags": [
+        "item_blue_discus"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)91",
+          "name": "Banana",
+          "requiredPopulation": 9,
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)791",
+          "name": "Golden Coconut",
+          "requiredPopulation": 9,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)91",
+          "name": "Banana",
+          "requiredPopulation": 7,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)91",
+          "name": "Banana",
+          "requiredPopulation": 4,
+          "chance": 0.02
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 1,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "Stingray",
+      "requiredTags": [
+        "item_stingray"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)787",
+          "name": "Battery Pack",
+          "requiredPopulation": 9,
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)852",
+          "name": "Dragon Tooth",
+          "requiredPopulation": 9,
+          "chance": 0.06
+        },
+        {
+          "itemId": "(O)848",
+          "name": "Cinder Shard",
+          "requiredPopulation": 7,
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)851",
+          "name": "Magma Cap",
+          "requiredPopulation": 4,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 5,
+          "chance": 1
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 1,
+          "chance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "Squid",
+      "requiredTags": [
+        "item_squid"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)814",
+          "name": "Squid Ink",
+          "requiredPopulation": 7,
+          "chance": 1
+        },
+        {
+          "itemId": "(O)814",
+          "name": "Squid Ink",
+          "requiredPopulation": 5,
+          "chance": 0.6
+        },
+        {
+          "itemId": "(O)814",
+          "name": "Squid Ink",
+          "requiredPopulation": 3,
+          "chance": 0.45
+        },
+        {
+          "itemId": "(O)814",
+          "name": "Squid Ink",
+          "requiredPopulation": 0,
+          "chance": 0.25
+        }
+      ]
+    },
+    {
+      "id": "MidnightSquid",
+      "requiredTags": [
+        "item_midnight_squid"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)814",
+          "name": "Squid Ink",
+          "requiredPopulation": 10,
+          "chance": 0.25
+        },
+        {
+          "itemId": "(O)814",
+          "name": "Squid Ink",
+          "requiredPopulation": 7,
+          "chance": 0.8
+        },
+        {
+          "itemId": "(O)814",
+          "name": "Squid Ink",
+          "requiredPopulation": 5,
+          "chance": 0.6
+        },
+        {
+          "itemId": "(O)814",
+          "name": "Squid Ink",
+          "requiredPopulation": 3,
+          "chance": 0.45
+        },
+        {
+          "itemId": "(O)814",
+          "name": "Squid Ink",
+          "requiredPopulation": 0,
+          "chance": 0.2
+        }
+      ]
+    },
+    {
+      "id": "Carp",
+      "requiredTags": [
+        "item_carp"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "MidnightCarp",
+      "requiredTags": [
+        "item_midnight_carp"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)RiverJelly",
+          "name": "River Jelly",
+          "requiredPopulation": 9,
+          "chance": 0.03
+        },
+        {
+          "itemId": "(O)RiverJelly",
+          "name": "River Jelly",
+          "requiredPopulation": 7,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "Flounder",
+      "requiredTags": [
+        "item_flounder"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)SeaJelly",
+          "name": "Sea Jelly",
+          "requiredPopulation": 9,
+          "chance": 0.03
+        },
+        {
+          "itemId": "(O)SeaJelly",
+          "name": "Sea Jelly",
+          "requiredPopulation": 7,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "Herring",
+      "requiredTags": [
+        "item_herring"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "Sunfish",
+      "requiredTags": [
+        "item_sunfish"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)768",
+          "name": "Solar Essence",
+          "requiredPopulation": 10,
+          "chance": 0.08
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.9
+        }
+      ]
+    },
+    {
+      "id": "Blobfish",
+      "requiredTags": [
+        "item_blobfish"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)797",
+          "name": "Pearl",
+          "requiredPopulation": 9,
+          "chance": 0.02
+        },
+        {
+          "itemId": "(O)688",
+          "name": "Warp Totem: Farm",
+          "requiredPopulation": 9,
+          "chance": 0.02
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 6,
+          "chance": 1
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.9
+        }
+      ]
+    },
+    {
+      "id": "LavaEel",
+      "requiredTags": [
+        "item_lava_eel"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)537",
+          "name": "Magma Geode",
+          "requiredPopulation": 10,
+          "chance": 0.033
+        },
+        {
+          "itemId": "(O)CaveJelly",
+          "name": "Cave Jelly",
+          "requiredPopulation": 10,
+          "chance": 0.04
+        },
+        {
+          "itemId": "(O)537",
+          "name": "Magma Geode",
+          "requiredPopulation": 9,
+          "chance": 0.02
+        },
+        {
+          "itemId": "(O)226",
+          "name": "Spicy Eel",
+          "requiredPopulation": 9,
+          "chance": 0.04
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 9,
+          "chance": 0.033
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 9,
+          "chance": 0.15
+        },
+        {
+          "itemId": "(O)CaveJelly",
+          "name": "Cave Jelly",
+          "requiredPopulation": 8,
+          "chance": 0.04
+        },
+        {
+          "itemId": "(O)384",
+          "name": "Gold Ore",
+          "requiredPopulation": 3,
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 6,
+          "chance": 1
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "Woodskip",
+      "requiredTags": [
+        "item_woodskip"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)309",
+          "name": "Acorn",
+          "requiredPopulation": 9,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)310",
+          "name": "Maple Seed",
+          "requiredPopulation": 9,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)311",
+          "name": "Pine Cone",
+          "requiredPopulation": 9,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)388",
+          "name": "Wood",
+          "requiredPopulation": 8,
+          "chance": 0.08
+        },
+        {
+          "itemId": "(O)709",
+          "name": "Hardwood",
+          "requiredPopulation": 6,
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.66
+        },
+        {
+          "itemId": "(O)388",
+          "name": "Wood",
+          "requiredPopulation": 0,
+          "chance": 0.66
+        }
+      ]
+    },
+    {
+      "id": "TigerTrout",
+      "requiredTags": [
+        "item_tiger_trout"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 10,
+          "chance": 0.8
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 5,
+          "chance": 0.4
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "VoidSalmon",
+      "requiredTags": [
+        "item_void_salmon"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)305",
+          "name": "Void Egg",
+          "requiredPopulation": 9,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)769",
+          "name": "Void Essence",
+          "requiredPopulation": 8,
+          "chance": 0.08
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 9,
+          "chance": 0.83
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "SlimeJack",
+      "requiredTags": [
+        "item_slimejack"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)680",
+          "name": "Green Slime Egg",
+          "requiredPopulation": 9,
+          "chance": 0.02
+        },
+        {
+          "itemId": "(O)766",
+          "name": "Slime",
+          "requiredPopulation": 9,
+          "chance": 0.075
+        },
+        {
+          "itemId": "(O)766",
+          "name": "Slime",
+          "requiredPopulation": 9,
+          "chance": 0.12
+        },
+        {
+          "itemId": "(O)766",
+          "name": "Slime",
+          "requiredPopulation": 9,
+          "chance": 0.2
+        },
+        {
+          "itemId": "(O)153",
+          "name": "Green Algae",
+          "requiredPopulation": 3,
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "Stonefish",
+      "requiredTags": [
+        "item_stonefish"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)535",
+          "name": "Geode",
+          "requiredPopulation": 9,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)390",
+          "name": "Stone",
+          "requiredPopulation": 9,
+          "chance": 0.075
+        },
+        {
+          "itemId": "(O)535",
+          "name": "Geode",
+          "requiredPopulation": 9,
+          "chance": 0.12
+        },
+        {
+          "itemId": "(O)72",
+          "name": "Diamond",
+          "requiredPopulation": 9,
+          "chance": 0.01
+        },
+        {
+          "itemId": "(O)378",
+          "name": "Copper Ore",
+          "requiredPopulation": 3,
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 9,
+          "chance": 0.5
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.25
+        }
+      ]
+    },
+    {
+      "id": "IcePip",
+      "requiredTags": [
+        "item_ice_pip"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)536",
+          "name": "Frozen Geode",
+          "requiredPopulation": 9,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)84",
+          "name": "Frozen Tear",
+          "requiredPopulation": 9,
+          "chance": 0.075
+        },
+        {
+          "itemId": "(O)536",
+          "name": "Frozen Geode",
+          "requiredPopulation": 9,
+          "chance": 0.12
+        },
+        {
+          "itemId": "(O)72",
+          "name": "Diamond",
+          "requiredPopulation": 9,
+          "chance": 0.01
+        },
+        {
+          "itemId": "(O)380",
+          "name": "Iron Ore",
+          "requiredPopulation": 3,
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 9,
+          "chance": 0.5
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.25
+        }
+      ]
+    },
+    {
+      "id": "Ghostfish",
+      "requiredTags": [
+        "item_ghostfish"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)157",
+          "name": "White Algae",
+          "requiredPopulation": 9,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)457",
+          "name": "Pale Broth",
+          "requiredPopulation": 9,
+          "chance": 0.02
+        },
+        {
+          "itemId": "(O)80",
+          "name": "Quartz",
+          "requiredPopulation": 9,
+          "chance": 0.12
+        },
+        {
+          "itemId": "(O)338",
+          "name": "Refined Quartz",
+          "requiredPopulation": 9,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)80",
+          "name": "Quartz",
+          "requiredPopulation": 3,
+          "chance": 0.08
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "Sturgeon",
+      "requiredTags": [
+        "item_sturgeon"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 10,
+          "chance": 0.25
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 10,
+          "chance": 1
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 9,
+          "chance": 0.8
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 6,
+          "chance": 0.6
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 3,
+          "chance": 0.4
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.2
+        }
+      ]
+    },
+    {
+      "id": "SuperCucumber",
+      "requiredTags": [
+        "item_super_cucumber"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)386",
+          "name": "Iridium Ore",
+          "requiredPopulation": 9,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)66",
+          "name": "Amethyst",
+          "requiredPopulation": 9,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "Octopus",
+      "requiredTags": [
+        "item_octopus"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)749",
+          "name": "Omni Geode",
+          "requiredPopulation": 9,
+          "chance": 0.066
+        },
+        {
+          "itemId": "(O)749",
+          "name": "Omni Geode",
+          "requiredPopulation": 9,
+          "chance": 0.01
+        },
+        {
+          "itemId": "(O)749",
+          "name": "Omni Geode",
+          "requiredPopulation": 9,
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "RainbowTrout",
+      "requiredTags": [
+        "item_rainbow_trout"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)394",
+          "name": "Rainbow Shell",
+          "requiredPopulation": 9,
+          "chance": 0.02
+        },
+        {
+          "itemId": "(O)74",
+          "name": "Prismatic Shard",
+          "requiredPopulation": 9,
+          "chance": 0.001
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "Catfish",
+      "requiredTags": [
+        "item_catfish"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "Coral",
+      "requiredTags": [
+        "item_coral"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)543",
+          "name": "Dolomite",
+          "requiredPopulation": 9,
+          "chance": 0.06
+        },
+        {
+          "itemId": "(O)571",
+          "name": "Limestone",
+          "requiredPopulation": 9,
+          "chance": 0.06
+        }
+      ]
+    },
+    {
+      "id": "SeaUrchin",
+      "requiredTags": [
+        "item_sea_urchin"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 9,
+          "chance": 0.02
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 9,
+          "chance": 0.33
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 5,
+          "chance": 0.2
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "LegendaryFish",
+      "requiredTags": [
+        "fish_legendary"
+      ],
+      "maxPopulation": 1,
+      "produceChanceMin": 0.5,
+      "produceChanceMax": 0.5,
+      "producedItems": [
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.75
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.72
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.84
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.79
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.43
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.5
+        }
+      ]
+    },
+    {
+      "id": "DesertFish",
+      "requiredTags": [
+        "fish_desert"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)802",
+          "name": "Cactus Seeds",
+          "requiredPopulation": 10,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 10,
+          "chance": 0.25
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 8,
+          "chance": 0.5
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.75
+        }
+      ]
+    },
+    {
+      "id": "SemiRareFish",
+      "requiredTags": [
+        "fish_semi_rare"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)166",
+          "name": "Treasure Chest",
+          "requiredPopulation": 9,
+          "chance": 0.003
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "CarnivorousFish",
+      "requiredTags": [
+        "fish_carnivorous"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)684",
+          "name": "Bug Meat",
+          "requiredPopulation": 9,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "FreshwaterCrabPotFish",
+      "requiredTags": [
+        "fish_freshwater",
+        "fish_crab_pot"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)689",
+          "name": "Warp Totem: Mountains",
+          "requiredPopulation": 9,
+          "chance": 0.075
+        },
+        {
+          "itemId": "(O)153",
+          "name": "Green Algae",
+          "requiredPopulation": 0,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)770",
+          "name": "Mixed Seeds",
+          "requiredPopulation": 5,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)168",
+          "name": "Trash",
+          "requiredPopulation": 0,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)169",
+          "name": "Driftwood",
+          "requiredPopulation": 0,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)170",
+          "name": "Broken Glasses",
+          "requiredPopulation": 0,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)171",
+          "name": "Broken CD",
+          "requiredPopulation": 0,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)172",
+          "name": "Soggy Newspaper",
+          "requiredPopulation": 0,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)168",
+          "name": "Trash",
+          "requiredPopulation": 0,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.2
+        }
+      ]
+    },
+    {
+      "id": "OceanCrabPotFish",
+      "requiredTags": [
+        "fish_ocean",
+        "fish_crab_pot"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)392",
+          "name": "Nautilus Shell",
+          "requiredPopulation": 9,
+          "chance": 0.02
+        },
+        {
+          "itemId": "(O)690",
+          "name": "Warp Totem: Beach",
+          "requiredPopulation": 9,
+          "chance": 0.075
+        },
+        {
+          "itemId": "(O)152",
+          "name": "Seaweed",
+          "requiredPopulation": 0,
+          "chance": 0.088
+        },
+        {
+          "itemId": "(O)397",
+          "name": "Sea Urchin",
+          "requiredPopulation": 5,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)393",
+          "name": "Coral",
+          "requiredPopulation": 5,
+          "chance": 0.075
+        },
+        {
+          "itemId": "(O)168",
+          "name": "Trash",
+          "requiredPopulation": 0,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)169",
+          "name": "Driftwood",
+          "requiredPopulation": 0,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)170",
+          "name": "Broken Glasses",
+          "requiredPopulation": 0,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)171",
+          "name": "Broken CD",
+          "requiredPopulation": 0,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)172",
+          "name": "Soggy Newspaper",
+          "requiredPopulation": 0,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)168",
+          "name": "Trash",
+          "requiredPopulation": 0,
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.2
+        }
+      ]
+    },
+    {
+      "id": "OceanFish",
+      "requiredTags": [
+        "fish_ocean"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 5,
+          "chance": 1
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.7
+        }
+      ]
+    },
+    {
+      "id": "RiverFish",
+      "requiredTags": [
+        "fish_river"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.9
+        }
+      ]
+    },
+    {
+      "id": "LakeFish",
+      "requiredTags": [
+        "fish_lake"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.9
+        }
+      ]
+    },
+    {
+      "id": "Default",
+      "requiredTags": [
+        "category_fish"
+      ],
+      "maxPopulation": -1,
+      "produceChanceMin": 0.15,
+      "produceChanceMax": 0.95,
+      "producedItems": [
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 5,
+          "chance": 0.8
+        },
+        {
+          "itemId": "(O)812",
+          "name": "Roe",
+          "requiredPopulation": 0,
+          "chance": 0.8
+        }
+      ]
+    }
+  ]
+}

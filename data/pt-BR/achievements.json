@@ -1,0 +1,322 @@
+{
+  "_meta": {
+    "source": "Data/Achievements.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.134Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "achievements": [
+    {
+      "id": "0",
+      "name": "Dedo Verde (15 mil)",
+      "description": "Ganhe 15.000 ouros.",
+      "showProgressBar": true,
+      "prerequisiteId": null,
+      "spriteIndex": 18
+    },
+    {
+      "id": "1",
+      "name": "Vaqueiro (50 mil)",
+      "description": "Ganhe 50.000 ouros.",
+      "showProgressBar": true,
+      "prerequisiteId": 0,
+      "spriteIndex": 21
+    },
+    {
+      "id": "2",
+      "name": "Autossuficiência (250 mil)",
+      "description": "Ganhe 250.000 ouros.",
+      "showProgressBar": true,
+      "prerequisiteId": 1,
+      "spriteIndex": 20
+    },
+    {
+      "id": "3",
+      "name": "Milionário (1 milhão)",
+      "description": "Ganhe 1.000.000 ouros.",
+      "showProgressBar": true,
+      "prerequisiteId": 2,
+      "spriteIndex": 1
+    },
+    {
+      "id": "4",
+      "name": "Lenda (10 milhões)",
+      "description": "Ganhe 10.000.000 ouros.",
+      "showProgressBar": false,
+      "prerequisiteId": null,
+      "spriteIndex": 3
+    },
+    {
+      "id": "5",
+      "name": "Coleção Completa",
+      "description": "Complete a coleção do museu.",
+      "showProgressBar": true,
+      "prerequisiteId": 28,
+      "spriteIndex": 0
+    },
+    {
+      "id": "6",
+      "name": "Um Novo Amigo",
+      "description": "Alcance amizade nível 5 com alguém.",
+      "showProgressBar": true,
+      "prerequisiteId": null,
+      "spriteIndex": 14
+    },
+    {
+      "id": "7",
+      "name": "Melhores Amigos",
+      "description": "Alcance amizade nível 10 com alguém.",
+      "showProgressBar": true,
+      "prerequisiteId": 6,
+      "spriteIndex": 31
+    },
+    {
+      "id": "9",
+      "name": "Amado Fazendeiro",
+      "description": "Alcance amizade nível 10 com 8 pessoas.",
+      "showProgressBar": true,
+      "prerequisiteId": 7,
+      "spriteIndex": 32
+    },
+    {
+      "id": "11",
+      "name": "Panelinha",
+      "description": "Alcance amizade nível 5 com 4 pessoas.",
+      "showProgressBar": true,
+      "prerequisiteId": 6,
+      "spriteIndex": 26
+    },
+    {
+      "id": "12",
+      "name": "Rede de Contatos",
+      "description": "Alcance amizade nível 5 com 10 pessoas.",
+      "showProgressBar": true,
+      "prerequisiteId": 11,
+      "spriteIndex": 25
+    },
+    {
+      "id": "13",
+      "name": "Popular",
+      "description": "Alcance amizade nível 5 com 20 pessoas.",
+      "showProgressBar": true,
+      "prerequisiteId": 12,
+      "spriteIndex": 11
+    },
+    {
+      "id": "15",
+      "name": "Cozinheiro",
+      "description": "Cozinhe 10 receitas diferentes.",
+      "showProgressBar": true,
+      "prerequisiteId": 18,
+      "spriteIndex": 12
+    },
+    {
+      "id": "16",
+      "name": "Vice-chefe",
+      "description": "Cozinhe 25 receitas diferentes.",
+      "showProgressBar": true,
+      "prerequisiteId": 15,
+      "spriteIndex": 7
+    },
+    {
+      "id": "17",
+      "name": "Chefe Gourmet",
+      "description": "Cozinhe todas as receitas.",
+      "showProgressBar": true,
+      "prerequisiteId": 16,
+      "spriteIndex": 35
+    },
+    {
+      "id": "18",
+      "name": "Subindo de Vida",
+      "description": "Atualize sua casa.",
+      "showProgressBar": true,
+      "prerequisiteId": null,
+      "spriteIndex": 13
+    },
+    {
+      "id": "19",
+      "name": "Vivendo Bem",
+      "description": "Aumente o tamanho de sua casa para o nível máximo.",
+      "showProgressBar": true,
+      "prerequisiteId": 18,
+      "spriteIndex": 15
+    },
+    {
+      "id": "20",
+      "name": "Faça Você Mesmo",
+      "description": "Crie 15 itens diferentes.",
+      "showProgressBar": true,
+      "prerequisiteId": null,
+      "spriteIndex": 29
+    },
+    {
+      "id": "21",
+      "name": "Artesão",
+      "description": "Crie 30 itens diferentes.",
+      "showProgressBar": true,
+      "prerequisiteId": 20,
+      "spriteIndex": 16
+    },
+    {
+      "id": "22",
+      "name": "Mestre da Fabricação",
+      "description": "Crie todos os itens.",
+      "showProgressBar": true,
+      "prerequisiteId": 21,
+      "spriteIndex": 23
+    },
+    {
+      "id": "24",
+      "name": "Pescador",
+      "description": "Pegue 10 peixes diferentes.",
+      "showProgressBar": true,
+      "prerequisiteId": null,
+      "spriteIndex": 28
+    },
+    {
+      "id": "25",
+      "name": "Velho Marinheiro",
+      "description": "Pegue 24 peixes diferentes.",
+      "showProgressBar": true,
+      "prerequisiteId": 24,
+      "spriteIndex": 5
+    },
+    {
+      "id": "26",
+      "name": "Mestre Pescador",
+      "description": "Pegue todos os peixes.",
+      "showProgressBar": true,
+      "prerequisiteId": 25,
+      "spriteIndex": 24
+    },
+    {
+      "id": "27",
+      "name": "Grande Pesca",
+      "description": "Pegue 100 peixes.",
+      "showProgressBar": true,
+      "prerequisiteId": 64,
+      "spriteIndex": 30
+    },
+    {
+      "id": "28",
+      "name": "Coleção de Tesouros",
+      "description": "Doe 40 itens ao museu.",
+      "showProgressBar": true,
+      "prerequisiteId": null,
+      "spriteIndex": 6
+    },
+    {
+      "id": "29",
+      "name": "Autônomo",
+      "description": "Complete 10 missões \"Precisa-se de Ajuda\".",
+      "showProgressBar": true,
+      "prerequisiteId": null,
+      "spriteIndex": 22
+    },
+    {
+      "id": "30",
+      "name": "Uma Grande Ajuda",
+      "description": "Complete 40 missões \"Precisa-se de ajuda\".",
+      "showProgressBar": true,
+      "prerequisiteId": 29,
+      "spriteIndex": 10
+    },
+    {
+      "id": "31",
+      "name": "Policultura",
+      "description": "Envie 15 itens de cada plantação pelo correio.",
+      "showProgressBar": true,
+      "prerequisiteId": null,
+      "spriteIndex": 34
+    },
+    {
+      "id": "32",
+      "name": "Monocultura",
+      "description": "Envie 300 itens de uma variedade só pelo correio.",
+      "showProgressBar": true,
+      "prerequisiteId": null,
+      "spriteIndex": 33
+    },
+    {
+      "id": "34",
+      "name": "Envio Completo",
+      "description": "Envie um item de cada pelo correio.",
+      "showProgressBar": true,
+      "prerequisiteId": null,
+      "spriteIndex": 9
+    },
+    {
+      "id": "35",
+      "name": "Estudioso",
+      "description": "Leia todos os livros.",
+      "showProgressBar": true,
+      "prerequisiteId": null,
+      "spriteIndex": 9
+    },
+    {
+      "id": "36",
+      "name": "Dois Joinhas",
+      "description": "Assista a um filme.",
+      "showProgressBar": false,
+      "prerequisiteId": null,
+      "spriteIndex": 9
+    },
+    {
+      "id": "37",
+      "name": "Fita Azul",
+      "description": "Consiga o primeiro lugar na competição da Feira do Vale do Orvalho.",
+      "showProgressBar": true,
+      "prerequisiteId": null,
+      "spriteIndex": 9
+    },
+    {
+      "id": "38",
+      "name": "Uma Sopa Inesquecível",
+      "description": "Agrade o Governador.",
+      "showProgressBar": true,
+      "prerequisiteId": null,
+      "spriteIndex": 9
+    },
+    {
+      "id": "39",
+      "name": "Boa Vizinhança",
+      "description": "Ajude seus vizinhos da floresta a aumentarem sua família.",
+      "showProgressBar": true,
+      "prerequisiteId": null,
+      "spriteIndex": 9
+    },
+    {
+      "id": "40",
+      "name": "Uma Praia Distante",
+      "description": "Chegue à Ilha Gengibre.",
+      "showProgressBar": false,
+      "prerequisiteId": null,
+      "spriteIndex": 9
+    },
+    {
+      "id": "41",
+      "name": "Perigo nas Profundezas",
+      "description": "Chegue até o fundo das minas 'perigosas'.",
+      "showProgressBar": false,
+      "prerequisiteId": null,
+      "spriteIndex": 9
+    },
+    {
+      "id": "42",
+      "name": "Poder Infinito",
+      "description": "Obtenha a arma mais poderosa.",
+      "showProgressBar": true,
+      "prerequisiteId": null,
+      "spriteIndex": 9
+    },
+    {
+      "id": "44",
+      "name": "Perfeição",
+      "description": "Alcance o pico.",
+      "showProgressBar": false,
+      "prerequisiteId": null,
+      "spriteIndex": 9
+    }
+  ]
+}

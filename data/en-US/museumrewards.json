@@ -1,0 +1,461 @@
+{
+  "_meta": {
+    "source": "Data/MuseumRewards.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:37:44.219Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "museumRewards": [
+    {
+      "id": "dwarf",
+      "targetContextTags": [
+        {
+          "tag": "id_o_96",
+          "count": 1
+        },
+        {
+          "tag": "id_o_97",
+          "count": 1
+        },
+        {
+          "tag": "id_o_98",
+          "count": 1
+        },
+        {
+          "tag": "id_o_99",
+          "count": 1
+        }
+      ],
+      "rewardItemId": "(O)326",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "chicken",
+      "targetContextTags": [
+        {
+          "tag": "id_o_113",
+          "count": 1
+        },
+        {
+          "tag": "item_type_arch",
+          "count": 5
+        }
+      ],
+      "rewardItemId": "(F)1305",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "arch15",
+      "targetContextTags": [
+        {
+          "tag": "item_type_arch",
+          "count": 15
+        }
+      ],
+      "rewardItemId": "(F)1304",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "arch20",
+      "targetContextTags": [
+        {
+          "tag": "item_type_arch",
+          "count": 20
+        }
+      ],
+      "rewardItemId": "(BC)139",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "burnt_offering",
+      "targetContextTags": [
+        {
+          "tag": "id_o_108",
+          "count": 1
+        },
+        {
+          "tag": "id_o_122",
+          "count": 1
+        },
+        {
+          "tag": "item_type_arch",
+          "count": 11
+        }
+      ],
+      "rewardItemId": "(F)1545",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "flute",
+      "targetContextTags": [
+        {
+          "tag": "id_o_119",
+          "count": 1
+        },
+        {
+          "tag": "item_type_arch",
+          "count": 3
+        }
+      ],
+      "rewardItemId": "(O)464",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "drum",
+      "targetContextTags": [
+        {
+          "tag": "id_o_123",
+          "count": 1
+        },
+        {
+          "tag": "item_type_arch",
+          "count": 3
+        }
+      ],
+      "rewardItemId": "(O)463",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "ancient_seed",
+      "targetContextTags": [
+        {
+          "tag": "id_o_114",
+          "count": 1
+        }
+      ],
+      "rewardItemId": "(O)499",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "ancient_seed_recipe",
+      "targetContextTags": [
+        {
+          "tag": "id_o_114",
+          "count": 1
+        }
+      ],
+      "rewardItemId": "(O)499",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": true
+    },
+    {
+      "id": "sloth_l",
+      "targetContextTags": [
+        {
+          "tag": "id_o_579",
+          "count": 1
+        },
+        {
+          "tag": "id_o_581",
+          "count": 1
+        },
+        {
+          "tag": "id_o_582",
+          "count": 1
+        }
+      ],
+      "rewardItemId": "(F)1301",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "sloth_2",
+      "targetContextTags": [
+        {
+          "tag": "id_o_583",
+          "count": 1
+        },
+        {
+          "tag": "id_o_584",
+          "count": 1
+        }
+      ],
+      "rewardItemId": "(F)1302",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "sloth_3",
+      "targetContextTags": [
+        {
+          "tag": "id_o_580",
+          "count": 1
+        },
+        {
+          "tag": "id_o_585",
+          "count": 1
+        }
+      ],
+      "rewardItemId": "(F)1303",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "mineral11",
+      "targetContextTags": [
+        {
+          "tag": "item_type_minerals",
+          "count": 11
+        }
+      ],
+      "rewardItemId": "(F)1298",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "mineral21",
+      "targetContextTags": [
+        {
+          "tag": "item_type_minerals",
+          "count": 21
+        }
+      ],
+      "rewardItemId": "(BC)94",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "mineral31",
+      "targetContextTags": [
+        {
+          "tag": "item_type_minerals",
+          "count": 31
+        }
+      ],
+      "rewardItemId": "(F)1299",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "mineral40",
+      "targetContextTags": [
+        {
+          "tag": "item_type_minerals",
+          "count": 40
+        }
+      ],
+      "rewardItemId": "(F)131",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "mineral50",
+      "targetContextTags": [
+        {
+          "tag": "item_type_minerals",
+          "count": 50
+        }
+      ],
+      "rewardItemId": "(BC)21",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": true,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "museum5",
+      "targetContextTags": [
+        {
+          "tag": "",
+          "count": 5
+        }
+      ],
+      "rewardItemId": "(O)474",
+      "rewardItemCount": 9,
+      "rewardItemIsSpecial": false,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "museum10",
+      "targetContextTags": [
+        {
+          "tag": "",
+          "count": 10
+        }
+      ],
+      "rewardItemId": "(O)479",
+      "rewardItemCount": 9,
+      "rewardItemIsSpecial": false,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "museum15",
+      "targetContextTags": [
+        {
+          "tag": "",
+          "count": 15
+        }
+      ],
+      "rewardItemId": "(O)486",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": false,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "museum20",
+      "targetContextTags": [
+        {
+          "tag": "",
+          "count": 20
+        }
+      ],
+      "rewardItemId": "(F)1541",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": false,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "museum25",
+      "targetContextTags": [
+        {
+          "tag": "",
+          "count": 25
+        }
+      ],
+      "rewardItemId": "(F)1554",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": false,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "museum30",
+      "targetContextTags": [
+        {
+          "tag": "",
+          "count": 30
+        }
+      ],
+      "rewardItemId": "(F)1669",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": false,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "museum35",
+      "targetContextTags": [
+        {
+          "tag": "",
+          "count": 35
+        }
+      ],
+      "rewardItemId": "(O)490",
+      "rewardItemCount": 9,
+      "rewardItemIsSpecial": false,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "museum40",
+      "targetContextTags": [
+        {
+          "tag": "",
+          "count": 40
+        }
+      ],
+      "rewardItemId": "(BC)140",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": false,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "museum50",
+      "targetContextTags": [
+        {
+          "tag": "",
+          "count": 50
+        }
+      ],
+      "rewardItemId": "(F)1671",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": false,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "museum60",
+      "targetContextTags": [
+        {
+          "tag": "",
+          "count": 60
+        }
+      ],
+      "rewardItemId": null,
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": false,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "museum70",
+      "targetContextTags": [
+        {
+          "tag": "",
+          "count": 70
+        }
+      ],
+      "rewardItemId": "(O)253",
+      "rewardItemCount": 3,
+      "rewardItemIsSpecial": false,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "museum80",
+      "targetContextTags": [
+        {
+          "tag": "",
+          "count": 80
+        }
+      ],
+      "rewardItemId": "(O)688",
+      "rewardItemCount": 5,
+      "rewardItemIsSpecial": false,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "museum90",
+      "targetContextTags": [
+        {
+          "tag": "",
+          "count": 90
+        }
+      ],
+      "rewardItemId": "(O)279",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": false,
+      "rewardItemIsRecipe": false
+    },
+    {
+      "id": "museumComplete",
+      "targetContextTags": [
+        {
+          "tag": "",
+          "count": -1
+        }
+      ],
+      "rewardItemId": "(O)434",
+      "rewardItemCount": 1,
+      "rewardItemIsSpecial": false,
+      "rewardItemIsRecipe": false
+    }
+  ]
+}

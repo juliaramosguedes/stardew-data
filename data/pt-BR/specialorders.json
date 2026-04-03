@@ -1,0 +1,948 @@
+{
+  "_meta": {
+    "source": "Data/SpecialOrders.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.120Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "specialOrders": [
+    {
+      "id": "Willy",
+      "requester": "Willy",
+      "duration": "Week",
+      "repeatable": false,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Collect",
+          "requiredCount": "100",
+          "acceptedTags": [
+            "item_bug_meat"
+          ]
+        },
+        {
+          "type": "Donate",
+          "requiredCount": "100",
+          "acceptedTags": [
+            "item_bug_meat"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        }
+      ]
+    },
+    {
+      "id": "Pam",
+      "requester": "Pam",
+      "duration": "TwoWeeks",
+      "repeatable": false,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Collect",
+          "requiredCount": "12",
+          "acceptedTags": [
+            "juice_item",
+            "preserve_sheet_index_192"
+          ]
+        },
+        {
+          "type": "Donate",
+          "requiredCount": "12",
+          "acceptedTags": [
+            "juice_item",
+            "preserve_sheet_index_192"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        },
+        {
+          "type": "Friendship"
+        }
+      ]
+    },
+    {
+      "id": "Pierre",
+      "requester": "Pierre",
+      "duration": "Month",
+      "repeatable": false,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Collect",
+          "requiredCount": "25",
+          "acceptedTags": [
+            "!forage_item",
+            "category_vegetable",
+            "quality_gold"
+          ]
+        },
+        {
+          "type": "Donate",
+          "requiredCount": "25",
+          "acceptedTags": [
+            "!forage_item",
+            "category_vegetable",
+            "quality_gold"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        }
+      ]
+    },
+    {
+      "id": "Robin",
+      "requester": "Robin",
+      "duration": "Week",
+      "repeatable": false,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Collect",
+          "requiredCount": "80",
+          "acceptedTags": [
+            "item_hardwood"
+          ]
+        },
+        {
+          "type": "Donate",
+          "requiredCount": "80",
+          "acceptedTags": [
+            "item_hardwood"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        },
+        {
+          "type": "Friendship"
+        }
+      ]
+    },
+    {
+      "id": "Emily",
+      "requester": "Emily",
+      "duration": "Week",
+      "repeatable": false,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Deliver",
+          "requiredCount": "1",
+          "acceptedTags": [
+            "item_ruby"
+          ]
+        },
+        {
+          "type": "Deliver",
+          "requiredCount": "1",
+          "acceptedTags": [
+            "item_topaz"
+          ]
+        },
+        {
+          "type": "Deliver",
+          "requiredCount": "1",
+          "acceptedTags": [
+            "item_emerald"
+          ]
+        },
+        {
+          "type": "Deliver",
+          "requiredCount": "1",
+          "acceptedTags": [
+            "item_jade"
+          ]
+        },
+        {
+          "type": "Deliver",
+          "requiredCount": "1",
+          "acceptedTags": [
+            "item_amethyst"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Friendship"
+        },
+        {
+          "type": "Mail"
+        }
+      ]
+    },
+    {
+      "id": "Demetrius",
+      "requester": "Demetrius",
+      "duration": "Week",
+      "repeatable": true,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Fish",
+          "requiredCount": "10",
+          "acceptedTags": [
+            "{FishType:Tags}"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        }
+      ]
+    },
+    {
+      "id": "Demetrius2",
+      "requester": "Demetrius",
+      "duration": "Week",
+      "repeatable": true,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Fish",
+          "requiredCount": "20",
+          "acceptedTags": [
+            "{FishType:Tags}"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        }
+      ]
+    },
+    {
+      "id": "Gus",
+      "requester": "Gus",
+      "duration": "TwoWeeks",
+      "repeatable": true,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Collect",
+          "requiredCount": "24",
+          "acceptedTags": [
+            "egg_item"
+          ]
+        },
+        {
+          "type": "Donate",
+          "requiredCount": "24",
+          "acceptedTags": [
+            "egg_item"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        }
+      ]
+    },
+    {
+      "id": "Lewis",
+      "requester": "Lewis",
+      "duration": "Month",
+      "repeatable": true,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Collect",
+          "requiredCount": "100",
+          "acceptedTags": [
+            "{Crop:Tags}"
+          ]
+        },
+        {
+          "type": "Ship",
+          "requiredCount": "100",
+          "acceptedTags": [
+            "{Crop:Tags}"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        }
+      ]
+    },
+    {
+      "id": "Wizard",
+      "requester": "Wizard",
+      "duration": "Week",
+      "repeatable": false,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Deliver",
+          "requiredCount": "1",
+          "acceptedTags": [
+            "item_ectoplasm"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        }
+      ]
+    },
+    {
+      "id": "Clint",
+      "requester": "Clint",
+      "duration": "Week",
+      "repeatable": true,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Slay",
+          "requiredCount": "50",
+          "acceptedTags": []
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        }
+      ]
+    },
+    {
+      "id": "Linus",
+      "requester": "Linus",
+      "duration": "Week",
+      "repeatable": false,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Collect",
+          "requiredCount": "20",
+          "acceptedTags": [
+            "trash_item"
+          ]
+        },
+        {
+          "type": "Donate",
+          "requiredCount": "20",
+          "acceptedTags": [
+            "trash_item"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        },
+        {
+          "type": "Friendship"
+        }
+      ]
+    },
+    {
+      "id": "Evelyn",
+      "requester": "Evelyn",
+      "duration": "Month",
+      "repeatable": false,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Collect",
+          "requiredCount": "12",
+          "acceptedTags": [
+            "item_leek"
+          ]
+        },
+        {
+          "type": "Donate",
+          "requiredCount": "12",
+          "acceptedTags": [
+            "item_leek"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        }
+      ]
+    },
+    {
+      "id": "Wizard2",
+      "requester": "Wizard",
+      "duration": "Week",
+      "repeatable": false,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Slay",
+          "requiredCount": "1",
+          "acceptedTags": []
+        },
+        {
+          "type": "Deliver",
+          "requiredCount": "1",
+          "acceptedTags": [
+            "item_prismatic_jelly"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        }
+      ]
+    },
+    {
+      "id": "Robin2",
+      "requester": "Robin",
+      "duration": "Week",
+      "repeatable": true,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Collect",
+          "requiredCount": "1000",
+          "acceptedTags": [
+            "{Resource:Tags}"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        }
+      ]
+    },
+    {
+      "id": "Gunther",
+      "requester": "Gunther",
+      "duration": "Week",
+      "repeatable": false,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Collect",
+          "requiredCount": "100",
+          "acceptedTags": [
+            "bone_item"
+          ]
+        },
+        {
+          "type": "Donate",
+          "requiredCount": "100",
+          "acceptedTags": [
+            "bone_item"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        }
+      ]
+    },
+    {
+      "id": "Caroline",
+      "requester": "Caroline",
+      "duration": "Month",
+      "repeatable": true,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Collect",
+          "requiredCount": "100",
+          "acceptedTags": [
+            "{Crop:Tags}"
+          ]
+        },
+        {
+          "type": "Ship",
+          "requiredCount": "100",
+          "acceptedTags": [
+            "{Crop:Tags}"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        }
+      ]
+    },
+    {
+      "id": "Willy2",
+      "requester": "Willy",
+      "duration": "Week",
+      "repeatable": false,
+      "orderType": "",
+      "objectives": [
+        {
+          "type": "Fish",
+          "requiredCount": "5",
+          "acceptedTags": [
+            "item_lionfish"
+          ]
+        },
+        {
+          "type": "Fish",
+          "requiredCount": "5",
+          "acceptedTags": [
+            "item_blue_discus"
+          ]
+        },
+        {
+          "type": "Fish",
+          "requiredCount": "5",
+          "acceptedTags": [
+            "item_stingray"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Money"
+        },
+        {
+          "type": "Mail"
+        }
+      ]
+    },
+    {
+      "id": "QiChallenge",
+      "requester": "Qi",
+      "duration": "Week",
+      "repeatable": true,
+      "orderType": "Qi",
+      "objectives": [
+        {
+          "type": "Ship",
+          "requiredCount": "500",
+          "acceptedTags": [
+            "item_qi_fruit"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Gems"
+        }
+      ]
+    },
+    {
+      "id": "QiChallenge2",
+      "requester": "Qi",
+      "duration": "Month",
+      "repeatable": true,
+      "orderType": "Qi",
+      "objectives": [
+        {
+          "type": "Ship",
+          "requiredCount": "500",
+          "acceptedTags": [
+            "item_qi_fruit"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Gems"
+        }
+      ]
+    },
+    {
+      "id": "QiChallenge3",
+      "requester": "Qi",
+      "duration": "Week",
+      "repeatable": true,
+      "orderType": "Qi",
+      "objectives": [
+        {
+          "type": "JKScore",
+          "requiredCount": "50000",
+          "acceptedTags": [
+            "placeholder"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Gems"
+        }
+      ]
+    },
+    {
+      "id": "QiChallenge4",
+      "requester": "Qi",
+      "duration": "Month",
+      "repeatable": true,
+      "orderType": "Qi",
+      "objectives": [
+        {
+          "type": "Collect",
+          "requiredCount": "{Treasure:Count}",
+          "acceptedTags": [
+            "{Treasure:Target}"
+          ]
+        },
+        {
+          "type": "Donate",
+          "requiredCount": "4",
+          "acceptedTags": [
+            "item_prismatic_shard"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Gems"
+        }
+      ]
+    },
+    {
+      "id": "QiChallenge5",
+      "requester": "Qi",
+      "duration": "Week",
+      "repeatable": true,
+      "orderType": "Qi",
+      "objectives": [
+        {
+          "type": "ReachMineFloor",
+          "requiredCount": "100",
+          "acceptedTags": []
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Gems"
+        }
+      ]
+    },
+    {
+      "id": "QiChallenge6",
+      "requester": "Qi",
+      "duration": "TwoWeeks",
+      "repeatable": true,
+      "orderType": "Qi",
+      "objectives": [
+        {
+          "type": "Ship",
+          "requiredCount": "100000",
+          "acceptedTags": [
+            "quality_qi"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Gems"
+        }
+      ]
+    },
+    {
+      "id": "QiChallenge7",
+      "requester": "Qi",
+      "duration": "Week",
+      "repeatable": true,
+      "orderType": "Qi",
+      "objectives": [
+        {
+          "type": "Gift",
+          "requiredCount": "50",
+          "acceptedTags": []
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Gems"
+        }
+      ]
+    },
+    {
+      "id": "QiChallenge8",
+      "requester": "Qi",
+      "duration": "ThreeDays",
+      "repeatable": true,
+      "orderType": "Qi",
+      "objectives": [
+        {
+          "type": "Fish",
+          "requiredCount": "1",
+          "acceptedTags": [
+            "item_ms._angler"
+          ]
+        },
+        {
+          "type": "Fish",
+          "requiredCount": "1",
+          "acceptedTags": [
+            "item_glacierfish_jr."
+          ]
+        },
+        {
+          "type": "Fish",
+          "requiredCount": "1",
+          "acceptedTags": [
+            "item_son_of_crimsonfish"
+          ]
+        },
+        {
+          "type": "Fish",
+          "requiredCount": "1",
+          "acceptedTags": [
+            "item_radioactive_carp"
+          ]
+        },
+        {
+          "type": "Fish",
+          "requiredCount": "1",
+          "acceptedTags": [
+            "item_legend_ii"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Gems"
+        }
+      ]
+    },
+    {
+      "id": "QiChallenge9",
+      "requester": "Qi",
+      "duration": "Week",
+      "repeatable": true,
+      "orderType": "Qi",
+      "objectives": [
+        {
+          "type": "ReachMineFloor",
+          "requiredCount": "120",
+          "acceptedTags": []
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Gems"
+        }
+      ]
+    },
+    {
+      "id": "QiChallenge10",
+      "requester": "Qi",
+      "duration": "Week",
+      "repeatable": true,
+      "orderType": "Qi",
+      "objectives": [
+        {
+          "type": "ReachMineFloor",
+          "requiredCount": "100",
+          "acceptedTags": []
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Gems"
+        }
+      ]
+    },
+    {
+      "id": "QiChallenge11",
+      "requester": "Qi",
+      "duration": "OneDay",
+      "repeatable": true,
+      "orderType": "Qi",
+      "objectives": [
+        {
+          "type": "Custom",
+          "requiredCount": "120",
+          "acceptedTags": [
+            "placeholder"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Gems"
+        }
+      ]
+    },
+    {
+      "id": "QiChallenge12",
+      "requester": "Qi",
+      "duration": "TwoWeeks",
+      "repeatable": true,
+      "orderType": "Qi",
+      "objectives": [
+        {
+          "type": "Donate",
+          "requiredCount": "100",
+          "acceptedTags": [
+            "color_red/color_dark_red"
+          ]
+        },
+        {
+          "type": "Donate",
+          "requiredCount": "100",
+          "acceptedTags": [
+            "color_orange/color_copper/color_dark_orange"
+          ]
+        },
+        {
+          "type": "Donate",
+          "requiredCount": "100",
+          "acceptedTags": [
+            "color_yellow/color_dark_yellow/color_gold"
+          ]
+        },
+        {
+          "type": "Donate",
+          "requiredCount": "100",
+          "acceptedTags": [
+            "color_green/color_dark_green/color_lime/color_yellow_green/color_jade"
+          ]
+        },
+        {
+          "type": "Donate",
+          "requiredCount": "100",
+          "acceptedTags": [
+            "color_blue/color_dark_blue/color_dark_cyan/color_light_cyan/color_cyan/color_aquamarine"
+          ]
+        },
+        {
+          "type": "Donate",
+          "requiredCount": "100",
+          "acceptedTags": [
+            "color_purple/color_dark_purple/color_dark_pink/color_pale_violet_red/color_poppyseed/color_iridium"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Gems"
+        }
+      ]
+    },
+    {
+      "id": "DesertFestivalMarlon1",
+      "requester": "Marlon",
+      "duration": "OneDay",
+      "repeatable": true,
+      "orderType": "DesertFestivalMarlon",
+      "objectives": [
+        {
+          "type": "Slay",
+          "requiredCount": "10",
+          "acceptedTags": []
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Object"
+        }
+      ]
+    },
+    {
+      "id": "DesertFestivalMarlon2",
+      "requester": "Marlon",
+      "duration": "OneDay",
+      "repeatable": true,
+      "orderType": "DesertFestivalMarlon",
+      "objectives": [
+        {
+          "type": "ReachMineFloor",
+          "requiredCount": "30",
+          "acceptedTags": []
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Object"
+        }
+      ]
+    },
+    {
+      "id": "DesertFestivalMarlon3",
+      "requester": "Marlon",
+      "duration": "OneDay",
+      "repeatable": true,
+      "orderType": "DesertFestivalMarlon",
+      "objectives": [
+        {
+          "type": "Collect",
+          "requiredCount": "{Treasure:Count}",
+          "acceptedTags": [
+            "{Treasure:Target}"
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "type": "Object"
+        }
+      ]
+    }
+  ]
+}

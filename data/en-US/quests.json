@@ -1,0 +1,670 @@
+{
+  "_meta": {
+    "source": "Data/Quests.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:37:44.187Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "quests": [
+    {
+      "id": "1",
+      "type": "Location",
+      "title": "Meet The Wizard",
+      "description": "You received a letter from the local wizard. He claims to have information regarding the old community center.",
+      "objective": "Enter the wizard's tower.",
+      "target": "WizardHouse",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "2",
+      "type": "Basic",
+      "title": "The Mysterious Qi",
+      "description": "Within a secret lock-box, you found a note with peculiar instructions. It's signed by a 'Mr. Qi'.",
+      "objective": "Leave a rainbow shell in the box at the train platform.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "3",
+      "type": "Basic",
+      "title": "The Mysterious Qi",
+      "description": "You've found another note written by 'Mr. Qi'. The request is even more unusual this time.",
+      "objective": "Place 10 beets inside Mayor Lewis' fridge.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "4",
+      "type": "Basic",
+      "title": "The Mysterious Qi",
+      "description": "You've found yet another strange note within the Mayor's fridge. This time, the instructions are more cryptic.",
+      "objective": "\"Give the sand dragon his final meal.\"",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "5",
+      "type": "Basic",
+      "title": "The Mysterious Qi",
+      "description": "You found another note in the sand dragon's eye. It seems Mr. Qi's strange scavenger hunt has come to an end.",
+      "objective": "Inspect the lumber pile beside your house.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "6",
+      "type": "ItemHarvest",
+      "title": "Getting Started",
+      "description": "If you want to become a farmer, you have to start with the basics. Use your hoe to till the soil, then use a seed packet on the tilled soil to sow a crop. Water every day until the crop is ready for harvest.",
+      "objective": "Cultivate and harvest a parsnip.",
+      "target": "(O)24",
+      "rewardMoney": 100,
+      "nextQuestId": null
+    },
+    {
+      "id": "7",
+      "type": "Building",
+      "title": "Raising Animals",
+      "description": "Robin, the local carpenter, lives north of town. In exchange for raw materials and money, she'll construct new buildings on your farm. You'll need her to build a coop or barn so that you can raise animals.",
+      "objective": "Build a Coop.",
+      "target": "Coop",
+      "rewardMoney": 100,
+      "nextQuestId": null
+    },
+    {
+      "id": "8",
+      "type": "Crafting",
+      "title": "Advancement",
+      "description": "As you gain experience, you'll discover new crafting recipes to increase profit and make life easier. A scarecrow, for example, will prevent crows from snacking on your precious crops.",
+      "objective": "Reach Farming level 1 and craft a scarecrow.",
+      "target": "(BC)8",
+      "rewardMoney": 100,
+      "nextQuestId": null
+    },
+    {
+      "id": "9",
+      "type": "Social",
+      "title": "Introductions",
+      "description": "It would be a nice gesture to introduce yourself around town. Some people might be anxious to meet the new farmer.",
+      "objective": ".",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "10",
+      "type": "Basic",
+      "title": "Copper Ore",
+      "description": "You found a piece of copper ore. You're not sure what you can use it for, but the local blacksmith ought to know.",
+      "objective": "Bring a piece of copper ore to Clint's blacksmith shop.",
+      "target": ".",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "11",
+      "type": "Crafting",
+      "title": "Forging Ahead",
+      "description": "If you're going to keep mining, you should build a furnace.",
+      "objective": "Craft a Furnace.",
+      "target": "(BC)13",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "12",
+      "type": "ItemHarvest",
+      "title": "Smelting",
+      "description": "Now that you've built a furnace, you can smelt some metal. According to Clint's instructions, if you place 5 copper ore and 1 piece of coal in the furnace, it should produce a copper bar.",
+      "objective": "Use your furnace to smelt a Copper Bar.",
+      "target": "(O)334 1",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "13",
+      "type": "Basic",
+      "title": "To The Beach",
+      "description": "Someone named Willy invited you to visit the beach south of town. He says he has something to give you.",
+      "objective": "Visit the beach south of town before 5:00pm.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "14",
+      "type": "Basic",
+      "title": "Explore The Mine",
+      "description": "There's an old mine shaft in the mountains north of town. There could be valuable minerals inside, but Marlon hinted that it might be dangerous.",
+      "objective": "Reach level 5 in the mines.",
+      "target": "17",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "15",
+      "type": "Monster",
+      "title": "Initiation",
+      "description": "If you can slay 10 slimes, you'll have earned your place in the Adventurer's Guild.",
+      "objective": "0 of 10 slimes slain.",
+      "target": "Green_Slime 10 null false",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "16",
+      "type": "Location",
+      "title": "Initiation",
+      "description": "You successfully dispatched 10 slimes. Now you can enter the Adventurer's Guild.",
+      "objective": "Enter the Adventurer's Guild.",
+      "target": "AdventureGuild",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "17",
+      "type": "Basic",
+      "title": "Deeper In The Mine",
+      "description": "It seems that the mine elevator is still functional. It will allow you to quickly return to any elevator doors you've discovered. A deeper expedition might be in order.",
+      "objective": "Reach level 40 in the mines.",
+      "target": "18",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "18",
+      "type": "Basic",
+      "title": "To The Bottom?",
+      "description": "So far, there's no sign of the bottom. How low does it go?",
+      "objective": "Reach the bottom of the mine.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "19",
+      "type": "Basic",
+      "title": "The Skull Key",
+      "description": "You found a strange looking key in the bottom of the mines.",
+      "objective": "Discover the purpose of the Skull Key.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "20",
+      "type": "Basic",
+      "title": "Qi's Challenge",
+      "description": "You've been challenged to reach level 25 in the skull cavern. You've been promised a substantial reward if you're successful.",
+      "objective": "Reach level 25 in the Skull Cavern.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "21",
+      "type": "Basic",
+      "title": "Marnie's Request",
+      "description": "Marnie came by the farm and asked if you'd bring her a cave carrot. She's trying to train her goats to speak, and cave carrot is their favorite snack.",
+      "objective": "Bring a Cave Carrot into Marnie's shop.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "22",
+      "type": "Basic",
+      "title": "Fish Casserole",
+      "description": "Jodi swung by the farm to ask you to dinner at 7:00 PM. Her only request was that you bring a largemouth bass for her fish casserole.",
+      "objective": "Enter Jodi's house with a largemouth bass at 7:00 PM.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "23",
+      "type": "Location",
+      "title": "Archaeology",
+      "description": "You found an ancient-looking object. Could it be some kind of artifact from long ago? Perhaps Gunther, curator of the local museum, has the answer.",
+      "objective": "Visit Gunther at the museum.",
+      "target": "ArchaeologyHouse",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "24",
+      "type": "Basic",
+      "title": "Archaeology",
+      "description": "Gunther asked if you'd consider donating any new artifacts or minerals you find to the museum. He says he'll compensate you by way of occasional rare goods.",
+      "objective": "Donate an artifact or a mineral to the museum.",
+      "target": null,
+      "rewardMoney": 250,
+      "nextQuestId": null
+    },
+    {
+      "id": "25",
+      "type": "Basic",
+      "title": "How To Win Friends",
+      "description": "Giving gifts is a great way to build friendships. Learn each person's individual tastes and you'll be popular in no time.",
+      "objective": "Give someone a gift.",
+      "target": null,
+      "rewardMoney": 100,
+      "nextQuestId": null
+    },
+    {
+      "id": "26",
+      "type": "Basic",
+      "title": "\"Rat Problem\"",
+      "description": "There's something odd going on in the Community Center...",
+      "objective": "Investigate the Community Center",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "27",
+      "type": "Basic",
+      "title": "Goblin Problem",
+      "description": "There's a goblin blocking the path to the Witch's hut. There must be some way to get him to move... Perhaps I should seek out more information on Goblins.",
+      "objective": "Gain entrance to the Witch's hut.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "28",
+      "type": "Basic",
+      "title": "Dark Talisman",
+      "description": "The Wizard asked me to retrieve the magic ink from his ex-wife's house... but to gain access I'll need a dark talisman.",
+      "objective": "Enter the sewer and ask Krobus about the dark talisman.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "29",
+      "type": "Basic",
+      "title": "Strange Note",
+      "description": "You found a note, barely legible, asking you to bring \"may-pal serrup\" to the \"seecrit wuds\".",
+      "objective": "Bring \"may-pal serrup\" to the \"seecrit wuds\"",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "30",
+      "type": "Basic",
+      "title": "Cryptic Note",
+      "description": "You found a note that reads, \"Someone is waiting for you on level 100 in the Skull Cavern\"",
+      "objective": "Reach level 100 in the Skull Cavern",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "31",
+      "type": "Basic",
+      "title": "A Winter Mystery",
+      "description": "You encountered a suspicious looking figure by the bus stop. When it saw you, it fled toward town. Could there be a clue to its whereabouts?",
+      "objective": "Find the shadowy figure.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "100",
+      "type": "LostItem",
+      "title": "Robin's Lost Axe",
+      "description": "Robin lost her favorite axe. The last time she remembers using it, she was cutting wood south of Marnie's ranch.",
+      "objective": "Find Robin's lost axe.",
+      "target": "Robin (O)788 Forest 110 81",
+      "rewardMoney": 250,
+      "nextQuestId": null
+    },
+    {
+      "id": "101",
+      "type": "ItemDelivery",
+      "title": "Jodi's Request",
+      "description": "Jodi needs a fresh cauliflower for a recipe she's making. She's asking you to bring her one.",
+      "objective": "Bring Jodi a cauliflower.",
+      "target": "Jodi (O)190",
+      "rewardMoney": 350,
+      "nextQuestId": null
+    },
+    {
+      "id": "102",
+      "type": "LostItem",
+      "title": "Mayor's \"Shorts\"",
+      "description": "Mayor Lewis has lost his purple \"shorts\". He's asking you to find and return them... Discreetly.",
+      "objective": "Find and return Mayor Lewis' purple shorts.",
+      "target": "Lewis (O)789 AnimalShop 13 7",
+      "rewardMoney": 750,
+      "nextQuestId": null
+    },
+    {
+      "id": "103",
+      "type": "ItemDelivery",
+      "title": "Pam Is Thirsty",
+      "description": "Pam is hankerin' for a pale ale. Regular old beer won't do. You can brew one yourself if you have hops and a keg.",
+      "objective": "Bring Pam a pale ale.",
+      "target": "Pam (O)303",
+      "rewardMoney": 350,
+      "nextQuestId": null
+    },
+    {
+      "id": "104",
+      "type": "ItemDelivery",
+      "title": "Crop Research",
+      "description": "Demetrius needs a fresh melon for his research.",
+      "objective": "Bring Demetrius a melon.",
+      "target": "Demetrius (O)254",
+      "rewardMoney": 550,
+      "nextQuestId": null
+    },
+    {
+      "id": "105",
+      "type": "ItemDelivery",
+      "title": "Knee Therapy",
+      "description": "George needs a hot pepper to soothe his aching knee.",
+      "objective": "Bring George a Hot Pepper.",
+      "target": "George (O)260",
+      "rewardMoney": 200,
+      "nextQuestId": null
+    },
+    {
+      "id": "106",
+      "type": "ItemDelivery",
+      "title": "Cow's Delight",
+      "description": "Marnie wants to give her cows a special treat. She's asking for a single bunch of amaranth.",
+      "objective": "Bring Marnie one bunch of amaranth.",
+      "target": "Marnie (O)300",
+      "rewardMoney": 500,
+      "nextQuestId": null
+    },
+    {
+      "id": "107",
+      "type": "LostItem",
+      "title": "Blackberry Basket",
+      "description": "It's blackberry season, but Linus can't find his basket! He's asking you to help him find it. He has no idea where it is.",
+      "objective": "Find Linus' basket and return it to him.",
+      "target": "Linus (O)790 Backwoods 27 27",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "108",
+      "type": "ItemDelivery",
+      "title": "Carving Pumpkins",
+      "description": "Caroline wants to carve a pumpkin with her daughter. She asked you to bring her one from the farm.",
+      "objective": "Bring Caroline a pumpkin.",
+      "target": "Caroline (O)276",
+      "rewardMoney": 500,
+      "nextQuestId": null
+    },
+    {
+      "id": "109",
+      "type": "ItemDelivery",
+      "title": "Catch A Squid",
+      "description": "Willy is challenging you to catch a squid. He says you can fish them from the ocean on winter nights.",
+      "objective": "Bring Willy a squid.",
+      "target": "Willy (O)151",
+      "rewardMoney": 800,
+      "nextQuestId": null
+    },
+    {
+      "id": "110",
+      "type": "ItemDelivery",
+      "title": "Clint's Attempt",
+      "description": "Clint wants you to give Emily an amethyst. He wants you to tell her it's from him.",
+      "objective": "Bring Emily an Amethyst.",
+      "target": "Emily (O)66",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "111",
+      "type": "ItemDelivery",
+      "title": "A Dark Reagent",
+      "description": "The wizard wants you to descend into the mines and fetch him a Void Essence. He needs it for some kind of dark magic.",
+      "objective": "Bring Wizard a Void Essence.",
+      "target": "Wizard (O)769",
+      "rewardMoney": 1000,
+      "nextQuestId": null
+    },
+    {
+      "id": "112",
+      "type": "ItemDelivery",
+      "title": "A Favor For Clint",
+      "description": "Clint got a new hammer and he wants to test it out on a variety of metals.",
+      "objective": "Bring Clint an Iron Bar.",
+      "target": "Clint (O)335",
+      "rewardMoney": 500,
+      "nextQuestId": null
+    },
+    {
+      "id": "113",
+      "type": "ItemDelivery",
+      "title": "Robin's Request",
+      "description": "Robin wrote to you asking for some hardwood.",
+      "objective": "Bring Robin 10 pieces of Hardwood.",
+      "target": "Robin (O)709 10",
+      "rewardMoney": 500,
+      "nextQuestId": null
+    },
+    {
+      "id": "114",
+      "type": "ItemDelivery",
+      "title": "Fish Stew",
+      "description": "Gus wants to make fish stew, but he needs an albacore.",
+      "objective": "Bring Gus an Albacore.",
+      "target": "Gus (O)705",
+      "rewardMoney": 400,
+      "nextQuestId": null
+    },
+    {
+      "id": "115",
+      "type": "ItemDelivery",
+      "title": "Fresh Fruit",
+      "description": "Emily wants a taste of spring. She's asking for a fresh apricot.",
+      "objective": "Bring Emily an Apricot.",
+      "target": "Emily (O)634",
+      "rewardMoney": 600,
+      "nextQuestId": null
+    },
+    {
+      "id": "116",
+      "type": "ItemDelivery",
+      "title": "Granny's Gift",
+      "description": "Evelyn wants to surprise her husband with a gift.",
+      "objective": "Bring Evelyn a Leek.",
+      "target": "Evelyn (O)20",
+      "rewardMoney": 500,
+      "nextQuestId": null
+    },
+    {
+      "id": "117",
+      "type": "ItemDelivery",
+      "title": "Pierre's Notice",
+      "description": "Pierre will pay \"top coin\" to whoever brings him a plate of sashimi. Apparently he's really craving the stuff.",
+      "objective": "Bring Pierre some Sashimi.",
+      "target": "Pierre (O)227",
+      "rewardMoney": 1000,
+      "nextQuestId": null
+    },
+    {
+      "id": "118",
+      "type": "ItemDelivery",
+      "title": "Aquatic Research",
+      "description": "Demetrius is studying the toxin levels of the local pufferfish. He'd like you to bring him one.",
+      "objective": "Bring Demetrius a Pufferfish.",
+      "target": "Demetrius (O)128",
+      "rewardMoney": 1000,
+      "nextQuestId": null
+    },
+    {
+      "id": "119",
+      "type": "ItemDelivery",
+      "title": "A Soldier's Star",
+      "description": "Kent wants to give his wife a starfruit for their anniversary.",
+      "objective": "Bring Kent a Starfruit.",
+      "target": "Kent (O)268",
+      "rewardMoney": 500,
+      "nextQuestId": null
+    },
+    {
+      "id": "120",
+      "type": "ItemDelivery",
+      "title": "Mayor's Need",
+      "description": "Mayor Lewis wants truffle oil. He won't explain what it's for. Maybe it's none of your business.",
+      "objective": "Bring Lewis a bottle of Truffle Oil.",
+      "target": "Lewis (O)432",
+      "rewardMoney": 750,
+      "nextQuestId": null
+    },
+    {
+      "id": "121",
+      "type": "ItemDelivery",
+      "title": "Wanted: Lobster",
+      "description": "Gus put out a notice requesting a fresh lobster.",
+      "objective": "Bring Gus a Lobster.",
+      "target": "Gus (O)715",
+      "rewardMoney": 800,
+      "nextQuestId": null
+    },
+    {
+      "id": "122",
+      "type": "ItemDelivery",
+      "title": "Pam Needs Juice",
+      "description": "Pam's TV Remote is dead. She's having a tough time going back and forth between the couch and the TV dial.",
+      "objective": "Bring Pam a Battery Pack.",
+      "target": "Pam (O)787",
+      "rewardMoney": 400,
+      "nextQuestId": null
+    },
+    {
+      "id": "123",
+      "type": "ItemDelivery",
+      "title": "Staff Of Power",
+      "description": "The Wizard is creating a staff of phenomenal power. Who knows what it's for. He needs an iridium bar to finish it.",
+      "objective": "Bring Wizard an Iridium Bar.",
+      "target": "Wizard (O)337",
+      "rewardMoney": 5000,
+      "nextQuestId": null
+    },
+    {
+      "id": "124",
+      "type": "ItemDelivery",
+      "title": "Catch a Lingcod",
+      "description": "Willy is challenging you to catch a Lingcod.",
+      "objective": "Bring Willy a Lingcod.",
+      "target": "Willy (O)707",
+      "rewardMoney": 550,
+      "nextQuestId": null
+    },
+    {
+      "id": "125",
+      "type": "ItemDelivery",
+      "title": "Exotic Spirits",
+      "description": "Gus wants to make a Coco-no-no, but he's missing the main ingredient.",
+      "objective": "Bring Gus a Coconut.",
+      "target": "Gus (O)88",
+      "rewardMoney": 600,
+      "nextQuestId": null
+    },
+    {
+      "id": "126",
+      "type": "ItemDelivery",
+      "title": "Errand for your Wife",
+      "description": "Your wife asked you to bring her 200 pieces of fiber for a secret project.",
+      "objective": "Bring Emily 200 fiber.",
+      "target": "Emily (O)771 200",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "127",
+      "type": "Basic",
+      "title": "Haley's Cake-Walk",
+      "description": "Your wife is organizing a charity cake-walk in the town square. She asked you to bring a chocolate cake.",
+      "objective": "Enter Town on a sunny morning with a chocolate cake.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "128",
+      "type": "SecretLostItem",
+      "title": "...",
+      "description": "...",
+      "objective": "...",
+      "target": "Abigail (O)191 100 129",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "129",
+      "type": "SecretLostItem",
+      "title": "...",
+      "description": "...",
+      "objective": "...",
+      "target": "Caroline (O)191 50 128",
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "130",
+      "type": "Basic",
+      "title": "The Pirate's Wife",
+      "description": "An old lady living on Ginger Island is asking you to find a keepsake of her husband's. She gave you an old photograph of a soldier that washed up on shore, hoping it would help in some way.",
+      "objective": "Find a keepsake that belonged to Birdie's husband.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "131",
+      "type": "Fishing",
+      "title": "Willy's Challenge",
+      "description": "Willy has challenged you to catch 3 Sandfish.",
+      "objective": "Catch 3 Sandfish.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    },
+    {
+      "id": "132",
+      "type": "ItemHarvest",
+      "title": "Getting Started",
+      "description": "If you want to become a farmer, you have to start with the basics. Feed your chickens each day by letting them eat grass outside, or by placing hay into their troughs. Once they are mature, harvest an egg!",
+      "objective": "Harvest an egg from your chickens.",
+      "target": "-5",
+      "rewardMoney": 100,
+      "nextQuestId": null
+    },
+    {
+      "id": "133",
+      "type": "Building",
+      "title": "Feeding Animals",
+      "description": "Robin, the local carpenter, lives north of town. In exchange for raw materials and money, she'll construct new buildings on your farm. If you build a silo, you can start harvesting your own grass with the scythe, and store it to feed your animals.",
+      "objective": "Build a Silo.",
+      "target": "Silo",
+      "rewardMoney": 100,
+      "nextQuestId": null
+    },
+    {
+      "id": "134",
+      "type": "Basic",
+      "title": "The Giant Stump",
+      "description": "The big tree to the south of my farm blew down. With 100 hardwood, I could turn the stump into something interesting...",
+      "objective": "Fix up the giant stump.",
+      "target": null,
+      "rewardMoney": 0,
+      "nextQuestId": null
+    }
+  ]
+}

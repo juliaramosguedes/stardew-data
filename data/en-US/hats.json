@@ -1,0 +1,864 @@
+{
+  "_meta": {
+    "source": "Data/Hats.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:37:44.207Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "hats": [
+    {
+      "id": "0",
+      "name": "Cowboy Hat",
+      "description": "The leather is old and cracked, but surprisingly supple. It smells musty.",
+      "showRealHair": false,
+      "spriteIndex": 0
+    },
+    {
+      "id": "1",
+      "name": "Bowler Hat",
+      "description": "Made from smooth felt.",
+      "showRealHair": false,
+      "spriteIndex": 1
+    },
+    {
+      "id": "2",
+      "name": "Top Hat",
+      "description": "A gentleman's classic.",
+      "showRealHair": false,
+      "spriteIndex": 2
+    },
+    {
+      "id": "3",
+      "name": "Sombrero",
+      "description": "A festively decorated hat made from woven straw.",
+      "showRealHair": false,
+      "spriteIndex": 3
+    },
+    {
+      "id": "4",
+      "name": "Straw Hat",
+      "description": "Light and cool, it's a farmer's delight.",
+      "showRealHair": false,
+      "spriteIndex": 4
+    },
+    {
+      "id": "5",
+      "name": "Official Cap",
+      "description": "Looks like it belonged to a postman or policeman. Either way, it's still very soft and smells okay.",
+      "showRealHair": false,
+      "spriteIndex": 5
+    },
+    {
+      "id": "6",
+      "name": "Blue Bonnet",
+      "description": "Harken back to simpler times with this prairie bonnet.",
+      "showRealHair": false,
+      "spriteIndex": 6
+    },
+    {
+      "id": "7",
+      "name": "Plum Chapeau",
+      "description": "Looks alright.",
+      "showRealHair": false,
+      "spriteIndex": 7
+    },
+    {
+      "id": "8",
+      "name": "Skeleton Mask",
+      "description": "The red eyes are glowing mysteriously.",
+      "showRealHair": true,
+      "spriteIndex": 8
+    },
+    {
+      "id": "9",
+      "name": "Goblin Mask",
+      "description": "Freak out the neighborhood with this creepy mask. Rubber ear joints for effect.",
+      "showRealHair": true,
+      "spriteIndex": 9
+    },
+    {
+      "id": "10",
+      "name": "Chicken Mask",
+      "description": "You'll be sure to get them grinning with this one.",
+      "showRealHair": true,
+      "spriteIndex": 10
+    },
+    {
+      "id": "11",
+      "name": "Earmuffs",
+      "description": "Keep your ears toasty. Lined with artisanal velvet from Castle Village.",
+      "showRealHair": true,
+      "spriteIndex": 11
+    },
+    {
+      "id": "12",
+      "name": "Delicate Bow",
+      "description": "Little pink jewels glisten as you examine it.",
+      "showRealHair": true,
+      "spriteIndex": 12
+    },
+    {
+      "id": "13",
+      "name": "Tropiclip",
+      "description": "It's shaped like a little palm tree.",
+      "showRealHair": true,
+      "spriteIndex": 13
+    },
+    {
+      "id": "14",
+      "name": "Butterfly Bow",
+      "description": "This one is very soft.",
+      "showRealHair": true,
+      "spriteIndex": 14
+    },
+    {
+      "id": "15",
+      "name": "Hunter's Cap",
+      "description": "The wool lining should stay warm deep into the forest.",
+      "showRealHair": false,
+      "spriteIndex": 15
+    },
+    {
+      "id": "16",
+      "name": "Trucker Hat",
+      "description": "Mesh in the back to keep your head cool.",
+      "showRealHair": false,
+      "spriteIndex": 16
+    },
+    {
+      "id": "17",
+      "name": "Sailor's Cap",
+      "description": "It's fresh and starchy.",
+      "showRealHair": false,
+      "spriteIndex": 17
+    },
+    {
+      "id": "18",
+      "name": "Good Ol' Cap",
+      "description": "A floppy old topper with a creased bill. Looks like it's been through a lot.",
+      "showRealHair": false,
+      "spriteIndex": 18
+    },
+    {
+      "id": "19",
+      "name": "Fedora",
+      "description": "A city-slicker's standard.",
+      "showRealHair": false,
+      "spriteIndex": 19
+    },
+    {
+      "id": "20",
+      "name": "Cool Cap",
+      "description": "It looks really faded, but it used to be a vibrant blue.",
+      "showRealHair": false,
+      "spriteIndex": 20
+    },
+    {
+      "id": "21",
+      "name": "Lucky Bow",
+      "description": "The middle is made of solid gold.",
+      "showRealHair": true,
+      "spriteIndex": 21
+    },
+    {
+      "id": "22",
+      "name": "Polka Bow",
+      "description": "This one's sure to be turn heads.",
+      "showRealHair": true,
+      "spriteIndex": 22
+    },
+    {
+      "id": "23",
+      "name": "Gnome's Cap",
+      "description": "This gnome had a very large head.",
+      "showRealHair": false,
+      "spriteIndex": 23
+    },
+    {
+      "id": "24",
+      "name": "Eye Patch",
+      "description": "You can't tell if it's real or just from a costume shop.",
+      "showRealHair": true,
+      "spriteIndex": 24
+    },
+    {
+      "id": "25",
+      "name": "Santa Hat",
+      "description": "Celebrate the magical season.",
+      "showRealHair": false,
+      "spriteIndex": 25
+    },
+    {
+      "id": "26",
+      "name": "Tiara",
+      "description": "This one has a big amethyst encircled by gold.",
+      "showRealHair": true,
+      "spriteIndex": 26
+    },
+    {
+      "id": "27",
+      "name": "Hard Hat",
+      "description": "Keep your dome in one piece.",
+      "showRealHair": false,
+      "spriteIndex": 27
+    },
+    {
+      "id": "28",
+      "name": "Sou'wester",
+      "description": "The shape helps to keep sailors dry during storms.",
+      "showRealHair": false,
+      "spriteIndex": 28
+    },
+    {
+      "id": "29",
+      "name": "Daisy",
+      "description": "A fresh spring daisy to put in your hair.",
+      "showRealHair": true,
+      "spriteIndex": 29
+    },
+    {
+      "id": "30",
+      "name": "Watermelon Band",
+      "description": "The color scheme was inspired by the beloved summer melon.",
+      "showRealHair": true,
+      "spriteIndex": 30
+    },
+    {
+      "id": "31",
+      "name": "Mouse Ears",
+      "description": "Made from synthetic fibers.",
+      "showRealHair": true,
+      "spriteIndex": 31
+    },
+    {
+      "id": "32",
+      "name": "Cat Ears",
+      "description": "Whiskers included.",
+      "showRealHair": true,
+      "spriteIndex": 32
+    },
+    {
+      "id": "33",
+      "name": "Cowgal Hat",
+      "description": "The band is studded with fake diamonds.",
+      "showRealHair": false,
+      "spriteIndex": 33
+    },
+    {
+      "id": "34",
+      "name": "Cowpoke Hat",
+      "description": "For dairy experts.",
+      "showRealHair": false,
+      "spriteIndex": 34
+    },
+    {
+      "id": "35",
+      "name": "Archer's Cap",
+      "description": "Fashionable whether you're an archer or not.",
+      "showRealHair": false,
+      "spriteIndex": 35
+    },
+    {
+      "id": "36",
+      "name": "Panda Hat",
+      "description": "A lovely panda hat.",
+      "showRealHair": false,
+      "spriteIndex": 36
+    },
+    {
+      "id": "37",
+      "name": "Blue Cowboy Hat",
+      "description": "A denim cowboy hat in cool blue.",
+      "showRealHair": false,
+      "spriteIndex": 37
+    },
+    {
+      "id": "38",
+      "name": "Red Cowboy Hat",
+      "description": "An eye-catching cowboy hat in red suede.",
+      "showRealHair": false,
+      "spriteIndex": 38
+    },
+    {
+      "id": "39",
+      "name": "Cone Hat",
+      "description": "A curiosity from a distant land.",
+      "showRealHair": false,
+      "spriteIndex": 39
+    },
+    {
+      "id": "40",
+      "name": "Living Hat",
+      "description": "It absorbs moisture from your scalp. No watering needed!",
+      "showRealHair": false,
+      "spriteIndex": 40
+    },
+    {
+      "id": "41",
+      "name": "Emily's Magic Hat",
+      "description": "Made with love by Emily. It's 100% organic!",
+      "showRealHair": false,
+      "spriteIndex": 41
+    },
+    {
+      "id": "42",
+      "name": "Mushroom Cap",
+      "description": "It smells earthy.",
+      "showRealHair": false,
+      "spriteIndex": 42
+    },
+    {
+      "id": "43",
+      "name": "Dinosaur Hat",
+      "description": "A hat fashioned to look like a small dinosaur.",
+      "showRealHair": false,
+      "spriteIndex": 43
+    },
+    {
+      "id": "44",
+      "name": "Totem Mask",
+      "description": "Don't worry, it won't warp your face...",
+      "showRealHair": true,
+      "spriteIndex": 44
+    },
+    {
+      "id": "45",
+      "name": "Logo Cap",
+      "description": "A pink cap with a sleek profile.",
+      "showRealHair": false,
+      "spriteIndex": 45
+    },
+    {
+      "id": "46",
+      "name": "Wearable Dwarf Helm",
+      "description": "A slightly larger, human sized version of the helmets worn by dwarves.",
+      "showRealHair": false,
+      "spriteIndex": 46
+    },
+    {
+      "id": "47",
+      "name": "Fashion Hat",
+      "description": "A fashionable hat with a feather in the brim.",
+      "showRealHair": false,
+      "spriteIndex": 47
+    },
+    {
+      "id": "48",
+      "name": "Pumpkin Mask",
+      "description": "This must have been a pretty big pumpkin once...",
+      "showRealHair": false,
+      "spriteIndex": 48
+    },
+    {
+      "id": "49",
+      "name": "Hair Bone",
+      "description": "A prehistoric version of the hair bow.",
+      "showRealHair": true,
+      "spriteIndex": 49
+    },
+    {
+      "id": "50",
+      "name": "Knight's Helmet",
+      "description": "It looks just like the real thing!",
+      "showRealHair": false,
+      "spriteIndex": 50
+    },
+    {
+      "id": "51",
+      "name": "Squire's Helmet",
+      "description": "The face is exposed to increase air flow.",
+      "showRealHair": false,
+      "spriteIndex": 51
+    },
+    {
+      "id": "52",
+      "name": "Spotted Headscarf",
+      "description": "A red polka-dot scarf tied around the head.",
+      "showRealHair": false,
+      "spriteIndex": 52
+    },
+    {
+      "id": "53",
+      "name": "Beanie",
+      "description": "A warm hat with a pretty tight fit.",
+      "showRealHair": false,
+      "spriteIndex": 53
+    },
+    {
+      "id": "54",
+      "name": "Floppy Beanie",
+      "description": "A warm hat with a looser fit.",
+      "showRealHair": false,
+      "spriteIndex": 54
+    },
+    {
+      "id": "55",
+      "name": "Fishing Hat",
+      "description": "The wide brim keeps you shaded when you're fishing on the riverbank.",
+      "showRealHair": false,
+      "spriteIndex": 55
+    },
+    {
+      "id": "56",
+      "name": "Blobfish Mask",
+      "description": "Just as spongy as the real thing!",
+      "showRealHair": true,
+      "spriteIndex": 56
+    },
+    {
+      "id": "57",
+      "name": "Party Hat",
+      "description": "A goofy red hat that makes any celebration more fun.",
+      "showRealHair": false,
+      "spriteIndex": 57
+    },
+    {
+      "id": "58",
+      "name": "Party Hat",
+      "description": "A goofy blue hat that makes any celebration more fun.",
+      "showRealHair": false,
+      "spriteIndex": 58
+    },
+    {
+      "id": "59",
+      "name": "Party Hat",
+      "description": "A goofy green hat that makes any celebration more fun.",
+      "showRealHair": false,
+      "spriteIndex": 59
+    },
+    {
+      "id": "60",
+      "name": "Arcane Hat",
+      "description": "The type of cowboy hat worn by a wizard.",
+      "showRealHair": false,
+      "spriteIndex": 60
+    },
+    {
+      "id": "61",
+      "name": "Chef Hat",
+      "description": "The traditional hat worn by a head chef.",
+      "showRealHair": false,
+      "spriteIndex": 61
+    },
+    {
+      "id": "62",
+      "name": "Pirate Hat",
+      "description": "A captain's hat with a horrible skull on the front.",
+      "showRealHair": false,
+      "spriteIndex": 62
+    },
+    {
+      "id": "63",
+      "name": "Flat Topped Hat",
+      "description": "An old style of hat once considered very fashionable.",
+      "showRealHair": false,
+      "spriteIndex": 63
+    },
+    {
+      "id": "64",
+      "name": "Elegant Turban",
+      "description": "A fine black silk turban with gold trim.",
+      "showRealHair": false,
+      "spriteIndex": 64
+    },
+    {
+      "id": "65",
+      "name": "White Turban",
+      "description": "A fine white silk turban with blue trim.",
+      "showRealHair": false,
+      "spriteIndex": 65
+    },
+    {
+      "id": "66",
+      "name": "Garbage Hat",
+      "description": "It's a garbage can lid 'upcycled' into a hat...",
+      "showRealHair": true,
+      "spriteIndex": 66
+    },
+    {
+      "id": "67",
+      "name": "Golden Mask",
+      "description": "A faithful recreation of the Calico Desert relic!",
+      "showRealHair": true,
+      "spriteIndex": 67
+    },
+    {
+      "id": "68",
+      "name": "Propeller Hat",
+      "description": "A goofy hat with a propeller on top.",
+      "showRealHair": false,
+      "spriteIndex": 68
+    },
+    {
+      "id": "69",
+      "name": "Bridal Veil",
+      "description": "The traditional headwear for a bride.",
+      "showRealHair": false,
+      "spriteIndex": 69
+    },
+    {
+      "id": "70",
+      "name": "Witch Hat",
+      "description": "A pointy hat popular with witches.",
+      "showRealHair": false,
+      "spriteIndex": 70
+    },
+    {
+      "id": "71",
+      "name": "Copper Pan",
+      "description": "You place the copper pan on your head...",
+      "showRealHair": false,
+      "spriteIndex": 71
+    },
+    {
+      "id": "72",
+      "name": "Green Turban",
+      "description": "A green silk turban with a gold ornament on the front.",
+      "showRealHair": false,
+      "spriteIndex": 72
+    },
+    {
+      "id": "73",
+      "name": "Magic Cowboy Hat",
+      "description": "It's shimmering with prismatic energy",
+      "showRealHair": false,
+      "spriteIndex": 73
+    },
+    {
+      "id": "74",
+      "name": "Magic Turban",
+      "description": "It's shimmering with prismatic energy",
+      "showRealHair": false,
+      "spriteIndex": 74
+    },
+    {
+      "id": "75",
+      "name": "Golden Helmet",
+      "description": "It's half of a golden coconut.",
+      "showRealHair": false,
+      "spriteIndex": 75
+    },
+    {
+      "id": "76",
+      "name": "Deluxe Pirate Hat",
+      "description": "Only the most infamous pirate could pull off this look.",
+      "showRealHair": false,
+      "spriteIndex": 76
+    },
+    {
+      "id": "77",
+      "name": "Pink Bow",
+      "description": "This huge bow makes quite a statement!",
+      "showRealHair": true,
+      "spriteIndex": 77
+    },
+    {
+      "id": "78",
+      "name": "Frog Hat",
+      "description": "A slimy friend that lives on your dome.",
+      "showRealHair": false,
+      "spriteIndex": 78
+    },
+    {
+      "id": "79",
+      "name": "Small Cap",
+      "description": "It's a more aerodynamic style of cap.",
+      "showRealHair": false,
+      "spriteIndex": 79
+    },
+    {
+      "id": "80",
+      "name": "Bluebird Mask",
+      "description": "Wear this to look just like your favorite island trader.",
+      "showRealHair": false,
+      "spriteIndex": 80
+    },
+    {
+      "id": "81",
+      "name": "Deluxe Cowboy Hat",
+      "description": "A cowboy hat with a more extreme shape.",
+      "showRealHair": false,
+      "spriteIndex": 81
+    },
+    {
+      "id": "82",
+      "name": "Mr. Qi's Hat",
+      "description": "A replica of Mr. Qi's iconic hat.",
+      "showRealHair": false,
+      "spriteIndex": 82
+    },
+    {
+      "id": "83",
+      "name": "Dark Cowboy Hat",
+      "description": "A cowboy hat in fashionable black.",
+      "showRealHair": false,
+      "spriteIndex": 83
+    },
+    {
+      "id": "84",
+      "name": "Radioactive Goggles",
+      "description": "Doesn't actually provide any protection from radiation.",
+      "showRealHair": true,
+      "spriteIndex": 84
+    },
+    {
+      "id": "85",
+      "name": "Swashbuckler Hat",
+      "description": "The classic swashbuckler look.",
+      "showRealHair": false,
+      "spriteIndex": 85
+    },
+    {
+      "id": "86",
+      "name": "Qi Mask",
+      "description": "???",
+      "showRealHair": false,
+      "spriteIndex": 86
+    },
+    {
+      "id": "87",
+      "name": "Star Helmet",
+      "description": "A red hat with stars on it.",
+      "showRealHair": false,
+      "spriteIndex": 87
+    },
+    {
+      "id": "88",
+      "name": "Sunglasses",
+      "description": "These give you a relaxed look.",
+      "showRealHair": true,
+      "spriteIndex": 88
+    },
+    {
+      "id": "89",
+      "name": "Goggles",
+      "description": "These will make you look very safe.",
+      "showRealHair": true,
+      "spriteIndex": 89
+    },
+    {
+      "id": "90",
+      "name": "Forager's Hat",
+      "description": "It's a forager's delight.",
+      "showRealHair": false,
+      "spriteIndex": 90
+    },
+    {
+      "id": "91",
+      "name": "Tiger Hat",
+      "description": "Makes you look like a beautiful tiger.",
+      "showRealHair": false,
+      "spriteIndex": 91
+    },
+    {
+      "id": "92",
+      "name": "???",
+      "description": "???",
+      "showRealHair": false,
+      "spriteIndex": 92
+    },
+    {
+      "id": "93",
+      "name": "Warrior Helmet",
+      "description": "An Ostrich eggshell repurposed into a helmet.",
+      "showRealHair": false,
+      "spriteIndex": 93
+    },
+    {
+      "id": "AbigailsBow",
+      "name": "Abigail's Bow",
+      "description": "It's just like Abby's.",
+      "showRealHair": true,
+      "spriteIndex": 94
+    },
+    {
+      "id": "TricornHat",
+      "name": "Tricorn Hat",
+      "description": "It's a traditional hat for naval officers.",
+      "showRealHair": false,
+      "spriteIndex": 95
+    },
+    {
+      "id": "JojaCap",
+      "name": "Joja Cap",
+      "description": "An official Joja Cap. Made from 100% polyester.",
+      "showRealHair": false,
+      "spriteIndex": 96
+    },
+    {
+      "id": "LaurelWreathCrown",
+      "name": "Laurel Wreath Crown",
+      "description": "A garland of leaves shaped into a lovely crown.",
+      "showRealHair": true,
+      "spriteIndex": 97
+    },
+    {
+      "id": "GilsHat",
+      "name": "Gil's Hat",
+      "description": "It's the same hat that Gil wears.",
+      "showRealHair": false,
+      "spriteIndex": 98
+    },
+    {
+      "id": "BlueBow",
+      "name": "Blue Bow",
+      "description": "This huge bow makes quite a statement!",
+      "showRealHair": true,
+      "spriteIndex": 99
+    },
+    {
+      "id": "DarkVelvetBow",
+      "name": "Dark Velvet Bow",
+      "description": "A big, floppy bow made of dark velvet.",
+      "showRealHair": true,
+      "spriteIndex": 100
+    },
+    {
+      "id": "MummyMask",
+      "name": "Mummy Mask",
+      "description": "A large mummy mask... frightening!",
+      "showRealHair": false,
+      "spriteIndex": 101
+    },
+    {
+      "id": "BucketHat",
+      "name": "Bucket Hat",
+      "description": "A simple hat with a short brim.",
+      "showRealHair": false,
+      "spriteIndex": 102
+    },
+    {
+      "id": "SquidHat",
+      "name": "Squid Hat",
+      "description": "It's your chance to wear a squid on the head.",
+      "showRealHair": false,
+      "spriteIndex": 103
+    },
+    {
+      "id": "SportsCap",
+      "name": "Sports Cap",
+      "description": "The cap has a vintage team logo on it.",
+      "showRealHair": false,
+      "spriteIndex": 104
+    },
+    {
+      "id": "RedFez",
+      "name": "Red Fez",
+      "description": "A unique hat made popular by the famous merchant pig.",
+      "showRealHair": false,
+      "spriteIndex": 105
+    },
+    {
+      "id": "RaccoonHat",
+      "name": "Raccoon Hat",
+      "description": "A classic hat from the old frontier days.",
+      "showRealHair": false,
+      "spriteIndex": 106
+    },
+    {
+      "id": "SteelPanHat",
+      "name": "Steel Pan",
+      "description": "You place the steel pan on your head...",
+      "showRealHair": false,
+      "spriteIndex": 107
+    },
+    {
+      "id": "GoldPanHat",
+      "name": "Gold Pan",
+      "description": "You place the gold pan on your head...",
+      "showRealHair": false,
+      "spriteIndex": 108
+    },
+    {
+      "id": "IridiumPanHat",
+      "name": "Iridium Pan",
+      "description": "You place the iridium pan on your head...",
+      "showRealHair": false,
+      "spriteIndex": 109
+    },
+    {
+      "id": "MysteryHat",
+      "name": "Mystery Hat",
+      "description": "Made from the leftovers of a Mystery Box.",
+      "showRealHair": false,
+      "spriteIndex": 110
+    },
+    {
+      "id": "DarkBallcap",
+      "name": "Dark Ballcap",
+      "description": "It fits perfectly on your head.",
+      "showRealHair": false,
+      "spriteIndex": 111
+    },
+    {
+      "id": "LeprechuanHat",
+      "name": "Leprechaun Hat",
+      "description": "The previous owner must've had a big head for a Leprechaun.",
+      "showRealHair": false,
+      "spriteIndex": 112
+    },
+    {
+      "id": "JunimoHat",
+      "name": "Junimo Hat",
+      "description": "To honor our little buddies...",
+      "showRealHair": false,
+      "spriteIndex": 113
+    },
+    {
+      "id": "PaperHat",
+      "name": "Paper Hat",
+      "description": "It's made out of special paper that won't disintegrate in the rain.",
+      "showRealHair": false,
+      "spriteIndex": 114
+    },
+    {
+      "id": "PageboyCap",
+      "name": "Pageboy Cap",
+      "description": "For some reason, it makes you want to sell newspapers.",
+      "showRealHair": false,
+      "spriteIndex": 115
+    },
+    {
+      "id": "JesterHat",
+      "name": "Jester Hat",
+      "description": "Put your inner clown on display.",
+      "showRealHair": false,
+      "spriteIndex": 116
+    },
+    {
+      "id": "BlueRibbon",
+      "name": "Blue Ribbon",
+      "description": "A lovely ribbon that sits behind the head.",
+      "showRealHair": true,
+      "spriteIndex": 117
+    },
+    {
+      "id": "GovernorsHat",
+      "name": "Governor's Hat",
+      "description": "A replica of the Governor's iconic hat.",
+      "showRealHair": false,
+      "spriteIndex": 118
+    },
+    {
+      "id": "WhiteBow",
+      "name": "White Bow",
+      "description": "A bow as white as snow.",
+      "showRealHair": true,
+      "spriteIndex": 119
+    },
+    {
+      "id": "SpaceHelmet",
+      "name": "Space Helmet",
+      "description": "Warning: This helmet has not actually been tested in outer space.",
+      "showRealHair": false,
+      "spriteIndex": 120
+    },
+    {
+      "id": "InfinityCrown",
+      "name": "Infinity Crown",
+      "description": "It's made from an exotic metal you've never seen before.",
+      "showRealHair": false,
+      "spriteIndex": 121
+    }
+  ]
+}

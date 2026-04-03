@@ -4,6 +4,12 @@ export function lookupName(lookup: ObjectLookup, itemId: string): string {
   return lookup[itemId]?.Name ?? itemId
 }
 
+export function lookupItemName(lookup: ObjectLookup, itemId: string | null): string {
+  if (!itemId) return itemId ?? ""
+  const bare = itemId.replace(/^\([A-Za-z]+\)/, "")
+  return lookup[bare]?.Name ?? lookup[itemId]?.Name ?? itemId
+}
+
 export function parseDropPairs(
   raw: string,
   lookup: ObjectLookup

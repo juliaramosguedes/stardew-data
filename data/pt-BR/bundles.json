@@ -1,0 +1,1130 @@
+{
+  "_meta": {
+    "source": "Data/Bundles.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.091Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "bundles": [
+    {
+      "id": "25",
+      "name": "10,000g",
+      "room": "Vault",
+      "reward": "BO 9 1",
+      "color": 3,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "-1",
+          "name": "-1",
+          "stack": 10000,
+          "quality": 10000
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "2,500g",
+      "room": "Vault",
+      "reward": "O 220 3",
+      "color": 4,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "-1",
+          "name": "-1",
+          "stack": 2500,
+          "quality": 2500
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "25,000g",
+      "room": "Vault",
+      "reward": "BO 21 1",
+      "color": 1,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "-1",
+          "name": "-1",
+          "stack": 25000,
+          "quality": 25000
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "name": "5,000g",
+      "room": "Vault",
+      "reward": "O 369 30",
+      "color": 2,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "-1",
+          "name": "-1",
+          "stack": 5000,
+          "quality": 5000
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Adventurer's",
+      "room": "Boiler Room",
+      "reward": "R 518 1",
+      "color": 1,
+      "picksRequired": 2,
+      "ingredients": [
+        {
+          "itemId": "766",
+          "name": "Slime",
+          "stack": 99,
+          "quality": 0
+        },
+        {
+          "itemId": "767",
+          "name": "Bat Wing",
+          "stack": 10,
+          "quality": 0
+        },
+        {
+          "itemId": "768",
+          "name": "Solar Essence",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "769",
+          "name": "Void Essence",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Animal",
+      "room": "Pantry",
+      "reward": "BO 16 1",
+      "color": 4,
+      "picksRequired": 5,
+      "ingredients": [
+        {
+          "itemId": "186",
+          "name": "Large Milk",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "182",
+          "name": "Large Egg",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "174",
+          "name": "Large Egg",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "438",
+          "name": "L. Goat Milk",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "440",
+          "name": "Wool",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "442",
+          "name": "Duck Egg",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Artisan",
+      "room": "Pantry",
+      "reward": "BO 12 1",
+      "color": 1,
+      "picksRequired": 6,
+      "ingredients": [
+        {
+          "itemId": "432",
+          "name": "Truffle Oil",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "428",
+          "name": "Cloth",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "426",
+          "name": "Goat Cheese",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "424",
+          "name": "Cheese",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "340",
+          "name": "Honey",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "344",
+          "name": "Jelly",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "613",
+          "name": "Apple",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "634",
+          "name": "Apricot",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "635",
+          "name": "Orange",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "636",
+          "name": "Peach",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "637",
+          "name": "Pomegranate",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "638",
+          "name": "Cherry",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Blacksmith's",
+      "room": "Boiler Room",
+      "reward": "BO 13 1",
+      "color": 2,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "334",
+          "name": "Copper Bar",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "335",
+          "name": "Iron Bar",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "336",
+          "name": "Gold Bar",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Chef's",
+      "room": "Bulletin Board",
+      "reward": "O 221 3",
+      "color": 4,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "724",
+          "name": "Maple Syrup",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "259",
+          "name": "Fiddlehead Fern",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "430",
+          "name": "Truffle",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "376",
+          "name": "Poppy",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "228",
+          "name": "Maki Roll",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "194",
+          "name": "Fried Egg",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Construction",
+      "room": "Crafts Room",
+      "reward": "BO 114 1",
+      "color": 4,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "stack": 99,
+          "quality": 0
+        },
+        {
+          "itemId": "388",
+          "name": "Wood",
+          "stack": 99,
+          "quality": 0
+        },
+        {
+          "itemId": "390",
+          "name": "Stone",
+          "stack": 99,
+          "quality": 0
+        },
+        {
+          "itemId": "709",
+          "name": "Hardwood",
+          "stack": 10,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Crab Pot",
+      "room": "Fish Tank",
+      "reward": "O 710 3",
+      "color": 1,
+      "picksRequired": 5,
+      "ingredients": [
+        {
+          "itemId": "715",
+          "name": "Lobster",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "716",
+          "name": "Crayfish",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "717",
+          "name": "Crab",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "718",
+          "name": "Cockle",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "719",
+          "name": "Mussel",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "720",
+          "name": "Shrimp",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "721",
+          "name": "Snail",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "722",
+          "name": "Periwinkle",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "723",
+          "name": "Oyster",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "372",
+          "name": "Clam",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "name": "Dye",
+      "room": "Bulletin Board",
+      "reward": "BO 25 1",
+      "color": 6,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "420",
+          "name": "Red Mushroom",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "397",
+          "name": "Sea Urchin",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "421",
+          "name": "Sunflower",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "444",
+          "name": "Duck Feather",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "62",
+          "name": "Aquamarine",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "266",
+          "name": "Red Cabbage",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "name": "Enchanter's",
+      "room": "Bulletin Board",
+      "reward": "O 336 5",
+      "color": 1,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "725",
+          "name": "Oak Resin",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "348",
+          "name": "Wine",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "446",
+          "name": "Rabbit's Foot",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "637",
+          "name": "Pomegranate",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Exotic Foraging",
+      "room": "Crafts Room",
+      "reward": "O 235 5",
+      "color": 1,
+      "picksRequired": 5,
+      "ingredients": [
+        {
+          "itemId": "88",
+          "name": "Coconut",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "90",
+          "name": "Cactus Fruit",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "78",
+          "name": "Cave Carrot",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "420",
+          "name": "Red Mushroom",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "422",
+          "name": "Purple Mushroom",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "724",
+          "name": "Maple Syrup",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "725",
+          "name": "Oak Resin",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "726",
+          "name": "Pine Tar",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "257",
+          "name": "Morel",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Fall Crops",
+      "room": "Pantry",
+      "reward": "BO 10 1",
+      "color": 2,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "270",
+          "name": "Corn",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "272",
+          "name": "Eggplant",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "276",
+          "name": "Pumpkin",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "280",
+          "name": "Yam",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Fall Foraging",
+      "room": "Crafts Room",
+      "reward": "O 497 30",
+      "color": 2,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "404",
+          "name": "Common Mushroom",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "406",
+          "name": "Wild Plum",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "408",
+          "name": "Hazelnut",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "410",
+          "name": "Blackberry",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "name": "Field Research",
+      "room": "Bulletin Board",
+      "reward": "BO 20 1",
+      "color": 5,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "422",
+          "name": "Purple Mushroom",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "392",
+          "name": "Nautilus Shell",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "702",
+          "name": "Chub",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "536",
+          "name": "Frozen Geode",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "name": "Fodder",
+      "room": "Bulletin Board",
+      "reward": "BO 104 1",
+      "color": 3,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "262",
+          "name": "Wheat",
+          "stack": 10,
+          "quality": 0
+        },
+        {
+          "itemId": "178",
+          "name": "Hay",
+          "stack": 10,
+          "quality": 0
+        },
+        {
+          "itemId": "613",
+          "name": "Apple",
+          "stack": 3,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Geologist's",
+      "room": "Boiler Room",
+      "reward": "O 749 5",
+      "color": 1,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "80",
+          "name": "Quartz",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "86",
+          "name": "Earth Crystal",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "84",
+          "name": "Frozen Tear",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "82",
+          "name": "Fire Quartz",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Lake Fish",
+      "room": "Fish Tank",
+      "reward": "O 687 1",
+      "color": 0,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "136",
+          "name": "Largemouth Bass",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "142",
+          "name": "Carp",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "700",
+          "name": "Bullhead",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "698",
+          "name": "Sturgeon",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Night Fishing",
+      "room": "Fish Tank",
+      "reward": "R 517 1",
+      "color": 1,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "140",
+          "name": "Walleye",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "132",
+          "name": "Bream",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "148",
+          "name": "Eel",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Ocean Fish",
+      "room": "Fish Tank",
+      "reward": "O 690 5",
+      "color": 5,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "131",
+          "name": "Sardine",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "130",
+          "name": "Tuna",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "150",
+          "name": "Red Snapper",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "701",
+          "name": "Tilapia",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Quality Crops",
+      "room": "Pantry",
+      "reward": "BO 15 1",
+      "color": 6,
+      "picksRequired": 3,
+      "ingredients": [
+        {
+          "itemId": "24",
+          "name": "Parsnip",
+          "stack": 5,
+          "quality": 2
+        },
+        {
+          "itemId": "254",
+          "name": "Melon",
+          "stack": 5,
+          "quality": 2
+        },
+        {
+          "itemId": "276",
+          "name": "Pumpkin",
+          "stack": 5,
+          "quality": 2
+        },
+        {
+          "itemId": "270",
+          "name": "Corn",
+          "stack": 5,
+          "quality": 2
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "River Fish",
+      "room": "Fish Tank",
+      "reward": "O DeluxeBait 30",
+      "color": 6,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "145",
+          "name": "Sunfish",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "143",
+          "name": "Catfish",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "706",
+          "name": "Shad",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "699",
+          "name": "Tiger Trout",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Specialty Fish",
+      "room": "Fish Tank",
+      "reward": "O 242 5",
+      "color": 4,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "128",
+          "name": "Pufferfish",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "156",
+          "name": "Ghostfish",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "164",
+          "name": "Sandfish",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "734",
+          "name": "Woodskip",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "0",
+      "name": "Spring Crops",
+      "room": "Pantry",
+      "reward": "O 465 20",
+      "color": 0,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "24",
+          "name": "Parsnip",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "188",
+          "name": "Green Bean",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "190",
+          "name": "Cauliflower",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "192",
+          "name": "Potato",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Spring Foraging",
+      "room": "Crafts Room",
+      "reward": "O 495 30",
+      "color": 0,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "16",
+          "name": "Wild Horseradish",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "18",
+          "name": "Daffodil",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "20",
+          "name": "Leek",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "22",
+          "name": "Dandelion",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Summer Crops",
+      "room": "Pantry",
+      "reward": "O 621 1",
+      "color": 3,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "256",
+          "name": "Tomato",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "260",
+          "name": "Hot Pepper",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "258",
+          "name": "Blueberry",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "254",
+          "name": "Melon",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Summer Foraging",
+      "room": "Crafts Room",
+      "reward": "O 496 30",
+      "color": 3,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "396",
+          "name": "Spice Berry",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "398",
+          "name": "Grape",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "402",
+          "name": "Sweet Pea",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "name": "The Missing",
+      "room": "Abandoned Joja Mart",
+      "reward": "",
+      "color": 1,
+      "picksRequired": 5,
+      "ingredients": [
+        {
+          "itemId": "348",
+          "name": "Wine",
+          "stack": 1,
+          "quality": 1
+        },
+        {
+          "itemId": "807",
+          "name": "Dinosaur Mayonnaise",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "74",
+          "name": "Prismatic Shard",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "454",
+          "name": "Ancient Fruit",
+          "stack": 5,
+          "quality": 2
+        },
+        {
+          "itemId": "795",
+          "name": "Void Salmon",
+          "stack": 1,
+          "quality": 2
+        },
+        {
+          "itemId": "445",
+          "name": "Caviar",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Winter Foraging",
+      "room": "Crafts Room",
+      "reward": "O 498 30",
+      "color": 6,
+      "picksRequired": null,
+      "ingredients": [
+        {
+          "itemId": "412",
+          "name": "Winter Root",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "414",
+          "name": "Crystal Fruit",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "416",
+          "name": "Snow Yam",
+          "stack": 1,
+          "quality": 0
+        },
+        {
+          "itemId": "418",
+          "name": "Crocus",
+          "stack": 1,
+          "quality": 0
+        }
+      ]
+    }
+  ]
+}

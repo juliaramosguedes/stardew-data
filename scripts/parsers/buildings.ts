@@ -1,20 +1,22 @@
 import path from "node:path"
-import { RAW_DATA, OUT_PROCESSED } from "../config.ts"
+import { RAW, RAW_DATA, LOCALE, OUT_DATA } from "../config.ts"
 import { readJson, writeJson, meta, log } from "../utils.ts"
 import { RawBuildingSchema, validateSample } from "../schemas/raw.ts"
+import { StringsResolver } from "../utils/locale.ts"
 import type { RawBuilding, ProcessedBuilding } from "../types.ts"
 
-const OUT_FILE = path.join(OUT_PROCESSED, "buildings.json")
+const OUT_FILE = path.join(OUT_DATA, "buildings.json")
 
 export function parseBuildingEntry(
   id: string,
   b: RawBuilding,
-  lookup: Record<string, { Name: string }>
+  lookup: Record<string, { Name: string }>,
+  resolver?: StringsResolver
 ): ProcessedBuilding {
   return {
     id,
-    name: b.Name,
-    description: b.Description,
+    name: resolver?.lookupName("Buildings", id) ?? b.Name,
+    description: resolver?.lookupDescription("Buildings", id) ?? b.Description,
     buildCost: b.BuildCost,
     buildDays: b.BuildDays,
     buildMaterials: (b.BuildMaterials ?? []).map(m => ({
@@ -31,6 +33,7 @@ export function parseBuildingEntry(
 }
 
 export function parseBuildings(): ProcessedBuilding[] {
+  const resolver = new StringsResolver(RAW, LOCALE)
   const raw = readJson<Record<string, RawBuilding>>(
     path.join(RAW_DATA, "Buildings.json")
   )
@@ -41,7 +44,7 @@ export function parseBuildings(): ProcessedBuilding[] {
   )
 
   const buildings: ProcessedBuilding[] = Object.entries(raw).map(([id, b]) =>
-    parseBuildingEntry(id, b, rawObjects)
+    parseBuildingEntry(id, b, rawObjects, resolver)
   )
 
   const result = {

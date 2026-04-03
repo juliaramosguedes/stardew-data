@@ -1,0 +1,140 @@
+{
+  "_meta": {
+    "source": "Data/FloorsAndPaths.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.141Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "floorsAndPaths": [
+    {
+      "id": "0",
+      "itemId": "328",
+      "texture": "TerrainFeatures\\Flooring",
+      "cornerX": 0,
+      "cornerY": 0,
+      "footstepSound": "woodyStep",
+      "connectType": "Default",
+      "farmSpeedBuff": null
+    },
+    {
+      "id": "1",
+      "itemId": "329",
+      "texture": "TerrainFeatures\\Flooring",
+      "cornerX": 64,
+      "cornerY": 0,
+      "footstepSound": "stoneStep",
+      "connectType": "Default",
+      "farmSpeedBuff": null
+    },
+    {
+      "id": "2",
+      "itemId": "331",
+      "texture": "TerrainFeatures\\Flooring",
+      "cornerX": 128,
+      "cornerY": 0,
+      "footstepSound": "woodyStep",
+      "connectType": "Default",
+      "farmSpeedBuff": null
+    },
+    {
+      "id": "3",
+      "itemId": "333",
+      "texture": "TerrainFeatures\\Flooring",
+      "cornerX": 192,
+      "cornerY": 0,
+      "footstepSound": "thudStep",
+      "connectType": "Default",
+      "farmSpeedBuff": null
+    },
+    {
+      "id": "4",
+      "itemId": "401",
+      "texture": "TerrainFeatures\\Flooring",
+      "cornerX": 0,
+      "cornerY": 64,
+      "footstepSound": "woodyStep",
+      "connectType": "Default",
+      "farmSpeedBuff": null
+    },
+    {
+      "id": "5",
+      "itemId": "407",
+      "texture": "TerrainFeatures\\Flooring",
+      "cornerX": 64,
+      "cornerY": 64,
+      "footstepSound": "dirtyHit",
+      "connectType": "Path",
+      "farmSpeedBuff": null
+    },
+    {
+      "id": "6",
+      "itemId": "405",
+      "texture": "TerrainFeatures\\Flooring",
+      "cornerX": 128,
+      "cornerY": 64,
+      "footstepSound": "thudStep",
+      "connectType": "Path",
+      "farmSpeedBuff": null
+    },
+    {
+      "id": "7",
+      "itemId": "409",
+      "texture": "TerrainFeatures\\Flooring",
+      "cornerX": 192,
+      "cornerY": 64,
+      "footstepSound": "stoneStep",
+      "connectType": "Path",
+      "farmSpeedBuff": null
+    },
+    {
+      "id": "8",
+      "itemId": "411",
+      "texture": "TerrainFeatures\\Flooring",
+      "cornerX": 0,
+      "cornerY": 128,
+      "footstepSound": "stoneStep",
+      "connectType": "Path",
+      "farmSpeedBuff": null
+    },
+    {
+      "id": "9",
+      "itemId": "415",
+      "texture": "TerrainFeatures\\Flooring",
+      "cornerX": 64,
+      "cornerY": 128,
+      "footstepSound": "stoneStep",
+      "connectType": "Random",
+      "farmSpeedBuff": null
+    },
+    {
+      "id": "10",
+      "itemId": "293",
+      "texture": "TerrainFeatures\\Flooring",
+      "cornerX": 128,
+      "cornerY": 128,
+      "footstepSound": "stoneStep",
+      "connectType": "Default",
+      "farmSpeedBuff": null
+    },
+    {
+      "id": "11",
+      "itemId": "840",
+      "texture": "TerrainFeatures\\Flooring",
+      "cornerX": 192,
+      "cornerY": 128,
+      "footstepSound": "woodyStep",
+      "connectType": "Path",
+      "farmSpeedBuff": null
+    },
+    {
+      "id": "12",
+      "itemId": "841",
+      "texture": "TerrainFeatures\\Flooring",
+      "cornerX": 0,
+      "cornerY": 192,
+      "footstepSound": "stoneStep",
+      "connectType": "CornerDecorated",
+      "farmSpeedBuff": null
+    }
+  ]
+}

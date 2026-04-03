@@ -1,0 +1,90 @@
+{
+  "_meta": {
+    "source": "Data/GiantCrops.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.137Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "giantCrops": [
+    {
+      "id": "Cauliflower",
+      "fromItemId": "(O)190",
+      "fromItemName": "Cauliflower",
+      "harvestItems": [
+        {
+          "itemId": "(O)190",
+          "name": "Cauliflower",
+          "minStack": 15,
+          "maxStack": 21,
+          "chance": 1
+        }
+      ],
+      "spawnChance": 0.01,
+      "health": 3
+    },
+    {
+      "id": "Melon",
+      "fromItemId": "(O)254",
+      "fromItemName": "Melon",
+      "harvestItems": [
+        {
+          "itemId": "(O)254",
+          "name": "Melon",
+          "minStack": 15,
+          "maxStack": 21,
+          "chance": 1
+        }
+      ],
+      "spawnChance": 0.01,
+      "health": 3
+    },
+    {
+      "id": "Pumpkin",
+      "fromItemId": "(O)276",
+      "fromItemName": "Pumpkin",
+      "harvestItems": [
+        {
+          "itemId": "(O)276",
+          "name": "Pumpkin",
+          "minStack": 15,
+          "maxStack": 21,
+          "chance": 1
+        }
+      ],
+      "spawnChance": 0.01,
+      "health": 3
+    },
+    {
+      "id": "Powdermelon",
+      "fromItemId": "(O)Powdermelon",
+      "fromItemName": "Powdermelon",
+      "harvestItems": [
+        {
+          "itemId": "(O)Powdermelon",
+          "name": "Powdermelon",
+          "minStack": 15,
+          "maxStack": 21,
+          "chance": 1
+        }
+      ],
+      "spawnChance": 0.01,
+      "health": 3
+    },
+    {
+      "id": "QiFruit",
+      "fromItemId": "(O)889",
+      "fromItemName": "Qi Fruit",
+      "harvestItems": [
+        {
+          "itemId": "(O)889",
+          "name": "Qi Fruit",
+          "minStack": 20,
+          "maxStack": 26,
+          "chance": 1
+        }
+      ],
+      "spawnChance": 0.01,
+      "health": 3
+    }
+  ]
+}

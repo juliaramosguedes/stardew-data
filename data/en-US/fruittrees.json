@@ -1,0 +1,146 @@
+{
+  "_meta": {
+    "source": "Data/FruitTrees.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:37:44.183Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "fruitTrees": [
+    {
+      "id": "633",
+      "name": "Apple Sapling",
+      "seasons": [
+        "Fall"
+      ],
+      "fruit": [
+        {
+          "itemId": "(O)613",
+          "name": "Apple",
+          "chance": 1,
+          "season": null
+        }
+      ],
+      "spriteRow": 5,
+      "texture": "TileSheets\\fruitTrees"
+    },
+    {
+      "id": "629",
+      "name": "Apricot Sapling",
+      "seasons": [
+        "Spring"
+      ],
+      "fruit": [
+        {
+          "itemId": "(O)634",
+          "name": "Apricot",
+          "chance": 1,
+          "season": null
+        }
+      ],
+      "spriteRow": 1,
+      "texture": "TileSheets\\fruitTrees"
+    },
+    {
+      "id": "69",
+      "name": "Banana Sapling",
+      "seasons": [
+        "Summer"
+      ],
+      "fruit": [
+        {
+          "itemId": "(O)91",
+          "name": "Banana",
+          "chance": 1,
+          "season": null
+        }
+      ],
+      "spriteRow": 7,
+      "texture": "TileSheets\\fruitTrees"
+    },
+    {
+      "id": "628",
+      "name": "Cherry Sapling",
+      "seasons": [
+        "Spring"
+      ],
+      "fruit": [
+        {
+          "itemId": "(O)638",
+          "name": "Cherry",
+          "chance": 1,
+          "season": null
+        }
+      ],
+      "spriteRow": 0,
+      "texture": "TileSheets\\fruitTrees"
+    },
+    {
+      "id": "835",
+      "name": "Mango Sapling",
+      "seasons": [
+        "Summer"
+      ],
+      "fruit": [
+        {
+          "itemId": "(O)834",
+          "name": "Mango",
+          "chance": 1,
+          "season": null
+        }
+      ],
+      "spriteRow": 8,
+      "texture": "TileSheets\\fruitTrees"
+    },
+    {
+      "id": "630",
+      "name": "Orange Sapling",
+      "seasons": [
+        "Summer"
+      ],
+      "fruit": [
+        {
+          "itemId": "(O)635",
+          "name": "Orange",
+          "chance": 1,
+          "season": null
+        }
+      ],
+      "spriteRow": 2,
+      "texture": "TileSheets\\fruitTrees"
+    },
+    {
+      "id": "631",
+      "name": "Peach Sapling",
+      "seasons": [
+        "Summer"
+      ],
+      "fruit": [
+        {
+          "itemId": "(O)636",
+          "name": "Peach",
+          "chance": 1,
+          "season": null
+        }
+      ],
+      "spriteRow": 3,
+      "texture": "TileSheets\\fruitTrees"
+    },
+    {
+      "id": "632",
+      "name": "Pomegranate Sapling",
+      "seasons": [
+        "Fall"
+      ],
+      "fruit": [
+        {
+          "itemId": "(O)637",
+          "name": "Pomegranate",
+          "chance": 1,
+          "season": null
+        }
+      ],
+      "spriteRow": 4,
+      "texture": "TileSheets\\fruitTrees"
+    }
+  ]
+}

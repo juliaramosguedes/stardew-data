@@ -1,5 +1,5 @@
 import path from "node:path"
-import { RAW_DATA, OUT_PROCESSED } from "../config.ts"
+import { RAW_DATA, OUT_DATA } from "../config.ts"
 import { readJson, writeJson, meta, log } from "../utils.ts"
 import { parseSlashFields } from "../utils/parse.ts"
 import { parseIngredientPairs, type ObjectLookup } from "../utils/game.ts"
@@ -7,7 +7,7 @@ import { COOKING_RECIPE_FIELDS, CRAFTING_RECIPE_FIELDS } from "../schemas/string
 import { RecipeParsedSchema } from "../schemas/raw.ts"
 import type { ProcessedRecipe } from "../types.ts"
 
-const OUT_FILE = path.join(OUT_PROCESSED, "recipes.json")
+const OUT_FILE = path.join(OUT_DATA, "recipes.json")
 
 export function parseRecipeEntry(
   id: string,

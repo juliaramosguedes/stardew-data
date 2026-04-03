@@ -1,0 +1,1443 @@
+{
+  "_meta": {
+    "source": "Data/Objects.json (category -4)",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:37:44.165Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "fish": [
+    {
+      "id": "705",
+      "name": "Albacore",
+      "sellPrice": 75,
+      "edibility": 10,
+      "contextTags": [
+        "color_blue",
+        "fish_has_roe",
+        "fish_ocean",
+        "season_fall",
+        "season_winter"
+      ],
+      "spriteIndex": 705,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "129",
+      "name": "Anchovy",
+      "sellPrice": 30,
+      "edibility": 5,
+      "contextTags": [
+        "color_blue",
+        "fish_has_roe",
+        "fish_ocean",
+        "fish_talk_demanding",
+        "season_fall",
+        "season_spring"
+      ],
+      "spriteIndex": 129,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "160",
+      "name": "Angler",
+      "sellPrice": 900,
+      "edibility": 10,
+      "contextTags": [
+        "color_yellow",
+        "fish_has_roe",
+        "fish_legendary",
+        "fish_upright"
+      ],
+      "spriteIndex": 160,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "800",
+      "name": "Blobfish",
+      "sellPrice": 500,
+      "edibility": 15,
+      "contextTags": [
+        "color_sand",
+        "fish_has_roe",
+        "fish_night_market",
+        "fish_upright"
+      ],
+      "spriteIndex": 800,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "838",
+      "name": "Blue Discus",
+      "sellPrice": 120,
+      "edibility": 15,
+      "contextTags": [
+        "color_cyan",
+        "fish_has_roe",
+        "fish_ocean",
+        "season_all"
+      ],
+      "spriteIndex": 838,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "132",
+      "name": "Bream",
+      "sellPrice": 45,
+      "edibility": 5,
+      "contextTags": [
+        "color_blue",
+        "fish_has_roe",
+        "fish_river",
+        "season_all"
+      ],
+      "spriteIndex": 132,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "700",
+      "name": "Bullhead",
+      "sellPrice": 75,
+      "edibility": 10,
+      "contextTags": [
+        "color_brown",
+        "fish_has_roe",
+        "fish_lake",
+        "season_all"
+      ],
+      "spriteIndex": 700,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "142",
+      "name": "Carp",
+      "sellPrice": 30,
+      "edibility": 5,
+      "contextTags": [
+        "color_yellow",
+        "fish_has_roe",
+        "fish_lake",
+        "fish_secret_pond",
+        "fish_sewers",
+        "season_fall",
+        "season_spring",
+        "season_winter"
+      ],
+      "spriteIndex": 142,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "143",
+      "name": "Catfish",
+      "sellPrice": 200,
+      "edibility": 20,
+      "contextTags": [
+        "color_gray",
+        "fish_has_roe",
+        "fish_river",
+        "fish_secret_pond",
+        "fish_swamp",
+        "season_fall",
+        "season_spring",
+        "season_summer"
+      ],
+      "spriteIndex": 143,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "702",
+      "name": "Chub",
+      "sellPrice": 50,
+      "edibility": 10,
+      "contextTags": [
+        "color_gray",
+        "fish_has_roe",
+        "fish_lake",
+        "fish_river",
+        "season_all"
+      ],
+      "spriteIndex": 702,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "372",
+      "name": "Clam",
+      "sellPrice": 50,
+      "edibility": -300,
+      "contextTags": [
+        "beach_item",
+        "color_light_cyan",
+        "fish_crab_pot",
+        "fish_has_roe",
+        "fish_ocean",
+        "fish_upright",
+        "forage_item",
+        "forage_item_beach"
+      ],
+      "spriteIndex": 372,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "718",
+      "name": "Cockle",
+      "sellPrice": 50,
+      "edibility": -300,
+      "contextTags": [
+        "color_dark_gray",
+        "fish_crab_pot",
+        "fish_has_roe",
+        "fish_ocean",
+        "forage_item",
+        "forage_item_beach"
+      ],
+      "spriteIndex": 718,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "717",
+      "name": "Crab",
+      "sellPrice": 100,
+      "edibility": -300,
+      "contextTags": [
+        "color_red",
+        "fish_crab_pot",
+        "fish_has_roe",
+        "fish_ocean",
+        "fish_upright"
+      ],
+      "spriteIndex": 717,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "716",
+      "name": "Crayfish",
+      "sellPrice": 75,
+      "edibility": -300,
+      "contextTags": [
+        "color_dark_gray",
+        "fish_crab_pot",
+        "fish_freshwater",
+        "fish_has_roe"
+      ],
+      "spriteIndex": 716,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "159",
+      "name": "Crimsonfish",
+      "sellPrice": 1500,
+      "edibility": 15,
+      "contextTags": [
+        "color_red",
+        "fish_has_roe",
+        "fish_legendary"
+      ],
+      "spriteIndex": 159,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "704",
+      "name": "Dorado",
+      "sellPrice": 100,
+      "edibility": 10,
+      "contextTags": [
+        "color_orange",
+        "fish_carnivorous",
+        "fish_has_roe",
+        "fish_river",
+        "season_summer"
+      ],
+      "spriteIndex": 704,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "148",
+      "name": "Eel",
+      "sellPrice": 85,
+      "edibility": 12,
+      "contextTags": [
+        "color_copper",
+        "fish_has_roe",
+        "fish_ocean",
+        "fish_talk_rude",
+        "fish_upright",
+        "season_fall",
+        "season_spring"
+      ],
+      "spriteIndex": 148,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "267",
+      "name": "Flounder",
+      "sellPrice": 100,
+      "edibility": 15,
+      "contextTags": [
+        "color_brown",
+        "fish_has_roe",
+        "fish_ocean",
+        "season_spring",
+        "season_summer"
+      ],
+      "spriteIndex": 267,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "156",
+      "name": "Ghostfish",
+      "sellPrice": 45,
+      "edibility": 15,
+      "contextTags": [
+        "color_white",
+        "fish_has_roe",
+        "fish_mines",
+        "season_all"
+      ],
+      "spriteIndex": 156,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "775",
+      "name": "Glacierfish",
+      "sellPrice": 1000,
+      "edibility": 10,
+      "contextTags": [
+        "color_blue",
+        "fish_has_roe",
+        "fish_legendary",
+        "fish_upright"
+      ],
+      "spriteIndex": 775,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "902",
+      "name": "Glacierfish Jr.",
+      "sellPrice": 1000,
+      "edibility": 10,
+      "contextTags": [
+        "color_blue",
+        "fish_has_roe",
+        "fish_legendary",
+        "fish_legendary_family"
+      ],
+      "spriteIndex": 902,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "Goby",
+      "name": "Goby",
+      "sellPrice": 150,
+      "edibility": -25,
+      "contextTags": [
+        "color_brown",
+        "fish_has_roe",
+        "fish_river",
+        "season_spring",
+        "season_summer",
+        "season_fall"
+      ],
+      "spriteIndex": 135,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "708",
+      "name": "Halibut",
+      "sellPrice": 80,
+      "edibility": 10,
+      "contextTags": [
+        "color_dark_gray",
+        "fish_has_roe",
+        "fish_ocean",
+        "season_spring",
+        "season_summer",
+        "season_winter"
+      ],
+      "spriteIndex": 708,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "147",
+      "name": "Herring",
+      "sellPrice": 30,
+      "edibility": 5,
+      "contextTags": [
+        "color_blue",
+        "fish_has_roe",
+        "fish_ocean",
+        "fish_talk_demanding",
+        "season_spring",
+        "season_winter"
+      ],
+      "spriteIndex": 147,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "161",
+      "name": "Ice Pip",
+      "sellPrice": 500,
+      "edibility": 15,
+      "contextTags": [
+        "color_blue",
+        "fish_has_roe",
+        "fish_mines",
+        "fish_semi_rare",
+        "fish_talk_demanding",
+        "season_all"
+      ],
+      "spriteIndex": 161,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "136",
+      "name": "Largemouth Bass",
+      "sellPrice": 100,
+      "edibility": 15,
+      "contextTags": [
+        "color_green",
+        "fish_has_roe",
+        "fish_lake",
+        "season_all"
+      ],
+      "spriteIndex": 136,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "162",
+      "name": "Lava Eel",
+      "sellPrice": 700,
+      "edibility": 20,
+      "contextTags": [
+        "color_red",
+        "fish_has_roe",
+        "fish_mines",
+        "fish_semi_rare",
+        "fish_upright",
+        "season_all"
+      ],
+      "spriteIndex": 162,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "163",
+      "name": "Legend",
+      "sellPrice": 5000,
+      "edibility": 200,
+      "contextTags": [
+        "color_green",
+        "fish_has_roe",
+        "fish_legendary"
+      ],
+      "spriteIndex": 163,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "900",
+      "name": "Legend II",
+      "sellPrice": 5000,
+      "edibility": 200,
+      "contextTags": [
+        "color_green",
+        "fish_has_roe",
+        "fish_legendary",
+        "fish_legendary_family"
+      ],
+      "spriteIndex": 900,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "707",
+      "name": "Lingcod",
+      "sellPrice": 120,
+      "edibility": 10,
+      "contextTags": [
+        "color_brown",
+        "fish_carnivorous",
+        "fish_has_roe",
+        "fish_lake",
+        "fish_river",
+        "season_winter"
+      ],
+      "spriteIndex": 707,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "837",
+      "name": "Lionfish",
+      "sellPrice": 100,
+      "edibility": 15,
+      "contextTags": [
+        "color_orange",
+        "fish_has_roe",
+        "fish_ocean",
+        "fish_talk_demanding",
+        "season_all"
+      ],
+      "spriteIndex": 837,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "715",
+      "name": "Lobster",
+      "sellPrice": 120,
+      "edibility": -300,
+      "contextTags": [
+        "color_red",
+        "fish_crab_pot",
+        "fish_has_roe",
+        "fish_ocean"
+      ],
+      "spriteIndex": 715,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "269",
+      "name": "Midnight Carp",
+      "sellPrice": 150,
+      "edibility": 20,
+      "contextTags": [
+        "color_iridium",
+        "fish_has_roe",
+        "fish_lake",
+        "season_fall",
+        "season_winter"
+      ],
+      "spriteIndex": 269,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "798",
+      "name": "Midnight Squid",
+      "sellPrice": 100,
+      "edibility": 15,
+      "contextTags": [
+        "color_blue",
+        "fish_has_roe",
+        "fish_night_market",
+        "fish_semi_rare",
+        "fish_talk_stiff",
+        "fish_upright"
+      ],
+      "spriteIndex": 798,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "899",
+      "name": "Ms. Angler",
+      "sellPrice": 900,
+      "edibility": 10,
+      "contextTags": [
+        "color_pink",
+        "fish_has_roe",
+        "fish_legendary",
+        "fish_legendary_family",
+        "fish_upright"
+      ],
+      "spriteIndex": 899,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "719",
+      "name": "Mussel",
+      "sellPrice": 30,
+      "edibility": -300,
+      "contextTags": [
+        "color_gray",
+        "fish_crab_pot",
+        "fish_has_roe",
+        "fish_ocean",
+        "forage_item",
+        "forage_item_beach"
+      ],
+      "spriteIndex": 719,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "682",
+      "name": "Mutant Carp",
+      "sellPrice": 1000,
+      "edibility": 10,
+      "contextTags": [
+        "color_green",
+        "fish_has_roe",
+        "fish_legendary"
+      ],
+      "spriteIndex": 682,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "149",
+      "name": "Octopus",
+      "sellPrice": 150,
+      "edibility": -300,
+      "contextTags": [
+        "color_orange",
+        "fish_has_roe",
+        "fish_ocean",
+        "fish_upright",
+        "season_summer"
+      ],
+      "spriteIndex": 149,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "723",
+      "name": "Oyster",
+      "sellPrice": 40,
+      "edibility": -300,
+      "contextTags": [
+        "color_gray",
+        "fish_crab_pot",
+        "fish_has_roe",
+        "fish_ocean",
+        "fish_upright",
+        "forage_item",
+        "forage_item_beach"
+      ],
+      "spriteIndex": 723,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "141",
+      "name": "Perch",
+      "sellPrice": 55,
+      "edibility": 10,
+      "contextTags": [
+        "color_yellow",
+        "fish_has_roe",
+        "fish_lake",
+        "fish_pond",
+        "fish_river",
+        "season_winter"
+      ],
+      "spriteIndex": 141,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "722",
+      "name": "Periwinkle",
+      "sellPrice": 20,
+      "edibility": -300,
+      "contextTags": [
+        "color_cyan",
+        "fish_crab_pot",
+        "fish_freshwater",
+        "fish_has_roe",
+        "fish_upright"
+      ],
+      "spriteIndex": 722,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "144",
+      "name": "Pike",
+      "sellPrice": 100,
+      "edibility": 15,
+      "contextTags": [
+        "color_yellow",
+        "fish_carnivorous",
+        "fish_has_roe",
+        "fish_pond",
+        "fish_river",
+        "season_summer",
+        "season_winter"
+      ],
+      "spriteIndex": 144,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "128",
+      "name": "Pufferfish",
+      "sellPrice": 200,
+      "edibility": -40,
+      "contextTags": [
+        "color_yellow",
+        "fish_has_roe",
+        "fish_ocean",
+        "fish_upright",
+        "season_summer"
+      ],
+      "spriteIndex": 128,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "901",
+      "name": "Radioactive Carp",
+      "sellPrice": 1000,
+      "edibility": 10,
+      "contextTags": [
+        "color_green",
+        "fish_has_roe",
+        "fish_legendary",
+        "fish_legendary_family"
+      ],
+      "spriteIndex": 901,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "138",
+      "name": "Rainbow Trout",
+      "sellPrice": 65,
+      "edibility": 10,
+      "contextTags": [
+        "color_orange",
+        "fish_has_roe",
+        "fish_river",
+        "season_summer"
+      ],
+      "spriteIndex": 138,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "146",
+      "name": "Red Mullet",
+      "sellPrice": 75,
+      "edibility": 10,
+      "contextTags": [
+        "color_red",
+        "fish_has_roe",
+        "fish_ocean",
+        "season_summer",
+        "season_winter"
+      ],
+      "spriteIndex": 146,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "150",
+      "name": "Red Snapper",
+      "sellPrice": 50,
+      "edibility": 10,
+      "contextTags": [
+        "color_red",
+        "fish_has_roe",
+        "fish_ocean",
+        "season_fall",
+        "season_summer",
+        "season_winter"
+      ],
+      "spriteIndex": 150,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "139",
+      "name": "Salmon",
+      "sellPrice": 75,
+      "edibility": 15,
+      "contextTags": [
+        "color_salmon",
+        "fish_has_roe",
+        "fish_river",
+        "season_fall"
+      ],
+      "spriteIndex": 139,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "164",
+      "name": "Sandfish",
+      "sellPrice": 75,
+      "edibility": 5,
+      "contextTags": [
+        "color_yellow",
+        "fish_desert",
+        "fish_has_roe",
+        "season_all"
+      ],
+      "spriteIndex": 164,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "131",
+      "name": "Sardine",
+      "sellPrice": 40,
+      "edibility": 5,
+      "contextTags": [
+        "color_blue",
+        "fish_has_roe",
+        "fish_ocean",
+        "fish_talk_demanding",
+        "season_fall",
+        "season_spring",
+        "season_winter"
+      ],
+      "spriteIndex": 131,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "165",
+      "name": "Scorpion Carp",
+      "sellPrice": 150,
+      "edibility": -50,
+      "contextTags": [
+        "color_brown",
+        "fish_desert",
+        "fish_has_roe",
+        "fish_semi_rare",
+        "season_all"
+      ],
+      "spriteIndex": 165,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "154",
+      "name": "Sea Cucumber",
+      "sellPrice": 75,
+      "edibility": -10,
+      "contextTags": [
+        "color_yellow",
+        "fish_has_roe",
+        "fish_ocean",
+        "fish_upright",
+        "season_fall",
+        "season_winter"
+      ],
+      "spriteIndex": 154,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "706",
+      "name": "Shad",
+      "sellPrice": 60,
+      "edibility": 10,
+      "contextTags": [
+        "color_green",
+        "fish_has_roe",
+        "fish_river",
+        "season_fall",
+        "season_spring",
+        "season_summer"
+      ],
+      "spriteIndex": 706,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "720",
+      "name": "Shrimp",
+      "sellPrice": 60,
+      "edibility": -300,
+      "contextTags": [
+        "color_pink",
+        "fish_crab_pot",
+        "fish_has_roe",
+        "fish_ocean",
+        "fish_upright"
+      ],
+      "spriteIndex": 720,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "796",
+      "name": "Slimejack",
+      "sellPrice": 100,
+      "edibility": 15,
+      "contextTags": [
+        "color_green",
+        "fish_bug_lair",
+        "fish_has_roe",
+        "fish_semi_rare",
+        "season_all"
+      ],
+      "spriteIndex": 796,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "137",
+      "name": "Smallmouth Bass",
+      "sellPrice": 50,
+      "edibility": 10,
+      "contextTags": [
+        "color_brown",
+        "fish_has_roe",
+        "fish_pond",
+        "fish_river",
+        "season_fall",
+        "season_spring"
+      ],
+      "spriteIndex": 137,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "721",
+      "name": "Snail",
+      "sellPrice": 65,
+      "edibility": -300,
+      "contextTags": [
+        "color_yellow",
+        "fish_crab_pot",
+        "fish_freshwater",
+        "fish_has_roe",
+        "fish_upright"
+      ],
+      "spriteIndex": 721,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "898",
+      "name": "Son of Crimsonfish",
+      "sellPrice": 1500,
+      "edibility": 15,
+      "contextTags": [
+        "color_red",
+        "fish_has_roe",
+        "fish_legendary",
+        "fish_legendary_family"
+      ],
+      "spriteIndex": 898,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "799",
+      "name": "Spook Fish",
+      "sellPrice": 220,
+      "edibility": 15,
+      "contextTags": [
+        "color_blue",
+        "fish_has_roe",
+        "fish_night_market",
+        "fish_semi_rare"
+      ],
+      "spriteIndex": 799,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "151",
+      "name": "Squid",
+      "sellPrice": 80,
+      "edibility": 10,
+      "contextTags": [
+        "color_white",
+        "fish_has_roe",
+        "fish_ocean",
+        "fish_upright",
+        "season_winter"
+      ],
+      "spriteIndex": 151,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "836",
+      "name": "Stingray",
+      "sellPrice": 180,
+      "edibility": 15,
+      "contextTags": [
+        "color_brown",
+        "fish_has_roe",
+        "fish_ocean",
+        "fish_talk_stiff",
+        "season_all"
+      ],
+      "spriteIndex": 836,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "158",
+      "name": "Stonefish",
+      "sellPrice": 300,
+      "edibility": -300,
+      "contextTags": [
+        "color_brown",
+        "fish_has_roe",
+        "fish_mines",
+        "fish_semi_rare",
+        "fish_upright",
+        "season_all"
+      ],
+      "spriteIndex": 158,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "698",
+      "name": "Sturgeon",
+      "sellPrice": 200,
+      "edibility": 10,
+      "contextTags": [
+        "color_cyan",
+        "fish_has_roe",
+        "fish_lake",
+        "season_summer",
+        "season_winter"
+      ],
+      "spriteIndex": 698,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "145",
+      "name": "Sunfish",
+      "sellPrice": 30,
+      "edibility": 5,
+      "contextTags": [
+        "color_orange",
+        "fish_has_roe",
+        "fish_river",
+        "season_spring",
+        "season_summer"
+      ],
+      "spriteIndex": 145,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "155",
+      "name": "Super Cucumber",
+      "sellPrice": 250,
+      "edibility": 50,
+      "contextTags": [
+        "color_purple",
+        "fish_has_roe",
+        "fish_ocean",
+        "fish_upright",
+        "season_fall",
+        "season_summer"
+      ],
+      "spriteIndex": 155,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "699",
+      "name": "Tiger Trout",
+      "sellPrice": 150,
+      "edibility": 10,
+      "contextTags": [
+        "color_brown",
+        "fish_has_roe",
+        "fish_river",
+        "season_fall",
+        "season_winter"
+      ],
+      "spriteIndex": 699,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "701",
+      "name": "Tilapia",
+      "sellPrice": 75,
+      "edibility": 10,
+      "contextTags": [
+        "color_gray",
+        "fish_has_roe",
+        "fish_ocean",
+        "season_fall",
+        "season_summer"
+      ],
+      "spriteIndex": 701,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "130",
+      "name": "Tuna",
+      "sellPrice": 100,
+      "edibility": 15,
+      "contextTags": [
+        "color_blue",
+        "fish_has_roe",
+        "fish_ocean",
+        "season_summer",
+        "season_winter"
+      ],
+      "spriteIndex": 130,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "795",
+      "name": "Void Salmon",
+      "sellPrice": 150,
+      "edibility": 25,
+      "contextTags": [
+        "color_dark_purple",
+        "fish_has_roe",
+        "fish_semi_rare",
+        "fish_swamp",
+        "fish_talk_stiff",
+        "season_all"
+      ],
+      "spriteIndex": 795,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "140",
+      "name": "Walleye",
+      "sellPrice": 105,
+      "edibility": 12,
+      "contextTags": [
+        "color_yellow",
+        "fish_has_roe",
+        "fish_lake",
+        "fish_pond",
+        "fish_river",
+        "season_fall",
+        "season_winter"
+      ],
+      "spriteIndex": 140,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    },
+    {
+      "id": "734",
+      "name": "Woodskip",
+      "sellPrice": 75,
+      "edibility": 10,
+      "contextTags": [
+        "color_orange",
+        "fish_has_roe",
+        "fish_pond",
+        "fish_secret_pond",
+        "season_all"
+      ],
+      "spriteIndex": 734,
+      "locations": [],
+      "seasons": [],
+      "weather": [],
+      "timeRanges": [],
+      "difficulty": 0,
+      "behavior": "mixed"
+    }
+  ]
+}

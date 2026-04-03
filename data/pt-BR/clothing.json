@@ -1,0 +1,3222 @@
+{
+  "_meta": {
+    "source": "Data/Shirts.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.125Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "shirts": [
+    {
+      "id": "1000",
+      "name": "Classic Overalls",
+      "sellPrice": 50,
+      "spriteIndex": 0,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1001",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 1,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1002",
+      "name": "Mint Blouse",
+      "sellPrice": 50,
+      "spriteIndex": 2,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1003",
+      "name": "Dark Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 3,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1004",
+      "name": "Skull Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 4,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1005",
+      "name": "Light Blue Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 5,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1006",
+      "name": "Tan Striped Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 6,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1007",
+      "name": "Green Overalls",
+      "sellPrice": 50,
+      "spriteIndex": 7,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1008",
+      "name": "Good Grief Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 8,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1009",
+      "name": "Aquamarine Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 9,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1010",
+      "name": "Suit Top",
+      "sellPrice": 50,
+      "spriteIndex": 10,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1011",
+      "name": "Green Belted Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 11,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1012",
+      "name": "Lime Green Striped Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 12,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1013",
+      "name": "Red Striped Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 13,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1014",
+      "name": "Skeleton Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 14,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1015",
+      "name": "Orange Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 15,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1016",
+      "name": "Night Sky Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 16,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1017",
+      "name": "Mayoral Suspenders",
+      "sellPrice": 50,
+      "spriteIndex": 17,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1018",
+      "name": "Brown Jacket",
+      "sellPrice": 50,
+      "spriteIndex": 18,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1019",
+      "name": "Sailor Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 19,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1020",
+      "name": "Green Vest",
+      "sellPrice": 50,
+      "spriteIndex": 20,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1021",
+      "name": "Yellow and Green Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 21,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1022",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 22,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1023",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 23,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1024",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 24,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1025",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 25,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1026",
+      "name": "Light Blue Striped Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 26,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1027",
+      "name": "Pink Striped Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 27,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1028",
+      "name": "Heart Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 28,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1029",
+      "name": "Work Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 29,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1030",
+      "name": "Store Owner's Jacket",
+      "sellPrice": 50,
+      "spriteIndex": 30,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1031",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 31,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1032",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 32,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1033",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 33,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1034",
+      "name": "Green Tunic",
+      "sellPrice": 50,
+      "spriteIndex": 34,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1035",
+      "name": "Fancy Red Blouse",
+      "sellPrice": 50,
+      "spriteIndex": 35,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1036",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 36,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1037",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 37,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1038",
+      "name": "Plain Shirt (M)",
+      "sellPrice": 50,
+      "spriteIndex": 38,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1039",
+      "name": "Retro Rainbow Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 39,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1040",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 40,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1041",
+      "name": "Plain Shirt (F)",
+      "sellPrice": 50,
+      "spriteIndex": 41,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1042",
+      "name": "Lime Green Tunic",
+      "sellPrice": 50,
+      "spriteIndex": 42,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1043",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 43,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1044",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 44,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1045",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 45,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1046",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 46,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1047",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 47,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1048",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 48,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1049",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 49,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1050",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 50,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1051",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 51,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1052",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 52,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1053",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 53,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1054",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 54,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1055",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 55,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1056",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 56,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1057",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 57,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1058",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 58,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1059",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 59,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1060",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 60,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1061",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 61,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1062",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 62,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1063",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 63,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1064",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 64,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1065",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 65,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1066",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 66,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1067",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 67,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1068",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 68,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1069",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 69,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1070",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 70,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1071",
+      "name": "White Overalls Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 71,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1072",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 72,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1073",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 73,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1074",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 74,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1075",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 75,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1076",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 76,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1077",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 77,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1078",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 78,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1079",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 79,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1080",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 80,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1081",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 81,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1082",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 82,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1083",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 83,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1084",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 84,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1085",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 85,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1086",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 86,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1087",
+      "name": "Neat Bow Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 87,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1088",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 88,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1089",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 89,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1090",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 90,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1091",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 91,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1092",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 92,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1093",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 93,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1094",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 94,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1095",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 95,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1096",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 96,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1097",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 97,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1098",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 98,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1099",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 99,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1100",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 100,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1101",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 101,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1102",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 102,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1103",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 103,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1104",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 104,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1105",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 105,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1106",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 106,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1107",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 107,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1108",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 108,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1109",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 109,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1110",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 110,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1111",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 111,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1112",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 112,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1113",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 113,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1114",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 114,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1115",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 115,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1116",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 116,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1117",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 117,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1118",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 118,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1119",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 119,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1120",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 120,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1121",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 121,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1122",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 122,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1123",
+      "name": "Shirt And Tie",
+      "sellPrice": 50,
+      "spriteIndex": 123,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1124",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 124,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1125",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 125,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1126",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 126,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1127",
+      "name": "Emily's Magic Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 127,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1128",
+      "name": "Striped Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 128,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1129",
+      "name": "Tank Top (M)",
+      "sellPrice": 50,
+      "spriteIndex": 129,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1130",
+      "name": "Tank Top (F)",
+      "sellPrice": 50,
+      "spriteIndex": 130,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1131",
+      "name": "Cowboy Poncho",
+      "sellPrice": 50,
+      "spriteIndex": 131,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1132",
+      "name": "Crop Tank Top (M)",
+      "sellPrice": 50,
+      "spriteIndex": 132,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1133",
+      "name": "Crop Tank Top (F)",
+      "sellPrice": 50,
+      "spriteIndex": 133,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1134",
+      "name": "Bikini Top",
+      "sellPrice": 50,
+      "spriteIndex": 134,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1135",
+      "name": "Wumbus Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 135,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1136",
+      "name": "80's Shirt (F)",
+      "sellPrice": 50,
+      "spriteIndex": 136,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1137",
+      "name": "Letterman Jacket",
+      "sellPrice": 50,
+      "spriteIndex": 137,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1138",
+      "name": "Black Leather Jacket",
+      "sellPrice": 50,
+      "spriteIndex": 138,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1139",
+      "name": "Strapped Top",
+      "sellPrice": 50,
+      "spriteIndex": 139,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1140",
+      "name": "Button Down Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 140,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1141",
+      "name": "Crop Top Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 141,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1142",
+      "name": "Tube Top",
+      "sellPrice": 50,
+      "spriteIndex": 142,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1143",
+      "name": "Tie Dye Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 143,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1144",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 144,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1145",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 145,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1146",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 146,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1147",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 147,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1148",
+      "name": "Steel Breastplate",
+      "sellPrice": 50,
+      "spriteIndex": 148,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1149",
+      "name": "Copper Breastplate",
+      "sellPrice": 50,
+      "spriteIndex": 149,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1150",
+      "name": "Gold Breastplate",
+      "sellPrice": 50,
+      "spriteIndex": 150,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1151",
+      "name": "Iridium Breastplate",
+      "sellPrice": 50,
+      "spriteIndex": 151,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1152",
+      "name": "80's Shirt (M)",
+      "sellPrice": 50,
+      "spriteIndex": 152,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1153",
+      "name": "Fake Muscles Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 153,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1154",
+      "name": "Flannel Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 154,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1155",
+      "name": "Bomber Jacket",
+      "sellPrice": 50,
+      "spriteIndex": 155,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1156",
+      "name": "Caveman Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 156,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1157",
+      "name": "Fishing Vest",
+      "sellPrice": 50,
+      "spriteIndex": 157,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1158",
+      "name": "Fish Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 158,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1159",
+      "name": "Shirt And Belt",
+      "sellPrice": 50,
+      "spriteIndex": 159,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1160",
+      "name": "Gray Hoodie",
+      "sellPrice": 50,
+      "spriteIndex": 160,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1161",
+      "name": "Blue Hoodie",
+      "sellPrice": 50,
+      "spriteIndex": 161,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1162",
+      "name": "Red Hoodie",
+      "sellPrice": 50,
+      "spriteIndex": 162,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1163",
+      "name": "Denim Jacket",
+      "sellPrice": 50,
+      "spriteIndex": 163,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1164",
+      "name": "Track Jacket",
+      "sellPrice": 50,
+      "spriteIndex": 164,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1165",
+      "name": "White Gi",
+      "sellPrice": 50,
+      "spriteIndex": 165,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1166",
+      "name": "Orange Gi",
+      "sellPrice": 50,
+      "spriteIndex": 166,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1167",
+      "name": "Gray Vest",
+      "sellPrice": 50,
+      "spriteIndex": 167,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1168",
+      "name": "Kelp Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 168,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1169",
+      "name": "Studded Vest",
+      "sellPrice": 50,
+      "spriteIndex": 169,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1170",
+      "name": "Gaudy Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 170,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1171",
+      "name": "Oasis Gown",
+      "sellPrice": 50,
+      "spriteIndex": 171,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1172",
+      "name": "Blacksmith Apron",
+      "sellPrice": 50,
+      "spriteIndex": 172,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1173",
+      "name": "Neat Bow Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 173,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1174",
+      "name": "High-Waisted Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 174,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1175",
+      "name": "High-Waisted Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 175,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1176",
+      "name": "Basic Pullover (M)",
+      "sellPrice": 50,
+      "spriteIndex": 176,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1177",
+      "name": "Basic Pullover (F)",
+      "sellPrice": 50,
+      "spriteIndex": 177,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1178",
+      "name": "Turtleneck Sweater",
+      "sellPrice": 50,
+      "spriteIndex": 178,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1179",
+      "name": "Iridium Energy Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 179,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1180",
+      "name": "Tunnelers Jersey",
+      "sellPrice": 50,
+      "spriteIndex": 180,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1181",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 181,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1182",
+      "name": "Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 182,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1183",
+      "name": "Gray Suit",
+      "sellPrice": 50,
+      "spriteIndex": 183,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1184",
+      "name": "Red Tuxedo",
+      "sellPrice": 50,
+      "spriteIndex": 184,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1185",
+      "name": "Navy Tuxedo",
+      "sellPrice": 50,
+      "spriteIndex": 185,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1186",
+      "name": "Holiday Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 186,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1187",
+      "name": "Leafy Top",
+      "sellPrice": 50,
+      "spriteIndex": 187,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1188",
+      "name": "Goodnight Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 188,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1189",
+      "name": "Green Belted Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 189,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1190",
+      "name": "Happy Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 190,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1191",
+      "name": "Shirt with Bow",
+      "sellPrice": 50,
+      "spriteIndex": 191,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1192",
+      "name": "Jester Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 192,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1193",
+      "name": "Ocean Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 193,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1194",
+      "name": "Dark Striped Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 194,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1195",
+      "name": "Bandana Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 195,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1196",
+      "name": "Backpack Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 196,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1197",
+      "name": "Purple Blouse",
+      "sellPrice": 50,
+      "spriteIndex": 197,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1198",
+      "name": "Vintage Polo",
+      "sellPrice": 50,
+      "spriteIndex": 198,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1199",
+      "name": "Toga Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 199,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1200",
+      "name": "Star Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 200,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1201",
+      "name": "Classy Top (M)",
+      "sellPrice": 50,
+      "spriteIndex": 201,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1202",
+      "name": "Classy Top (F)",
+      "sellPrice": 50,
+      "spriteIndex": 202,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1203",
+      "name": "Bandana Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 203,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1204",
+      "name": "Vacation Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 204,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1205",
+      "name": "Green Thumb Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 205,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1206",
+      "name": "Bandana Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 206,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1207",
+      "name": "Slime Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 207,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1208",
+      "name": "Excavator Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 208,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1209",
+      "name": "Sports Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 209,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1210",
+      "name": "Heart Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 210,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1211",
+      "name": "Dark Jacket",
+      "sellPrice": 50,
+      "spriteIndex": 211,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1212",
+      "name": "Sunset Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 212,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1213",
+      "name": "Chef Coat",
+      "sellPrice": 50,
+      "spriteIndex": 213,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1214",
+      "name": "Shirt O' The Sea",
+      "sellPrice": 50,
+      "spriteIndex": 214,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1215",
+      "name": "Arcane Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 215,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1216",
+      "name": "Plain Overalls",
+      "sellPrice": 50,
+      "spriteIndex": 216,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1217",
+      "name": "Sleeveless Overalls",
+      "sellPrice": 50,
+      "spriteIndex": 217,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1218",
+      "name": "Cardigan",
+      "sellPrice": 50,
+      "spriteIndex": 218,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1219",
+      "name": "Yoba Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 219,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1220",
+      "name": "Necklace Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 220,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1221",
+      "name": "Belted Coat",
+      "sellPrice": 50,
+      "spriteIndex": 221,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1222",
+      "name": "Gold Trimmed Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 222,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1223",
+      "name": "Prismatic Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 223,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": true,
+      "hasSleeves": true
+    },
+    {
+      "id": "1224",
+      "name": "Pendant Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 224,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1225",
+      "name": "High Heat Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 225,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1226",
+      "name": "Flames Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 226,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1227",
+      "name": "Antiquity Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 227,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1228",
+      "name": "Soft Arrow Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 228,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1229",
+      "name": "Doll Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 229,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1230",
+      "name": "Jewelry Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 230,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1231",
+      "name": "Canvas Jacket",
+      "sellPrice": 50,
+      "spriteIndex": 231,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1232",
+      "name": "Trash Can Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 232,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1233",
+      "name": "Rusty Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 233,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1234",
+      "name": "Circuitboard Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 234,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1235",
+      "name": "Fluffy Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 235,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1236",
+      "name": "Sauce-Stained Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 236,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1237",
+      "name": "Brown Suit",
+      "sellPrice": 50,
+      "spriteIndex": 237,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1238",
+      "name": "Golden Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 238,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1239",
+      "name": "Captain's Uniform",
+      "sellPrice": 50,
+      "spriteIndex": 239,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1240",
+      "name": "Officer Uniform",
+      "sellPrice": 50,
+      "spriteIndex": 240,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1241",
+      "name": "Ranger Uniform",
+      "sellPrice": 50,
+      "spriteIndex": 241,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1242",
+      "name": "Blue Long Vest",
+      "sellPrice": 50,
+      "spriteIndex": 242,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1243",
+      "name": "Regal Mantle",
+      "sellPrice": 50,
+      "spriteIndex": 243,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1244",
+      "name": "Relic Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 244,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1245",
+      "name": "Bobo Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 245,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1246",
+      "name": "Fried Egg Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 246,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1247",
+      "name": "Burger Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 247,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1248",
+      "name": "Collared Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 248,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1249",
+      "name": "Toasted Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 249,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1250",
+      "name": "Carp Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 250,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1251",
+      "name": "Red Flannel Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 251,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1252",
+      "name": "Tortilla Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 252,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1253",
+      "name": "Warm Flannel Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 253,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1254",
+      "name": "Sugar Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 254,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1255",
+      "name": "Green Flannel Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 255,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1256",
+      "name": "Oil Stained Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 256,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1257",
+      "name": "Morel Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 257,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1258",
+      "name": "Spring Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 258,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1259",
+      "name": "Sailor Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 259,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1260",
+      "name": "Rain Coat",
+      "sellPrice": 50,
+      "spriteIndex": 260,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1261",
+      "name": "Sailor Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 261,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1262",
+      "name": "Dark Bandana Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 262,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1263",
+      "name": "Dark Highlight Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 263,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1264",
+      "name": "Omni Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 264,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1265",
+      "name": "Bridal Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 265,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1266",
+      "name": "Brown Overalls",
+      "sellPrice": 50,
+      "spriteIndex": 266,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1267",
+      "name": "Orange Bow Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 267,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1268",
+      "name": "White Overalls",
+      "sellPrice": 50,
+      "spriteIndex": 268,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1269",
+      "name": "Pour-Over Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 269,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1270",
+      "name": "Green Jacket Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 270,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1271",
+      "name": "Short Jacket",
+      "sellPrice": 50,
+      "spriteIndex": 271,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1272",
+      "name": "Polka Dot Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 272,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1273",
+      "name": "White Dot Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 273,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1274",
+      "name": "Camo Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 274,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1275",
+      "name": "Dirt Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 275,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1276",
+      "name": "Crab Cake Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 276,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1277",
+      "name": "Silky Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 277,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1278",
+      "name": "Blue Buttoned Vest",
+      "sellPrice": 50,
+      "spriteIndex": 278,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1279",
+      "name": "Faded Denim Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 279,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1280",
+      "name": "Red Buttoned Vest",
+      "sellPrice": 50,
+      "spriteIndex": 280,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1281",
+      "name": "Green Buttoned Vest",
+      "sellPrice": 50,
+      "spriteIndex": 281,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1282",
+      "name": "Tomato Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 282,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1283",
+      "name": "Fringed Vest",
+      "sellPrice": 50,
+      "spriteIndex": 283,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1284",
+      "name": "Globby Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 284,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1285",
+      "name": "Midnight Dog Jacket",
+      "sellPrice": 50,
+      "spriteIndex": 285,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1286",
+      "name": "Shrimp Enthusiast Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 286,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1287",
+      "name": "Tea Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 287,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1288",
+      "name": "Trinket Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 290,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1289",
+      "name": "Darkness Suit",
+      "sellPrice": 50,
+      "spriteIndex": 291,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1290",
+      "name": "Mineral Dog Jacket",
+      "sellPrice": 50,
+      "spriteIndex": 292,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1291",
+      "name": "Magenta Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 293,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1292",
+      "name": "Ginger Overalls",
+      "sellPrice": 50,
+      "spriteIndex": 294,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1293",
+      "name": "Banana Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 295,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1294",
+      "name": "Yellow Suit",
+      "sellPrice": 50,
+      "spriteIndex": 296,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1295",
+      "name": "Hot Pink Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 297,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1296",
+      "name": "Tropical Sunrise Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 298,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "1297",
+      "name": "Island Bikini",
+      "sellPrice": 50,
+      "spriteIndex": 299,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": false
+    },
+    {
+      "id": "1997",
+      "name": "Magic Sprinkle Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 272,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": true,
+      "hasSleeves": true
+    },
+    {
+      "id": "1998",
+      "name": "Prismatic Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 289,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": true,
+      "hasSleeves": true
+    },
+    {
+      "id": "1999",
+      "name": "Prismatic Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 288,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": true,
+      "hasSleeves": true
+    },
+    {
+      "id": "MysteryShirt",
+      "name": "Mystery Shirt",
+      "sellPrice": 50,
+      "spriteIndex": 300,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "hasSleeves": true
+    },
+    {
+      "id": "SoftEdgePullover",
+      "name": "Basic Pullover (M)",
+      "sellPrice": 50,
+      "spriteIndex": 301,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "hasSleeves": true
+    }
+  ],
+  "pants": [
+    {
+      "id": "0",
+      "name": "Farmer Pants",
+      "sellPrice": 50,
+      "spriteIndex": 0,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "defaultColor": "255 235 203"
+    },
+    {
+      "id": "1",
+      "name": "Shorts",
+      "sellPrice": 50,
+      "spriteIndex": 1,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "defaultColor": "255 235 203"
+    },
+    {
+      "id": "2",
+      "name": "Dress",
+      "sellPrice": 50,
+      "spriteIndex": 2,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "defaultColor": "255 235 203"
+    },
+    {
+      "id": "3",
+      "name": "Skirt",
+      "sellPrice": 50,
+      "spriteIndex": 3,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "defaultColor": "255 235 203"
+    },
+    {
+      "id": "4",
+      "name": "Pleated Skirt",
+      "sellPrice": 50,
+      "spriteIndex": 4,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "defaultColor": "255 235 203"
+    },
+    {
+      "id": "5",
+      "name": "Dinosaur Pants",
+      "sellPrice": 50,
+      "spriteIndex": 5,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "defaultColor": "White"
+    },
+    {
+      "id": "6",
+      "name": "Grass Skirt",
+      "sellPrice": 50,
+      "spriteIndex": 6,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "defaultColor": "White"
+    },
+    {
+      "id": "7",
+      "name": "Luau Skirt",
+      "sellPrice": 50,
+      "spriteIndex": 7,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "defaultColor": "White"
+    },
+    {
+      "id": "8",
+      "name": "Genie Pants",
+      "sellPrice": 50,
+      "spriteIndex": 8,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "defaultColor": "255 235 203"
+    },
+    {
+      "id": "9",
+      "name": "Tight Pants",
+      "sellPrice": 50,
+      "spriteIndex": 9,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "defaultColor": "255 235 203"
+    },
+    {
+      "id": "10",
+      "name": "Baggy Pants",
+      "sellPrice": 50,
+      "spriteIndex": 10,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "defaultColor": "255 235 203"
+    },
+    {
+      "id": "11",
+      "name": "Simple Dress",
+      "sellPrice": 50,
+      "spriteIndex": 11,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "defaultColor": "255 235 203"
+    },
+    {
+      "id": "12",
+      "name": "Relaxed Fit Pants",
+      "sellPrice": 50,
+      "spriteIndex": 12,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "defaultColor": "255 235 203"
+    },
+    {
+      "id": "13",
+      "name": "Relaxed Fit Shorts",
+      "sellPrice": 50,
+      "spriteIndex": 13,
+      "spriteSheet": null,
+      "canBeDyed": true,
+      "isPrismatic": false,
+      "defaultColor": "255 235 203"
+    },
+    {
+      "id": "14",
+      "name": "Polka Dot Shorts",
+      "sellPrice": 50,
+      "spriteIndex": 14,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "defaultColor": "255 235 203"
+    },
+    {
+      "id": "15",
+      "name": "Trimmed Lucky Purple Shorts",
+      "sellPrice": 50,
+      "spriteIndex": 15,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": false,
+      "defaultColor": "255 235 203"
+    },
+    {
+      "id": "998",
+      "name": "Prismatic Pants",
+      "sellPrice": 50,
+      "spriteIndex": 0,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": true,
+      "defaultColor": "255 235 203"
+    },
+    {
+      "id": "999",
+      "name": "Prismatic Genie Pants",
+      "sellPrice": 50,
+      "spriteIndex": 8,
+      "spriteSheet": null,
+      "canBeDyed": false,
+      "isPrismatic": true,
+      "defaultColor": "255 235 203"
+    }
+  ]
+}

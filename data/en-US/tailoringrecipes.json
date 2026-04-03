@@ -1,0 +1,3566 @@
+{
+  "_meta": {
+    "source": "Data/TailoringRecipes.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:37:44.215Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "tailoringRecipes": [
+    {
+      "id": "(H)93",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_ostrich_egg"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)93"
+    },
+    {
+      "id": "RedPartyHat_FromFireworks",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fireworks_(red)"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)57"
+    },
+    {
+      "id": "BluePartyHat_FromFireworks",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fireworks_(purple)"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)58"
+    },
+    {
+      "id": "GreenPartyHat_FromFireworks",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fireworks_(green)"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)59"
+    },
+    {
+      "id": "(H)90",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_ginger"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)90"
+    },
+    {
+      "id": "(H)89",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_bug_steak"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)89"
+    },
+    {
+      "id": "(H)88",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_cinder_shard"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)88"
+    },
+    {
+      "id": "(H)87",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_mushroom_tree_seed"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)87"
+    },
+    {
+      "id": "(H)86",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_qi_fruit"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)86"
+    },
+    {
+      "id": "(H)85",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_dragon_tooth"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)85"
+    },
+    {
+      "id": "(H)84",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_radioactive_bar"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)84"
+    },
+    {
+      "id": "(S)1291",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_magma_cap"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1291"
+    },
+    {
+      "id": "(S)1297",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_golden_coconut"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1297"
+    },
+    {
+      "id": "(S)1292",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_ginger_ale"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1292"
+    },
+    {
+      "id": "(S)1293",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_banana_pudding"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1293"
+    },
+    {
+      "id": "(S)1294",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_mango_sticky_rice"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1294"
+    },
+    {
+      "id": "(S)1295",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_poi"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1295"
+    },
+    {
+      "id": "(S)1296",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_tropical_curry"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1296"
+    },
+    {
+      "id": "(P)5",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_dinosaur_mayonnaise"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(P)5"
+    },
+    {
+      "id": "(S)1290",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_seafoam_pudding"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1290"
+    },
+    {
+      "id": "(O)71",
+      "firstItemTags": [
+        "item_lucky_purple_shorts"
+      ],
+      "secondItemTags": [
+        "item_gold_bar"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(O)71"
+    },
+    {
+      "id": "(S)1288",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_artifact_trove"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1288"
+    },
+    {
+      "id": "(S)1289",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_wilted_bouquet"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1289"
+    },
+    {
+      "id": "(S)1997",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_magic_rock_candy"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1997"
+    },
+    {
+      "id": "(H)52",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_red_mushroom"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)52"
+    },
+    {
+      "id": "(S)1286",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_shrimp_cocktail"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1286"
+    },
+    {
+      "id": "(H)70",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_golden_pumpkin"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)70"
+    },
+    {
+      "id": "(S)1160",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_geode"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1160"
+    },
+    {
+      "id": "(S)1161",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_frozen_geode"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1161"
+    },
+    {
+      "id": "(S)1162",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_magma_geode"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1162"
+    },
+    {
+      "id": "(S)1163",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_field_snack"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1163"
+    },
+    {
+      "id": "(S)1164",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_pancakes"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1164"
+    },
+    {
+      "id": "(S)1165",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_pale_broth"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1165"
+    },
+    {
+      "id": "(S)1166",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_vinegar"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1166"
+    },
+    {
+      "id": "(S)1268",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_rice"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1268"
+    },
+    {
+      "id": "(S)1167",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_quartz"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1167"
+    },
+    {
+      "id": "(S)1168",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_seaweed"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1168"
+    },
+    {
+      "id": "(S)1169",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_obsidian"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1169"
+    },
+    {
+      "id": "(S)1170",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_soapstone"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1170"
+    },
+    {
+      "id": "(S)1171",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_tom_kha_soup"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1171"
+    },
+    {
+      "id": "(S)1172",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fiddlehead_risotto"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1172"
+    },
+    {
+      "id": "(S)1221",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_autumns_bounty"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1221"
+    },
+    {
+      "id": "(S)1220",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_refined_quartz"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1220"
+    },
+    {
+      "id": "(S)1225",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_torch"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1225"
+    },
+    {
+      "id": "(S)1226",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_spicy_eel"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1226"
+    },
+    {
+      "id": "(H)43",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_dinosaur_egg"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)43"
+    },
+    {
+      "id": "(S)1004",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_prehistoric_skull"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1004"
+    },
+    {
+      "id": "CavemanShirt_FromPrehistoricTool",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_prehistoric_tool"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1156"
+    },
+    {
+      "id": "CavemanShirt_FromPrehistoricHandAxe",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_prehistoric_handaxe"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1156"
+    },
+    {
+      "id": "(H)49",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_prehistoric_tibia"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)49"
+    },
+    {
+      "id": "(S)1208",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "fossil_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1208"
+    },
+    {
+      "id": "(S)1242",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_bone_flute"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1242"
+    },
+    {
+      "id": "(S)1014",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "bone_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1014"
+    },
+    {
+      "id": "(S)1222",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "scroll_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1222"
+    },
+    {
+      "id": "(H)46",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "dwarvish_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)46"
+    },
+    {
+      "id": "(H)44",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "totem_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)44"
+    },
+    {
+      "id": "(H)48",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_jack-o-lantern"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)48"
+    },
+    {
+      "id": "(S)1131",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "cowboy_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1131"
+    },
+    {
+      "id": "(S)1034",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_ancient_sword"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1034"
+    },
+    {
+      "id": "(S)1137",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_energy_tonic"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1137"
+    },
+    {
+      "id": "(S)1138",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "alcohol_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1138"
+    },
+    {
+      "id": "(P)6",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_hay"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(P)6"
+    },
+    {
+      "id": "(S)1134",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_rainbow_shell"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1134"
+    },
+    {
+      "id": "Dress_FromFallFlower",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "flower_item",
+        "season_fall"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(P)2"
+    },
+    {
+      "id": "(S)1050",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_sweet_pea"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1050"
+    },
+    {
+      "id": "(P)4",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "flower_item",
+        "season_summer"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(P)4"
+    },
+    {
+      "id": "BasicPullover_FromFiber",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fiber"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1176"
+    },
+    {
+      "id": "(S)1001",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_clay"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1001"
+    },
+    {
+      "id": "(S)1002",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_dandelion"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1002"
+    },
+    {
+      "id": "(S)1003",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_bat_wing"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1003"
+    },
+    {
+      "id": "(S)1005",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_mayonnaise"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1005"
+    },
+    {
+      "id": "(S)1155",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "bomb_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1155"
+    },
+    {
+      "id": "(S)1154",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_coffee_bean"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1154"
+    },
+    {
+      "id": "(S)1270",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_duck_egg"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1270"
+    },
+    {
+      "id": "(S)1271",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_plum_pudding"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1271"
+    },
+    {
+      "id": "(S)1276",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_crab_cakes"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1276"
+    },
+    {
+      "id": "(S)1275",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_maple_bar"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1275"
+    },
+    {
+      "id": "GreenButtonedVest_FromRhubarb",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_rhubarb"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1281"
+    },
+    {
+      "id": "GreenButtonedVest_FromSpiceBerry",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_spice_berry"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1281"
+    },
+    {
+      "id": "(S)1278",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_octopus"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1278"
+    },
+    {
+      "id": "(S)1282",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_tomato"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1282"
+    },
+    {
+      "id": "(S)1279",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_salmon"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1279"
+    },
+    {
+      "id": "FishShirt_FromGhostfish",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_ghostfish"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1158"
+    },
+    {
+      "id": "FishShirt_FromSandfish",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_sandfish"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1158"
+    },
+    {
+      "id": "(S)1274",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_stir_fry"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1274"
+    },
+    {
+      "id": "(S)1277",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_radish_salad"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1277"
+    },
+    {
+      "id": "(S)1283",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_chowder"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1283"
+    },
+    {
+      "id": "(S)1285",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_squid_ink"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1285"
+    },
+    {
+      "id": "PolkaDotShirt_FromRoe",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "id_o_812"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1272"
+    },
+    {
+      "id": "(S)1284",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "id_o_447"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1284"
+    },
+    {
+      "id": "(S)1273",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_poppyseed_muffin"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1273"
+    },
+    {
+      "id": "PourOverShirt_FromEspresso",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_triple_shot_espresso"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1269"
+    },
+    {
+      "id": "PourOverShirt_FromCoffee",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_coffee"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1269"
+    },
+    {
+      "id": "(S)1287",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_green_tea"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1287"
+    },
+    {
+      "id": "(S)1153",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_muscle_remedy"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1153"
+    },
+    {
+      "id": "(S)1006",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_sap"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1006"
+    },
+    {
+      "id": "(S)1007",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fiddlehead_fern"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1007"
+    },
+    {
+      "id": "(S)1008",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_wild_horseradish"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1008"
+    },
+    {
+      "id": "(S)1009",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_duck_mayonnaise"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1009"
+    },
+    {
+      "id": "(S)1010",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_bouquet"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1010"
+    },
+    {
+      "id": "(S)1265",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_ornamental_fan"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1265"
+    },
+    {
+      "id": "(P)11",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "honey_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(P)11"
+    },
+    {
+      "id": "(H)69",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_pearl"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)69"
+    },
+    {
+      "id": "(S)1211",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_frozen_tear"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1211"
+    },
+    {
+      "id": "(S)1214",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_dish_o_the_sea"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1214"
+    },
+    {
+      "id": "(S)1212",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_glazed_yams"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1212"
+    },
+    {
+      "id": "(S)1213",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_escargot"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1213"
+    },
+    {
+      "id": "(S)1215",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_void_essence"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1215"
+    },
+    {
+      "id": "(S)1011",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_cave_carrot"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1011"
+    },
+    {
+      "id": "(S)1012",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_duck_feather"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1012"
+    },
+    {
+      "id": "(S)1013",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_cranberry_candy"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1013"
+    },
+    {
+      "id": "(S)1015",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_chanterelle"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1015"
+    },
+    {
+      "id": "(S)1016",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_blueberry_tart"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1016"
+    },
+    {
+      "id": "(S)1017",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_vegetable_medley"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1017"
+    },
+    {
+      "id": "(S)1018",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_mudstone"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1018"
+    },
+    {
+      "id": "(S)1020",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_bean_hotpot"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1020"
+    },
+    {
+      "id": "(S)1000",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_complete_breakfast"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1000"
+    },
+    {
+      "id": "(S)1247",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_survival_burger"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1247"
+    },
+    {
+      "id": "(H)45",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_lava_eel"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)45"
+    },
+    {
+      "id": "(H)47",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_caviar"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)47"
+    },
+    {
+      "id": "(S)1144",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_emerald"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1144"
+    },
+    {
+      "id": "(S)1145",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_aquamarine"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1145"
+    },
+    {
+      "id": "(S)1146",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_topaz"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1146"
+    },
+    {
+      "id": "(S)1148",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_iron_bar"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1148"
+    },
+    {
+      "id": "(S)1149",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_copper_bar"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1149"
+    },
+    {
+      "id": "(S)1150",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_gold_bar"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1150"
+    },
+    {
+      "id": "(S)1151",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_iridium_bar"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1151"
+    },
+    {
+      "id": "(S)1024",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_goat_milk"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1024"
+    },
+    {
+      "id": "(S)1025",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_l._goat_milk"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1025"
+    },
+    {
+      "id": "(S)1026",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_rice_pudding"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1026"
+    },
+    {
+      "id": "(S)1027",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_bug_meat"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1027"
+    },
+    {
+      "id": "(S)1210",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_strange_bun"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1210"
+    },
+    {
+      "id": "(S)1029",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_stone"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1029"
+    },
+    {
+      "id": "(S)1030",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fried_calamari"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1030"
+    },
+    {
+      "id": "(S)1031",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_baked_fish"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1031"
+    },
+    {
+      "id": "(S)1032",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_salmonberry"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1032"
+    },
+    {
+      "id": "(S)1033",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_salad"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1033"
+    },
+    {
+      "id": "(S)1035",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_holly"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1035"
+    },
+    {
+      "id": "(S)1036",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_sashimi"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1036"
+    },
+    {
+      "id": "(S)1037",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_maki_roll"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1037"
+    },
+    {
+      "id": "(S)1038",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_wool"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1038"
+    },
+    {
+      "id": "(S)1039",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_ice_cream"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1039"
+    },
+    {
+      "id": "(S)1042",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_leek"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1042"
+    },
+    {
+      "id": "(S)1044",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_snow_yam"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1044"
+    },
+    {
+      "id": "(S)1047",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_hardwood"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1047"
+    },
+    {
+      "id": "BasicPullover_FromWood",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_wood"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1176"
+    },
+    {
+      "id": "(S)1048",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_coal"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1048"
+    },
+    {
+      "id": "(S)1051",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_pink_cake"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1051"
+    },
+    {
+      "id": "(S)1052",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_lucky_lunch"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1052"
+    },
+    {
+      "id": "PolkaDotShirt_FromVoidMayonnaise",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_void_mayonnaise"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1272"
+    },
+    {
+      "id": "(S)1053",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_roasted_hazelnuts"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1053"
+    },
+    {
+      "id": "(S)1147",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_jade"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1147"
+    },
+    {
+      "id": "(S)1055",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fried_eel"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1055"
+    },
+    {
+      "id": "(S)1249",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_cheese_cauliflower"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1249"
+    },
+    {
+      "id": "(S)1250",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_carp_surprise"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1250"
+    },
+    {
+      "id": "(S)1251",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_hashbrowns"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1251"
+    },
+    {
+      "id": "(S)1252",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_tortilla"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1252"
+    },
+    {
+      "id": "(S)1257",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_morel"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1257"
+    },
+    {
+      "id": "(S)1258",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_spring_onion"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1258"
+    },
+    {
+      "id": "(S)1255",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_super_meal"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1255"
+    },
+    {
+      "id": "(H)68",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_miners_treat"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)68"
+    },
+    {
+      "id": "(S)1253",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_wheat_flour"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1253"
+    },
+    {
+      "id": "(S)1254",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_sugar"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1254"
+    },
+    {
+      "id": "(S)1256",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_oil"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1256"
+    },
+    {
+      "id": "(S)1236",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_spaghetti"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1236"
+    },
+    {
+      "id": "(S)1057",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fire_quartz"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1057"
+    },
+    {
+      "id": "(S)1058",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_blackberry_cobbler"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1058"
+    },
+    {
+      "id": "RedPartyHat_FromPizza",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_pizza"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)57"
+    },
+    {
+      "id": "BluePartyHat_FromChocolateCake",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_chocolate_cake"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)58"
+    },
+    {
+      "id": "GreenPartyHat_FromFishTaco",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fish_taco"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)59"
+    },
+    {
+      "id": "(S)1059",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_pumpkin_soup"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1059"
+    },
+    {
+      "id": "(S)1186",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_pumpkin_pie"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1186"
+    },
+    {
+      "id": "(S)1181",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_baryte"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1181"
+    },
+    {
+      "id": "(S)1182",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_calcite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1182"
+    },
+    {
+      "id": "(S)1183",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_esperite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1183"
+    },
+    {
+      "id": "(S)1201",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_helvite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1201"
+    },
+    {
+      "id": "(S)1187",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_jagoite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1187"
+    },
+    {
+      "id": "(S)1188",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_lunarite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1188"
+    },
+    {
+      "id": "(S)1189",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_malachite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1189"
+    },
+    {
+      "id": "(S)1190",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_lemon_stone"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1190"
+    },
+    {
+      "id": "(S)1191",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_orpiment"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1191"
+    },
+    {
+      "id": "(S)1192",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_pyrite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1192"
+    },
+    {
+      "id": "(S)1193",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_ocean_stone"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1193"
+    },
+    {
+      "id": "(S)1194",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_tigerseye"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1194"
+    },
+    {
+      "id": "(S)1195",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_jasper"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1195"
+    },
+    {
+      "id": "(S)1196",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_sandstone"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1196"
+    },
+    {
+      "id": "(S)1197",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fire_opal"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1197"
+    },
+    {
+      "id": "(S)1198",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_hematite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1198"
+    },
+    {
+      "id": "(S)1199",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_marble"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1199"
+    },
+    {
+      "id": "(S)1200",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_star_shards"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1200"
+    },
+    {
+      "id": "(S)1203",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_kyanite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1203"
+    },
+    {
+      "id": "(S)1204",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_coconut"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1204"
+    },
+    {
+      "id": "(S)1205",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_jamborite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1205"
+    },
+    {
+      "id": "(S)1206",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fluorapatite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1206"
+    },
+    {
+      "id": "(S)1207",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_petrified_slime"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1207"
+    },
+    {
+      "id": "(S)1185",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_rare_disc"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1185"
+    },
+    {
+      "id": "(S)1061",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_bread"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1061"
+    },
+    {
+      "id": "(S)1062",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_opal"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1062"
+    },
+    {
+      "id": "(S)1063",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_rhubarb_pie"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1063"
+    },
+    {
+      "id": "(S)1064",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_crystal_fruit"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1064"
+    },
+    {
+      "id": "(S)1066",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_cheese"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1066"
+    },
+    {
+      "id": "(S)1067",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_daffodil"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1067"
+    },
+    {
+      "id": "(S)1068",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_farmers_lunch"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1068"
+    },
+    {
+      "id": "(S)1069",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_algae_soup"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1069"
+    },
+    {
+      "id": "(S)1070",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fairy_stone"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1070"
+    },
+    {
+      "id": "(S)1071",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_milk"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1071"
+    },
+    {
+      "id": "(S)1216",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_egg"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1216"
+    },
+    {
+      "id": "(S)1218",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_large_egg"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1218"
+    },
+    {
+      "id": "(S)1072",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fruit_salad"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1072"
+    },
+    {
+      "id": "(S)1073",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_thunder_egg"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1073"
+    },
+    {
+      "id": "(S)1074",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_common_mushroom"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1074"
+    },
+    {
+      "id": "(S)1075",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_wild_bait"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1075"
+    },
+    {
+      "id": "(S)1077",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_cookie"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1077"
+    },
+    {
+      "id": "(S)1078",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_crocus"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1078"
+    },
+    {
+      "id": "(S)1079",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_blackberry"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1079"
+    },
+    {
+      "id": "(S)1081",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_alamite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1081"
+    },
+    {
+      "id": "(S)1083",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_void_egg"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1083"
+    },
+    {
+      "id": "(S)1135",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "strange_doll_1"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1135"
+    },
+    {
+      "id": "(S)1245",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "strange_doll_2"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1245"
+    },
+    {
+      "id": "(S)1248",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "algae_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1248"
+    },
+    {
+      "id": "(S)1243",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_ancient_drum"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1243"
+    },
+    {
+      "id": "(S)1244",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_golden_relic"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1244"
+    },
+    {
+      "id": "(H)67",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "id_o_124"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)67"
+    },
+    {
+      "id": "(S)1246",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fried_egg"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1246"
+    },
+    {
+      "id": "(S)1021",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_omelet"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1021"
+    },
+    {
+      "id": "(S)1085",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_ruby"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1085"
+    },
+    {
+      "id": "(S)1086",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_slate"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1086"
+    },
+    {
+      "id": "(S)1217",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_large_milk"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1217"
+    },
+    {
+      "id": "(S)1088",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_parsnip_soup"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1088"
+    },
+    {
+      "id": "(S)1089",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_amethyst"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1089"
+    },
+    {
+      "id": "(S)1209",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "juice_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1209"
+    },
+    {
+      "id": "(S)1091",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "pickle_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1091"
+    },
+    {
+      "id": "(S)1092",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "jelly_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1092"
+    },
+    {
+      "id": "(S)1093",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_goat_cheese"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1093"
+    },
+    {
+      "id": "(S)1094",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_earth_crystal"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1094"
+    },
+    {
+      "id": "(S)1095",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_rabbits_foot"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1095"
+    },
+    {
+      "id": "(S)1096",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_slime"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1096"
+    },
+    {
+      "id": "(S)1097",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_basalt"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1097"
+    },
+    {
+      "id": "(S)1098",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_neptunite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1098"
+    },
+    {
+      "id": "(S)1099",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_purple_mushroom"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1099"
+    },
+    {
+      "id": "(S)1100",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_celestine"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1100"
+    },
+    {
+      "id": "(S)1101",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_bixite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1101"
+    },
+    {
+      "id": "(S)1102",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_limestone"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1102"
+    },
+    {
+      "id": "(S)1103",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_ghost_crystal"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1103"
+    },
+    {
+      "id": "(S)1104",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_geminite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1104"
+    },
+    {
+      "id": "(S)1105",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_joja_cola"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1105"
+    },
+    {
+      "id": "(S)1106",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_battery_pack"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1106"
+    },
+    {
+      "id": "(S)1107",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_nekoite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1107"
+    },
+    {
+      "id": "(S)1111",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_crispy_bass"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1111"
+    },
+    {
+      "id": "(S)1112",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fried_mushroom"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1112"
+    },
+    {
+      "id": "(S)1180",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_pepper_poppers"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1180"
+    },
+    {
+      "id": "(S)1113",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_dolomite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1113"
+    },
+    {
+      "id": "(S)1184",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_red_plate"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1184"
+    },
+    {
+      "id": "(S)1219",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_solar_essence"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1219"
+    },
+    {
+      "id": "(S)1224",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_diamond"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1224"
+    },
+    {
+      "id": "PrismaticClothes",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_prismatic_shard"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": null
+    },
+    {
+      "id": "(H)62",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_treasure_chest"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)62"
+    },
+    {
+      "id": "(S)1114",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_eggplant_parmesan"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1114"
+    },
+    {
+      "id": "(S)1115",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_aerinite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1115"
+    },
+    {
+      "id": "(S)1116",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_salmon_dinner"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1116"
+    },
+    {
+      "id": "(S)1117",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_roots_platter"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1117"
+    },
+    {
+      "id": "(S)1122",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_granite"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1122"
+    },
+    {
+      "id": "(S)1123",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_bruschetta"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1123"
+    },
+    {
+      "id": "(H)63",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "food_sauce"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)63"
+    },
+    {
+      "id": "(S)1124",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_fish_stew"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1124"
+    },
+    {
+      "id": "(S)1125",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_lobster_bisque"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1125"
+    },
+    {
+      "id": "(S)1126",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_coleslaw"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1126"
+    },
+    {
+      "id": "(H)56",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_blobfish"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)56"
+    },
+    {
+      "id": "(S)1179",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_iridium_ore"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1179"
+    },
+    {
+      "id": "(S)1227",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_chipped_amphora"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1227"
+    },
+    {
+      "id": "(S)1228",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_arrowhead"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1228"
+    },
+    {
+      "id": "(S)1229",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_ancient_doll"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1229"
+    },
+    {
+      "id": "(S)1230",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_elvish_jewelry"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1230"
+    },
+    {
+      "id": "(S)1231",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_chewing_stick"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1231"
+    },
+    {
+      "id": "(S)1232",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "trash_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1232"
+    },
+    {
+      "id": "(S)1233",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_rusty_spoon"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1233"
+    },
+    {
+      "id": "(S)1234",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_rusty_cog"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1234"
+    },
+    {
+      "id": "(S)1235",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "id_o_113"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1235"
+    },
+    {
+      "id": "(S)1237",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_ancient_seed"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1237"
+    },
+    {
+      "id": "(S)1238",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_dried_starfish"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1238"
+    },
+    {
+      "id": "(S)1239",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_anchor"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1239"
+    },
+    {
+      "id": "(S)1240",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_glass_shards"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1240"
+    },
+    {
+      "id": "(S)1241",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_trout_soup"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1241"
+    },
+    {
+      "id": "(S)1263",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "potion_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1263"
+    },
+    {
+      "id": "GeniePants_FromStarfruit",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_starfruit"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(P)8"
+    },
+    {
+      "id": "GeniePants_FromAncientFruit",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_ancient_fruit"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(P)8"
+    },
+    {
+      "id": "(H)65",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_sweet_gem_berry"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)65"
+    },
+    {
+      "id": "(S)1264",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_omni_geode"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1264"
+    },
+    {
+      "id": "DarkBandanaShirt_FromTruffle",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_truffle"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1262"
+    },
+    {
+      "id": "DarkBandanaShirt_FromTruffleOil",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_truffle_oil"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1262"
+    },
+    {
+      "id": "(S)1065",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_artichoke_dip"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1065"
+    },
+    {
+      "id": "(S)1266",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_hazelnut"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1266"
+    },
+    {
+      "id": "(S)1267",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_winter_root"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1267"
+    },
+    {
+      "id": "(P)13",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "fruit_tree_item",
+        "season_summer"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(P)13"
+    },
+    {
+      "id": "(P)12",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "fruit_tree_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(P)12"
+    },
+    {
+      "id": "(P)10",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "slime_egg_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(P)10"
+    },
+    {
+      "id": "(S)1178",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "ore_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1178"
+    },
+    {
+      "id": "(P)3",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "flower_item",
+        "season_spring"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(P)3"
+    },
+    {
+      "id": "Dress_FromOtherFlower",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "flower_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(P)2"
+    },
+    {
+      "id": "(S)1128",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_corn"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1128"
+    },
+    {
+      "id": "TubeTop_SeaCucumber",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_sea_cucumber"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1142"
+    },
+    {
+      "id": "TubeTop_SuperCucumber",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_super_cucumber"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1142"
+    },
+    {
+      "id": "(S)1152",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_cactus_fruit"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1152"
+    },
+    {
+      "id": "(S)1132",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_wheat"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1132"
+    },
+    {
+      "id": "(S)1141",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "item_amaranth"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1141"
+    },
+    {
+      "id": "(S)1129",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "category_vegetable",
+        "season_summer"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1129"
+    },
+    {
+      "id": "(S)1140",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "category_vegetable",
+        "season_fall"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1140"
+    },
+    {
+      "id": "(H)53",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "tree_seed_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)53"
+    },
+    {
+      "id": "(H)54",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "syrup_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)54"
+    },
+    {
+      "id": "(S)1159",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "category_vegetable"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1159"
+    },
+    {
+      "id": "(S)1174",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "fertilizer_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1174"
+    },
+    {
+      "id": "(S)1175",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "quality_fertilizer_item"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1175"
+    },
+    {
+      "id": "(H)55",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "category_fish",
+        "fish_semi_rare"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(H)55"
+    },
+    {
+      "id": "(S)1261",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "fish_crab_pot",
+        "fish_ocean"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1261"
+    },
+    {
+      "id": "(S)1260",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "fish_crab_pot",
+        "fish_freshwater"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1260"
+    },
+    {
+      "id": "(S)1259",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "category_fish",
+        "fish_ocean"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1259"
+    },
+    {
+      "id": "FishingVest_FromLakeFish",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "category_fish",
+        "fish_lake"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1157"
+    },
+    {
+      "id": "FishingVest_FromFishPondFish",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "category_fish",
+        "fish_pond"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1157"
+    },
+    {
+      "id": "FishShirt_FromRiverFish",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "category_fish",
+        "fish_river"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1158"
+    },
+    {
+      "id": "(S)1139",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "forage_item_beach"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(S)1139"
+    },
+    {
+      "id": "(P)1",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "category_fruits",
+        "season_summer"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(P)1"
+    },
+    {
+      "id": "(P)0",
+      "firstItemTags": [
+        "item_cloth"
+      ],
+      "secondItemTags": [
+        "category_fruits"
+      ],
+      "spendRightItem": true,
+      "craftedItemId": "(P)0"
+    }
+  ]
+}

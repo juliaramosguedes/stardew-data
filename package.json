@@ -8,14 +8,17 @@
   },
   "description": "Stardew Valley game data pipeline for AI training and stardew-guide",
   "scripts": {
-    "parse": "node --env-file=.env --experimental-strip-types scripts/index.ts",
-    "parse:data": "node --env-file=.env --experimental-strip-types scripts/index.ts --only data",
-    "parse:sprites": "node --env-file=.env --experimental-strip-types scripts/index.ts --only sprites",
+    "parse": "node --env-file=.env scripts/index.ts",
+    "parse:data": "node --env-file=.env scripts/index.ts --only data",
+    "parse:sprites": "node --env-file=.env scripts/index.ts --only sprites",
+    "parse:en-us": "node --env-file=.env scripts/index.ts --only data --en-us",
+    "parse:pt-br": "node --env-file=.env scripts/index.ts --only data --pt-br",
+    "parse:all": "node --env-file=.env scripts/index.ts --all",
     "typecheck": "tsc --noEmit",
-    "test": "node --env-file=.env --experimental-strip-types --test 'tests/**/*.test.ts'",
-    "test:unit": "node --experimental-strip-types --test 'tests/unit/**/*.test.ts'",
-    "test:integration": "node --env-file=.env --experimental-strip-types --test 'tests/integration/**/*.test.ts'",
-    "test:watch": "node --experimental-strip-types --test --watch 'tests/utils/**/*.test.ts' 'tests/parsers/**/*.test.ts'"
+    "test": "node --env-file=.env --test 'tests/**/*.test.ts'",
+    "test:unit": "node --test 'tests/unit/**/*.test.ts'",
+    "test:integration": "node --env-file=.env --test 'tests/integration/**/*.test.ts'",
+    "test:watch": "node --test --env-file=.env --watch 'tests/**/*.test.ts'"
   },
   "dependencies": {
     "sharp": "^0.34.5",

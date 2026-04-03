@@ -1,0 +1,154 @@
+{
+  "_meta": {
+    "source": "Data/Boots.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.113Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "boots": [
+    {
+      "id": "504",
+      "name": "Sneakers",
+      "description": "Um pouco frágeis... mas na moda!",
+      "sellPrice": 50,
+      "defense": 1,
+      "immunity": 0
+    },
+    {
+      "id": "505",
+      "name": "Rubber Boots",
+      "description": "Proteção das intempéries.",
+      "sellPrice": 50,
+      "defense": 0,
+      "immunity": 1
+    },
+    {
+      "id": "506",
+      "name": "Leather Boots",
+      "description": "O couro é muito maleável.",
+      "sellPrice": 50,
+      "defense": 1,
+      "immunity": 1
+    },
+    {
+      "id": "507",
+      "name": "Work Boots",
+      "description": "Com bicos de aço para proteção extra.",
+      "sellPrice": 50,
+      "defense": 2,
+      "immunity": 0
+    },
+    {
+      "id": "508",
+      "name": "Combat Boots",
+      "description": "Reforçadas com malha de aço.",
+      "sellPrice": 150,
+      "defense": 3,
+      "immunity": 0
+    },
+    {
+      "id": "509",
+      "name": "Tundra Boots",
+      "description": "O tecido felpudo mantém seus calcanhares quentinhos.",
+      "sellPrice": 150,
+      "defense": 2,
+      "immunity": 1
+    },
+    {
+      "id": "510",
+      "name": "Thermal Boots",
+      "description": "Projetadas com temperaturas externas em mente.",
+      "sellPrice": 50,
+      "defense": 1,
+      "immunity": 2
+    },
+    {
+      "id": "511",
+      "name": "Dark Boots",
+      "description": "Feitas com couro negro e espesso.",
+      "sellPrice": 250,
+      "defense": 4,
+      "immunity": 2
+    },
+    {
+      "id": "512",
+      "name": "Firewalker Boots",
+      "description": "Dizem que aguentam o magma mais quente. ",
+      "sellPrice": 250,
+      "defense": 3,
+      "immunity": 3
+    },
+    {
+      "id": "513",
+      "name": "Genie Shoes",
+      "description": "Uma energia curiosa permeia o tecido.",
+      "sellPrice": 250,
+      "defense": 1,
+      "immunity": 6
+    },
+    {
+      "id": "514",
+      "name": "Space Boots",
+      "description": "Um tecido de irídio dá um acabamento púrpura.",
+      "sellPrice": 450,
+      "defense": 4,
+      "immunity": 4
+    },
+    {
+      "id": "515",
+      "name": "Cowboy Boots",
+      "description": "O ápice da moda no interior.",
+      "sellPrice": 250,
+      "defense": 2,
+      "immunity": 2
+    },
+    {
+      "id": "804",
+      "name": "Emily's Magic Boots",
+      "description": "Feitas com amor pela Emily. 100% compostable!",
+      "sellPrice": 250,
+      "defense": 4,
+      "immunity": 4
+    },
+    {
+      "id": "806",
+      "name": "Leprechaun Shoes",
+      "description": "A fivela é feita de ouro puro.",
+      "sellPrice": 250,
+      "defense": 2,
+      "immunity": 1
+    },
+    {
+      "id": "853",
+      "name": "Cinderclown Shoes",
+      "description": "Estes sapatos pertenceram a um famoso bobo da corte Anão.",
+      "sellPrice": 1000,
+      "defense": 6,
+      "immunity": 5
+    },
+    {
+      "id": "854",
+      "name": "Mermaid Boots",
+      "description": "Escamas de sereia dão a estas botas uma aura protetora.",
+      "sellPrice": 1000,
+      "defense": 5,
+      "immunity": 8
+    },
+    {
+      "id": "855",
+      "name": "Dragonscale Boots",
+      "description": "Estas botas cintilantes são extremamente resistentes.",
+      "sellPrice": 1000,
+      "defense": 7,
+      "immunity": 0
+    },
+    {
+      "id": "878",
+      "name": "Crystal Shoes",
+      "description": "Estes sapatos brilhantes vão manter seus pés seguros.",
+      "sellPrice": 1000,
+      "defense": 3,
+      "immunity": 5
+    }
+  ]
+}

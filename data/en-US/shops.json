@@ -1,0 +1,5499 @@
+{
+  "_meta": {
+    "source": "Data/Shops.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:37:44.196Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "shops": [
+    {
+      "id": "AdventureGuildRecovery",
+      "owners": [
+        "Marlon"
+      ],
+      "items": []
+    },
+    {
+      "id": "AdventureShop",
+      "owners": [
+        "Marlon"
+      ],
+      "items": [
+        {
+          "itemId": "(W)0",
+          "name": "Weeds",
+          "price": 250,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)12",
+          "name": "Stone",
+          "price": 250,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)31",
+          "name": "(W)31",
+          "price": 350,
+          "stock": -1
+        },
+        {
+          "itemId": "(B)507",
+          "name": "(B)507",
+          "price": 700,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)17",
+          "name": "(W)17",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)1",
+          "name": "(W)1",
+          "price": 750,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)20",
+          "name": "Leek",
+          "price": 750,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)11",
+          "name": "(W)11",
+          "price": 750,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)43",
+          "name": "(W)43",
+          "price": 850,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)44",
+          "name": "Stone",
+          "price": 1500,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)27",
+          "name": "(W)27",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)10",
+          "name": "Stone",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)7",
+          "name": "(W)7",
+          "price": 4000,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)21",
+          "name": "(W)21",
+          "price": 4500,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)5",
+          "name": "(W)5",
+          "price": 6000,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)50",
+          "name": "Stone",
+          "price": 9000,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)8",
+          "name": "Stone",
+          "price": 9000,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)9",
+          "name": "(W)9",
+          "price": 25000,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)4",
+          "name": "Stone",
+          "price": 50000,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)23",
+          "name": "(W)23",
+          "price": 35000,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)29",
+          "name": "(W)29",
+          "price": 75000,
+          "stock": -1
+        },
+        {
+          "itemId": "(B)504",
+          "name": "(B)504",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(B)506",
+          "name": "(B)506",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(B)509",
+          "name": "(B)509",
+          "price": 750,
+          "stock": -1
+        },
+        {
+          "itemId": "(B)508",
+          "name": "(B)508",
+          "price": 1250,
+          "stock": -1
+        },
+        {
+          "itemId": "(B)512",
+          "name": "(B)512",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(B)511",
+          "name": "(B)511",
+          "price": 2500,
+          "stock": -1
+        },
+        {
+          "itemId": "(B)514",
+          "name": "(B)514",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)529",
+          "name": "Amethyst Ring",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)530",
+          "name": "Topaz Ring",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)531",
+          "name": "Aquamarine Ring",
+          "price": 2500,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)532",
+          "name": "Jade Ring",
+          "price": 2500,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)533",
+          "name": "Emerald Ring",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)534",
+          "name": "Ruby Ring",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)32",
+          "name": "Stone",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)33",
+          "name": "(W)33",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)441",
+          "name": "Explosive Ammo",
+          "price": 300,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)WallSword",
+          "name": "(F)WallSword",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)DecorativeSword",
+          "name": "(F)DecorativeSword",
+          "price": 10000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "AnimalShop",
+      "owners": [
+        "Marnie"
+      ],
+      "items": [
+        {
+          "itemId": "(O)178",
+          "name": "Hay",
+          "price": 50,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)104",
+          "name": "Elvish Jewelry",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)Book_AnimalCatalogue",
+          "name": "Animal Catalogue",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(T)MilkPail",
+          "name": "(T)MilkPail",
+          "price": 1000,
+          "stock": 1
+        },
+        {
+          "itemId": "(T)Shears",
+          "name": "(T)Shears",
+          "price": 1000,
+          "stock": 1
+        },
+        {
+          "itemId": "(BC)165",
+          "name": "Scorpion Carp",
+          "price": 25000,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)45",
+          "name": "(BC)45",
+          "price": 250,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)928",
+          "name": "Golden Egg",
+          "price": 100000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)CowDecal",
+          "name": "(F)CowDecal",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)Doghouse",
+          "name": "(F)Doghouse",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)DarkDoghouse",
+          "name": "(F)DarkDoghouse",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)CatTree",
+          "name": "(F)CatTree",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)DarkCatTree",
+          "name": "(F)DarkCatTree",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)BirdHouse",
+          "name": "(F)BirdHouse",
+          "price": 5000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Blacksmith",
+      "owners": [
+        "Clint"
+      ],
+      "items": [
+        {
+          "itemId": "(O)378",
+          "name": "Copper Ore",
+          "price": 75,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)380",
+          "name": "Iron Ore",
+          "price": 150,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)382",
+          "name": "Coal",
+          "price": 150,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)384",
+          "name": "Gold Ore",
+          "price": 400,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)378",
+          "name": "Copper Ore",
+          "price": 150,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)380",
+          "name": "Iron Ore",
+          "price": 250,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)382",
+          "name": "Coal",
+          "price": 250,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)384",
+          "name": "Gold Ore",
+          "price": 750,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Bookseller",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(O)PurpleBook",
+          "name": "Book Of Stars",
+          "price": 15000,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)Book_Speed",
+          "name": "Way Of The Wind pt. 1",
+          "price": 15000,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)Book_Speed2",
+          "name": "Way Of The Wind pt. 2",
+          "price": 35000,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)Book_Horse",
+          "name": "Book_Horse",
+          "price": 25000,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)Book_Grass",
+          "name": "Book_Grass",
+          "price": 25000,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)Book_QueenOfSauce",
+          "name": "Queen Of Sauce Cookbook",
+          "price": 50000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)SkillBook_2",
+          "name": "Woodcutter's Weekly",
+          "price": 8000,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)Book_PriceCatalogue",
+          "name": "Price Catalogue",
+          "price": 3000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "BooksellerTrade",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(O)709",
+          "name": "Hardwood",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)239",
+          "name": "Stuffing",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)MysteryBox",
+          "name": "Mystery Box",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)872",
+          "name": "Fairy Dust",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)215",
+          "name": "Pepper Poppers",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)DeluxeBait",
+          "name": "Deluxe Bait",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)388",
+          "name": "Wood",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)382",
+          "name": "Coal",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)879",
+          "name": "Monster Musk",
+          "price": -1,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "BoxOffice",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(O)809",
+          "name": "Movie Ticket",
+          "price": -1,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Carpenter",
+      "owners": [
+        "Robin"
+      ],
+      "items": [
+        {
+          "itemId": "(O)388",
+          "name": "Wood",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)390",
+          "name": "Stone",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)BigChest",
+          "name": "(BC)BigChest",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1614",
+          "name": "(F)1614",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1616",
+          "name": "(F)1616",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)0",
+          "name": "Weeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)192",
+          "name": "Potato",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)704",
+          "name": "Dorado",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1120",
+          "name": "(F)1120",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1216",
+          "name": "(F)1216",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1391",
+          "name": "(F)1391",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)3",
+          "name": "(F)3",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)197",
+          "name": "Cheese Cauliflower",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)709",
+          "name": "Hardwood",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1122",
+          "name": "(F)1122",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1218",
+          "name": "(F)1218",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1393",
+          "name": "(F)1393",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)6",
+          "name": "Stone",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)202",
+          "name": "Fried Calamari",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)714",
+          "name": "(F)714",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1124",
+          "name": "(F)1124",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1220",
+          "name": "(F)1220",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1395",
+          "name": "(F)1395",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)BluePinstripeBed",
+          "name": "(F)BluePinstripeBed",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)BluePinstripeDoubleBed",
+          "name": "(F)BluePinstripeDoubleBed",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1402",
+          "name": "(F)1402",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)208",
+          "name": "Glazed Yams",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)211",
+          "name": "Pancakes",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)211",
+          "name": "Pancakes",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)216",
+          "name": "Bread",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)214",
+          "name": "Crispy Bass",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1466",
+          "name": "(F)1466",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1680",
+          "name": "(F)1680",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1468",
+          "name": "(F)1468",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1226",
+          "name": "(F)1226",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)200",
+          "name": "Vegetable Medley",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)35",
+          "name": "(BC)35",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)46",
+          "name": "Stone",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1792",
+          "name": "(F)1792",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1794",
+          "name": "(F)1794",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1798",
+          "name": "(F)1798",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2186",
+          "name": "(F)2186",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2048",
+          "name": "(F)2048",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2052",
+          "name": "(F)2052",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2076",
+          "name": "(F)2076",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)152",
+          "name": "Seaweed",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)153",
+          "name": "Green Algae",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)328",
+          "name": "Wood Floor",
+          "price": 100,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)840",
+          "name": "Rustic Plank Floor",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)329",
+          "name": "Stone Floor",
+          "price": 100,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)293",
+          "name": "Brick Floor",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)841",
+          "name": "Stone Walkway Floor",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)415",
+          "name": "Stepping Stone Path",
+          "price": 100,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)401",
+          "name": "Straw Floor",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)409",
+          "name": "Crystal Path",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)143",
+          "name": "Catfish",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)144",
+          "name": "Pike",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)150",
+          "name": "Red Snapper",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)147",
+          "name": "Herring",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)145",
+          "name": "Sunfish",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)148",
+          "name": "Eel",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)149",
+          "name": "Octopus",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)151",
+          "name": "Squid",
+          "price": -1,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Casino",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(F)1552",
+          "name": "(F)1552",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1545",
+          "name": "(F)1545",
+          "price": 4000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1563",
+          "name": "(F)1563",
+          "price": 4000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1561",
+          "name": "(F)1561",
+          "price": 3000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)2",
+          "name": "Stone",
+          "price": 8000,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)126",
+          "name": "Strange Doll",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)298",
+          "name": "Hardwood Fence",
+          "price": 100,
+          "stock": 20
+        },
+        {
+          "itemId": "(O)703",
+          "name": "Magnet",
+          "price": 1000,
+          "stock": 20
+        },
+        {
+          "itemId": "(O)688",
+          "name": "Warp Totem: Farm",
+          "price": 1000,
+          "stock": 20
+        },
+        {
+          "itemId": "(F)2192",
+          "name": "(F)2192",
+          "price": 8000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)893",
+          "name": "Fireworks (Red)",
+          "price": 200,
+          "stock": 20
+        },
+        {
+          "itemId": "(O)894",
+          "name": "Fireworks (Purple)",
+          "price": 200,
+          "stock": 20
+        },
+        {
+          "itemId": "(O)895",
+          "name": "Fireworks (Green)",
+          "price": 200,
+          "stock": 20
+        },
+        {
+          "itemId": "(WP)MoreWalls:24",
+          "name": "(WP)MoreWalls:24",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(WP)MoreWalls:25",
+          "name": "(WP)MoreWalls:25",
+          "price": 100000,
+          "stock": -1
+        },
+        {
+          "itemId": "(FL)MoreFloors:8",
+          "name": "(FL)MoreFloors:8",
+          "price": 100000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Catalogue",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(WP)MoreWalls:20",
+          "name": "(WP)MoreWalls:20",
+          "price": 0,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "ClintUpgrade",
+      "owners": [
+        "Clint"
+      ],
+      "items": []
+    },
+    {
+      "id": "Concessions",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": []
+    },
+    {
+      "id": "DesertFestival_Abigail",
+      "owners": [
+        "Abigail"
+      ],
+      "items": [
+        {
+          "itemId": "(W)40",
+          "name": "Stone",
+          "price": -1,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Alex",
+      "owners": [
+        "Alex"
+      ],
+      "items": [
+        {
+          "itemId": "(TR)MagicHairDye",
+          "name": "(TR)MagicHairDye",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(W)25",
+          "name": "Stone",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)351",
+          "name": "Muscle Remedy",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)194",
+          "name": "Fried Egg",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)184",
+          "name": "Milk",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)211",
+          "name": "Pancakes",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)210",
+          "name": "Hashbrowns",
+          "price": -1,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Caroline",
+      "owners": [
+        "Caroline"
+      ],
+      "items": [
+        {
+          "itemId": "(O)614",
+          "name": "Green Tea",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)251",
+          "name": "Tea Sapling",
+          "price": -1,
+          "stock": 10
+        },
+        {
+          "itemId": "(F)1449",
+          "name": "(F)1449",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)22",
+          "name": "Dandelion",
+          "price": -1,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Clint",
+      "owners": [
+        "Clint"
+      ],
+      "items": [
+        {
+          "itemId": "(O)382",
+          "name": "Coal",
+          "price": -1,
+          "stock": 50
+        },
+        {
+          "itemId": "(O)378",
+          "name": "Copper Ore",
+          "price": -1,
+          "stock": 100
+        },
+        {
+          "itemId": "(O)380",
+          "name": "Iron Ore",
+          "price": -1,
+          "stock": 100
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Demetrius",
+      "owners": [
+        "Demetrius"
+      ],
+      "items": [
+        {
+          "itemId": "(O)392",
+          "name": "Nautilus Shell",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)396",
+          "name": "Spice Berry",
+          "price": -1,
+          "stock": 3
+        },
+        {
+          "itemId": "(O)466",
+          "name": "Deluxe Speed-Gro",
+          "price": -1,
+          "stock": 100
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_EggShop",
+      "owners": [
+        "Vendor"
+      ],
+      "items": [
+        {
+          "itemId": "(O)MysteryBox",
+          "name": "Mystery Box",
+          "price": -1,
+          "stock": 10
+        },
+        {
+          "itemId": "(H)MummyMask",
+          "name": "(H)MummyMask",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)BlueBow",
+          "name": "(H)BlueBow",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)DarkVelvetBow",
+          "name": "(H)DarkVelvetBow",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)745",
+          "name": "Strawberry Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)288",
+          "name": "Mega Bomb",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)745",
+          "name": "Strawberry Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)770",
+          "name": "Mixed Seeds",
+          "price": -1,
+          "stock": 10
+        },
+        {
+          "itemId": "(O)279",
+          "name": "Magic Rock Candy",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)SunDunes",
+          "name": "(F)SunDunes",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)SandyRug",
+          "name": "(F)SandyRug",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)DesertEndTable",
+          "name": "(F)DesertEndTable",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)CatStatue",
+          "name": "(F)CatStatue",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)DesertTable",
+          "name": "(F)DesertTable",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)DesertChair",
+          "name": "(F)DesertChair",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)DecorativeBarrel",
+          "name": "(F)DecorativeBarrel",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)CatStatue",
+          "name": "(F)CatStatue",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)DesertFireplace",
+          "name": "(F)DesertFireplace",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)DesertFlags",
+          "name": "(F)DesertFlags",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)DesertRug",
+          "name": "(F)DesertRug",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)SkillBook_2",
+          "name": "Woodcutter's Weekly",
+          "price": -1,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Elliott",
+      "owners": [
+        "Elliott"
+      ],
+      "items": [
+        {
+          "itemId": "(W)35",
+          "name": "(W)35",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)717",
+          "name": "Crab",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)814",
+          "name": "Squid Ink",
+          "price": -1,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Emily",
+      "owners": [
+        "Emily"
+      ],
+      "items": [
+        {
+          "itemId": "(O)428",
+          "name": "Cloth",
+          "price": -1,
+          "stock": 3
+        },
+        {
+          "itemId": "(O)74",
+          "name": "Prismatic Shard",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)397",
+          "name": "Sea Urchin",
+          "price": -1,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Evelyn",
+      "owners": [
+        "Evelyn"
+      ],
+      "items": [
+        {
+          "itemId": "(O)223",
+          "name": "Cookie",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)770",
+          "name": "Mixed Seeds",
+          "price": -1,
+          "stock": 25
+        },
+        {
+          "itemId": "(O)18",
+          "name": "Daffodil",
+          "price": -1,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_George",
+      "owners": [
+        "George"
+      ],
+      "items": [
+        {
+          "itemId": "(O)395",
+          "name": "Coffee",
+          "price": -1,
+          "stock": 10
+        },
+        {
+          "itemId": "(O)419",
+          "name": "Vinegar",
+          "price": -1,
+          "stock": 20
+        },
+        {
+          "itemId": "(O)257",
+          "name": "Morel",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)275",
+          "name": "Artifact Trove",
+          "price": -1,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Gus",
+      "owners": [
+        "Gus"
+      ],
+      "items": [
+        {
+          "itemId": "(O)729",
+          "name": "Escargot",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)730",
+          "name": "Lobster Bisque",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)921",
+          "name": "Squid Ink Ravioli",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)231",
+          "name": "Eggplant Parmesan",
+          "price": -1,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Haley",
+      "owners": [
+        "Haley"
+      ],
+      "items": [
+        {
+          "itemId": "(W)42",
+          "name": "Stone",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)221",
+          "name": "Pink Cake",
+          "price": -1,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Harvey",
+      "owners": [
+        "Harvey"
+      ],
+      "items": [
+        {
+          "itemId": "(W)37",
+          "name": "(W)37",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)395",
+          "name": "Coffee",
+          "price": -1,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Jas",
+      "owners": [
+        "Jas"
+      ],
+      "items": [
+        {
+          "itemId": "(O)103",
+          "name": "Ancient Doll",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)425",
+          "name": "Fairy Seeds",
+          "price": -1,
+          "stock": 25
+        },
+        {
+          "itemId": "(O)446",
+          "name": "Rabbit's Foot",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)279",
+          "name": "Magic Rock Candy",
+          "price": -1,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Jodi",
+      "owners": [
+        "Jodi"
+      ],
+      "items": [
+        {
+          "itemId": "(O)214",
+          "name": "Crispy Bass",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)770",
+          "name": "Mixed Seeds",
+          "price": -1,
+          "stock": 25
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Kent",
+      "owners": [
+        "Kent"
+      ],
+      "items": [
+        {
+          "itemId": "(O)259",
+          "name": "Fiddlehead Fern",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(BC)71",
+          "name": "Trimmed Lucky Purple Shorts",
+          "price": -1,
+          "stock": 10
+        },
+        {
+          "itemId": "(BC)211",
+          "name": "Pancakes",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)408",
+          "name": "Hazelnut",
+          "price": -1,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Leah",
+      "owners": [
+        "Leah"
+      ],
+      "items": [
+        {
+          "itemId": "(W)39",
+          "name": "(W)39",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)709",
+          "name": "Hardwood",
+          "price": -1,
+          "stock": 100
+        },
+        {
+          "itemId": "(O)196",
+          "name": "Salad",
+          "price": -1,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Leo",
+      "owners": [
+        "Leo"
+      ],
+      "items": [
+        {
+          "itemId": "(O)906",
+          "name": "Poi",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)907",
+          "name": "Tropical Curry",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)69",
+          "name": "Banana Sapling",
+          "price": -1,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Marnie",
+      "owners": [
+        "Marnie"
+      ],
+      "items": [
+        {
+          "itemId": "(O)297",
+          "name": "Grass Starter",
+          "price": -1,
+          "stock": 100
+        },
+        {
+          "itemId": "(O)178",
+          "name": "Hay",
+          "price": -1,
+          "stock": 150
+        },
+        {
+          "itemId": "(O)432",
+          "name": "Truffle Oil",
+          "price": -1,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Maru",
+      "owners": [
+        "Maru"
+      ],
+      "items": [
+        {
+          "itemId": "(W)36",
+          "name": "Stone",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)337",
+          "name": "Iridium Bar",
+          "price": -1,
+          "stock": 2
+        },
+        {
+          "itemId": "(S)1188",
+          "name": "(S)1188",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)745",
+          "name": "Strawberry Seeds",
+          "price": -1,
+          "stock": 20
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Pam",
+      "owners": [
+        "Pam"
+      ],
+      "items": [
+        {
+          "itemId": "(O)346",
+          "name": "Beer",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)459",
+          "name": "Mead",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)303",
+          "name": "Pale Ale",
+          "price": -1,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Penny",
+      "owners": [
+        "Penny"
+      ],
+      "items": [
+        {
+          "itemId": "(W)38",
+          "name": "Stone",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1907",
+          "name": "(F)1907",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1914",
+          "name": "(F)1914",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1915",
+          "name": "(F)1915",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1916",
+          "name": "(F)1916",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1900",
+          "name": "(F)1900",
+          "price": -1,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Pierre",
+      "owners": [
+        "Pierre"
+      ],
+      "items": [
+        {
+          "itemId": "(O)151",
+          "name": "Squid",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)246",
+          "name": "Wheat Flour",
+          "price": -1,
+          "stock": 100
+        },
+        {
+          "itemId": "(O)247",
+          "name": "Oil",
+          "price": -1,
+          "stock": 100
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Robin",
+      "owners": [
+        "Robin"
+      ],
+      "items": [
+        {
+          "itemId": "(O)388",
+          "name": "Wood",
+          "price": -1,
+          "stock": 500
+        },
+        {
+          "itemId": "(O)390",
+          "name": "Stone",
+          "price": -1,
+          "stock": 500
+        },
+        {
+          "itemId": "(F)1226",
+          "name": "(F)1226",
+          "price": -1,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Sam",
+      "owners": [
+        "Sam"
+      ],
+      "items": [
+        {
+          "itemId": "(W)30",
+          "name": "Lumber",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)731",
+          "name": "Maple Bar",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)167",
+          "name": "Joja Cola",
+          "price": -1,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Sebastian",
+      "owners": [
+        "Sebastian"
+      ],
+      "items": [
+        {
+          "itemId": "(W)41",
+          "name": "(W)41",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)536",
+          "name": "Frozen Geode",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)349",
+          "name": "Energy Tonic",
+          "price": -1,
+          "stock": 5
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Shane",
+      "owners": [
+        "Shane"
+      ],
+      "items": [
+        {
+          "itemId": "(O)206",
+          "name": "Pizza",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)176",
+          "name": "Egg",
+          "price": -1,
+          "stock": 12
+        },
+        {
+          "itemId": "(O)215",
+          "name": "Pepper Poppers",
+          "price": -1,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival_Vincent",
+      "owners": [
+        "Vincent"
+      ],
+      "items": [
+        {
+          "itemId": "(O)771",
+          "name": "Fiber",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)684",
+          "name": "Bug Meat",
+          "price": -1,
+          "stock": 3
+        },
+        {
+          "itemId": "(O)92",
+          "name": "Sap",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)78",
+          "name": "Cave Carrot",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)582",
+          "name": "Skeletal Hand",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)330",
+          "name": "Clay",
+          "price": -1,
+          "stock": 20
+        },
+        {
+          "itemId": "(O)100",
+          "name": "Chipped Amphora",
+          "price": -1,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": "DesertTrade",
+      "owners": [
+        "Closed",
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(O)275",
+          "name": "Artifact Trove",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)261",
+          "name": "Warp Totem: Desert",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)253",
+          "name": "Triple Shot Espresso",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)226",
+          "name": "Spicy Eel",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)288",
+          "name": "Mega Bomb",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)287",
+          "name": "Bomb",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)178",
+          "name": "Hay",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)771",
+          "name": "Fiber",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)428",
+          "name": "Cloth",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)279",
+          "name": "Magic Rock Candy",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)424",
+          "name": "Cheese",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)495",
+          "name": "Spring Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)496",
+          "name": "Summer Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)497",
+          "name": "Fall Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)498",
+          "name": "Winter Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)71",
+          "name": "Trimmed Lucky Purple Shorts",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)261",
+          "name": "Warp Totem: Desert",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)808",
+          "name": "Void Ghost Pendant",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1971",
+          "name": "(F)1971",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)72",
+          "name": "Diamond",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)73",
+          "name": "Golden Walnut",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)74",
+          "name": "Prismatic Shard",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2508",
+          "name": "(F)2508",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)MidnightBeachBed",
+          "name": "(F)MidnightBeachBed",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)MidnightBeachDoubleBed",
+          "name": "(F)MidnightBeachDoubleBed",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)DarkPiano",
+          "name": "(F)DarkPiano",
+          "price": -1,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Dwarf",
+      "owners": [
+        "Dwarf"
+      ],
+      "items": [
+        {
+          "itemId": "(O)Book_Bombs",
+          "name": "Dwarvish Safety Manual",
+          "price": 4000,
+          "stock": 1
+        },
+        {
+          "itemId": "(BC)BigStoneChest",
+          "name": "(BC)BigStoneChest",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)773",
+          "name": "Life Elixir",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)772",
+          "name": "Oil of Garlic",
+          "price": 3000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)286",
+          "name": "Cherry Bomb",
+          "price": 450,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)287",
+          "name": "Bomb",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)288",
+          "name": "Mega Bomb",
+          "price": 1600,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)243",
+          "name": "Miner's Treat",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)138",
+          "name": "Rainbow Trout",
+          "price": 2500,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)32",
+          "name": "Stone",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)331",
+          "name": "Weathered Floor",
+          "price": 500,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Festival_DanceOfTheMoonlightJellies_Pierre",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(F)2626",
+          "name": "(F)2626",
+          "price": 800,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1687",
+          "name": "(F)1687",
+          "price": 1200,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1692",
+          "name": "(F)1692",
+          "price": 1200,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2631",
+          "name": "(F)2631",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2875",
+          "name": "(F)2875",
+          "price": 4000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)265",
+          "name": "Seafoam Pudding",
+          "price": 5000,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": "Festival_EggFestival_Pierre",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(BC)36",
+          "name": "Stone",
+          "price": 400,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)107",
+          "name": "Dinosaur Egg",
+          "price": 2000,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)745",
+          "name": "Strawberry Seeds",
+          "price": 100,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)184",
+          "name": "Milk",
+          "price": 350,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)188",
+          "name": "Green Bean",
+          "price": 350,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1684",
+          "name": "(F)1684",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2624",
+          "name": "(F)2624",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2632",
+          "name": "(F)2632",
+          "price": 1000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Festival_FeastOfTheWinterStar_Pierre",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(F)2625",
+          "name": "(F)2625",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1745",
+          "name": "(F)1745",
+          "price": 800,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1747",
+          "name": "(F)1747",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1678",
+          "name": "(F)1678",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1390",
+          "name": "(F)1390",
+          "price": 700,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)807",
+          "name": "Dinosaur Mayonnaise",
+          "price": 3000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2798",
+          "name": "(F)2798",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2634",
+          "name": "(F)2634",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2633",
+          "name": "(F)2633",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2635",
+          "name": "(F)2635",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2636",
+          "name": "(F)2636",
+          "price": 700,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1440",
+          "name": "(F)1440",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1296",
+          "name": "(F)1296",
+          "price": 800,
+          "stock": -1
+        },
+        {
+          "itemId": "(WP)MoreWalls:19",
+          "name": "(WP)MoreWalls:19",
+          "price": 500,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Festival_FestivalOfIce_TravelingMerchant",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(BC)136",
+          "name": "Largemouth Bass",
+          "price": 5000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)1440",
+          "name": "(F)1440",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(WP)MoreWalls:19",
+          "name": "(WP)MoreWalls:19",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2730",
+          "name": "(F)2730",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2790",
+          "name": "(F)2790",
+          "price": 4000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)800",
+          "name": "Blobfish",
+          "price": 3000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2653",
+          "name": "(F)2653",
+          "price": 800,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2750",
+          "name": "(F)2750",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1401",
+          "name": "(F)1401",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)238",
+          "name": "Cranberry Sauce",
+          "price": 200,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)239",
+          "name": "Stuffing",
+          "price": 200,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)236",
+          "name": "Pumpkin Soup",
+          "price": 250,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": "Festival_FlowerDance_Pierre",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(BC)48",
+          "name": "Stone",
+          "price": 350,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)192",
+          "name": "Potato",
+          "price": 350,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)204",
+          "name": "Lucky Lunch",
+          "price": 350,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)108",
+          "name": "Rare Disc",
+          "price": 250,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)108",
+          "name": "Rare Disc",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)18",
+          "name": "Daffodil",
+          "price": 50,
+          "stock": 10
+        },
+        {
+          "itemId": "(O)22",
+          "name": "Dandelion",
+          "price": 50,
+          "stock": 10
+        },
+        {
+          "itemId": "(BC)137",
+          "name": "Smallmouth Bass",
+          "price": 2500,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)1973",
+          "name": "(F)1973",
+          "price": 800,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1974",
+          "name": "(F)1974",
+          "price": 800,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1820",
+          "name": "(F)1820",
+          "price": 400,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1821",
+          "name": "(F)1821",
+          "price": 400,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Festival_Luau_Pierre",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(F)2654",
+          "name": "(F)2654",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2627",
+          "name": "(F)2627",
+          "price": 800,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2628",
+          "name": "(F)2628",
+          "price": 800,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2629",
+          "name": "(F)2629",
+          "price": 800,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2630",
+          "name": "(F)2630",
+          "price": 800,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1817",
+          "name": "(F)1817",
+          "price": 400,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1818",
+          "name": "(F)1818",
+          "price": 400,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1819",
+          "name": "(F)1819",
+          "price": 400,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1295",
+          "name": "(F)1295",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)268",
+          "name": "Starfruit",
+          "price": 3000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)2397",
+          "name": "(F)2397",
+          "price": 700,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Festival_NightMarket_DecorationBoat",
+      "owners": [
+        "NightMarketClosed",
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(BC)40",
+          "name": "Stone",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)41",
+          "name": "(BC)41",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)42",
+          "name": "Stone",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)43",
+          "name": "(BC)43",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)44",
+          "name": "Stone",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2397",
+          "name": "(F)2397",
+          "price": 800,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2398",
+          "name": "(F)2398",
+          "price": 800,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1975",
+          "name": "(F)1975",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)48",
+          "name": "Stone",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)184",
+          "name": "Milk",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)188",
+          "name": "Green Bean",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)192",
+          "name": "Potato",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)196",
+          "name": "Salad",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)200",
+          "name": "Vegetable Medley",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)204",
+          "name": "Lucky Lunch",
+          "price": 500,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Festival_NightMarket_MagicBoat_Day1",
+      "owners": [
+        "NightMarketClosed",
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(BC)47",
+          "name": "(BC)47",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)52",
+          "name": "Stone",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)39",
+          "name": "(H)39",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)472",
+          "name": "Parsnip Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)473",
+          "name": "Bean Starter",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)474",
+          "name": "Cauliflower Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)475",
+          "name": "Potato Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)427",
+          "name": "Tulip Bulb",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)477",
+          "name": "Kale Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)429",
+          "name": "Jazz Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)476",
+          "name": "Garlic Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1796",
+          "name": "(F)1796",
+          "price": 15000,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)139",
+          "name": "Salmon",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)140",
+          "name": "Walleye",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)131",
+          "name": "Sardine",
+          "price": 2500,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)UprightPiano",
+          "name": "(F)UprightPiano",
+          "price": 100000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Festival_NightMarket_MagicBoat_Day2",
+      "owners": [
+        "NightMarketClosed",
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(BC)33",
+          "name": "(BC)33",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)53",
+          "name": "(BC)53",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)39",
+          "name": "(H)39",
+          "price": 2500,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)479",
+          "name": "Melon Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)480",
+          "name": "Tomato Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)481",
+          "name": "Blueberry Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)482",
+          "name": "Pepper Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)483",
+          "name": "Wheat Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)484",
+          "name": "Radish Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)453",
+          "name": "Poppy Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)455",
+          "name": "Spangle Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)302",
+          "name": "Hops Starter",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)487",
+          "name": "Corn Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)431",
+          "name": "Sunflower Seeds",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)485",
+          "name": "Red Cabbage Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1796",
+          "name": "(F)1796",
+          "price": 15000,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)139",
+          "name": "Salmon",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)140",
+          "name": "Walleye",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)131",
+          "name": "Sardine",
+          "price": 2500,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)UprightPiano",
+          "name": "(F)UprightPiano",
+          "price": 100000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Festival_NightMarket_MagicBoat_Day3",
+      "owners": [
+        "NightMarketClosed",
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(BC)46",
+          "name": "Stone",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)54",
+          "name": "Stone",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)39",
+          "name": "(H)39",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)487",
+          "name": "Corn Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)488",
+          "name": "Eggplant Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)490",
+          "name": "Pumpkin Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)491",
+          "name": "Bok Choy Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)492",
+          "name": "Yam Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)493",
+          "name": "Cranberry Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)483",
+          "name": "Wheat Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)425",
+          "name": "Fairy Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)299",
+          "name": "Amaranth Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)301",
+          "name": "Grape Starter",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)431",
+          "name": "Sunflower Seeds",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)489",
+          "name": "Artichoke Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1796",
+          "name": "(F)1796",
+          "price": 15000,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)139",
+          "name": "Salmon",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)140",
+          "name": "Walleye",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)131",
+          "name": "Sardine",
+          "price": 2500,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)UprightPiano",
+          "name": "(F)UprightPiano",
+          "price": 100000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Festival_SpiritsEve_Pierre",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(BC)113",
+          "name": "Chicken Statue",
+          "price": 5000,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)746",
+          "name": "Jack-O-Lantern",
+          "price": 750,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)746",
+          "name": "Jack-O-Lantern",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)47",
+          "name": "(BC)47",
+          "price": 350,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2870",
+          "name": "(F)2870",
+          "price": 4000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Festival_StardewValleyFair_StarTokens",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(F)1307",
+          "name": "(F)1307",
+          "price": 100,
+          "stock": 1
+        },
+        {
+          "itemId": "(H)19",
+          "name": "(H)19",
+          "price": 500,
+          "stock": 1
+        },
+        {
+          "itemId": "(BC)110",
+          "name": "Rusty Spoon",
+          "price": 800,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)434",
+          "name": "Stardrop",
+          "price": 2000,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)PrizeTicket",
+          "name": "Prize Ticket",
+          "price": 1000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)2488",
+          "name": "(F)2488",
+          "price": 500,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)253",
+          "name": "Triple Shot Espresso",
+          "price": 400,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)215",
+          "name": "Pepper Poppers",
+          "price": 250,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)888",
+          "name": "Glowstone Ring",
+          "price": 1000,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)178",
+          "name": "Hay",
+          "price": 500,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)770",
+          "name": "Mixed Seeds",
+          "price": 1000,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": "FishShop",
+      "owners": [
+        "Willy"
+      ],
+      "items": [
+        {
+          "itemId": "(BC)FishSmoker",
+          "name": "(BC)FishSmoker",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)219",
+          "name": "Trout Soup",
+          "price": 250,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)685",
+          "name": "Bait",
+          "price": 5,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)DeluxeBait",
+          "name": "Deluxe Bait",
+          "price": 100,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)710",
+          "name": "Crab Pot",
+          "price": 1500,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)SonarBobber",
+          "name": "Sonar Bobber",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)686",
+          "name": "Spinner",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)694",
+          "name": "Trap Bobber",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)692",
+          "name": "Lead Bobber",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)693",
+          "name": "Treasure Hunter",
+          "price": 750,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)695",
+          "name": "Cork Bobber",
+          "price": 750,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)691",
+          "name": "Barbed Hook",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)687",
+          "name": "Dressed Spinner",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)703",
+          "name": "Magnet",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(T)BambooPole",
+          "name": "(T)BambooPole",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(T)TrainingRod",
+          "name": "(T)TrainingRod",
+          "price": 25,
+          "stock": -1
+        },
+        {
+          "itemId": "(T)FiberglassRod",
+          "name": "(T)FiberglassRod",
+          "price": 1800,
+          "stock": -1
+        },
+        {
+          "itemId": "(T)IridiumRod",
+          "name": "(T)IridiumRod",
+          "price": 7500,
+          "stock": -1
+        },
+        {
+          "itemId": "(T)AdvancedIridiumRod",
+          "name": "(T)AdvancedIridiumRod",
+          "price": 25000,
+          "stock": -1
+        },
+        {
+          "itemId": "(T)Pan",
+          "name": "(T)Pan",
+          "price": 2500,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2304",
+          "name": "(F)2304",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2322",
+          "name": "(F)2322",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2312",
+          "name": "(F)2312",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)HangingFish",
+          "name": "(F)HangingFish",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2502",
+          "name": "(F)2502",
+          "price": 25000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Furniture Catalogue",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(F)1402",
+          "name": "(F)1402",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1680",
+          "name": "(F)1680",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1466",
+          "name": "(F)1466",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1468",
+          "name": "(F)1468",
+          "price": 0,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "HatMouse",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(H)18",
+          "name": "Daffodil",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)21",
+          "name": "(H)21",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)20",
+          "name": "Leek",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)1",
+          "name": "(H)1",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)3",
+          "name": "(H)3",
+          "price": 25000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)0",
+          "name": "Weeds",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)14",
+          "name": "Stone",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)31",
+          "name": "(H)31",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)32",
+          "name": "Stone",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)26",
+          "name": "(H)26",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)25",
+          "name": "Stone",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)11",
+          "name": "(H)11",
+          "price": 4000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)12",
+          "name": "Stone",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)7",
+          "name": "(H)7",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)35",
+          "name": "(H)35",
+          "price": 4000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)13",
+          "name": "(H)13",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)15",
+          "name": "(H)15",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)29",
+          "name": "(H)29",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)16",
+          "name": "Wild Horseradish",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)23",
+          "name": "(H)23",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)28",
+          "name": "(H)28",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)5",
+          "name": "(H)5",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)24",
+          "name": "Parsnip",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)30",
+          "name": "Lumber",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)6",
+          "name": "Stone",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)22",
+          "name": "Dandelion",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)10",
+          "name": "Stone",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)34",
+          "name": "Stone",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)33",
+          "name": "(H)33",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)9",
+          "name": "(H)9",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)SportsCap",
+          "name": "(H)SportsCap",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)4",
+          "name": "Stone",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)17",
+          "name": "(H)17",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)61",
+          "name": "(H)61",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)JunimoHat",
+          "name": "(H)JunimoHat",
+          "price": 25000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)PaperHat",
+          "name": "(H)PaperHat",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)PageboyCap",
+          "name": "(H)PageboyCap",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)JesterHat",
+          "name": "(H)JesterHat",
+          "price": 25000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)BlueRibbon",
+          "name": "(H)BlueRibbon",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)GovernorsHat",
+          "name": "(H)GovernorsHat",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)WhiteBow",
+          "name": "(H)WhiteBow",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)SpaceHelmet",
+          "name": "(H)SpaceHelmet",
+          "price": 20000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)InfinityCrown",
+          "name": "(H)InfinityCrown",
+          "price": 20000,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)64",
+          "name": "Ruby",
+          "price": 50000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Hospital",
+      "owners": [
+        "Any"
+      ],
+      "items": [
+        {
+          "itemId": "(O)349",
+          "name": "Energy Tonic",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)351",
+          "name": "Muscle Remedy",
+          "price": 1000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "IceCreamStand",
+      "owners": [
+        "OutOfSeason",
+        "NobodyHere",
+        "Default"
+      ],
+      "items": [
+        {
+          "itemId": "(O)233",
+          "name": "Ice Cream",
+          "price": 250,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "IslandTrade",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(O)688",
+          "name": "Warp Totem: Farm",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)831",
+          "name": "Taro Tuber",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)833",
+          "name": "Pineapple Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)791",
+          "name": "Golden Coconut",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2326",
+          "name": "(F)2326",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2331",
+          "name": "(F)2331",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)134",
+          "name": "(F)134",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)69",
+          "name": "Banana Sapling",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)835",
+          "name": "Mango Sapling",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)79",
+          "name": "Secret Note",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)80",
+          "name": "Quartz",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)81",
+          "name": "(H)81",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2496",
+          "name": "(F)2496",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2176",
+          "name": "(F)2176",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2180",
+          "name": "(F)2180",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2393",
+          "name": "(F)2393",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2329",
+          "name": "(F)2329",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1228",
+          "name": "(F)1228",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)292",
+          "name": "Mahogany Seed",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(P)7",
+          "name": "(P)7",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)904",
+          "name": "Banana Pudding",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)920",
+          "name": "Deluxe Retaining Soil",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)896",
+          "name": "Galaxy Soul",
+          "price": -1,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Joja",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(BC)272",
+          "name": "Eggplant",
+          "price": 50000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)167",
+          "name": "Joja Cola",
+          "price": 75,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)JojaCatalogue",
+          "name": "(F)JojaCatalogue",
+          "price": 25000,
+          "stock": -1
+        },
+        {
+          "itemId": "(WP)21",
+          "name": "(WP)21",
+          "price": 20,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1609",
+          "name": "(F)1609",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)472",
+          "name": "Parsnip Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)473",
+          "name": "Bean Starter",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)474",
+          "name": "Cauliflower Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)475",
+          "name": "Potato Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)427",
+          "name": "Tulip Bulb",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)429",
+          "name": "Jazz Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)477",
+          "name": "Kale Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)480",
+          "name": "Tomato Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)482",
+          "name": "Pepper Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)483",
+          "name": "Wheat Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)484",
+          "name": "Radish Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)479",
+          "name": "Melon Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)302",
+          "name": "Hops Starter",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)453",
+          "name": "Poppy Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)455",
+          "name": "Spangle Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)431",
+          "name": "Sunflower Seeds",
+          "price": 100,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)487",
+          "name": "Corn Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)488",
+          "name": "Eggplant Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)483",
+          "name": "Wheat Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)490",
+          "name": "Pumpkin Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)299",
+          "name": "Amaranth Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)301",
+          "name": "Grape Starter",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)492",
+          "name": "Yam Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)491",
+          "name": "Bok Choy Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)493",
+          "name": "Cranberry Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)431",
+          "name": "Sunflower Seeds",
+          "price": 100,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)425",
+          "name": "Fairy Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)297",
+          "name": "Grass Starter",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)245",
+          "name": "Sugar",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)246",
+          "name": "Wheat Flour",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)423",
+          "name": "Rice",
+          "price": -1,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "JojaFurnitureCatalogue",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(WP)21",
+          "name": "(WP)21",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(FL)8",
+          "name": "Stone",
+          "price": 0,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "JunimoFurnitureCatalogue",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(WP)MoreWalls:14",
+          "name": "(WP)MoreWalls:14",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(WP)MoreWalls:12",
+          "name": "(WP)MoreWalls:12",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(WP)MoreWalls:13",
+          "name": "(WP)MoreWalls:13",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(FL)1",
+          "name": "(FL)1",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(FL)49",
+          "name": "(FL)49",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(FL)MoreFloors:5",
+          "name": "(FL)MoreFloors:5",
+          "price": 0,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "LostItems",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": []
+    },
+    {
+      "id": "PetAdoption",
+      "owners": [
+        "Marnie"
+      ],
+      "items": []
+    },
+    {
+      "id": "QiGemShop",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(BC)256",
+          "name": "Tomato",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(BC)256",
+          "name": "Tomato",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)911",
+          "name": "Horse Flute",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)897",
+          "name": "Pierre's Missing Stocklist",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(BC)275",
+          "name": "Artifact Trove",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)913",
+          "name": "Enricher",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)915",
+          "name": "Pressure Nozzle",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)265",
+          "name": "Seafoam Pudding",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)896",
+          "name": "Galaxy Soul",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)891",
+          "name": "Mushroom Tree Seed",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)908",
+          "name": "Magic Bait",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)917",
+          "name": "Qi Seasoning",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)82",
+          "name": "Fire Quartz",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2400",
+          "name": "(F)2400",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)264",
+          "name": "Radish",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)248",
+          "name": "Garlic",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)918",
+          "name": "Hyper Speed-Gro",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)919",
+          "name": "Deluxe Fertilizer",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)275",
+          "name": "Artifact Trove",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)908",
+          "name": "Magic Bait",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)858",
+          "name": "Qi Gem",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2514",
+          "name": "(F)2514",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)BlueGrassStarter",
+          "name": "Blue Grass Starter",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)893",
+          "name": "Fireworks (Red)",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)894",
+          "name": "Fireworks (Purple)",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)895",
+          "name": "Fireworks (Green)",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)928",
+          "name": "Golden Egg",
+          "price": -1,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Raccoon",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(O)Book_WildSeeds",
+          "name": "Ways Of The Wild",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)292",
+          "name": "Mahogany Seed",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)RaccoonHat",
+          "name": "(H)RaccoonHat",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)CarrotSeeds",
+          "name": "Carrot Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)SummerSquashSeeds",
+          "name": "Summer Squash Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)BroccoliSeeds",
+          "name": "Broccoli Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)PowdermelonSeeds",
+          "name": "Powdermelon Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)770",
+          "name": "Mixed Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)872",
+          "name": "Fairy Dust",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)JungleTank",
+          "name": "(F)JungleTank",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)GoldenMysteryBox",
+          "name": "Golden Mystery Box",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)279",
+          "name": "Magic Rock Candy",
+          "price": -1,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "ResortBar",
+      "owners": [
+        "Gus"
+      ],
+      "items": [
+        {
+          "itemId": "(O)873",
+          "name": "Piña Colada",
+          "price": 600,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)346",
+          "name": "Beer",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)303",
+          "name": "Pale Ale",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)459",
+          "name": "Mead",
+          "price": 800,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)612",
+          "name": "Cranberry Candy",
+          "price": 400,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)907",
+          "name": "Tropical Curry",
+          "price": 2000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "RetroFurnitureCatalogue",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(WP)MoreWalls:16",
+          "name": "(WP)MoreWalls:16",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(WP)MoreWalls:17",
+          "name": "(WP)MoreWalls:17",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(WP)MoreWalls:18",
+          "name": "(WP)MoreWalls:18",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(FL)MoreFloors:1",
+          "name": "(FL)MoreFloors:1",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(FL)MoreFloors:2",
+          "name": "(FL)MoreFloors:2",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(FL)MoreFloors:3",
+          "name": "(FL)MoreFloors:3",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(FL)MoreFloors:4",
+          "name": "(FL)MoreFloors:4",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(FL)MoreFloors:7",
+          "name": "(FL)MoreFloors:7",
+          "price": 0,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Saloon",
+      "owners": [
+        "Gus",
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(O)346",
+          "name": "Beer",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)196",
+          "name": "Salad",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)216",
+          "name": "Bread",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)224",
+          "name": "Spaghetti",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)206",
+          "name": "Pizza",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)395",
+          "name": "Coffee",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)210",
+          "name": "Hashbrowns",
+          "price": 50,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)195",
+          "name": "Omelet",
+          "price": 100,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)211",
+          "name": "Pancakes",
+          "price": 100,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)216",
+          "name": "Bread",
+          "price": 100,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)229",
+          "name": "Tortilla",
+          "price": 100,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)206",
+          "name": "Pizza",
+          "price": 150,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)228",
+          "name": "Maki Roll",
+          "price": 300,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)223",
+          "name": "Cookie",
+          "price": 300,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)253",
+          "name": "Triple Shot Espresso",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)732",
+          "name": "Crab Cakes",
+          "price": -1,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Sandy",
+      "owners": [
+        "Sandy"
+      ],
+      "items": [
+        {
+          "itemId": "(O)802",
+          "name": "Cactus Seeds",
+          "price": 150,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)478",
+          "name": "Rhubarb Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)486",
+          "name": "Starfruit Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)494",
+          "name": "Beet Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)196",
+          "name": "Salad",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)88",
+          "name": "Coconut",
+          "price": 200,
+          "stock": 10
+        },
+        {
+          "itemId": "(O)90",
+          "name": "Cactus Fruit",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)749",
+          "name": "Omni Geode",
+          "price": 500,
+          "stock": 3
+        },
+        {
+          "itemId": "(O)466",
+          "name": "Deluxe Speed-Gro",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)340",
+          "name": "Honey",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)371",
+          "name": "Quality Retaining Soil",
+          "price": 200,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)233",
+          "name": "Ice Cream",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(M)MannequinMale",
+          "name": "(M)MannequinMale",
+          "price": 12000,
+          "stock": -1
+        },
+        {
+          "itemId": "(M)MannequinFemale",
+          "name": "(M)MannequinFemale",
+          "price": 12000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)CoatStand",
+          "name": "(F)CoatStand",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)Clothesline",
+          "name": "(F)Clothesline",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2655",
+          "name": "(F)2655",
+          "price": 700,
+          "stock": -1
+        },
+        {
+          "itemId": "(P)0",
+          "name": "Weeds",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(P)1",
+          "name": "(P)1",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(P)2",
+          "name": "Stone",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(P)3",
+          "name": "(P)3",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(P)4",
+          "name": "Stone",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2802",
+          "name": "(F)2802",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2584",
+          "name": "(F)2584",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2794",
+          "name": "(F)2794",
+          "price": 2500,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2784",
+          "name": "(F)2784",
+          "price": 2500,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2748",
+          "name": "(F)2748",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2812",
+          "name": "(F)2812",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)2720",
+          "name": "(F)2720",
+          "price": 3000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "SeedShop",
+      "owners": [
+        "Closed",
+        "Pierre"
+      ],
+      "items": [
+        {
+          "itemId": "(O)472",
+          "name": "Parsnip Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)473",
+          "name": "Bean Starter",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)474",
+          "name": "Cauliflower Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)475",
+          "name": "Potato Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)427",
+          "name": "Tulip Bulb",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)477",
+          "name": "Kale Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)429",
+          "name": "Jazz Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)476",
+          "name": "Garlic Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)273",
+          "name": "Rice Shoot",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)479",
+          "name": "Melon Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)480",
+          "name": "Tomato Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)481",
+          "name": "Blueberry Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)482",
+          "name": "Pepper Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)483",
+          "name": "Wheat Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)484",
+          "name": "Radish Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)453",
+          "name": "Poppy Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)455",
+          "name": "Spangle Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)302",
+          "name": "Hops Starter",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)487",
+          "name": "Corn Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)431",
+          "name": "Sunflower Seeds",
+          "price": 100,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)485",
+          "name": "Red Cabbage Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)490",
+          "name": "Pumpkin Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)487",
+          "name": "Corn Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)488",
+          "name": "Eggplant Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)491",
+          "name": "Bok Choy Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)492",
+          "name": "Yam Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)493",
+          "name": "Cranberry Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)483",
+          "name": "Wheat Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)431",
+          "name": "Sunflower Seeds",
+          "price": 100,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)425",
+          "name": "Fairy Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)299",
+          "name": "Amaranth Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)301",
+          "name": "Grape Starter",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)489",
+          "name": "Artichoke Seeds",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)297",
+          "name": "Grass Starter",
+          "price": 100,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)297",
+          "name": "Grass Starter",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)245",
+          "name": "Sugar",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)246",
+          "name": "Wheat Flour",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)423",
+          "name": "Rice",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)247",
+          "name": "Oil",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)419",
+          "name": "Vinegar",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)368",
+          "name": "Basic Fertilizer",
+          "price": 50,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)370",
+          "name": "Basic Retaining Soil",
+          "price": 50,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)465",
+          "name": "Speed-Gro",
+          "price": 50,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)369",
+          "name": "Quality Fertilizer",
+          "price": 75,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)371",
+          "name": "Quality Retaining Soil",
+          "price": 75,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)466",
+          "name": "Deluxe Speed-Gro",
+          "price": 75,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1308",
+          "name": "(F)1308",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)628",
+          "name": "Cherry Sapling",
+          "price": 1700,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)629",
+          "name": "Apricot Sapling",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)630",
+          "name": "Orange Sapling",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)631",
+          "name": "Peach Sapling",
+          "price": 3000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)632",
+          "name": "Pomegranate Sapling",
+          "price": 3000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)633",
+          "name": "Apple Sapling",
+          "price": 2000,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)Dehydrator",
+          "name": "(BC)Dehydrator",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)458",
+          "name": "Bouquet",
+          "price": -1,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "ShadowShop",
+      "owners": [
+        "Krobus",
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(O)769",
+          "name": "Void Essence",
+          "price": 100,
+          "stock": 10
+        },
+        {
+          "itemId": "(O)768",
+          "name": "Solar Essence",
+          "price": 80,
+          "stock": 10
+        },
+        {
+          "itemId": "(O)766",
+          "name": "Slime",
+          "price": 10,
+          "stock": 50
+        },
+        {
+          "itemId": "(O)749",
+          "name": "Omni Geode",
+          "price": 300,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)770",
+          "name": "Mixed Seeds",
+          "price": 30,
+          "stock": 10
+        },
+        {
+          "itemId": "(O)645",
+          "name": "Iridium Sprinkler",
+          "price": 10000,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)216",
+          "name": "Bread",
+          "price": -1,
+          "stock": 5
+        },
+        {
+          "itemId": "(O)767",
+          "name": "Bat Wing",
+          "price": 30,
+          "stock": 10
+        },
+        {
+          "itemId": "(O)305",
+          "name": "Void Egg",
+          "price": 5000,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)34",
+          "name": "Stone",
+          "price": 350,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)1800",
+          "name": "(F)1800",
+          "price": 20000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)434",
+          "name": "Stardrop",
+          "price": 20000,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)333",
+          "name": "Crystal Floor",
+          "price": 500,
+          "stock": -1
+        },
+        {
+          "itemId": "(BC)83",
+          "name": "(BC)83",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(F)WizardCatalogue",
+          "name": "(F)WizardCatalogue",
+          "price": 150000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)ButterflyPowder",
+          "name": "Butterfly Powder",
+          "price": 20000,
+          "stock": -1
+        },
+        {
+          "itemId": "(T)ReturnScepter",
+          "name": "(T)ReturnScepter",
+          "price": 2000000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "TrashFurnitureCatalogue",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(WP)MoreWalls:22",
+          "name": "(WP)MoreWalls:22",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(WP)MoreWalls:23",
+          "name": "(WP)MoreWalls:23",
+          "price": 0,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "Traveler",
+      "owners": [
+        "NightMarketClosed",
+        "DesertFestivalClosed",
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(O)485",
+          "name": "Red Cabbage Seeds",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)347",
+          "name": "Rare Seed",
+          "price": 1000,
+          "stock": 1
+        },
+        {
+          "itemId": "(BC)136",
+          "name": "Largemouth Bass",
+          "price": 4000,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)433",
+          "name": "Coffee Bean",
+          "price": 2500,
+          "stock": 1
+        },
+        {
+          "itemId": "(H)RedFez",
+          "name": "(H)RedFez",
+          "price": 8000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)JojaCatalogue",
+          "name": "(F)JojaCatalogue",
+          "price": 30000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)JunimoCatalogue",
+          "name": "(F)JunimoCatalogue",
+          "price": 70000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)RetroCatalogue",
+          "name": "(F)RetroCatalogue",
+          "price": 110000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)AbigailPortrait",
+          "name": "(F)AbigailPortrait",
+          "price": 30000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)EmilyPortrait",
+          "name": "(F)EmilyPortrait",
+          "price": 30000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)HaleyPortrait",
+          "name": "(F)HaleyPortrait",
+          "price": 30000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)LeahPortrait",
+          "name": "(F)LeahPortrait",
+          "price": 30000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)PennyPortrait",
+          "name": "(F)PennyPortrait",
+          "price": 30000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)MaruPortrait",
+          "name": "(F)MaruPortrait",
+          "price": 30000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)AlexPortrait",
+          "name": "(F)AlexPortrait",
+          "price": 30000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)SebastianPortrait",
+          "name": "(F)SebastianPortrait",
+          "price": 30000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)HarveyPortrait",
+          "name": "(F)HarveyPortrait",
+          "price": 30000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)SamPortrait",
+          "name": "(F)SamPortrait",
+          "price": 30000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)ElliottPortrait",
+          "name": "(F)ElliottPortrait",
+          "price": 30000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)ShanePortrait",
+          "name": "(F)ShanePortrait",
+          "price": 30000,
+          "stock": 1
+        },
+        {
+          "itemId": "(F)KrobusPortrait",
+          "name": "(F)KrobusPortrait",
+          "price": 30000,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)341",
+          "name": "Tea Set",
+          "price": 1000000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)801",
+          "name": "Wedding Ring",
+          "price": 500,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "id": "VolcanoShop",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(B)853",
+          "name": "(B)853",
+          "price": -1,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)Book_Diamonds",
+          "name": "The Diamond Hunter",
+          "price": -1,
+          "stock": 1
+        },
+        {
+          "itemId": "(O)286",
+          "name": "Cherry Bomb",
+          "price": 450,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)287",
+          "name": "Bomb",
+          "price": 1000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)288",
+          "name": "Mega Bomb",
+          "price": 1600,
+          "stock": -1
+        },
+        {
+          "itemId": "(H)77",
+          "name": "Stone",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)886",
+          "name": "Warp Totem: Island",
+          "price": 10000,
+          "stock": -1
+        },
+        {
+          "itemId": "(O)903",
+          "name": "Ginger Ale",
+          "price": 1000,
+          "stock": -1
+        }
+      ]
+    },
+    {
+      "id": "WizardFurnitureCatalogue",
+      "owners": [
+        "AnyOrNone"
+      ],
+      "items": [
+        {
+          "itemId": "(WP)MoreWalls:9",
+          "name": "(WP)MoreWalls:9",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(WP)MoreWalls:10",
+          "name": "(WP)MoreWalls:10",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(WP)12",
+          "name": "Stone",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(FL)51",
+          "name": "(FL)51",
+          "price": 0,
+          "stock": -1
+        },
+        {
+          "itemId": "(FL)1",
+          "name": "(FL)1",
+          "price": 0,
+          "stock": -1
+        }
+      ]
+    }
+  ]
+}

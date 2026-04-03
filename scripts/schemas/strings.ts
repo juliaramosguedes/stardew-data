@@ -53,3 +53,45 @@ export const NPC_GIFT_TASTE_FIELDS = [
   "neutralText",
   "neutralIds",
 ] as const
+
+export const FURNITURE_FIELDS = [
+  "name",
+  "type",
+  "tileSize",
+  "boundingBox",
+  "rotations",
+  "price",
+  "placementRestriction",
+  "displayName",
+] as const
+
+export const HAT_FIELDS = [
+  "name",
+  "description",
+  "showRealHair",
+  "skipHairstyleOffset",
+  "metadata",
+  "displayName",
+] as const
+
+export const BOOTS_FIELDS = [
+  "name",
+  "description",
+  "price",
+  "defense",
+  "immunity",
+  "colorIndex",
+  "displayName",
+] as const
+
+export const QUEST_FIELDS = [
+  "type",
+  "title",
+  "description",
+  "objective",
+  "target",
+  "rewardDetails",
+  "rewardMoney",
+  "nextQuestId",
+  "isDailyQuest",
+] as const

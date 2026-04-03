@@ -1,16 +1,17 @@
 import path from "node:path"
-import { RAW_DATA, OUT_PROCESSED } from "../config.ts"
+import { RAW, RAW_DATA, LOCALE, OUT_DATA } from "../config.ts"
 import { readJson, writeJson, meta, log } from "../utils.ts"
 import { RawWeaponSchema, validateSample } from "../schemas/raw.ts"
+import { StringsResolver } from "../utils/locale.ts"
 import type { RawWeapon, ProcessedWeapon } from "../types.ts"
 
-const OUT_FILE = path.join(OUT_PROCESSED, "weapons.json")
+const OUT_FILE = path.join(OUT_DATA, "weapons.json")
 
-export function parseWeaponEntry(id: string, w: RawWeapon): ProcessedWeapon {
+export function parseWeaponEntry(id: string, w: RawWeapon, resolver?: StringsResolver): ProcessedWeapon {
   return {
     id,
-    name: w.Name,
-    description: w.Description,
+    name: resolver?.lookupName("Weapons", id) ?? w.Name,
+    description: resolver?.lookupDescription("Weapons", id) ?? w.Description,
     type: w.Type,
     minDamage: w.MinDamage,
     maxDamage: w.MaxDamage,
@@ -23,13 +24,14 @@ export function parseWeaponEntry(id: string, w: RawWeapon): ProcessedWeapon {
 }
 
 export function parseWeapons(): ProcessedWeapon[] {
+  const resolver = new StringsResolver(RAW, LOCALE)
   const raw = readJson<Record<string, RawWeapon>>(
     path.join(RAW_DATA, "Weapons.json")
   )
   validateSample(raw, RawWeaponSchema)
 
   const weapons: ProcessedWeapon[] = Object.entries(raw).map(([id, w]) =>
-    parseWeaponEntry(id, w)
+    parseWeaponEntry(id, w, resolver)
   )
 
   const result = {

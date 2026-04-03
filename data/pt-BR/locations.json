@@ -1,0 +1,1065 @@
+{
+  "_meta": {
+    "source": "Data/Locations.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.106Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "locations": [
+    {
+      "id": "Backwoods",
+      "fish": [
+        {
+          "itemId": "(O)136",
+          "name": "Largemouth Bass",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)142",
+          "name": "Carp",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)153",
+          "name": "Green Algae",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)702",
+          "name": "Chub",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)700",
+          "name": "Bullhead",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)163",
+          "name": "Legend",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)138",
+          "name": "Rainbow Trout",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)698",
+          "name": "Sturgeon",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)140",
+          "name": "Walleye",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)141",
+          "name": "Perch",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)707",
+          "name": "Lingcod",
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "Beach",
+      "fish": [
+        {
+          "itemId": "(O)159",
+          "name": "Crimsonfish",
+          "chance": 0.18
+        },
+        {
+          "itemId": "(O)898",
+          "name": "Son of Crimsonfish",
+          "chance": 0.18
+        },
+        {
+          "itemId": "(O)129",
+          "name": "Anchovy",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)131",
+          "name": "Sardine",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)147",
+          "name": "Herring",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)148",
+          "name": "Eel",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)152",
+          "name": "Seaweed",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)708",
+          "name": "Halibut",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)267",
+          "name": "Flounder",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)128",
+          "name": "Pufferfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)130",
+          "name": "Tuna",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)146",
+          "name": "Red Mullet",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)149",
+          "name": "Octopus",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)150",
+          "name": "Red Snapper",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)155",
+          "name": "Super Cucumber",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)701",
+          "name": "Tilapia",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)154",
+          "name": "Sea Cucumber",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)705",
+          "name": "Albacore",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)151",
+          "name": "Squid",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)151",
+          "name": "Squid",
+          "chance": 0.35
+        },
+        {
+          "itemId": "(O)151",
+          "name": "Squid",
+          "chance": 0.5
+        },
+        {
+          "itemId": "(O)SeaJelly",
+          "name": "Sea Jelly",
+          "chance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "BeachNightMarket",
+      "fish": [
+        {
+          "itemId": "(O)898",
+          "name": "Son of Crimsonfish",
+          "chance": 0.18
+        }
+      ]
+    },
+    {
+      "id": "BugLand",
+      "fish": [
+        {
+          "itemId": "(O)796",
+          "name": "Slimejack",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)142",
+          "name": "Carp",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)153",
+          "name": "Green Algae",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)157",
+          "name": "White Algae",
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "Caldera",
+      "fish": [
+        {
+          "itemId": "(O)162",
+          "name": "Lava Eel",
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)162",
+          "name": "Lava Eel",
+          "chance": 0.2
+        },
+        {
+          "itemId": "(O)162",
+          "name": "Lava Eel",
+          "chance": 0.3
+        },
+        {
+          "itemId": "(O)162",
+          "name": "Lava Eel",
+          "chance": 0.4
+        },
+        {
+          "itemId": "(O)162",
+          "name": "Lava Eel",
+          "chance": 0.5
+        },
+        {
+          "itemId": "(O)162",
+          "name": "Lava Eel",
+          "chance": 0.6
+        },
+        {
+          "itemId": "(O)162",
+          "name": "Lava Eel",
+          "chance": 0.7
+        },
+        {
+          "itemId": "(O)162",
+          "name": "Lava Eel",
+          "chance": 0.8
+        }
+      ]
+    },
+    {
+      "id": "Default",
+      "fish": [
+        {
+          "itemId": "(O)890",
+          "name": "Qi Bean",
+          "chance": 0.15
+        }
+      ]
+    },
+    {
+      "id": "Desert",
+      "fish": [
+        {
+          "itemId": "(O)153",
+          "name": "Green Algae",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)164",
+          "name": "Sandfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)165",
+          "name": "Scorpion Carp",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)RiverJelly",
+          "name": "River Jelly",
+          "chance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "Farm_Beach",
+      "fish": [
+        {
+          "itemId": "(O)152",
+          "name": "Seaweed",
+          "chance": 0.15
+        }
+      ]
+    },
+    {
+      "id": "Farm_Forest",
+      "fish": [
+        {
+          "itemId": "(O)734",
+          "name": "Woodskip",
+          "chance": 0.05
+        }
+      ]
+    },
+    {
+      "id": "Farm_FourCorners",
+      "fish": [
+        {
+          "itemId": "(O)103",
+          "name": "Ancient Doll",
+          "chance": 0.5
+        }
+      ]
+    },
+    {
+      "id": "fishingGame",
+      "fish": [
+        {
+          "itemId": "(O)153",
+          "name": "Green Algae",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)145",
+          "name": "Sunfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)143",
+          "name": "Catfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)137",
+          "name": "Smallmouth Bass",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)139",
+          "name": "Salmon",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)706",
+          "name": "Shad",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)702",
+          "name": "Chub",
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "Forest",
+      "fish": [
+        {
+          "itemId": "(O)775",
+          "name": "Glacierfish",
+          "chance": 0.5
+        },
+        {
+          "itemId": "(O)902",
+          "name": "Glacierfish Jr.",
+          "chance": 0.5
+        },
+        {
+          "itemId": "(O)Goby",
+          "name": "Goby",
+          "chance": 0.15
+        },
+        {
+          "itemId": "(O)139",
+          "name": "Salmon",
+          "chance": 0.15
+        },
+        {
+          "itemId": "(O)153",
+          "name": "Green Algae",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)145",
+          "name": "Sunfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)143",
+          "name": "Catfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)137",
+          "name": "Smallmouth Bass",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)132",
+          "name": "Bream",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)706",
+          "name": "Shad",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)702",
+          "name": "Chub",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)144",
+          "name": "Pike",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)138",
+          "name": "Rainbow Trout",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)138",
+          "name": "Rainbow Trout",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)704",
+          "name": "Dorado",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)140",
+          "name": "Walleye",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)139",
+          "name": "Salmon",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)699",
+          "name": "Tiger Trout",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)269",
+          "name": "Midnight Carp",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)141",
+          "name": "Perch",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)707",
+          "name": "Lingcod",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)RiverJelly",
+          "name": "River Jelly",
+          "chance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "IslandNorth",
+      "fish": [
+        {
+          "itemId": "(O)821",
+          "name": "Fossilized Spine",
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)701",
+          "name": "Tilapia",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)838",
+          "name": "Blue Discus",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)269",
+          "name": "Midnight Carp",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)RiverJelly",
+          "name": "River Jelly",
+          "chance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "IslandSouth",
+      "fish": [
+        {
+          "itemId": "(O)155",
+          "name": "Super Cucumber",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)130",
+          "name": "Tuna",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)128",
+          "name": "Pufferfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)267",
+          "name": "Flounder",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)837",
+          "name": "Lionfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)SeaJelly",
+          "name": "Sea Jelly",
+          "chance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "IslandSouthEast",
+      "fish": [
+        {
+          "itemId": "(O)155",
+          "name": "Super Cucumber",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)130",
+          "name": "Tuna",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)128",
+          "name": "Pufferfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)267",
+          "name": "Flounder",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)837",
+          "name": "Lionfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)SeaJelly",
+          "name": "Sea Jelly",
+          "chance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "IslandSouthEastCave",
+      "fish": [
+        {
+          "itemId": "(O)155",
+          "name": "Super Cucumber",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)130",
+          "name": "Tuna",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)128",
+          "name": "Pufferfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)267",
+          "name": "Flounder",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)836",
+          "name": "Stingray",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)SeaJelly",
+          "name": "Sea Jelly",
+          "chance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "IslandWest",
+      "fish": [
+        {
+          "itemId": "(O)825",
+          "name": "Snake Skull",
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)149",
+          "name": "Octopus",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)155",
+          "name": "Super Cucumber",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)130",
+          "name": "Tuna",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)128",
+          "name": "Pufferfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)267",
+          "name": "Flounder",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)837",
+          "name": "Lionfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)701",
+          "name": "Tilapia",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)838",
+          "name": "Blue Discus",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)269",
+          "name": "Midnight Carp",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)RiverJelly",
+          "name": "River Jelly",
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)SeaJelly",
+          "name": "Sea Jelly",
+          "chance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "Mountain",
+      "fish": [
+        {
+          "itemId": "(O)163",
+          "name": "Legend",
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)900",
+          "name": "Legend II",
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)136",
+          "name": "Largemouth Bass",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)142",
+          "name": "Carp",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)153",
+          "name": "Green Algae",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)702",
+          "name": "Chub",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)700",
+          "name": "Bullhead",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)138",
+          "name": "Rainbow Trout",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)698",
+          "name": "Sturgeon",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)140",
+          "name": "Walleye",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)269",
+          "name": "Midnight Carp",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)141",
+          "name": "Perch",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)707",
+          "name": "Lingcod",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)RiverJelly",
+          "name": "River Jelly",
+          "chance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "Sewer",
+      "fish": [
+        {
+          "itemId": "(O)682",
+          "name": "Mutant Carp",
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)901",
+          "name": "Radioactive Carp",
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)142",
+          "name": "Carp",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)153",
+          "name": "Green Algae",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)157",
+          "name": "White Algae",
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "Submarine",
+      "fish": [
+        {
+          "itemId": "(O)800",
+          "name": "Blobfish",
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)799",
+          "name": "Spook Fish",
+          "chance": 0.18
+        },
+        {
+          "itemId": "(O)798",
+          "name": "Midnight Squid",
+          "chance": 0.28
+        },
+        {
+          "itemId": "(O)154",
+          "name": "Sea Cucumber",
+          "chance": 0.1
+        },
+        {
+          "itemId": "(O)155",
+          "name": "Super Cucumber",
+          "chance": 0.08
+        },
+        {
+          "itemId": "(O)149",
+          "name": "Octopus",
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)797",
+          "name": "Pearl",
+          "chance": 0.01
+        },
+        {
+          "itemId": "(O)152",
+          "name": "Seaweed",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)SeaJelly",
+          "name": "Sea Jelly",
+          "chance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "Temp",
+      "fish": [
+        {
+          "itemId": "(O)153",
+          "name": "Green Algae",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)145",
+          "name": "Sunfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)141",
+          "name": "Perch",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)707",
+          "name": "Lingcod",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)269",
+          "name": "Midnight Carp",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)144",
+          "name": "Pike",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)146",
+          "name": "Red Mullet",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)137",
+          "name": "Smallmouth Bass",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)132",
+          "name": "Bream",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)706",
+          "name": "Shad",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)702",
+          "name": "Chub",
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "Town",
+      "fish": [
+        {
+          "itemId": "(O)160",
+          "name": "Angler",
+          "chance": 0.2
+        },
+        {
+          "itemId": "(O)899",
+          "name": "Ms. Angler",
+          "chance": 0.2
+        },
+        {
+          "itemId": "(O)137",
+          "name": "Smallmouth Bass",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)132",
+          "name": "Bream",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)143",
+          "name": "Catfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)145",
+          "name": "Sunfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)153",
+          "name": "Green Algae",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)706",
+          "name": "Shad",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)138",
+          "name": "Rainbow Trout",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)144",
+          "name": "Pike",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)139",
+          "name": "Salmon",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)140",
+          "name": "Walleye",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)699",
+          "name": "Tiger Trout",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)141",
+          "name": "Perch",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)707",
+          "name": "Lingcod",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)RiverJelly",
+          "name": "River Jelly",
+          "chance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "UndergroundMine",
+      "fish": [
+        {
+          "itemId": "(O)153",
+          "name": "Green Algae",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)156",
+          "name": "Ghostfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)157",
+          "name": "White Algae",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)CaveJelly",
+          "name": "Cave Jelly",
+          "chance": 0.1
+        }
+      ]
+    },
+    {
+      "id": "WitchSwamp",
+      "fish": [
+        {
+          "itemId": "(O)308",
+          "name": "Void Mayonnaise",
+          "chance": 0.05
+        },
+        {
+          "itemId": "(O)795",
+          "name": "Void Salmon",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)153",
+          "name": "Green Algae",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)143",
+          "name": "Catfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)157",
+          "name": "White Algae",
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "Woods",
+      "fish": [
+        {
+          "itemId": "(O)734",
+          "name": "Woodskip",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)142",
+          "name": "Carp",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)143",
+          "name": "Catfish",
+          "chance": 1
+        },
+        {
+          "itemId": "(O)RiverJelly",
+          "name": "River Jelly",
+          "chance": 0.1
+        }
+      ]
+    }
+  ]
+}

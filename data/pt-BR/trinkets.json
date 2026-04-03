@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "source": "Data/Trinkets.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.126Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "trinkets": [
+    {
+      "id": "MagicHairDye",
+      "texture": "TileSheets\\Objects_2",
+      "sheetIndex": 1,
+      "effectClass": "StardewValley.Objects.Trinkets.RainbowHairTrinketEffect",
+      "dropsNaturally": false,
+      "canBeReforged": false
+    },
+    {
+      "id": "FrogEgg",
+      "texture": "TileSheets\\Objects_2",
+      "sheetIndex": 6,
+      "effectClass": "StardewValley.Objects.Trinkets.CompanionTrinketEffect",
+      "dropsNaturally": true,
+      "canBeReforged": true
+    },
+    {
+      "id": "MagicQuiver",
+      "texture": "TileSheets\\Objects_2",
+      "sheetIndex": 73,
+      "effectClass": "StardewValley.Objects.Trinkets.MagicQuiverTrinketEffect",
+      "dropsNaturally": true,
+      "canBeReforged": true
+    },
+    {
+      "id": "FairyBox",
+      "texture": "TileSheets\\Objects_2",
+      "sheetIndex": 74,
+      "effectClass": "StardewValley.Objects.Trinkets.FairyBoxTrinketEffect",
+      "dropsNaturally": true,
+      "canBeReforged": true
+    },
+    {
+      "id": "ParrotEgg",
+      "texture": "TileSheets\\Objects_2",
+      "sheetIndex": 2,
+      "effectClass": "StardewValley.Objects.Trinkets.TrinketEffect",
+      "dropsNaturally": true,
+      "canBeReforged": true
+    },
+    {
+      "id": "IceRod",
+      "texture": "TileSheets\\Objects_2",
+      "sheetIndex": 78,
+      "effectClass": "StardewValley.Objects.Trinkets.IceOrbTrinketEffect",
+      "dropsNaturally": true,
+      "canBeReforged": true
+    },
+    {
+      "id": "IridiumSpur",
+      "texture": "TileSheets\\Objects_2",
+      "sheetIndex": 76,
+      "effectClass": "StardewValley.Objects.Trinkets.TrinketEffect",
+      "dropsNaturally": true,
+      "canBeReforged": true
+    },
+    {
+      "id": "BasiliskPaw",
+      "texture": "TileSheets\\Objects_2",
+      "sheetIndex": 77,
+      "effectClass": "StardewValley.Objects.Trinkets.TrinketEffect",
+      "dropsNaturally": true,
+      "canBeReforged": false
+    }
+  ]
+}

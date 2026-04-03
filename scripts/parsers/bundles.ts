@@ -1,13 +1,14 @@
 import path from "node:path"
-import { RAW_DATA, OUT_PROCESSED } from "../config.ts"
+import { RAW, RAW_DATA, LOCALE, OUT_DATA } from "../config.ts"
 import { readJson, writeJson, meta, log } from "../utils.ts"
+import { loadLocaleData } from "../utils/locale.ts"
 import { parseSlashFields } from "../utils/parse.ts"
 import { parseIngredientTriplets, type ObjectLookup } from "../utils/game.ts"
 import { BUNDLE_FIELDS } from "../schemas/strings.ts"
 import { BundleParsedSchema } from "../schemas/raw.ts"
 import type { ProcessedBundle } from "../types.ts"
 
-const OUT_FILE = path.join(OUT_PROCESSED, "bundles.json")
+const OUT_FILE = path.join(OUT_DATA, "bundles.json")
 
 export function parseBundleEntry(
   key: string,
@@ -31,7 +32,7 @@ export function parseBundleEntry(
 }
 
 export function parseBundles(): ProcessedBundle[] {
-  const raw = readJson<Record<string, string>>(path.join(RAW_DATA, "Bundles.json"))
+  const raw = loadLocaleData<Record<string, string>>("Data/Bundles.json", LOCALE, RAW)
   const lookup = readJson<ObjectLookup>(path.join(RAW_DATA, "Objects.json"))
 
   const bundles = Object.entries(raw).map(([key, data]) =>

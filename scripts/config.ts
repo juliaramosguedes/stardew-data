@@ -13,6 +13,26 @@ if (!fs.existsSync(rawPath)) {
   process.exit(1)
 }
 
+const LOCALE_FLAGS: Record<string, string> = {
+  "--en-us": "en-US",
+  "--pt-br": "pt-BR",
+  "--de-de": "de-DE",
+  "--es-es": "es-ES",
+  "--fr-fr": "fr-FR",
+  "--hu-hu": "hu-HU",
+  "--it-it": "it-IT",
+  "--ja-jp": "ja-JP",
+  "--ko-kr": "ko-KR",
+  "--ru-ru": "ru-RU",
+  "--tr-tr": "tr-TR",
+  "--zh-cn": "zh-CN",
+}
+
+export const SUPPORTED_LOCALES = Object.values(LOCALE_FLAGS)
+
+const localeArg = process.argv.slice(2).find(a => a in LOCALE_FLAGS)
+export const LOCALE = localeArg ? LOCALE_FLAGS[localeArg] : "en-US"
+
 export const RAW = rawPath
 export const RAW_DATA = path.join(RAW, "Data")
 export const RAW_TILESHEETS = path.join(RAW, "TileSheets")
@@ -22,7 +42,7 @@ export const RAW_MAPS = path.join(RAW, "Maps")
 export const RAW_BUILDINGS = path.join(RAW, "Buildings")
 export const RAW_LOOSE_SPRITES = path.join(RAW, "LooseSprites")
 
-export const OUT_PROCESSED = path.join(process.cwd(), "processed")
+export const OUT_DATA = path.join(process.cwd(), "data", LOCALE)
 export const OUT_SPRITES = path.join(process.cwd(), "sprites")
 
 export const GAME_VERSION = "1.6.15"

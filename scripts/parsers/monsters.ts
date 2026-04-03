@@ -1,13 +1,14 @@
 import path from "node:path"
-import { RAW_DATA, OUT_PROCESSED } from "../config.ts"
+import { RAW, RAW_DATA, LOCALE, OUT_DATA } from "../config.ts"
 import { readJson, writeJson, meta, log } from "../utils.ts"
+import { loadLocaleData } from "../utils/locale.ts"
 import { parseSlashFields } from "../utils/parse.ts"
 import { parseDropPairs, type ObjectLookup } from "../utils/game.ts"
 import { MONSTER_FIELDS } from "../schemas/strings.ts"
 import { MonsterParsedSchema } from "../schemas/raw.ts"
 import type { ProcessedMonster } from "../types.ts"
 
-const OUT_FILE = path.join(OUT_PROCESSED, "monsters.json")
+const OUT_FILE = path.join(OUT_DATA, "monsters.json")
 
 export function parseMonsterEntry(
   id: string,
@@ -30,7 +31,7 @@ export function parseMonsterEntry(
 }
 
 export function parseMonsters(): ProcessedMonster[] {
-  const raw = readJson<Record<string, string>>(path.join(RAW_DATA, "Monsters.json"))
+  const raw = loadLocaleData<Record<string, string>>("Data/Monsters.json", LOCALE, RAW)
   const lookup = readJson<ObjectLookup>(path.join(RAW_DATA, "Objects.json"))
 
   const monsters = Object.entries(raw).map(([id, data]) =>

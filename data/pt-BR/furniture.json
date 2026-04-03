@@ -1,0 +1,5815 @@
+{
+  "_meta": {
+    "source": "Data/Furniture.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.116Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "furniture": [
+    {
+      "id": "0",
+      "name": "Oak Chair",
+      "type": "chair",
+      "sellPrice": 350,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "3",
+      "name": "Walnut Chair",
+      "type": "chair",
+      "sellPrice": 350,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "6",
+      "name": "Birch Chair",
+      "type": "chair",
+      "sellPrice": 350,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "9",
+      "name": "Mahogany Chair",
+      "type": "chair",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "12",
+      "name": "Red Diner Chair",
+      "type": "chair",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "15",
+      "name": "Blue Diner Chair",
+      "type": "chair",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "18",
+      "name": "Country Chair",
+      "type": "chair",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "21",
+      "name": "Breakfast Chair",
+      "type": "chair",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "24",
+      "name": "Pink Office Chair",
+      "type": "chair",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "27",
+      "name": "Purple Office Chair",
+      "type": "chair",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "30",
+      "name": "Green Office Stool",
+      "type": "chair",
+      "sellPrice": 350,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "31",
+      "name": "Orange Office Stool",
+      "type": "chair",
+      "sellPrice": 350,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "64",
+      "name": "Dark Throne",
+      "type": "chair",
+      "sellPrice": 2000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "67",
+      "name": "Dining Chair",
+      "type": "chair",
+      "sellPrice": 1200,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "70",
+      "name": "Dining Chair",
+      "type": "chair",
+      "sellPrice": 1200,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "73",
+      "name": "Green Plush Seat",
+      "type": "chair",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "76",
+      "name": "Pink Plush Seat",
+      "type": "chair",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "79",
+      "name": "Winter Chair",
+      "type": "chair",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "82",
+      "name": "Groovy Chair",
+      "type": "chair",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "85",
+      "name": "Cute Chair",
+      "type": "chair",
+      "sellPrice": 1200,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "88",
+      "name": "Stump Seat",
+      "type": "chair",
+      "sellPrice": 2000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "91",
+      "name": "Metal Chair",
+      "type": "chair",
+      "sellPrice": 800,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "94",
+      "name": "Green Stool",
+      "type": "chair",
+      "sellPrice": 350,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "95",
+      "name": "Blue Stool",
+      "type": "chair",
+      "sellPrice": 350,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "128",
+      "name": "King Chair",
+      "type": "chair",
+      "sellPrice": 3000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "131",
+      "name": "Crystal Chair",
+      "type": "chair",
+      "sellPrice": 3000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "134",
+      "name": "Tropical Chair",
+      "type": "chair",
+      "sellPrice": 3000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "192",
+      "name": "Oak Bench",
+      "type": "bench",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "197",
+      "name": "Walnut Bench",
+      "type": "bench",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "202",
+      "name": "Birch Bench",
+      "type": "bench",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "207",
+      "name": "Mahogany Bench",
+      "type": "bench",
+      "sellPrice": 2000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "212",
+      "name": "Modern Bench",
+      "type": "bench",
+      "sellPrice": 2000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "288",
+      "name": "Blue Armchair",
+      "type": "armchair",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "294",
+      "name": "Red Armchair",
+      "type": "armchair",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "300",
+      "name": "Green Armchair",
+      "type": "armchair",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "306",
+      "name": "Yellow Armchair",
+      "type": "armchair",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "312",
+      "name": "Brown Armchair",
+      "type": "armchair",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "416",
+      "name": "Blue Couch",
+      "type": "couch",
+      "sellPrice": 1750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "424",
+      "name": "Red Couch",
+      "type": "couch",
+      "sellPrice": 1750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "432",
+      "name": "Green Couch",
+      "type": "couch",
+      "sellPrice": 1750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "440",
+      "name": "Yellow Couch",
+      "type": "couch",
+      "sellPrice": 1750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "512",
+      "name": "Brown Couch",
+      "type": "couch",
+      "sellPrice": 1750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "520",
+      "name": "Dark Couch",
+      "type": "couch",
+      "sellPrice": 2500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "528",
+      "name": "Wizard Couch",
+      "type": "couch",
+      "sellPrice": 4000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "536",
+      "name": "Woodsy Couch",
+      "type": "couch",
+      "sellPrice": 3000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "704",
+      "name": "Oak Dresser",
+      "type": "dresser",
+      "sellPrice": 5000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "709",
+      "name": "Walnut Dresser",
+      "type": "dresser",
+      "sellPrice": 5000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "714",
+      "name": "Birch Dresser",
+      "type": "dresser",
+      "sellPrice": 5000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "719",
+      "name": "Mahogany Dresser",
+      "type": "dresser",
+      "sellPrice": 7500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "724",
+      "name": "Coffee Table",
+      "type": "table",
+      "sellPrice": 1250,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "727",
+      "name": "Stone Slab",
+      "type": "table",
+      "sellPrice": 1000,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "800",
+      "name": "Winter Dining Table",
+      "type": "long table",
+      "sellPrice": 3500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "807",
+      "name": "Festive Dining Table",
+      "type": "long table",
+      "sellPrice": 3500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "814",
+      "name": "Mahogany Dining Table",
+      "type": "long table",
+      "sellPrice": 3000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "821",
+      "name": "Modern Dining Table",
+      "type": "long table",
+      "sellPrice": 2700,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "984",
+      "name": "Long Cactus",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "985",
+      "name": "Long Palm",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "986",
+      "name": "Exotic Tree",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 3,
+      "tileSizeY": 5,
+      "rotations": 1
+    },
+    {
+      "id": "989",
+      "name": "Deluxe Tree",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 3,
+      "tileSizeY": 5,
+      "rotations": 1
+    },
+    {
+      "id": "1120",
+      "name": "Oak Table",
+      "type": "table",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1122",
+      "name": "Walnut Table",
+      "type": "table",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1124",
+      "name": "Birch Table",
+      "type": "table",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1126",
+      "name": "Mahogany Table",
+      "type": "table",
+      "sellPrice": 1500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1128",
+      "name": "Sun Table",
+      "type": "table",
+      "sellPrice": 2500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1130",
+      "name": "Moon Table",
+      "type": "table",
+      "sellPrice": 2500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1132",
+      "name": "Modern Table",
+      "type": "table",
+      "sellPrice": 1250,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1134",
+      "name": "Pub Table",
+      "type": "table",
+      "sellPrice": 800,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1136",
+      "name": "Luxury Table",
+      "type": "table",
+      "sellPrice": 2000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1138",
+      "name": "Diviner Table",
+      "type": "table",
+      "sellPrice": 2250,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1140",
+      "name": "Neolithic Table",
+      "type": "table",
+      "sellPrice": 1800,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1142",
+      "name": "Puzzle Table",
+      "type": "table",
+      "sellPrice": 1500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1144",
+      "name": "Winter Table",
+      "type": "table",
+      "sellPrice": 1250,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1146",
+      "name": "Candy Table",
+      "type": "table",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1148",
+      "name": "Luau Table",
+      "type": "table",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1150",
+      "name": "Dark Table",
+      "type": "table",
+      "sellPrice": 2000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1216",
+      "name": "Oak Tea-Table",
+      "type": "table",
+      "sellPrice": 750,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1218",
+      "name": "Walnut Tea-Table",
+      "type": "table",
+      "sellPrice": 750,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1220",
+      "name": "Birch Tea-Table",
+      "type": "table",
+      "sellPrice": 750,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1222",
+      "name": "Mahogany Tea-Table",
+      "type": "table",
+      "sellPrice": 1500,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1224",
+      "name": "Modern Tea-Table",
+      "type": "table",
+      "sellPrice": 1000,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1226",
+      "name": "Furniture Catalogue",
+      "type": "table",
+      "sellPrice": 200000,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1228",
+      "name": "Oceanic Rug",
+      "type": "rug",
+      "sellPrice": 1250,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1280",
+      "name": "China Cabinet",
+      "type": "other",
+      "sellPrice": 6000,
+      "tileSizeX": 3,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1283",
+      "name": "Artist Bookcase",
+      "type": "bookcase",
+      "sellPrice": 1200,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1285",
+      "name": "Luxury Bookcase",
+      "type": "bookcase",
+      "sellPrice": 2000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1287",
+      "name": "Modern Bookcase",
+      "type": "bookcase",
+      "sellPrice": 1600,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1289",
+      "name": "Dark Bookcase",
+      "type": "bookcase",
+      "sellPrice": 2000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1291",
+      "name": "Ceramic Pillar",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1292",
+      "name": "Gold Pillar",
+      "type": "decor",
+      "sellPrice": 450,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1293",
+      "name": "Industrial Pipe",
+      "type": "decor",
+      "sellPrice": 300,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1294",
+      "name": "Indoor Palm",
+      "type": "decor",
+      "sellPrice": 600,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1295",
+      "name": "Totem Pole",
+      "type": "decor",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1296",
+      "name": "Manicured Pine",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1297",
+      "name": "Topiary Tree",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1298",
+      "name": "Standing Geode",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1299",
+      "name": "Obsidian Vase",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1300",
+      "name": "Singing Stone",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1301",
+      "name": "Sloth Skeleton L",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1302",
+      "name": "Sloth Skeleton M",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1303",
+      "name": "Sloth Skeleton R",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1304",
+      "name": "Skeleton",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1305",
+      "name": "Chicken Statue",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1306",
+      "name": "Leah's Sculpture",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1307",
+      "name": "Dried Sunflowers",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1308",
+      "name": "Catalogue",
+      "type": "decor",
+      "sellPrice": 30000,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1309",
+      "name": "Sam's Boombox",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1362",
+      "name": "Small Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1363",
+      "name": "Table Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1364",
+      "name": "Decorative Bowl",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1365",
+      "name": "Futan Bear",
+      "type": "decor",
+      "sellPrice": 1500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1366",
+      "name": "Globe",
+      "type": "decor",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1367",
+      "name": "Model Ship",
+      "type": "decor",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1368",
+      "name": "Small Crystal",
+      "type": "decor",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1369",
+      "name": "Decorative Lantern",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1371",
+      "name": "Wumbus Statue",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1373",
+      "name": "Bobo Statue",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1375",
+      "name": "Purple Serpent Statue",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1376",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1377",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1378",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1379",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1380",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1381",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1382",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1383",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1384",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1385",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1386",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1387",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1388",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1389",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1390",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1391",
+      "name": "Oak End Table",
+      "type": "table",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "1393",
+      "name": "Walnut End Table",
+      "type": "table",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "1395",
+      "name": "Birch End Table",
+      "type": "table",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "1397",
+      "name": "Mahogany End Table",
+      "type": "table",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "1399",
+      "name": "Modern End Table",
+      "type": "table",
+      "sellPrice": 800,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1400",
+      "name": "Grandmother End Table",
+      "type": "table",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1401",
+      "name": "Winter End Table",
+      "type": "table",
+      "sellPrice": 800,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1402",
+      "name": "Calendar",
+      "type": "painting",
+      "sellPrice": 2000,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1440",
+      "name": "Tree of the Winter Star",
+      "type": "decor",
+      "sellPrice": 5000,
+      "tileSizeX": 3,
+      "tileSizeY": 5,
+      "rotations": 1
+    },
+    {
+      "id": "1443",
+      "name": "Country Lamp",
+      "type": "lamp",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1445",
+      "name": "Box Lamp",
+      "type": "lamp",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1447",
+      "name": "Modern Lamp",
+      "type": "lamp",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1449",
+      "name": "Classic Lamp",
+      "type": "lamp",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1451",
+      "name": "Red Rug",
+      "type": "rug",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "1456",
+      "name": "Patchwork Rug",
+      "type": "rug",
+      "sellPrice": 800,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "1461",
+      "name": "Dark Rug",
+      "type": "rug",
+      "sellPrice": 2000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "1466",
+      "name": "Budget TV",
+      "type": "decor",
+      "sellPrice": 750,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1468",
+      "name": "Plasma TV",
+      "type": "decor",
+      "sellPrice": 4500,
+      "tileSizeX": 3,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1471",
+      "name": "Green Serpent Statue",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1539",
+      "name": "'The Muzzamaroo'",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1541",
+      "name": "'A Night On Eco-Hill'",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1543",
+      "name": "'Pathways'",
+      "type": "painting",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1545",
+      "name": "'Burnt Offering'",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1547",
+      "name": "'Queen of the Gem Sea'",
+      "type": "painting",
+      "sellPrice": 1200,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1550",
+      "name": "'Vanilla Villa'",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1552",
+      "name": "'Primal Motion'",
+      "type": "painting",
+      "sellPrice": 1500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1554",
+      "name": "'Jade Hills'",
+      "type": "painting",
+      "sellPrice": 1750,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1557",
+      "name": "'Sun #44'",
+      "type": "painting",
+      "sellPrice": 800,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1559",
+      "name": "Wallflower Pal",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1561",
+      "name": "'Spires'",
+      "type": "painting",
+      "sellPrice": 800,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1563",
+      "name": "'Highway 89'",
+      "type": "painting",
+      "sellPrice": 800,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1565",
+      "name": "Calico Falls",
+      "type": "painting",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1567",
+      "name": "Needlepoint Flower",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1600",
+      "name": "Skull Poster",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1601",
+      "name": "'Sun #45'",
+      "type": "painting",
+      "sellPrice": 350,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1602",
+      "name": "'Little Tree'",
+      "type": "painting",
+      "sellPrice": 350,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1603",
+      "name": "'Blueberries'",
+      "type": "painting",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1604",
+      "name": "'Blue City'",
+      "type": "painting",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1605",
+      "name": "Little Photos",
+      "type": "painting",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1606",
+      "name": "'Dancing Grass'",
+      "type": "painting",
+      "sellPrice": 400,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1607",
+      "name": "'VGA Paradise'",
+      "type": "painting",
+      "sellPrice": 1200,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1609",
+      "name": "J. Cola Light",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1612",
+      "name": "'Kitemaster '95'",
+      "type": "painting",
+      "sellPrice": 600,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1614",
+      "name": "Basic Window",
+      "type": "window",
+      "sellPrice": 300,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1616",
+      "name": "Small Window",
+      "type": "window",
+      "sellPrice": 300,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1618",
+      "name": "Red Cottage Rug",
+      "type": "rug",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "1623",
+      "name": "Green Cottage Rug",
+      "type": "rug",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "1628",
+      "name": "Monster Rug",
+      "type": "rug",
+      "sellPrice": 1250,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1630",
+      "name": "Boarded Window",
+      "type": "painting",
+      "sellPrice": 400,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1664",
+      "name": "Mystic Rug",
+      "type": "rug",
+      "sellPrice": 1250,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "1669",
+      "name": "Lg. Futan Bear",
+      "type": "decor",
+      "sellPrice": 4000,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1671",
+      "name": "Bear Statue",
+      "type": "decor",
+      "sellPrice": 4000,
+      "tileSizeX": 2,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "1673",
+      "name": "Porthole",
+      "type": "window",
+      "sellPrice": 700,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1675",
+      "name": "Anchor",
+      "type": "painting",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1676",
+      "name": "World Map",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1678",
+      "name": "Ornate Window",
+      "type": "window",
+      "sellPrice": 900,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1680",
+      "name": "Floor TV",
+      "type": "decor",
+      "sellPrice": 700,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1682",
+      "name": "Carved Window",
+      "type": "window",
+      "sellPrice": 900,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1684",
+      "name": "Colorful Set",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1687",
+      "name": "Cloud Decal",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1692",
+      "name": "Cloud Decal",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1733",
+      "name": "Junimo Plush",
+      "type": "decor",
+      "sellPrice": 4000,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1737",
+      "name": "Nautical Rug",
+      "type": "rug",
+      "sellPrice": 1250,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "1742",
+      "name": "Burlap Rug",
+      "type": "rug",
+      "sellPrice": 350,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1744",
+      "name": "Tree Column",
+      "type": "decor",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1745",
+      "name": "L. Light String",
+      "type": "painting",
+      "sellPrice": 400,
+      "tileSizeX": 2,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1747",
+      "name": "S. Pine",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1748",
+      "name": "Bonsai Tree",
+      "type": "decor",
+      "sellPrice": 800,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1749",
+      "name": "Metal Window",
+      "type": "window",
+      "sellPrice": 800,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1751",
+      "name": "Candle Lamp",
+      "type": "lamp",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1753",
+      "name": "Miner's Crest",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1755",
+      "name": "Bamboo Mat",
+      "type": "rug",
+      "sellPrice": 250,
+      "tileSizeX": 2,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "1758",
+      "name": "Ornate Lamp",
+      "type": "lamp",
+      "sellPrice": 1050,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1760",
+      "name": "Small Junimo Plush",
+      "type": "decor",
+      "sellPrice": 1500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1761",
+      "name": "Small Junimo Plush",
+      "type": "decor",
+      "sellPrice": 1500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1762",
+      "name": "Small Junimo Plush",
+      "type": "decor",
+      "sellPrice": 1500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1763",
+      "name": "Small Junimo Plush",
+      "type": "decor",
+      "sellPrice": 1500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1764",
+      "name": "Futan Rabbit",
+      "type": "decor",
+      "sellPrice": 1500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1777",
+      "name": "Woodcut Rug",
+      "type": "rug",
+      "sellPrice": 800,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1792",
+      "name": "Brick Fireplace",
+      "type": "fireplace",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1794",
+      "name": "Stone Fireplace",
+      "type": "fireplace",
+      "sellPrice": 1500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1796",
+      "name": "Iridium Fireplace",
+      "type": "fireplace",
+      "sellPrice": 15000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1798",
+      "name": "Stove Fireplace",
+      "type": "fireplace",
+      "sellPrice": 3000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1800",
+      "name": "Monster Fireplace",
+      "type": "fireplace",
+      "sellPrice": 25000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1802",
+      "name": "My First Painting",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1811",
+      "name": "Hanging Shield",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1812",
+      "name": "Monster Danglers",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 2,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1814",
+      "name": "Ceiling Flags",
+      "type": "painting",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1817",
+      "name": "Ceiling Leaves",
+      "type": "painting",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1818",
+      "name": "Ceiling Leaves",
+      "type": "painting",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1819",
+      "name": "Ceiling Leaves",
+      "type": "painting",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1820",
+      "name": "Ceiling Leaves",
+      "type": "painting",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1821",
+      "name": "Ceiling Leaves",
+      "type": "painting",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1838",
+      "name": "'Red Eagle'",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1840",
+      "name": "'Portrait Of A Mermaid'",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1842",
+      "name": "'Solar Kingdom'",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1844",
+      "name": "'Clouds'",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1846",
+      "name": "'1000 Years From Now'",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1848",
+      "name": "'Three Trees'",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1850",
+      "name": "'The Serpent'",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1852",
+      "name": "'Tropical Fish #173'",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1854",
+      "name": "'Land Of Clay'",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1866",
+      "name": "Elegant Fireplace",
+      "type": "fireplace",
+      "sellPrice": 4000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1900",
+      "name": "Pirate Flag",
+      "type": "painting",
+      "sellPrice": 4000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1902",
+      "name": "Pirate Rug",
+      "type": "rug",
+      "sellPrice": 4000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "1907",
+      "name": "Strawberry Decal",
+      "type": "painting",
+      "sellPrice": 2500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "1909",
+      "name": "Fruit Salad Rug",
+      "type": "rug",
+      "sellPrice": 4000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "1914",
+      "name": "Night Sky Decal #1",
+      "type": "painting",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1915",
+      "name": "Night Sky Decal #2",
+      "type": "painting",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1916",
+      "name": "Night Sky Decal #3",
+      "type": "painting",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1917",
+      "name": "Wall Pumpkin",
+      "type": "painting",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1918",
+      "name": "Small Wall Pumpkin",
+      "type": "painting",
+      "sellPrice": 750,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1952",
+      "name": "'The Brave Little Sapling'",
+      "type": "painting",
+      "sellPrice": 400,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1953",
+      "name": "'Mysterium'",
+      "type": "painting",
+      "sellPrice": 400,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1954",
+      "name": "'Journey Of The Prairie King: The Motion Picture'",
+      "type": "painting",
+      "sellPrice": 400,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1955",
+      "name": "'Wumbus'",
+      "type": "painting",
+      "sellPrice": 400,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1956",
+      "name": "'The Zuzu City Express'",
+      "type": "painting",
+      "sellPrice": 400,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1957",
+      "name": "'The Miracle At Coldstar Ranch'",
+      "type": "painting",
+      "sellPrice": 400,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1958",
+      "name": "'Natural Wonders: Exploring Our Vibrant World'",
+      "type": "painting",
+      "sellPrice": 400,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1959",
+      "name": "'It Howls In The Rain'",
+      "type": "painting",
+      "sellPrice": 400,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1960",
+      "name": "Indoor Hanging Basket",
+      "type": "painting",
+      "sellPrice": 400,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1961",
+      "name": "Winter Tree Decal",
+      "type": "painting",
+      "sellPrice": 400,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "1964",
+      "name": "Bone Rug",
+      "type": "rug",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "1971",
+      "name": "Butterfly Hutch",
+      "type": "decor",
+      "sellPrice": 50000,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1973",
+      "name": "Wall Flower",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1974",
+      "name": "S. Wall Flower",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1975",
+      "name": "Clouds Banner",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "1978",
+      "name": "Snowy Rug",
+      "type": "rug",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "2048",
+      "name": "Bed",
+      "type": "bed",
+      "sellPrice": 5000,
+      "tileSizeX": 2,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2052",
+      "name": "Double Bed",
+      "type": "bed double",
+      "sellPrice": 5000,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2058",
+      "name": "Starry Double Bed",
+      "type": "bed double",
+      "sellPrice": 5000,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2064",
+      "name": "Strawberry Double Bed",
+      "type": "bed double",
+      "sellPrice": 5000,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2070",
+      "name": "Pirate Double Bed",
+      "type": "bed double",
+      "sellPrice": 5000,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2076",
+      "name": "Child Bed",
+      "type": "bed child",
+      "sellPrice": 5000,
+      "tileSizeX": 2,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2176",
+      "name": "Tropical Bed",
+      "type": "bed",
+      "sellPrice": 5000,
+      "tileSizeX": 2,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2180",
+      "name": "Tropical Double Bed",
+      "type": "bed double",
+      "sellPrice": 5000,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2186",
+      "name": "Deluxe Red Double Bed",
+      "type": "bed double",
+      "sellPrice": 6000,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2192",
+      "name": "Modern Double Bed",
+      "type": "bed double",
+      "sellPrice": 6000,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2304",
+      "name": "Large Fish Tank",
+      "type": "fishtank",
+      "sellPrice": 5000,
+      "tileSizeX": 4,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2312",
+      "name": "Deluxe Fish Tank",
+      "type": "fishtank",
+      "sellPrice": 10000,
+      "tileSizeX": 5,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2322",
+      "name": "Small Fish Tank",
+      "type": "fishtank",
+      "sellPrice": 1000,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2326",
+      "name": "Tropical TV",
+      "type": "decor",
+      "sellPrice": 4500,
+      "tileSizeX": 3,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2329",
+      "name": "'Volcano' Photo",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "2331",
+      "name": "Jungle Torch",
+      "type": "torch",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "2332",
+      "name": "Gourmand Statue",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2334",
+      "name": "Pyramid Decal",
+      "type": "painting",
+      "sellPrice": 10000,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2393",
+      "name": "Palm Wall Ornament",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "2396",
+      "name": "Iridium Krobus",
+      "type": "decor",
+      "sellPrice": 5000,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2397",
+      "name": "Plain Torch",
+      "type": "torch",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "2398",
+      "name": "Stump Torch",
+      "type": "torch",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "2400",
+      "name": "Aquatic Sanctuary",
+      "type": "fishtank",
+      "sellPrice": 10000,
+      "tileSizeX": 7,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2414",
+      "name": "Modern Fish Tank",
+      "type": "fishtank",
+      "sellPrice": 10000,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2418",
+      "name": "Lifesaver",
+      "type": "painting",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2419",
+      "name": "Foliage Print",
+      "type": "painting",
+      "sellPrice": 10000,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2421",
+      "name": "'Boat'",
+      "type": "painting",
+      "sellPrice": 10000,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2423",
+      "name": "'Vista'",
+      "type": "painting",
+      "sellPrice": 10000,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2425",
+      "name": "Wall Basket",
+      "type": "painting",
+      "sellPrice": 10000,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2427",
+      "name": "Decorative Trash Can",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2488",
+      "name": "Light Green Rug",
+      "type": "rug",
+      "sellPrice": 10000,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "2496",
+      "name": "Wild Double Bed",
+      "type": "bed double",
+      "sellPrice": 6000,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2502",
+      "name": "Fisher Double Bed",
+      "type": "bed double",
+      "sellPrice": 6000,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2508",
+      "name": "Birch Double Bed",
+      "type": "bed double",
+      "sellPrice": 6000,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2514",
+      "name": "Exotic Double Bed",
+      "type": "bed double",
+      "sellPrice": 6000,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2584",
+      "name": "'Jade Hills Extended'",
+      "type": "painting",
+      "sellPrice": 6750,
+      "tileSizeX": 4,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2624",
+      "name": "Pastel Banner",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2625",
+      "name": "Winter Banner",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2626",
+      "name": "Moonlight Jellies Banner",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2627",
+      "name": "Jungle Decal",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2628",
+      "name": "Jungle Decal",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2629",
+      "name": "Jungle Decal",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2630",
+      "name": "Jungle Decal",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2631",
+      "name": "Starport Decal",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2632",
+      "name": "Decorative Pitchfork",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2633",
+      "name": "Wood Panel",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2634",
+      "name": "Decorative Axe",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2635",
+      "name": "Log Panel",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2636",
+      "name": "Log Panel",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2637",
+      "name": "Floor Divider R",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2638",
+      "name": "Floor Divider L",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2639",
+      "name": "Floor Divider R",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2640",
+      "name": "Floor Divider L",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2641",
+      "name": "Floor Divider R",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2642",
+      "name": "Floor Divider L",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2643",
+      "name": "Floor Divider R",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2644",
+      "name": "Floor Divider L",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2645",
+      "name": "Floor Divider R",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2646",
+      "name": "Floor Divider L",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2647",
+      "name": "Floor Divider R",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2648",
+      "name": "Floor Divider L",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2649",
+      "name": "Floor Divider R",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2650",
+      "name": "Floor Divider L",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2651",
+      "name": "Floor Divider R",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2652",
+      "name": "Floor Divider L",
+      "type": "rug",
+      "sellPrice": 50,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2653",
+      "name": "Icy Banner",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2654",
+      "name": "Wall Palm",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2655",
+      "name": "Wall Cactus",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2720",
+      "name": "Large Brown Couch",
+      "type": "couch",
+      "sellPrice": 5750,
+      "tileSizeX": 4,
+      "tileSizeY": 2,
+      "rotations": 4
+    },
+    {
+      "id": "2730",
+      "name": "'Frozen Dreams'",
+      "type": "painting",
+      "sellPrice": 6750,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2732",
+      "name": "'Physics 101'",
+      "type": "painting",
+      "sellPrice": 6750,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "2734",
+      "name": "Wall Sconce",
+      "type": "sconce",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "2736",
+      "name": "Wall Sconce",
+      "type": "sconce",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "2738",
+      "name": "Wall Sconce",
+      "type": "sconce",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "2740",
+      "name": "Wall Sconce",
+      "type": "sconce",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "2742",
+      "name": "Blossom Rug",
+      "type": "rug",
+      "sellPrice": 10000,
+      "tileSizeX": 6,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2748",
+      "name": "Wall Sconce",
+      "type": "sconce",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "2750",
+      "name": "Wall Sconce",
+      "type": "sconce",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "2784",
+      "name": "Large Green Rug",
+      "type": "rug",
+      "sellPrice": 10000,
+      "tileSizeX": 4,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2790",
+      "name": "Icy Rug",
+      "type": "rug",
+      "sellPrice": 10000,
+      "tileSizeX": 4,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2794",
+      "name": "Old World Rug",
+      "type": "rug",
+      "sellPrice": 10000,
+      "tileSizeX": 4,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2798",
+      "name": "Large Red Rug",
+      "type": "rug",
+      "sellPrice": 10000,
+      "tileSizeX": 4,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2802",
+      "name": "Large Cottage Rug",
+      "type": "rug",
+      "sellPrice": 10000,
+      "tileSizeX": 4,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "2812",
+      "name": "Wall Sconce",
+      "type": "sconce",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "2814",
+      "name": "Squirrel Figurine",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "2870",
+      "name": "Funky Rug",
+      "type": "rug",
+      "sellPrice": 10000,
+      "tileSizeX": 5,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "2875",
+      "name": "Modern Rug",
+      "type": "rug",
+      "sellPrice": 10000,
+      "tileSizeX": 5,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "FreeCactus",
+      "name": "Cactus",
+      "type": "randomized_plant",
+      "sellPrice": 350,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "HangingFish",
+      "name": "Hanging Fish",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "RetroTV",
+      "name": "Retro TV",
+      "type": "decor",
+      "sellPrice": 5000,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "ArtPhoto",
+      "name": "Art Photo",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "ArtPhoto2",
+      "name": "Art Photo 2",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "ShortBookcase",
+      "name": "Short Bookcase",
+      "type": "bookcase",
+      "sellPrice": 1000,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "PierresSign",
+      "name": "Pierre's Sign",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "SamsSkateboard",
+      "name": "Sam's Skateboard",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "ChickenDecal",
+      "name": "Chicken Decal",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "ExoticPalace",
+      "name": "Exotic Palace",
+      "type": "painting",
+      "sellPrice": 5000,
+      "tileSizeX": 3,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "PeriodicTable",
+      "name": "Periodic Table",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "DustySkull",
+      "name": "Dusty Skull",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "RadioDesk",
+      "name": "Radio Desk",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "ModelPlanes",
+      "name": "Model Planes",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "CatStatue",
+      "name": "Calico Statue",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "SunDunes",
+      "name": "Sun Dunes",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "DesertTable",
+      "name": "Desert Table",
+      "type": "table",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "DesertChair",
+      "name": "Desert Chair",
+      "type": "chair",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "DesertFireplace",
+      "name": "Desert Fireplace",
+      "type": "fireplace",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "SandyRug",
+      "name": "Sandy Rug",
+      "type": "rug",
+      "sellPrice": 500,
+      "tileSizeX": 3,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "DesertRug",
+      "name": "Desert Rug",
+      "type": "rug",
+      "sellPrice": 500,
+      "tileSizeX": 4,
+      "tileSizeY": 3,
+      "rotations": 2
+    },
+    {
+      "id": "DesertEndTable",
+      "name": "Desert End Table",
+      "type": "table",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "DesertFlags",
+      "name": "Desert Flags",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 4,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "DecorativeBarrel",
+      "name": "Decorative Barrel",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "MountedTrout_Painting",
+      "name": "Mounted Trout",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "SquidKid_Painting",
+      "name": "'Squid Kid'",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "CowDecal",
+      "name": "Cow Decal",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "BluePinstripeBed",
+      "name": "Blue Pinstripe Bed",
+      "type": "bed",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "JungleTank",
+      "name": "JungleTank",
+      "type": "fishtank",
+      "sellPrice": 5000,
+      "tileSizeX": 4,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "CCFishTank",
+      "name": "CCFishTank",
+      "type": "fishtank",
+      "sellPrice": 5000,
+      "tileSizeX": 6,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "BluePinstripeDoubleBed",
+      "name": "Blue Pinstripe Double Bed",
+      "type": "bed double",
+      "sellPrice": 500,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "JojaBed",
+      "name": "JojaBed",
+      "type": "bed double",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "JojaVault",
+      "name": "JojaVault",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JojaChair",
+      "name": "JojaChair",
+      "type": "chair",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "J",
+      "name": "J",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JojaColaTeaTable",
+      "name": "JojaColaTeaTable",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JojaTable",
+      "name": "JojaTable",
+      "type": "table",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "JPainting",
+      "name": "JPainting",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JLight",
+      "name": "JLight",
+      "type": "sconce",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "JojaCatalogue",
+      "name": "JojaCatalogue",
+      "type": "decor",
+      "sellPrice": 25000,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JojaColaPainting",
+      "name": "JojaColaPainting",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JojaColaOrnament",
+      "name": "JojaColaOrnament",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JojaFireplace",
+      "name": "JojaFireplace",
+      "type": "fireplace",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "JojaColaCans",
+      "name": "JojaColaCans",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "CashRegister",
+      "name": "CashRegister",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "PlasticPlant",
+      "name": "PlasticPlant",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "PlasticSapling",
+      "name": "PlasticSapling",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "GrayJojaCushion",
+      "name": "GrayJojaCushion",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "JojaCushion",
+      "name": "JojaCushion",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "StackedJojaCrates",
+      "name": "StackedJojaBoxes",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JojaCouch",
+      "name": "JojaCouch",
+      "type": "couch",
+      "sellPrice": 999,
+      "tileSizeX": 4,
+      "tileSizeY": 2,
+      "rotations": 4
+    },
+    {
+      "id": "MorrisPortrait",
+      "name": "MorrisPortrait",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JojaHQPainting",
+      "name": "JojaHQPainting",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JojaCrate",
+      "name": "JojaCrate",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JojaShoppingCart",
+      "name": "JojaShoppingCart",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "LargeJojaCrate",
+      "name": "LargeJojaCrate",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JojaColaFridge",
+      "name": "JojaColaFridge",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JojaDresser",
+      "name": "JojaDresser",
+      "type": "dresser",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "GrayJojaDresser",
+      "name": "GrayJojaDresser",
+      "type": "dresser",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "LargeJojaRug",
+      "name": "LargeJojaRug",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 5,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "SmallJojaRug",
+      "name": "SmallJojaRug",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "SquareJojaRug",
+      "name": "SquareJojaRug",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JojaRug",
+      "name": "JojaRug",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "JojaCoffeeTable",
+      "name": "JojaCoffeeTable",
+      "type": "table",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "GrayJojaCoffeeTable",
+      "name": "GrayJojaCoffeeTable",
+      "type": "table",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "JojaLamp",
+      "name": "JojaLamp",
+      "type": "lamp",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "GrayJojaBookcase",
+      "name": "GrayJojaBookcase",
+      "type": "bookcase",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "JojaBookcase",
+      "name": "JojaBookcase",
+      "type": "bookcase",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "JojaStool",
+      "name": "JojaStool",
+      "type": "chair",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "JojaEndTable",
+      "name": "JojaEndTable",
+      "type": "table",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "GrayJojaEndTable",
+      "name": "GrayJojaEndTable",
+      "type": "table",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "DecorativeJojaDoor",
+      "name": "DecorativeJojaDoor",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 2
+    },
+    {
+      "id": "WizardBed",
+      "name": "WizardBed",
+      "type": "bed double",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "LargeWizardBookcase",
+      "name": "LargeWizardBookcase",
+      "type": "bookcase",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "WizardBookcase",
+      "name": "WizardBookcase",
+      "type": "bookcase",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "ShortWizardBookcase",
+      "name": "ShortWizardBookcase",
+      "type": "bookcase",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "SmallWizardBookcase",
+      "name": "SmallWizardBookcase",
+      "type": "bookcase",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "WizardStool",
+      "name": "WizardStool",
+      "type": "chair",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "WizardFireplace",
+      "name": "WizardFireplace",
+      "type": "fireplace",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "WizardDresser",
+      "name": "WizardDresser",
+      "type": "dresser",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 4
+    },
+    {
+      "id": "WizardStudy",
+      "name": "WizardStudy",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "WizardEndTable",
+      "name": "WizardEndTable",
+      "type": "table",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "WitchBroom",
+      "name": "WitchBroom",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "Cauldron",
+      "name": "Cauldron",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "CurlyTree",
+      "name": "CurlyTree",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "LeafyPlant",
+      "name": "LeafyPlant",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "WizardChair",
+      "name": "WizardChair",
+      "type": "chair",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "WizardTable",
+      "name": "WizardTable",
+      "type": "table",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "WizardCushion",
+      "name": "WizardCushion",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "DarkWizardCushion",
+      "name": "DarkWizardCushion",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "WizardTeaTable",
+      "name": "WizardTeaTable",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "SmallElixirShelf",
+      "name": "SmallElixirShelf",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "ElixirShelf",
+      "name": "ElixirShelf",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "SmallStackedElixirShelf",
+      "name": "SmallStackedElixirShelf",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "StackedElixirShelf",
+      "name": "StackedElixirShelf",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "ElixirBundle",
+      "name": "ElixirBundle",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "CoupleElixirs",
+      "name": "CoupleElixirs",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "ElixirTable",
+      "name": "ElixirTable",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "LongElixirTable",
+      "name": "LongElixirTable",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "WizardLamp",
+      "name": "WizardLamp",
+      "type": "lamp",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "Runes",
+      "name": "Runes",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "WizardTower",
+      "name": "WizardTower",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "PottedRedMushroom",
+      "name": "PottedRedMushroom",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "WizardCatalogue",
+      "name": "WizardCatalogue",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "VoidSwirls",
+      "name": "VoidSwirls",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "WizardBookshelf",
+      "name": "WizardBookshelf",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "Glyph",
+      "name": "Glyph",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "StoneFlooring",
+      "name": "StoneFlooring",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 4,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "RuneRug",
+      "name": "RuneRug",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "SwirlRug",
+      "name": "SwirlRug",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "StarryMoonRug",
+      "name": "StarryMoonRug",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 5,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "CrystalBall",
+      "name": "CrystalBall",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "AmethystCrystalBall",
+      "name": "AmethystCrystalBall",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "TopazCrystalBall",
+      "name": "TopazCrystalBall",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "AquamarineCrystalBall",
+      "name": "AquamarineCrystalBall",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "EmeraldCrystalBall",
+      "name": "EmeraldCrystalBall",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "RubyCrystalBall",
+      "name": "RubyCrystalBall",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "SmallBookStack",
+      "name": "SmallBookStack",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "BookStack",
+      "name": "BookStack",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "LargeBookStack",
+      "name": "LargeBookStack",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "PurpleBook",
+      "name": "PurpleBook",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "BlueBook",
+      "name": "BlueBook",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "YellowBook",
+      "name": "YellowBook",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "RedBook",
+      "name": "RedBook",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "GreenBook",
+      "name": "GreenBook",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "BrownBook",
+      "name": "BrownBook",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "FallenPurpleBook",
+      "name": "FallenPurpleBook",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "FallenBlueBook",
+      "name": "FallenBlueBook",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "FallenYellowBook",
+      "name": "FallenYellowBook",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "FallenRedBook",
+      "name": "FallenRedBook",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "FallenGreenBook",
+      "name": "FallenGreenBook",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "FallenBrownBook",
+      "name": "FallenBrownBook",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "SmallBookPile",
+      "name": "SmallBookPile",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "BookPile",
+      "name": "BookPile",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "LargeBookPile",
+      "name": "LargeBookPile",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "DecorativeWizardDoor",
+      "name": "DecorativeWizardDoor",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoBed",
+      "name": "JunimoBed",
+      "type": "bed double",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoHut",
+      "name": "JunimoHut",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "LargeJunimoHut",
+      "name": "LargeJunimoHut",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 4,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "SmallJunimoHut",
+      "name": "SmallJunimoHut",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoFireplace",
+      "name": "JunimoFireplace",
+      "type": "fireplace",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoBookcase",
+      "name": "JunimoBookcase",
+      "type": "bookcase",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoPot",
+      "name": "JunimoPot",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoBag",
+      "name": "JunimoBag",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoBundle",
+      "name": "JunimoBundle",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoStool",
+      "name": "JunimoStool",
+      "type": "chair",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoTable",
+      "name": "JunimoTable",
+      "type": "table",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoChair",
+      "name": "JunimoChair",
+      "type": "chair",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "SmallJunimoPot",
+      "name": "SmallJunimoPot",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoFlower",
+      "name": "JunimoFlower",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoEndTable",
+      "name": "JunimoEndTable",
+      "type": "table",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "JunimoCatalogue",
+      "name": "JunimoCatalogue",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoTeaTable",
+      "name": "JunimoTeaTable",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoDresser",
+      "name": "JunimoDresser",
+      "type": "dresser",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "JunimoLamp",
+      "name": "JunimoLamp",
+      "type": "lamp",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoPlant",
+      "name": "JunimoPlant",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoWallPlaque",
+      "name": "JunimoWallPlaque",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoPlaque",
+      "name": "JunimoPlaque",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoCushion",
+      "name": "JunimoCushion",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "DarkJunimoCushion",
+      "name": "DarkJunimoCushion",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoTree",
+      "name": "JunimoTree",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoCouch",
+      "name": "JunimoCouch",
+      "type": "couch",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "GreenSleepingJunimo",
+      "name": "GreenSleepingJunimo",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "BlueSleepingJunimo",
+      "name": "BlueSleepingJunimo",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "RedSleepingJunimo",
+      "name": "RedSleepingJunimo",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "PurpleSleepingJunimo",
+      "name": "PurpleSleepingJunimo",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "YellowSleepingJunimo",
+      "name": "YellowSleepingJunimo",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "OrangeSleepingJunimo",
+      "name": "OrangeSleepingJunimo",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "GraySleepingJunimo",
+      "name": "GraySleepingJunimo",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "SquareJunimoRug",
+      "name": "SquareJunimoRug",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoRug",
+      "name": "JunimoRug",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 4,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoMat",
+      "name": "JunimoMat",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "CircularJunimoRug",
+      "name": "CircularJunimoRug",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "SmallJunimoMat",
+      "name": "SmallJunimoMat",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "CommunityCenter",
+      "name": "CommunityCenter",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 4,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "LittleBuddies",
+      "name": "LittleBuddies",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "Stardrop",
+      "name": "Stardrop",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "Hut",
+      "name": "Hut",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "AbigailPortrait",
+      "name": "AbigailPortrait",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "EmilyPortrait",
+      "name": "EmilyPortrait",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "HaleyPortrait",
+      "name": "HaleyPortrait",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "LeahPortrait",
+      "name": "LeahPortrait",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "MaruPortrait",
+      "name": "MaruPortrait",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "PennyPortrait",
+      "name": "PennyPortrait",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "AlexPortrait",
+      "name": "AlexPortrait",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "ElliottPortrait",
+      "name": "ElliottPortrait",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "HarveyPortrait",
+      "name": "HarveyPortrait",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "SamPortrait",
+      "name": "SamPortrait",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "SebastianPortrait",
+      "name": "SebastianPortrait",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "ShanePortrait",
+      "name": "ShanePortrait",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "KrobusPortrait",
+      "name": "KrobusPortrait",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "JunimoStar",
+      "name": "JunimoStar",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "BulletinBoard",
+      "name": "BulletinBoard",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "BrochureCabinet",
+      "name": "BrochureCabinet",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "LeafyWallPanel",
+      "name": "LeafyWallPanel",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "LightLeafyWallPanel",
+      "name": "LightLeafyWallPanel",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "DarkLeafyWallPanel",
+      "name": "DarkLeafyWallPanel",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "DecorativeJunimoDoor",
+      "name": "DecorativeJunimoDoor",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "RetroBed",
+      "name": "RetroBed",
+      "type": "bed double",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "RetroDresser",
+      "name": "RetroDresser",
+      "type": "dresser",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "RetroBookcase",
+      "name": "RetroBookcase",
+      "type": "bookcase",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "RetroFireplace",
+      "name": "RetroFireplace",
+      "type": "fireplace",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "RetroCouch",
+      "name": "RetroCouch",
+      "type": "couch",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "RetroCushion",
+      "name": "RetroCushion",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "DarkRetroCushion",
+      "name": "DarkRetroCushion",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "RetroStool",
+      "name": "RetroStool",
+      "type": "chair",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "RetroFlower",
+      "name": "RetroFlower",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "RetroChair",
+      "name": "RetroChair",
+      "type": "chair",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "RetroTable",
+      "name": "RetroTable",
+      "type": "table",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "RetroPlant",
+      "name": "RetroPlant",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "RetroEndTable",
+      "name": "RetroEndTable",
+      "type": "table",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 2
+    },
+    {
+      "id": "RetroTeaTable",
+      "name": "RetroTeaTable",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "RetroCatalogue",
+      "name": "RetroCatalogue",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "RetroCabinet",
+      "name": "RetroCabinet",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "RetroRadio",
+      "name": "RetroRadio",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "RetroBanner",
+      "name": "RetroBanner",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "Groovy",
+      "name": "Groovy",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "RetroLamp",
+      "name": "RetroLamp",
+      "type": "lamp",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "RetroRug",
+      "name": "RetroRug",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "RetroSquareRug",
+      "name": "RetroSquareRug",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "RetroMat",
+      "name": "RetroMat",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "LargeRetroRug",
+      "name": "LargeRetroRug",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 4,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "Abstract",
+      "name": "Abstract",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "Starship",
+      "name": "Starship",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "Binary",
+      "name": "Binary",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "Checkers",
+      "name": "Checkers",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "UFO",
+      "name": "UFO",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "DecorativeRetroDoor",
+      "name": "DecorativeRetroDoor",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "DecorativeDoor1",
+      "name": "DecorativeDoor1",
+      "type": "painting",
+      "sellPrice": 5000,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "DecorativeDoor2",
+      "name": "DecorativeDoor2",
+      "type": "painting",
+      "sellPrice": 5000,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "DecorativeDoor3",
+      "name": "DecorativeDoor3",
+      "type": "painting",
+      "sellPrice": 5000,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "DecorativeDoor4",
+      "name": "DecorativeDoor4",
+      "type": "painting",
+      "sellPrice": 5000,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "DecorativeDoor5",
+      "name": "DecorativeDoor5",
+      "type": "painting",
+      "sellPrice": 5000,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "DecorativeDoor6",
+      "name": "DecorativeDoor6",
+      "type": "painting",
+      "sellPrice": 5000,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "WallClock",
+      "name": "WallClock",
+      "type": "painting",
+      "sellPrice": 2500,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "DecorativeHatch",
+      "name": "DecorativeHatch",
+      "type": "decor",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "DecorativeOakLadder",
+      "name": "DecorativeOakLadder",
+      "type": "painting",
+      "sellPrice": 2500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "DecorativeWalnutLadder",
+      "name": "DecorativeWalnutLadder",
+      "type": "painting",
+      "sellPrice": 2500,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "UprightPiano",
+      "name": "UprightPiano",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 4,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "CoatStand",
+      "name": "CoatStand",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "BirdHouse",
+      "name": "BirdHouse",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "DecorativeShovel",
+      "name": "DecorativeShovel",
+      "type": "painting",
+      "sellPrice": 2000,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "WallSword",
+      "name": "WallSword",
+      "type": "painting",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "DecorativeSword",
+      "name": "DecorativeSword",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "WineTable",
+      "name": "WineTable",
+      "type": "decor",
+      "sellPrice": 4000,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "SpiritsTable",
+      "name": "SpiritsTable",
+      "type": "decor",
+      "sellPrice": 4000,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "TallHousePlant",
+      "name": "TallHousePlant",
+      "type": "decor",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "CornPlant",
+      "name": "CornPlant",
+      "type": "decor",
+      "sellPrice": 1000,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "BlueCushion",
+      "name": "BlueCushion",
+      "type": "rug",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "YellowCushion",
+      "name": "YellowCushion",
+      "type": "rug",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "GreenCushion",
+      "name": "GreenCushion",
+      "type": "rug",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "RedCushion",
+      "name": "RedCushion",
+      "type": "rug",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "BrownCushion",
+      "name": "BrownCushion",
+      "type": "rug",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "BlackCushion",
+      "name": "BlackCushion",
+      "type": "rug",
+      "sellPrice": 500,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "FoodPetBowl",
+      "name": "FoodPetBowl",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "WaterPetBowl",
+      "name": "WaterPetBowl",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "OakLampEndTable",
+      "name": "OakLampEndTable",
+      "type": "lamp",
+      "sellPrice": 2000,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "WalnutLampEndTable",
+      "name": "WalnutLampEndTable",
+      "type": "lamp",
+      "sellPrice": 2000,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "BirchLampEndTable",
+      "name": "BirchLampEndTable",
+      "type": "lamp",
+      "sellPrice": 2000,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "MahoganyLampEndTable",
+      "name": "MahoganyLampEndTable",
+      "type": "lamp",
+      "sellPrice": 3000,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "TriangleWindow",
+      "name": "TriangleWindow",
+      "type": "window",
+      "sellPrice": 800,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "Clothesline",
+      "name": "Clothesline",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "TrashCatalogue",
+      "name": "TrashCatalogue",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "ElegantVase",
+      "name": "ElegantVase",
+      "type": "decor",
+      "sellPrice": 5000,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "CatTree",
+      "name": "CatTree",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "DarkCatTree",
+      "name": "DarkCatTree",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "LightSwitch",
+      "name": "LightSwitch",
+      "type": "painting",
+      "sellPrice": 600,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "Outlet",
+      "name": "Outlet",
+      "type": "painting",
+      "sellPrice": 600,
+      "tileSizeX": 1,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "Doghouse",
+      "name": "Doghouse",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "DarkDoghouse",
+      "name": "DarkDoghouse",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 3,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "BountifulDiningTable",
+      "name": "BountifulDiningTable",
+      "type": "long table",
+      "sellPrice": 10000,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "PlasticLawnEndTable",
+      "name": "PlasticLawnEndTable",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "PlasticLawnChair",
+      "name": "PlasticLawnChair",
+      "type": "chair",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "BrokenTelevision",
+      "name": "BrokenTelevision",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 2,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "SixPackRings",
+      "name": "SixPackRings",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "GreenBottle",
+      "name": "GreenBottle",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "PlasticBag",
+      "name": "PlasticBag",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "AluminumCan",
+      "name": "AluminumCan",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "BlueBottle",
+      "name": "BlueBottle",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "BuriedTire",
+      "name": "BuriedTire",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 2
+    },
+    {
+      "id": "Tire",
+      "name": "Tire",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "Wrapper",
+      "name": "Wrapper",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "SpilledBeverage",
+      "name": "SpilledBeverage",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "MessyShirt",
+      "name": "MessyShirt",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "MessyShorts",
+      "name": "MessyShorts",
+      "type": "rug",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 1
+    },
+    {
+      "id": "MoldyCouch",
+      "name": "MoldyCouch",
+      "type": "couch",
+      "sellPrice": 999,
+      "tileSizeX": 1,
+      "tileSizeY": 1,
+      "rotations": 4
+    },
+    {
+      "id": "FancyTree1",
+      "name": "Fancy House Plant",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "FancyTree2",
+      "name": "Fancy House Plant",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "FancyTree3",
+      "name": "Fancy House Plant",
+      "type": "decor",
+      "sellPrice": 500,
+      "tileSizeX": 2,
+      "tileSizeY": 3,
+      "rotations": 1
+    },
+    {
+      "id": "FancyHousePlant3",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "FancyHousePlant1",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "FancyHousePlant2",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "FancyHousePlant4",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "FancyHousePlant5",
+      "name": "House Plant",
+      "type": "decor",
+      "sellPrice": 250,
+      "tileSizeX": 1,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "PigPainting",
+      "name": "Pig Painting",
+      "type": "painting",
+      "sellPrice": 500,
+      "tileSizeX": 3,
+      "tileSizeY": 2,
+      "rotations": 1
+    },
+    {
+      "id": "MidnightBeachBed",
+      "name": "Midnight Beach Bed",
+      "type": "bed",
+      "sellPrice": 5000,
+      "tileSizeX": 2,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "MidnightBeachDoubleBed",
+      "name": "Midnight Beach Double Bed",
+      "type": "bed double",
+      "sellPrice": 5000,
+      "tileSizeX": 3,
+      "tileSizeY": 4,
+      "rotations": 1
+    },
+    {
+      "id": "DarkPiano",
+      "name": "Dark Piano",
+      "type": "decor",
+      "sellPrice": 999,
+      "tileSizeX": 4,
+      "tileSizeY": 3,
+      "rotations": 1
+    }
+  ]
+}

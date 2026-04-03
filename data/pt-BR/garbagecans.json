@@ -1,0 +1,102 @@
+{
+  "_meta": {
+    "source": "Data/GarbageCans.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.142Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "defaultBaseChance": 0.2,
+  "garbageCans": [
+    {
+      "id": "Blacksmith",
+      "baseChance": null,
+      "items": [
+        {
+          "id": "Base_Ore",
+          "itemId": null,
+          "condition": "RANDOM 0.2 @addDailyLuck"
+        }
+      ]
+    },
+    {
+      "id": "EmilyAndHaley",
+      "baseChance": null,
+      "items": []
+    },
+    {
+      "id": "Evelyn",
+      "baseChance": null,
+      "items": [
+        {
+          "id": "Base_Cookie",
+          "itemId": "(O)223",
+          "condition": "RANDOM 0.2 @addDailyLuck"
+        }
+      ]
+    },
+    {
+      "id": "JodiAndKent",
+      "baseChance": null,
+      "items": []
+    },
+    {
+      "id": "JojaMart",
+      "baseChance": null,
+      "items": [
+        {
+          "id": "Base_MovieTicketOrCorn",
+          "itemId": null,
+          "condition": "SYNCED_RANDOM day garbage_joja 0.2, PLAYER_HAS_MAIL Host ccMovieTheater, !PLAYER_HAS_MAIL Host ccMovieTheaterJoja"
+        },
+        {
+          "id": "Base_JojaCola",
+          "itemId": "(O)167",
+          "condition": "SYNCED_RANDOM day garbage_joja 0.2, !PLAYER_HAS_SEEN_EVENT Any 191393"
+        }
+      ]
+    },
+    {
+      "id": "Mayor",
+      "baseChance": null,
+      "items": []
+    },
+    {
+      "id": "Museum",
+      "baseChance": null,
+      "items": [
+        {
+          "id": "Base_OmniGeode",
+          "itemId": "(O)749",
+          "condition": "SYNCED_RANDOM day garbage_museum_535 0.2 @addDailyLuck, SYNCED_RANDOM day garbage_museum_749 0.05"
+        },
+        {
+          "id": "Base_Geode",
+          "itemId": "(O)535",
+          "condition": "SYNCED_RANDOM day garbage_museum_535 0.2 @addDailyLuck"
+        }
+      ]
+    },
+    {
+      "id": "Saloon",
+      "baseChance": null,
+      "items": [
+        {
+          "id": "Base_DishOfTheDay",
+          "itemId": "DISH_OF_THE_DAY",
+          "condition": "SYNCED_RANDOM day garbage_saloon_dish 0.2 @addDailyLuck"
+        }
+      ]
+    },
+    {
+      "id": "DesertFestival",
+      "baseChance": null,
+      "items": [
+        {
+          "id": "CalicoEggs",
+          "itemId": "(O)CalicoEgg",
+          "condition": null
+        }
+      ]
+    }
+  ]
+}

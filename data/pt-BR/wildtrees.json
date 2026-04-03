@@ -1,0 +1,166 @@
+{
+  "_meta": {
+    "source": "Data/WildTrees.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.123Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "wildTrees": [
+    {
+      "id": "1",
+      "seedItemId": "(O)309",
+      "seedName": "Acorn",
+      "growthChance": 0.2,
+      "tapItems": [
+        {
+          "itemId": "(O)725",
+          "name": "Oak Resin",
+          "daysUntilReady": 7,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "seedItemId": "(O)310",
+      "seedName": "Maple Seed",
+      "growthChance": 0.2,
+      "tapItems": [
+        {
+          "itemId": "(O)724",
+          "name": "Maple Syrup",
+          "daysUntilReady": 9,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "seedItemId": "(O)311",
+      "seedName": "Pine Cone",
+      "growthChance": 0.2,
+      "tapItems": [
+        {
+          "itemId": "(O)726",
+          "name": "Pine Tar",
+          "daysUntilReady": 5,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "seedItemId": "(O)88",
+      "seedName": "Coconut",
+      "growthChance": 0.2,
+      "tapItems": []
+    },
+    {
+      "id": "7",
+      "seedItemId": "(O)891",
+      "seedName": "Mushroom Tree Seed",
+      "growthChance": 0.2,
+      "tapItems": [
+        {
+          "itemId": "(O)420",
+          "name": "Red Mushroom",
+          "daysUntilReady": 1,
+          "chance": 1
+        },
+        {
+          "itemId": "(O)404",
+          "name": "Common Mushroom",
+          "daysUntilReady": 2,
+          "chance": 1
+        },
+        {
+          "itemId": "(O)420",
+          "name": "Red Mushroom",
+          "daysUntilReady": 1,
+          "chance": 1
+        },
+        {
+          "itemId": "(O)422",
+          "name": "Purple Mushroom",
+          "daysUntilReady": 2,
+          "chance": 1
+        },
+        {
+          "itemId": "PREVIOUS_OUTPUT_ID",
+          "name": "PREVIOUS_OUTPUT_ID",
+          "daysUntilReady": 1,
+          "chance": 1
+        },
+        {
+          "itemId": "(O)404",
+          "name": "Common Mushroom",
+          "daysUntilReady": 2,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "seedItemId": "(O)292",
+      "seedName": "Mahogany Seed",
+      "growthChance": 0.15,
+      "tapItems": [
+        {
+          "itemId": "(O)92",
+          "name": "Sap",
+          "daysUntilReady": 1,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "seedItemId": "(O)88",
+      "seedName": "Coconut",
+      "growthChance": 0.2,
+      "tapItems": []
+    },
+    {
+      "id": "10",
+      "seedItemId": "MossySeed",
+      "seedName": "Mossy Seed",
+      "growthChance": 0.2,
+      "tapItems": []
+    },
+    {
+      "id": "11",
+      "seedItemId": "MossySeed",
+      "seedName": "Mossy Seed",
+      "growthChance": 0.2,
+      "tapItems": []
+    },
+    {
+      "id": "12",
+      "seedItemId": "MossySeed",
+      "seedName": "Mossy Seed",
+      "growthChance": 0.2,
+      "tapItems": [
+        {
+          "itemId": "(O)259",
+          "name": "Fiddlehead Fern",
+          "daysUntilReady": 2,
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "seedItemId": "MysticTreeSeed",
+      "seedName": "Mystic Tree Seed",
+      "growthChance": 0.15,
+      "tapItems": [
+        {
+          "itemId": "(O)MysticSyrup",
+          "name": "Mystic Syrup",
+          "daysUntilReady": 7,
+          "chance": 1
+        }
+      ]
+    }
+  ]
+}

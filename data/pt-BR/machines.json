@@ -1,0 +1,1336 @@
+{
+  "_meta": {
+    "source": "Data/Machines.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.100Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "machines": [
+    {
+      "id": "(BC)Anvil",
+      "name": "Anvil",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 0,
+          "outputItems": []
+        }
+      ]
+    },
+    {
+      "id": "(BC)BaitMaker",
+      "name": "Bait Maker",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 10,
+          "outputItems": [
+            {
+              "itemId": "FLAVORED_ITEM Bait DROP_IN_ID",
+              "name": "FLAVORED_ITEM Bait DROP_IN_ID",
+              "minStack": 5,
+              "maxStack": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)10",
+      "name": "Bee House",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": -1,
+          "outputItems": [
+            {
+              "itemId": "FLAVORED_ITEM Honey NEARBY_FLOWER_ID",
+              "name": "FLAVORED_ITEM Honey NEARBY_FLOWER_ID",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)90",
+      "name": "Bone Mill",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 240,
+          "outputItems": [
+            {
+              "itemId": "(O)466",
+              "name": "Deluxe Speed-Gro",
+              "minStack": 3,
+              "maxStack": -1
+            },
+            {
+              "itemId": "(O)465",
+              "name": "Speed-Gro",
+              "minStack": 5,
+              "maxStack": -1
+            },
+            {
+              "itemId": "(O)369",
+              "name": "Quality Fertilizer",
+              "minStack": 10,
+              "maxStack": -1
+            },
+            {
+              "itemId": "(O)805",
+              "name": "Tree Fertilizer",
+              "minStack": 5,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)163",
+      "name": "Cask",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Cheese",
+          "minutesUntilReady": -1,
+          "outputItems": []
+        },
+        {
+          "id": "GoatCheese",
+          "minutesUntilReady": -1,
+          "outputItems": []
+        },
+        {
+          "id": "Wine",
+          "minutesUntilReady": -1,
+          "outputItems": []
+        },
+        {
+          "id": "Mead",
+          "minutesUntilReady": -1,
+          "outputItems": []
+        },
+        {
+          "id": "PaleAle",
+          "minutesUntilReady": -1,
+          "outputItems": []
+        },
+        {
+          "id": "Beer",
+          "minutesUntilReady": -1,
+          "outputItems": []
+        }
+      ]
+    },
+    {
+      "id": "(BC)114",
+      "name": "Charcoal Kiln",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 30,
+          "outputItems": [
+            {
+              "itemId": "(O)382",
+              "name": "Coal",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)16",
+      "name": "Cheese Press",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default_GoatMilk",
+          "minutesUntilReady": 200,
+          "outputItems": [
+            {
+              "itemId": "(O)426",
+              "name": "Goat Cheese",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_LargeGoatMilk",
+          "minutesUntilReady": 200,
+          "outputItems": [
+            {
+              "itemId": "(O)426",
+              "name": "Goat Cheese",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_Milk",
+          "minutesUntilReady": 200,
+          "outputItems": [
+            {
+              "itemId": "(O)424",
+              "name": "Cheese",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_LargeMilk",
+          "minutesUntilReady": 200,
+          "outputItems": [
+            {
+              "itemId": "(O)424",
+              "name": "Cheese",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)246",
+      "name": "Coffee Maker",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 0,
+          "outputItems": [
+            {
+              "itemId": "(O)395",
+              "name": "Coffee",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)21",
+      "name": "Crystalarium",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 5000,
+          "outputItems": [
+            {
+              "itemId": "DROP_IN",
+              "name": "DROP_IN",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)265",
+      "name": "Deconstructor",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 60,
+          "outputItems": []
+        }
+      ]
+    },
+    {
+      "id": "(BC)Dehydrator",
+      "name": "Dehydrator",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Raisins",
+          "minutesUntilReady": -1,
+          "outputItems": [
+            {
+              "itemId": "(O)Raisins",
+              "name": "Raisins",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "DriedFruit",
+          "minutesUntilReady": -1,
+          "outputItems": [
+            {
+              "itemId": "FLAVORED_ITEM DriedFruit DROP_IN_ID",
+              "name": "FLAVORED_ITEM DriedFruit DROP_IN_ID",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "DriedMushrooms",
+          "minutesUntilReady": -1,
+          "outputItems": [
+            {
+              "itemId": "FLAVORED_ITEM DriedMushroom DROP_IN_ID",
+              "name": "FLAVORED_ITEM DriedMushroom DROP_IN_ID",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)DeluxeWormBin",
+      "name": "Deluxe Worm Bin",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": -1,
+          "outputItems": [
+            {
+              "itemId": "(O)DeluxeBait",
+              "name": "Deluxe Bait",
+              "minStack": 4,
+              "maxStack": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)FishSmoker",
+      "name": "Fish Smoker",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "SmokedFish",
+          "minutesUntilReady": 50,
+          "outputItems": [
+            {
+              "itemId": "FLAVORED_ITEM SmokedFish DROP_IN_ID DROP_IN_QUALITY",
+              "name": "FLAVORED_ITEM SmokedFish DROP_IN_ID DROP_IN_QUALITY",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)13",
+      "name": "Furnace",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default_CopperOre",
+          "minutesUntilReady": 30,
+          "outputItems": [
+            {
+              "itemId": "(O)334",
+              "name": "Copper Bar",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_IronOre",
+          "minutesUntilReady": 120,
+          "outputItems": [
+            {
+              "itemId": "(O)335",
+              "name": "Iron Bar",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_GoldOre",
+          "minutesUntilReady": 300,
+          "outputItems": [
+            {
+              "itemId": "(O)336",
+              "name": "Gold Bar",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_IridiumOre",
+          "minutesUntilReady": 480,
+          "outputItems": [
+            {
+              "itemId": "(O)337",
+              "name": "Iridium Bar",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_Quartz",
+          "minutesUntilReady": 90,
+          "outputItems": [
+            {
+              "itemId": "(O)338",
+              "name": "Refined Quartz",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_FireQuartz",
+          "minutesUntilReady": 90,
+          "outputItems": [
+            {
+              "itemId": "(O)338",
+              "name": "Refined Quartz",
+              "minStack": 3,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_Bouquet",
+          "minutesUntilReady": 10,
+          "outputItems": [
+            {
+              "itemId": "(O)277",
+              "name": "Wilted Bouquet",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_RadioactiveOre",
+          "minutesUntilReady": 560,
+          "outputItems": [
+            {
+              "itemId": "(O)910",
+              "name": "Radioactive Bar",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)182",
+      "name": "Geode Crusher",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 60,
+          "outputItems": []
+        }
+      ]
+    },
+    {
+      "id": "(BC)HeavyFurnace",
+      "name": "Heavy Furnace",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default_CopperOre",
+          "minutesUntilReady": 30,
+          "outputItems": [
+            {
+              "itemId": "(O)334",
+              "name": "Copper Bar",
+              "minStack": 5,
+              "maxStack": 6
+            }
+          ]
+        },
+        {
+          "id": "Default_IronOre",
+          "minutesUntilReady": 120,
+          "outputItems": [
+            {
+              "itemId": "(O)335",
+              "name": "Iron Bar",
+              "minStack": 5,
+              "maxStack": 6
+            }
+          ]
+        },
+        {
+          "id": "Default_GoldOre",
+          "minutesUntilReady": 300,
+          "outputItems": [
+            {
+              "itemId": "(O)336",
+              "name": "Gold Bar",
+              "minStack": 5,
+              "maxStack": 6
+            }
+          ]
+        },
+        {
+          "id": "Default_IridiumOre",
+          "minutesUntilReady": 480,
+          "outputItems": [
+            {
+              "itemId": "(O)337",
+              "name": "Iridium Bar",
+              "minStack": 5,
+              "maxStack": 6
+            }
+          ]
+        },
+        {
+          "id": "Default_Quartz",
+          "minutesUntilReady": 90,
+          "outputItems": [
+            {
+              "itemId": "(O)338",
+              "name": "Refined Quartz",
+              "minStack": 5,
+              "maxStack": 6
+            }
+          ]
+        },
+        {
+          "id": "Default_FireQuartz",
+          "minutesUntilReady": 90,
+          "outputItems": [
+            {
+              "itemId": "(O)338",
+              "name": "Refined Quartz",
+              "minStack": 15,
+              "maxStack": 20
+            }
+          ]
+        },
+        {
+          "id": "Default_Bouquet",
+          "minutesUntilReady": 10,
+          "outputItems": [
+            {
+              "itemId": "(O)277",
+              "name": "Wilted Bouquet",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_RadioactiveOre",
+          "minutesUntilReady": 560,
+          "outputItems": [
+            {
+              "itemId": "(O)910",
+              "name": "Radioactive Bar",
+              "minStack": 5,
+              "maxStack": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)264",
+      "name": "Heavy Tapper",
+      "hasInput": false,
+      "hasOutput": true,
+      "outputRules": []
+    },
+    {
+      "id": "(BC)101",
+      "name": "Incubator",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 9000,
+          "outputItems": []
+        }
+      ]
+    },
+    {
+      "id": "(BC)12",
+      "name": "Keg",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default_Wheat",
+          "minutesUntilReady": 1750,
+          "outputItems": [
+            {
+              "itemId": "(O)346",
+              "name": "Beer",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_Hops",
+          "minutesUntilReady": 2250,
+          "outputItems": [
+            {
+              "itemId": "(O)303",
+              "name": "Pale Ale",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_TeaLeaves",
+          "minutesUntilReady": 180,
+          "outputItems": [
+            {
+              "itemId": "(O)614",
+              "name": "Green Tea",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_CoffeeBeans",
+          "minutesUntilReady": 120,
+          "outputItems": [
+            {
+              "itemId": "(O)395",
+              "name": "Coffee",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_Honey",
+          "minutesUntilReady": 600,
+          "outputItems": [
+            {
+              "itemId": "(O)459",
+              "name": "Mead",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_Rice",
+          "minutesUntilReady": 600,
+          "outputItems": [
+            {
+              "itemId": "(O)419",
+              "name": "Vinegar",
+              "minStack": 2,
+              "maxStack": 2
+            }
+          ]
+        },
+        {
+          "id": "Default_Juice",
+          "minutesUntilReady": 6000,
+          "outputItems": [
+            {
+              "itemId": "FLAVORED_ITEM Juice DROP_IN_ID",
+              "name": "FLAVORED_ITEM Juice DROP_IN_ID",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_Wine",
+          "minutesUntilReady": 10000,
+          "outputItems": [
+            {
+              "itemId": "FLAVORED_ITEM Wine DROP_IN_ID",
+              "name": "FLAVORED_ITEM Wine DROP_IN_ID",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)9",
+      "name": "Lightning Rod",
+      "hasInput": false,
+      "hasOutput": true,
+      "outputRules": []
+    },
+    {
+      "id": "(BC)17",
+      "name": "Loom",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 240,
+          "outputItems": [
+            {
+              "itemId": "(O)428",
+              "name": "Cloth",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)24",
+      "name": "Mayonnaise Machine",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default_OstrichEgg",
+          "minutesUntilReady": 180,
+          "outputItems": [
+            {
+              "itemId": "(O)306",
+              "name": "Mayonnaise",
+              "minStack": 10,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_DuckEgg",
+          "minutesUntilReady": 180,
+          "outputItems": [
+            {
+              "itemId": "(O)307",
+              "name": "Duck Mayonnaise",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_VoidEgg",
+          "minutesUntilReady": 180,
+          "outputItems": [
+            {
+              "itemId": "(O)308",
+              "name": "Void Mayonnaise",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_DinosaurEgg",
+          "minutesUntilReady": 180,
+          "outputItems": [
+            {
+              "itemId": "(O)807",
+              "name": "Dinosaur Mayonnaise",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_GoldenEgg",
+          "minutesUntilReady": 180,
+          "outputItems": [
+            {
+              "itemId": "(O)306",
+              "name": "Mayonnaise",
+              "minStack": 3,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_LargeEgg",
+          "minutesUntilReady": 180,
+          "outputItems": [
+            {
+              "itemId": "(O)306",
+              "name": "Mayonnaise",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_Egg",
+          "minutesUntilReady": 180,
+          "outputItems": [
+            {
+              "itemId": "(O)306",
+              "name": "Mayonnaise",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)128",
+      "name": "Mushroom Box",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": -1,
+          "outputItems": [
+            {
+              "itemId": "(O)422",
+              "name": "Purple Mushroom",
+              "minStack": -1,
+              "maxStack": -1
+            },
+            {
+              "itemId": "(O)281",
+              "name": "Chanterelle",
+              "minStack": -1,
+              "maxStack": -1
+            },
+            {
+              "itemId": "(O)257",
+              "name": "Morel",
+              "minStack": -1,
+              "maxStack": -1
+            },
+            {
+              "itemId": "(O)420",
+              "name": "Red Mushroom",
+              "minStack": -1,
+              "maxStack": -1
+            },
+            {
+              "itemId": "(O)404",
+              "name": "Common Mushroom",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)MushroomLog",
+      "name": "Mushroom Log",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": -1,
+          "outputItems": []
+        }
+      ]
+    },
+    {
+      "id": "(BC)19",
+      "name": "Oil Maker",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default_Corn",
+          "minutesUntilReady": 1000,
+          "outputItems": [
+            {
+              "itemId": "(O)247",
+              "name": "Oil",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_Sunflower",
+          "minutesUntilReady": 60,
+          "outputItems": [
+            {
+              "itemId": "(O)247",
+              "name": "Oil",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_SunflowerSeeds",
+          "minutesUntilReady": 3200,
+          "outputItems": [
+            {
+              "itemId": "(O)247",
+              "name": "Oil",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_Truffle",
+          "minutesUntilReady": 360,
+          "outputItems": [
+            {
+              "itemId": "(O)432",
+              "name": "Truffle Oil",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)254",
+      "name": "Ostrich Incubator",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 15000,
+          "outputItems": []
+        }
+      ]
+    },
+    {
+      "id": "(BC)15",
+      "name": "Preserves Jar",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default_SturgeonRoe",
+          "minutesUntilReady": 6000,
+          "outputItems": [
+            {
+              "itemId": "(O)445",
+              "name": "Caviar",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_Roe",
+          "minutesUntilReady": 4000,
+          "outputItems": [
+            {
+              "itemId": "FLAVORED_ITEM AgedRoe DROP_IN_ID DROP_IN_PRESERVE",
+              "name": "FLAVORED_ITEM AgedRoe DROP_IN_ID DROP_IN_PRESERVE",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_Pickled",
+          "minutesUntilReady": 4000,
+          "outputItems": [
+            {
+              "itemId": "FLAVORED_ITEM Pickle DROP_IN_ID",
+              "name": "FLAVORED_ITEM Pickle DROP_IN_ID",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_Jelly",
+          "minutesUntilReady": 4000,
+          "outputItems": [
+            {
+              "itemId": "FLAVORED_ITEM Jelly DROP_IN_ID",
+              "name": "FLAVORED_ITEM Jelly DROP_IN_ID",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)20",
+      "name": "Recycling Machine",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default_Trash",
+          "minutesUntilReady": 60,
+          "outputItems": [
+            {
+              "itemId": "(O)382",
+              "name": "Coal",
+              "minStack": 1,
+              "maxStack": 3
+            },
+            {
+              "itemId": "(O)380",
+              "name": "Iron Ore",
+              "minStack": 1,
+              "maxStack": 3
+            },
+            {
+              "itemId": "(O)390",
+              "name": "Stone",
+              "minStack": 1,
+              "maxStack": 3
+            }
+          ]
+        },
+        {
+          "id": "Default_Driftwood",
+          "minutesUntilReady": 60,
+          "outputItems": [
+            {
+              "itemId": "(O)382",
+              "name": "Coal",
+              "minStack": 1,
+              "maxStack": 3
+            },
+            {
+              "itemId": "(O)388",
+              "name": "Wood",
+              "minStack": 1,
+              "maxStack": 3
+            }
+          ]
+        },
+        {
+          "id": "Default_BrokenGlasses",
+          "minutesUntilReady": 60,
+          "outputItems": [
+            {
+              "itemId": "(O)338",
+              "name": "Refined Quartz",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_BrokenCd",
+          "minutesUntilReady": 60,
+          "outputItems": [
+            {
+              "itemId": "(O)338",
+              "name": "Refined Quartz",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_SoggyNewspaper",
+          "minutesUntilReady": 60,
+          "outputItems": [
+            {
+              "itemId": "(O)428",
+              "name": "Cloth",
+              "minStack": -1,
+              "maxStack": -1
+            },
+            {
+              "itemId": "(O)93",
+              "name": "Torch",
+              "minStack": 3,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)25",
+      "name": "Seed Maker",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 20,
+          "outputItems": []
+        }
+      ]
+    },
+    {
+      "id": "(BC)158",
+      "name": "Slime Egg-Press",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 1200,
+          "outputItems": [
+            {
+              "itemId": "(O)439",
+              "name": "Purple Slime Egg",
+              "minStack": -1,
+              "maxStack": -1
+            },
+            {
+              "itemId": "(O)437",
+              "name": "Red Slime Egg",
+              "minStack": -1,
+              "maxStack": -1
+            },
+            {
+              "itemId": "(O)413",
+              "name": "Blue Slime Egg",
+              "minStack": -1,
+              "maxStack": -1
+            },
+            {
+              "itemId": "(O)680",
+              "name": "Green Slime Egg",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)156",
+      "name": "Slime Incubator",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 4000,
+          "outputItems": [
+            {
+              "itemId": "DROP_IN",
+              "name": "DROP_IN",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)117",
+      "name": "Soda Machine",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 0,
+          "outputItems": [
+            {
+              "itemId": "(O)167",
+              "name": "Joja Cola",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)231",
+      "name": "Solar Panel",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": -1,
+          "outputItems": []
+        }
+      ]
+    },
+    {
+      "id": "(BC)127",
+      "name": "Statue Of Endless Fortune",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 0,
+          "outputItems": []
+        }
+      ]
+    },
+    {
+      "id": "(BC)160",
+      "name": "Statue Of Perfection",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 0,
+          "outputItems": [
+            {
+              "itemId": "(O)386",
+              "name": "Iridium Ore",
+              "minStack": 2,
+              "maxStack": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)280",
+      "name": "Statue Of True Perfection",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": 0,
+          "outputItems": [
+            {
+              "itemId": "(O)74",
+              "name": "Prismatic Shard",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)105",
+      "name": "Tapper",
+      "hasInput": false,
+      "hasOutput": true,
+      "outputRules": []
+    },
+    {
+      "id": "(BC)211",
+      "name": "Wood Chipper",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default_Hardwood_Rare",
+          "minutesUntilReady": 180,
+          "outputItems": [
+            {
+              "itemId": "(O)724",
+              "name": "Maple Syrup",
+              "minStack": -1,
+              "maxStack": -1
+            },
+            {
+              "itemId": "(O)725",
+              "name": "Oak Resin",
+              "minStack": -1,
+              "maxStack": -1
+            },
+            {
+              "itemId": "(O)726",
+              "name": "Pine Tar",
+              "minStack": -1,
+              "maxStack": -1
+            }
+          ]
+        },
+        {
+          "id": "Default_Hardwood_Common",
+          "minutesUntilReady": 180,
+          "outputItems": [
+            {
+              "itemId": "(O)388",
+              "name": "Wood",
+              "minStack": 15,
+              "maxStack": 20
+            },
+            {
+              "itemId": "(O)388",
+              "name": "Wood",
+              "minStack": 5,
+              "maxStack": 10
+            }
+          ]
+        },
+        {
+          "id": "Default_Driftwood",
+          "minutesUntilReady": 180,
+          "outputItems": [
+            {
+              "itemId": "(O)388",
+              "name": "Wood",
+              "minStack": 5,
+              "maxStack": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "(BC)154",
+      "name": "Worm Bin",
+      "hasInput": false,
+      "hasOutput": false,
+      "outputRules": [
+        {
+          "id": "Default",
+          "minutesUntilReady": -1,
+          "outputItems": [
+            {
+              "itemId": "(O)685",
+              "name": "Bait",
+              "minStack": 4,
+              "maxStack": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

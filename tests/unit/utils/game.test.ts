@@ -5,6 +5,7 @@ import {
   parseIngredientTriplets,
   parseIngredientPairs,
   parseItemIds,
+  lookupItemName,
 } from "../../../scripts/utils/game.ts"
 
 const lookup = {
@@ -63,5 +64,28 @@ describe("parseItemIds", () => {
 
   test("returns empty array for whitespace-only string", () => {
     assert.deepEqual(parseItemIds("  "), [])
+  })
+})
+
+describe("lookupItemName", () => {
+  test("strips (O) prefix before lookup", () => {
+    assert.equal(lookupItemName(lookup, "(O)24"), "Parsnip")
+  })
+
+  test("strips (BC) prefix before lookup", () => {
+    const bcLookup = { "12": { Name: "Keg" } }
+    assert.equal(lookupItemName(bcLookup, "(BC)12"), "Keg")
+  })
+
+  test("falls back to bare id lookup when no prefix", () => {
+    assert.equal(lookupItemName(lookup, "24"), "Parsnip")
+  })
+
+  test("falls back to itemId when not in lookup", () => {
+    assert.equal(lookupItemName(lookup, "(O)999"), "(O)999")
+  })
+
+  test("returns empty string for null input", () => {
+    assert.equal(lookupItemName(lookup, null), "")
   })
 })

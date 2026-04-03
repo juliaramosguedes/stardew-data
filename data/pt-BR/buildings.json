@@ -1,0 +1,586 @@
+{
+  "_meta": {
+    "source": "Data/Buildings.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:34:38.082Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "buildings": [
+    {
+      "id": "Junimo Hut",
+      "name": "[LocalizedText Strings\\Buildings:JunimoHut_Name]",
+      "description": "[LocalizedText Strings\\Buildings:JunimoHut_Description]",
+      "buildCost": 20000,
+      "buildDays": 0,
+      "buildMaterials": [
+        {
+          "itemId": "(O)390",
+          "amount": 200,
+          "name": "(O)390"
+        },
+        {
+          "itemId": "(O)268",
+          "amount": 9,
+          "name": "(O)268"
+        },
+        {
+          "itemId": "(O)771",
+          "amount": 100,
+          "name": "(O)771"
+        }
+      ],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "Wizard",
+      "isMagical": true,
+      "texture": "Buildings\\Junimo Hut"
+    },
+    {
+      "id": "Earth Obelisk",
+      "name": "[LocalizedText Strings\\Buildings:EarthObelisk_Name]",
+      "description": "[LocalizedText Strings\\Buildings:EarthObelisk_Description]",
+      "buildCost": 500000,
+      "buildDays": 0,
+      "buildMaterials": [
+        {
+          "itemId": "(O)337",
+          "amount": 10,
+          "name": "(O)337"
+        },
+        {
+          "itemId": "(O)86",
+          "amount": 10,
+          "name": "(O)86"
+        }
+      ],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "Wizard",
+      "isMagical": true,
+      "texture": "Buildings\\Earth Obelisk"
+    },
+    {
+      "id": "Water Obelisk",
+      "name": "[LocalizedText Strings\\Buildings:WaterObelisk_Name]",
+      "description": "[LocalizedText Strings\\Buildings:WaterObelisk_Description]",
+      "buildCost": 500000,
+      "buildDays": 0,
+      "buildMaterials": [
+        {
+          "itemId": "(O)337",
+          "amount": 5,
+          "name": "(O)337"
+        },
+        {
+          "itemId": "(O)372",
+          "amount": 10,
+          "name": "(O)372"
+        },
+        {
+          "itemId": "(O)393",
+          "amount": 10,
+          "name": "(O)393"
+        }
+      ],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "Wizard",
+      "isMagical": true,
+      "texture": "Buildings\\Water Obelisk"
+    },
+    {
+      "id": "Desert Obelisk",
+      "name": "[LocalizedText Strings\\Buildings:DesertObelisk_Name]",
+      "description": "[LocalizedText Strings\\Buildings:DesertObelisk_Description]",
+      "buildCost": 1000000,
+      "buildDays": 0,
+      "buildMaterials": [
+        {
+          "itemId": "(O)337",
+          "amount": 20,
+          "name": "(O)337"
+        },
+        {
+          "itemId": "(O)88",
+          "amount": 10,
+          "name": "(O)88"
+        },
+        {
+          "itemId": "(O)90",
+          "amount": 10,
+          "name": "(O)90"
+        }
+      ],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "Wizard",
+      "isMagical": true,
+      "texture": "Buildings\\Desert Obelisk"
+    },
+    {
+      "id": "Island Obelisk",
+      "name": "[LocalizedText Strings\\Buildings:IslandObelisk_Name]",
+      "description": "[LocalizedText Strings\\Buildings:IslandObelisk_Description]",
+      "buildCost": 1000000,
+      "buildDays": 0,
+      "buildMaterials": [
+        {
+          "itemId": "(O)337",
+          "amount": 10,
+          "name": "(O)337"
+        },
+        {
+          "itemId": "(O)852",
+          "amount": 10,
+          "name": "(O)852"
+        },
+        {
+          "itemId": "(O)91",
+          "amount": 10,
+          "name": "(O)91"
+        }
+      ],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "Wizard",
+      "isMagical": true,
+      "texture": "Buildings\\Island Obelisk"
+    },
+    {
+      "id": "Gold Clock",
+      "name": "[LocalizedText Strings\\Buildings:GoldClock_Name]",
+      "description": "[LocalizedText Strings\\Buildings:GoldClock_Description]",
+      "buildCost": 10000000,
+      "buildDays": 0,
+      "buildMaterials": [],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "Wizard",
+      "isMagical": true,
+      "texture": "Buildings\\Gold Clock"
+    },
+    {
+      "id": "Coop",
+      "name": "Galinheiro",
+      "description": "Permite até 4 animais num galinheiro.",
+      "buildCost": 4000,
+      "buildDays": 3,
+      "buildMaterials": [
+        {
+          "itemId": "(O)388",
+          "amount": 300,
+          "name": "(O)388"
+        },
+        {
+          "itemId": "(O)390",
+          "amount": 100,
+          "name": "(O)390"
+        }
+      ],
+      "maxOccupants": 4,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Coop"
+    },
+    {
+      "id": "Barn",
+      "name": "Celeiro",
+      "description": "Permite até 4 animais num celeiro.",
+      "buildCost": 6000,
+      "buildDays": 3,
+      "buildMaterials": [
+        {
+          "itemId": "(O)388",
+          "amount": 350,
+          "name": "(O)388"
+        },
+        {
+          "itemId": "(O)390",
+          "amount": 150,
+          "name": "(O)390"
+        }
+      ],
+      "maxOccupants": 4,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Barn"
+    },
+    {
+      "id": "Well",
+      "name": "Poço",
+      "description": "Fornece um lugar para repor a água do regador.",
+      "buildCost": 1000,
+      "buildDays": 2,
+      "buildMaterials": [
+        {
+          "itemId": "(O)390",
+          "amount": 75,
+          "name": "(O)390"
+        }
+      ],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Well"
+    },
+    {
+      "id": "Silo",
+      "name": "Silo",
+      "description": "Permite corte e armazenamento de grama como ração.",
+      "buildCost": 100,
+      "buildDays": 2,
+      "buildMaterials": [
+        {
+          "itemId": "(O)390",
+          "amount": 100,
+          "name": "(O)390"
+        },
+        {
+          "itemId": "(O)330",
+          "amount": 10,
+          "name": "(O)330"
+        },
+        {
+          "itemId": "(O)334",
+          "amount": 5,
+          "name": "(O)334"
+        }
+      ],
+      "maxOccupants": 20,
+      "hayCapacity": 240,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Silo"
+    },
+    {
+      "id": "Mill",
+      "name": "Moinho",
+      "description": "Permite moer trigo, beterrabas e arroz.",
+      "buildCost": 2500,
+      "buildDays": 2,
+      "buildMaterials": [
+        {
+          "itemId": "(O)388",
+          "amount": 150,
+          "name": "(O)388"
+        },
+        {
+          "itemId": "(O)390",
+          "amount": 50,
+          "name": "(O)390"
+        },
+        {
+          "itemId": "(O)428",
+          "amount": 4,
+          "name": "(O)428"
+        }
+      ],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Mill"
+    },
+    {
+      "id": "Shed",
+      "name": "Galpão",
+      "description": "Uma construção vazia. Ocupe-a com o que quiser! O interior pode ser decorado.",
+      "buildCost": 15000,
+      "buildDays": 2,
+      "buildMaterials": [
+        {
+          "itemId": "(O)388",
+          "amount": 300,
+          "name": "(O)388"
+        }
+      ],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Shed"
+    },
+    {
+      "id": "Fish Pond",
+      "name": "[LocalizedText Strings\\Buildings:FishPond_Name]",
+      "description": "[LocalizedText Strings\\Buildings:FishPond_Description]",
+      "buildCost": 5000,
+      "buildDays": 2,
+      "buildMaterials": [
+        {
+          "itemId": "(O)390",
+          "amount": 200,
+          "name": "(O)390"
+        },
+        {
+          "itemId": "(O)152",
+          "amount": 5,
+          "name": "(O)152"
+        },
+        {
+          "itemId": "(O)153",
+          "amount": 5,
+          "name": "(O)153"
+        }
+      ],
+      "maxOccupants": -1,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Fish Pond"
+    },
+    {
+      "id": "Cabin",
+      "name": "Casa",
+      "description": "Um lar para um amigo! Financiada pelo fundo agrícola da vila.",
+      "buildCost": 100,
+      "buildDays": 0,
+      "buildMaterials": [],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Stone Cabin"
+    },
+    {
+      "id": "Pet Bowl",
+      "name": "[LocalizedText Strings\\Buildings:PetBowl_Name]",
+      "description": "[LocalizedText Strings\\Buildings:PetBowl_Description]",
+      "buildCost": 5000,
+      "buildDays": 0,
+      "buildMaterials": [
+        {
+          "itemId": "(O)709",
+          "amount": 25,
+          "name": "(O)709"
+        }
+      ],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Pet Bowl"
+    },
+    {
+      "id": "Stable",
+      "name": "Estábulo",
+      "description": "Permite que você tenha e monte num cavalo. Cavalo incluso.",
+      "buildCost": 10000,
+      "buildDays": 2,
+      "buildMaterials": [
+        {
+          "itemId": "(O)709",
+          "amount": 100,
+          "name": "(O)709"
+        },
+        {
+          "itemId": "(O)335",
+          "amount": 5,
+          "name": "(O)335"
+        }
+      ],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Stable"
+    },
+    {
+      "id": "Slime Hutch",
+      "name": "[LocalizedText Strings\\Buildings:SlimeHutch_Name]",
+      "description": "[LocalizedText Strings\\Buildings:SlimeHutch_Description]",
+      "buildCost": 10000,
+      "buildDays": 2,
+      "buildMaterials": [
+        {
+          "itemId": "(O)390",
+          "amount": 500,
+          "name": "(O)390"
+        },
+        {
+          "itemId": "(O)338",
+          "amount": 10,
+          "name": "(O)338"
+        },
+        {
+          "itemId": "(O)337",
+          "amount": 1,
+          "name": "(O)337"
+        }
+      ],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Slime Hutch"
+    },
+    {
+      "id": "Big Coop",
+      "name": "[LocalizedText Strings\\Buildings:BigCoop_Name]",
+      "description": "[LocalizedText Strings\\Buildings:BigCoop_Description]",
+      "buildCost": 10000,
+      "buildDays": 2,
+      "buildMaterials": [
+        {
+          "itemId": "(O)388",
+          "amount": 400,
+          "name": "(O)388"
+        },
+        {
+          "itemId": "(O)390",
+          "amount": 150,
+          "name": "(O)390"
+        }
+      ],
+      "maxOccupants": 8,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Big Coop"
+    },
+    {
+      "id": "Deluxe Coop",
+      "name": "[LocalizedText Strings\\Buildings:DeluxeCoop_Name]",
+      "description": "[LocalizedText Strings\\Buildings:DeluxeCoop_Description]",
+      "buildCost": 20000,
+      "buildDays": 2,
+      "buildMaterials": [
+        {
+          "itemId": "(O)388",
+          "amount": 500,
+          "name": "(O)388"
+        },
+        {
+          "itemId": "(O)390",
+          "amount": 200,
+          "name": "(O)390"
+        }
+      ],
+      "maxOccupants": 12,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Deluxe Coop"
+    },
+    {
+      "id": "Big Barn",
+      "name": "[LocalizedText Strings\\Buildings:BigBarn_Name]",
+      "description": "[LocalizedText Strings\\Buildings:BigBarn_Description]",
+      "buildCost": 12000,
+      "buildDays": 2,
+      "buildMaterials": [
+        {
+          "itemId": "(O)388",
+          "amount": 450,
+          "name": "(O)388"
+        },
+        {
+          "itemId": "(O)390",
+          "amount": 200,
+          "name": "(O)390"
+        }
+      ],
+      "maxOccupants": 8,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Big Barn"
+    },
+    {
+      "id": "Deluxe Barn",
+      "name": "[LocalizedText Strings\\Buildings:DeluxeBarn_Name]",
+      "description": "[LocalizedText Strings\\Buildings:DeluxeBarn_Description]",
+      "buildCost": 25000,
+      "buildDays": 2,
+      "buildMaterials": [
+        {
+          "itemId": "(O)388",
+          "amount": 550,
+          "name": "(O)388"
+        },
+        {
+          "itemId": "(O)390",
+          "amount": 300,
+          "name": "(O)390"
+        }
+      ],
+      "maxOccupants": 12,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Deluxe Barn"
+    },
+    {
+      "id": "Big Shed",
+      "name": "[LocalizedText Strings\\Buildings:BigShed_Name]",
+      "description": "[LocalizedText Strings\\Buildings:BigShed_Description]",
+      "buildCost": 20000,
+      "buildDays": 2,
+      "buildMaterials": [
+        {
+          "itemId": "(O)388",
+          "amount": 550,
+          "name": "(O)388"
+        },
+        {
+          "itemId": "(O)390",
+          "amount": 300,
+          "name": "(O)390"
+        }
+      ],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Big Shed"
+    },
+    {
+      "id": "Shipping Bin",
+      "name": "[LocalizedText Strings\\Buildings:ShippingBin_Name]",
+      "description": "[LocalizedText Strings\\Buildings:ShippingBin_Description]",
+      "buildCost": 250,
+      "buildDays": 0,
+      "buildMaterials": [
+        {
+          "itemId": "(O)388",
+          "amount": 150,
+          "name": "(O)388"
+        }
+      ],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "Robin",
+      "isMagical": false,
+      "texture": "Buildings\\Shipping Bin"
+    },
+    {
+      "id": "Farmhouse",
+      "name": "Farmhouse",
+      "description": "Farmhouse",
+      "buildCost": 0,
+      "buildDays": 0,
+      "buildMaterials": [],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "None",
+      "isMagical": false,
+      "texture": "Buildings\\houses"
+    },
+    {
+      "id": "Greenhouse",
+      "name": "Estufa",
+      "description": "Um lugar para cultivar plantas de qualquer estação o ano todo!",
+      "buildCost": 0,
+      "buildDays": 0,
+      "buildMaterials": [],
+      "maxOccupants": 20,
+      "hayCapacity": 0,
+      "builder": "None",
+      "isMagical": false,
+      "texture": "Buildings\\Greenhouse"
+    }
+  ]
+}

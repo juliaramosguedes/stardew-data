@@ -1,0 +1,178 @@
+{
+  "_meta": {
+    "source": "Data/FarmAnimals.json",
+    "gameVersion": "1.6.15",
+    "generatedAt": "2026-04-03T12:37:44.210Z",
+    "license": "Data extracted from Stardew Valley by ConcernedApe"
+  },
+  "farmAnimals": [
+    {
+      "id": "White Chicken",
+      "house": "Coop",
+      "purchasePrice": 400,
+      "sellPrice": 800,
+      "produce": [
+        {
+          "itemId": "176",
+          "name": "Egg"
+        }
+      ]
+    },
+    {
+      "id": "Brown Chicken",
+      "house": "Coop",
+      "purchasePrice": -1,
+      "sellPrice": 800,
+      "produce": [
+        {
+          "itemId": "180",
+          "name": "Egg"
+        }
+      ]
+    },
+    {
+      "id": "Blue Chicken",
+      "house": "Coop",
+      "purchasePrice": -1,
+      "sellPrice": 800,
+      "produce": [
+        {
+          "itemId": "176",
+          "name": "Egg"
+        }
+      ]
+    },
+    {
+      "id": "Void Chicken",
+      "house": "Coop",
+      "purchasePrice": -1,
+      "sellPrice": 800,
+      "produce": [
+        {
+          "itemId": "305",
+          "name": "Void Egg"
+        }
+      ]
+    },
+    {
+      "id": "Golden Chicken",
+      "house": "Coop",
+      "purchasePrice": -1,
+      "sellPrice": 800,
+      "produce": [
+        {
+          "itemId": "928",
+          "name": "Golden Egg"
+        }
+      ]
+    },
+    {
+      "id": "Duck",
+      "house": "Coop",
+      "purchasePrice": 600,
+      "sellPrice": 1200,
+      "produce": [
+        {
+          "itemId": "442",
+          "name": "Duck Egg"
+        }
+      ]
+    },
+    {
+      "id": "Rabbit",
+      "house": "Coop",
+      "purchasePrice": 4000,
+      "sellPrice": 8000,
+      "produce": [
+        {
+          "itemId": "440",
+          "name": "Wool"
+        }
+      ]
+    },
+    {
+      "id": "Dinosaur",
+      "house": "Coop",
+      "purchasePrice": -1,
+      "sellPrice": 1000,
+      "produce": [
+        {
+          "itemId": "107",
+          "name": "Dinosaur Egg"
+        }
+      ]
+    },
+    {
+      "id": "White Cow",
+      "house": "Barn",
+      "purchasePrice": 750,
+      "sellPrice": 1500,
+      "produce": [
+        {
+          "itemId": "184",
+          "name": "Milk"
+        }
+      ]
+    },
+    {
+      "id": "Brown Cow",
+      "house": "Barn",
+      "purchasePrice": -1,
+      "sellPrice": 1500,
+      "produce": [
+        {
+          "itemId": "184",
+          "name": "Milk"
+        }
+      ]
+    },
+    {
+      "id": "Goat",
+      "house": "Barn",
+      "purchasePrice": 2000,
+      "sellPrice": 4000,
+      "produce": [
+        {
+          "itemId": "436",
+          "name": "Goat Milk"
+        }
+      ]
+    },
+    {
+      "id": "Sheep",
+      "house": "Barn",
+      "purchasePrice": 4000,
+      "sellPrice": 8000,
+      "produce": [
+        {
+          "itemId": "440",
+          "name": "Wool"
+        }
+      ]
+    },
+    {
+      "id": "Pig",
+      "house": "Barn",
+      "purchasePrice": 8000,
+      "sellPrice": 16000,
+      "produce": [
+        {
+          "itemId": "430",
+          "name": "Truffle"
+        }
+      ]
+    },
+    {
+      "id": "Ostrich",
+      "house": "Barn",
+      "purchasePrice": -1,
+      "sellPrice": 16000,
+      "produce": [
+        {
+          "itemId": "289",
+          "name": "Ostrich Egg"
+        }
+      ]
+    }
+  ]
+}
