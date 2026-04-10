@@ -49,6 +49,18 @@ function safeName(name: string): string {
   return name.toLowerCase().replace(/[^a-z0-9]/g, "_")
 }
 
+async function isSpriteEmpty(sheetPath: string, x: number, y: number, width: number, height: number): Promise<boolean> {
+  const { data } = await sharp(sheetPath)
+    .extract({ left: x, top: y, width, height })
+    .ensureAlpha()
+    .raw()
+    .toBuffer({ resolveWithObject: true })
+  for (let i = 3; i < data.length; i += 4) {
+    if (data[i] > 10) return false
+  }
+  return true
+}
+
 async function extractSprite(
   sheetPath: string,
   x: number,
@@ -56,11 +68,13 @@ async function extractSprite(
   width: number,
   height: number,
   outputPath: string
-): Promise<void> {
+): Promise<boolean> {
+  if (await isSpriteEmpty(sheetPath, x, y, width, height)) return false
   fs.mkdirSync(path.dirname(outputPath), { recursive: true })
   await sharp(sheetPath)
     .extract({ left: x, top: y, width, height })
     .toFile(outputPath)
+  return true
 }
 
 export async function extractCropSprites(): Promise<void> {
@@ -75,9 +89,8 @@ export async function extractCropSprites(): Promise<void> {
     if (!item) continue
     const col = crop.SpriteIndex % CROP_COLS
     const row = Math.floor(crop.SpriteIndex / CROP_COLS)
-    await extractSprite(sheetPath, col * CROP_W, row * CROP_H, CROP_W, CROP_H,
-      path.join(outDir, `${safeName(item.Name)}.png`))
-    count++
+    if (await extractSprite(sheetPath, col * CROP_W, row * CROP_H, CROP_W, CROP_H,
+      path.join(outDir, `${safeName(item.Name)}.png`))) count++
   }
   log("crop sprites", count)
 }
@@ -94,9 +107,8 @@ export async function extractObjectSprites(): Promise<void> {
     const col = obj.SpriteIndex % OBJECT_COLS
     const row = Math.floor(obj.SpriteIndex / OBJECT_COLS)
     try {
-      await extractSprite(sheetPath, col * OBJECT_SIZE, row * OBJECT_SIZE, OBJECT_SIZE, OBJECT_SIZE,
-        path.join(outDir, `${safeName(obj.Name)}.png`))
-      count++
+      if (await extractSprite(sheetPath, col * OBJECT_SIZE, row * OBJECT_SIZE, OBJECT_SIZE, OBJECT_SIZE,
+        path.join(outDir, `${safeName(obj.Name)}.png`))) count++
     } catch { /* sprite coords out of bounds */ }
   }
   log("object sprites", count)
@@ -114,9 +126,8 @@ export async function extractObjectsExtendedSprites(): Promise<void> {
     const col = obj.SpriteIndex % OBJECT2_COLS
     const row = Math.floor(obj.SpriteIndex / OBJECT2_COLS)
     try {
-      await extractSprite(sheetPath, col * OBJECT2_SIZE, row * OBJECT2_SIZE, OBJECT2_SIZE, OBJECT2_SIZE,
-        path.join(outDir, `${safeName(obj.Name)}.png`))
-      count++
+      if (await extractSprite(sheetPath, col * OBJECT2_SIZE, row * OBJECT2_SIZE, OBJECT2_SIZE, OBJECT2_SIZE,
+        path.join(outDir, `${safeName(obj.Name)}.png`))) count++
     } catch { /* sprite coords out of bounds */ }
   }
   log("object sprites (Objects_2)", count)
@@ -132,9 +143,8 @@ export async function extractBigCraftableSprites(): Promise<void> {
     const col = bc.SpriteIndex % CRAFTABLE_COLS
     const row = Math.floor(bc.SpriteIndex / CRAFTABLE_COLS)
     try {
-      await extractSprite(sheetPath, col * CRAFTABLE_W, row * CRAFTABLE_H, CRAFTABLE_W, CRAFTABLE_H,
-        path.join(outDir, `${safeName(bc.Name)}.png`))
-      count++
+      if (await extractSprite(sheetPath, col * CRAFTABLE_W, row * CRAFTABLE_H, CRAFTABLE_W, CRAFTABLE_H,
+        path.join(outDir, `${safeName(bc.Name)}.png`))) count++
     } catch { /* sprite coords out of bounds */ }
   }
   log("bigcraftable sprites", count)
@@ -150,9 +160,8 @@ export async function extractWeaponSprites(): Promise<void> {
     const col = w.SpriteIndex % WEAPON_COLS
     const row = Math.floor(w.SpriteIndex / WEAPON_COLS)
     try {
-      await extractSprite(sheetPath, col * WEAPON_SIZE, row * WEAPON_SIZE, WEAPON_SIZE, WEAPON_SIZE,
-        path.join(outDir, `${safeName(w.Name)}.png`))
-      count++
+      if (await extractSprite(sheetPath, col * WEAPON_SIZE, row * WEAPON_SIZE, WEAPON_SIZE, WEAPON_SIZE,
+        path.join(outDir, `${safeName(w.Name)}.png`))) count++
     } catch { /* sprite coords out of bounds */ }
   }
   log("weapon sprites", count)
@@ -168,9 +177,8 @@ export async function extractToolSprites(): Promise<void> {
     const col = t.SpriteIndex % TOOL_COLS
     const row = Math.floor(t.SpriteIndex / TOOL_COLS)
     try {
-      await extractSprite(sheetPath, col * TOOL_SIZE, row * TOOL_SIZE, TOOL_SIZE, TOOL_SIZE,
-        path.join(outDir, `${safeName(t.Name)}.png`))
-      count++
+      if (await extractSprite(sheetPath, col * TOOL_SIZE, row * TOOL_SIZE, TOOL_SIZE, TOOL_SIZE,
+        path.join(outDir, `${safeName(t.Name)}.png`))) count++
     } catch { /* sprite coords out of bounds */ }
   }
   log("tool sprites", count)
@@ -192,9 +200,8 @@ export async function extractHatSprites(): Promise<void> {
     const col = spriteIndex % HAT_COLS
     const row = Math.floor(spriteIndex / HAT_COLS)
     try {
-      await extractSprite(sheetPath, col * HAT_W, row * HAT_H, HAT_W, HAT_H,
-        path.join(outDir, `${safeName(name)}.png`))
-      count++
+      if (await extractSprite(sheetPath, col * HAT_W, row * HAT_H, HAT_W, HAT_H,
+        path.join(outDir, `${safeName(name)}.png`))) count++
     } catch { /* sprite coords out of bounds */ }
   }
   log("hat sprites", count)
@@ -211,9 +218,8 @@ export async function extractBuffIconSprites(): Promise<void> {
     const col = b.IconSpriteIndex % BUFF_COLS
     const row = Math.floor(b.IconSpriteIndex / BUFF_COLS)
     try {
-      await extractSprite(texturePath, col * BUFF_SIZE, row * BUFF_SIZE, BUFF_SIZE, BUFF_SIZE,
-        path.join(outDir, `${id}.png`))
-      count++
+      if (await extractSprite(texturePath, col * BUFF_SIZE, row * BUFF_SIZE, BUFF_SIZE, BUFF_SIZE,
+        path.join(outDir, `${id}.png`))) count++
     } catch { /* sprite coords out of bounds */ }
   }
   log("buff icon sprites", count)
@@ -236,9 +242,8 @@ export async function extractFurnitureSprites(): Promise<void> {
     const row = Math.floor(numericId / FURNITURE_COLS)
     const sheetPath = path.join(RAW_TILESHEETS, "furniture.png")
     try {
-      await extractSprite(sheetPath, col * FURNITURE_UNIT, row * FURNITURE_UNIT, tileW, tileH,
-        path.join(outDir, `${numericId}_${safeName(name)}.png`))
-      count++
+      if (await extractSprite(sheetPath, col * FURNITURE_UNIT, row * FURNITURE_UNIT, tileW, tileH,
+        path.join(outDir, `${numericId}_${safeName(name)}.png`))) count++
     } catch { /* sprite coords out of bounds or non-numeric id */ }
   }
   log("furniture sprites", count)
@@ -255,9 +260,8 @@ export async function extractShirtSprites(): Promise<void> {
     const col = s.SpriteIndex % SHIRT_COLS
     const row = Math.floor(s.SpriteIndex / SHIRT_COLS)
     try {
-      await extractSprite(sheetPath, col * SHIRT_W, row * SHIRT_H, SHIRT_W, SHIRT_H,
-        path.join(outDir, `${id}.png`))
-      count++
+      if (await extractSprite(sheetPath, col * SHIRT_W, row * SHIRT_H, SHIRT_W, SHIRT_H,
+        path.join(outDir, `${id}.png`))) count++
     } catch { /* sprite coords out of bounds */ }
   }
   log("shirt sprites", count)
