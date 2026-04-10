@@ -25,7 +25,7 @@ const TOOL_SIZE = 16
 const TOOL_COLS = 21
 
 const HAT_W = 20
-const HAT_H = 80
+const HAT_H = 20
 const HAT_COLS = 12
 
 const BUFF_SIZE = 16
@@ -35,7 +35,7 @@ const FURNITURE_UNIT = 16
 const FURNITURE_COLS = 32
 
 const SHIRT_W = 8
-const SHIRT_H = 32
+const SHIRT_H = 8
 const SHIRT_COLS = 32
 
 const OBJECT2_SIZE = 16
